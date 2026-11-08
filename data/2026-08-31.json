@@ -1,0 +1,81 @@
+{
+  "date": "2026-08-31",
+  "updated": "2026-11-08T08:06:02+0000",
+  "races": [
+    {
+      "time": "13:07",
+      "meeting": "Southwell",
+      "name": "Book The Bistro In Seasons Restaurant Handicap",
+      "class": "6",
+      "distance": "1m 6f 21y",
+      "riders": 7,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Blue Tulip",
+          "jockey": "Billy Loughnane",
+          "claim": null,
+          "or": 58,
+          "mark": 58,
+          "mark_date": "2026-10-03",
+          "gap": 0,
+          "days": 16,
+          "odds": "6/4",
+          "pos": 2,
+          "res": "PLACE"
+        }
+      ]
+    },
+    {
+      "time": "14:17",
+      "meeting": "Southwell",
+      "name": "Festive Fixtures At Southwell Racecourse Handicap",
+      "class": "6",
+      "distance": "1m 13y",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Izzari",
+          "jockey": "A Mullen",
+          "claim": null,
+          "or": 63,
+          "mark": 66,
+          "mark_date": "2026-10-10",
+          "gap": -3,
+          "days": 20,
+          "odds": "11/2",
+          "pos": 8,
+          "res": "LOSE"
+        }
+      ]
+    },
+    {
+      "time": "15:25",
+      "meeting": "Southwell",
+      "name": "Southwell Racecourse Conference & Events Handicap (Div 2)",
+      "class": "5",
+      "distance": "1m 13y",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Roi De Coeur",
+          "jockey": "Marco Ghiani",
+          "claim": null,
+          "or": 70,
+          "mark": 72,
+          "mark_date": "2026-09-17",
+          "gap": -2,
+          "days": 21,
+          "odds": "9/4",
+          "pos": 2,
+          "res": "PLACE"
+        }
+      ]
+    }
+  ]
+}
