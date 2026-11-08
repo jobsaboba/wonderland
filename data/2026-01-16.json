@@ -1,0 +1,56 @@
+{
+  "date": "2026-01-16",
+  "updated": "2026-11-08T08:06:00+0000",
+  "races": [
+    {
+      "time": "14:50",
+      "meeting": "Newcastle",
+      "name": "Midnite AWC Middle Distance Trial Handicap (GBBPlus Race)",
+      "class": "2",
+      "distance": "1m 2f 42y",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Zryan",
+          "jockey": "Mark Winn",
+          "claim": null,
+          "or": 86,
+          "mark": 86,
+          "mark_date": "2026-01-31",
+          "gap": 0,
+          "days": 21,
+          "odds": "28/1",
+          "pos": 10,
+          "res": "LOSE"
+        }
+      ]
+    },
+    {
+      "time": "20:30",
+      "meeting": "Wolverhampton",
+      "name": "Midnite Are Upping The Betting Game Handicap",
+      "class": "6",
+      "distance": "5f 21y",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Rogue De Vega",
+          "jockey": "Cam Hardie",
+          "claim": null,
+          "or": 53,
+          "mark": 56,
+          "mark_date": "2026-01-27",
+          "gap": -3,
+          "days": 14,
+          "odds": "7/4",
+          "pos": 1,
+          "res": "WIN"
+        }
+      ]
+    }
+  ]
+}
