@@ -1,0 +1,31 @@
+{
+  "date": "2026-02-05",
+  "updated": "2026-11-08T08:06:00+0000",
+  "races": [
+    {
+      "time": "19:00",
+      "meeting": "Southwell",
+      "name": "Win 250,000 With BetMGM's Golden Goals Handicap",
+      "class": "5",
+      "distance": "1m 13y",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Marry The Night",
+          "jockey": "Sean Kirrane",
+          "claim": null,
+          "or": 62,
+          "mark": 62,
+          "mark_date": "2026-03-13",
+          "gap": 0,
+          "days": 13,
+          "odds": "4/1",
+          "pos": 5,
+          "res": "LOSE"
+        }
+      ]
+    }
+  ]
+}
