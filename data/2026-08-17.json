@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-17",
+  "updated": "2026-11-08T08:06:02+0000",
+  "races": [
+    {
+      "time": "18:10",
+      "meeting": "Wolverhampton",
+      "name": "Follow AtTheRaces On X Handicap",
+      "class": "5",
+      "distance": "6f 20y",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Style King",
+          "jockey": "S De Sousa",
+          "claim": null,
+          "or": 65,
+          "mark": 67,
+          "mark_date": "2026-10-02",
+          "gap": -2,
+          "days": 13,
+          "odds": "5/2",
+          "pos": 2,
+          "res": "PLACE"
+        }
+      ]
+    }
+  ]
+}
