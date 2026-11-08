@@ -1,0 +1,31 @@
+{
+  "date": "2026-01-23",
+  "updated": "2026-11-08T08:06:00+0000",
+  "races": [
+    {
+      "time": "18:15",
+      "meeting": "Southwell",
+      "name": "BetMGM Supports Safer Gambling Handicap (Div 1)",
+      "class": "4",
+      "distance": "7f 14y",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Down To The Kid",
+          "jockey": "Jason Hart",
+          "claim": null,
+          "or": 78,
+          "mark": 84,
+          "mark_date": "2026-02-20",
+          "gap": -6,
+          "days": 19,
+          "odds": "3/1",
+          "pos": 1,
+          "res": "WIN"
+        }
+      ]
+    }
+  ]
+}
