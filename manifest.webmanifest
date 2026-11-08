@@ -2,7 +2,7 @@
   "id": "/wonderland/",
   "name": "Wonderland Racing",
   "short_name": "Wonderland",
-  "description": "UK all-weather handicap world: C+D winners, dropped to or below their last winning mark, 21 days fresh, claimers first. Max three per race.",
+  "description": "UK all-weather handicap world: C+D winners, dropped to or below their last winning mark, 28 days fresh, claimers first. Max three per race.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
