@@ -1,0 +1,31 @@
+{
+  "date": "2026-06-26",
+  "updated": "2026-11-08T08:06:02+0000",
+  "races": [
+    {
+      "time": "19:03",
+      "meeting": "Newcastle",
+      "name": "JenningsBet Over 200 Shops Handicap",
+      "class": "5",
+      "distance": "5f",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Azuinthejungle",
+          "jockey": "Alex Jary",
+          "claim": 3,
+          "or": 66,
+          "mark": 75,
+          "mark_date": "2026-09-19",
+          "gap": -9,
+          "days": 10,
+          "odds": "10/1",
+          "pos": 3,
+          "res": "PLACE"
+        }
+      ]
+    }
+  ]
+}
