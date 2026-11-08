@@ -1,0 +1,45 @@
+{
+  "date": "2026-04-04",
+  "updated": "2026-11-08T08:06:01+0000",
+  "races": [
+    {
+      "time": "16:50",
+      "meeting": "Wolverhampton",
+      "name": "In Remembrance Of Aggrey Burke Apprentice Handicap",
+      "class": "6",
+      "distance": "1m 142y",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Yehudi",
+          "jockey": "Hope Regan",
+          "claim": 7,
+          "or": 61,
+          "mark": 62,
+          "mark_date": "2026-10-23",
+          "gap": -1,
+          "days": 18,
+          "odds": "10/1",
+          "pos": 4,
+          "res": "LOSE"
+        },
+        {
+          "rank": 2,
+          "horse": "Coloane",
+          "jockey": "C J Whiteley",
+          "claim": 3,
+          "or": 58,
+          "mark": 58,
+          "mark_date": "2026-04-06",
+          "gap": 0,
+          "days": 15,
+          "odds": "2/1",
+          "pos": 1,
+          "res": "WIN"
+        }
+      ]
+    }
+  ]
+}
