@@ -1,0 +1,81 @@
+{
+  "date": "2026-04-06",
+  "updated": "2026-11-08T08:06:01+0000",
+  "races": [
+    {
+      "time": "12:55",
+      "meeting": "Wolverhampton",
+      "name": "Download The Raceday Ready App Apprentice Handicap",
+      "class": "6",
+      "distance": "1m 142y",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Coloane",
+          "jockey": "C J Whiteley",
+          "claim": 5,
+          "or": 58,
+          "mark": 58,
+          "mark_date": "2026-04-04",
+          "gap": 0,
+          "days": 2,
+          "odds": "11/10",
+          "pos": 1,
+          "res": "WIN"
+        }
+      ]
+    },
+    {
+      "time": "14:05",
+      "meeting": "Wolverhampton",
+      "name": "Free Bets On attheraces.com Handicap",
+      "class": "6",
+      "distance": "1m 4f 51y",
+      "riders": 7,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Kelly Burn",
+          "jockey": "Daniel Muscutt",
+          "claim": null,
+          "or": 65,
+          "mark": 67,
+          "mark_date": "2026-05-18",
+          "gap": -2,
+          "days": 8,
+          "odds": "1/1",
+          "pos": 2,
+          "res": "PLACE"
+        }
+      ]
+    },
+    {
+      "time": "15:15",
+      "meeting": "Wolverhampton",
+      "name": "Free Race Replays On attheraces.com Handicap",
+      "class": "6",
+      "distance": "1m 5f 219y",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "V Power",
+          "jockey": "Zoe Lewis",
+          "claim": 7,
+          "or": 59,
+          "mark": 60,
+          "mark_date": "2026-07-07",
+          "gap": -1,
+          "days": 6,
+          "odds": "10/1",
+          "pos": 1,
+          "res": "WIN"
+        }
+      ]
+    }
+  ]
+}
