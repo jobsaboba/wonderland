@@ -1,0 +1,31 @@
+{
+  "date": "2026-07-07",
+  "updated": "2026-11-08T08:06:02+0000",
+  "races": [
+    {
+      "time": "17:10",
+      "meeting": "Wolverhampton",
+      "name": "Get Raceday Ready Handicap",
+      "class": "5",
+      "distance": "1m 142y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Bajan Bandit",
+          "jockey": "Billy Loughnane",
+          "claim": null,
+          "or": 60,
+          "mark": 61,
+          "mark_date": "2026-10-27",
+          "gap": -1,
+          "days": 3,
+          "odds": "13/2",
+          "pos": 2,
+          "res": "PLACE"
+        }
+      ]
+    }
+  ]
+}
