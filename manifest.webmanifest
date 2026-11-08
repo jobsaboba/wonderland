@@ -1,0 +1,17 @@
+{
+  "id": "/wonderland/",
+  "name": "Wonderland Racing",
+  "short_name": "Wonderland",
+  "description": "UK all-weather handicap world: C+D winners, dropped to or below their last winning mark, 14 days fresh, claimers first. Max three per race.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#0b1220",
+  "background_color": "#0b1220",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

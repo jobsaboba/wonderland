@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, maximum-scale=1, user-scalable=no">
+<meta name="theme-color" content="#0b1220">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Wonderland">
+<title>Wonderland Racing</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<style>
+  :root{
+    --bg:#0b1220; --panel:#131c2e; --panel2:#0f172a; --line:#22304a;
+    --ink:#e7eef9; --dim:#8fa3bf; --sky:#38bdf8; --emerald:#10b981; --em:#34d399;
+    --amber:#fbbf24; --red:#ef4444; --violet:#a78bfa;
+  }
+  *{box-sizing:border-box; -webkit-tap-highlight-color:transparent}
+  html,body{margin:0; padding:0}
+  body{
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
+    background:var(--bg); color:var(--ink); padding:12px 12px 60px; max-width:460px; margin:0 auto;
+  }
+  header{display:flex; justify-content:space-between; align-items:center; padding:6px 2px 12px}
+  .brand{font-weight:900; font-size:1.05rem; letter-spacing:.3px}
+  .topbtns{display:flex; gap:6px; align-items:center}
+  .datechip{font-size:.7rem; color:var(--dim); letter-spacing:1px; margin-right:4px; text-transform:uppercase}
+  .iconbtn{background:var(--panel); border:1px solid var(--line); color:var(--dim); border-radius:10px;
+    padding:7px 9px; font-size:.9rem; cursor:pointer}
+  .iconbtn:active{border-color:var(--sky); color:var(--sky)}
+  .iconbtn.spin{display:inline-block; animation:spin 1s linear infinite}
+  @keyframes spin{to{transform:rotate(360deg)}}
+
+  .banner{display:none; background:#271e08; border:1px solid #7c6412; color:#fde68a;
+    border-radius:12px; padding:10px 12px; font-size:.78rem; margin-bottom:10px; line-height:1.5}
+  .banner.show{display:block}
+
+  .days{display:flex; gap:6px; overflow-x:auto; padding:2px 0 10px; scrollbar-width:none}
+  .days::-webkit-scrollbar{display:none}
+  .day{border:1px solid var(--line); background:var(--panel); color:var(--dim); border-radius:999px;
+    padding:6px 11px; font-size:.72rem; font-weight:800; white-space:nowrap; cursor:pointer; flex-shrink:0}
+  .day.on{background:var(--violet); border-color:var(--violet); color:#1e1440}
+  .day .dot{display:inline-block; width:6px; height:6px; border-radius:50%; background:var(--emerald); margin-left:5px}
+
+  .stats{display:grid; grid-template-columns:1fr 1fr 1fr 1fr; gap:8px; margin-bottom:12px}
+  .stat{background:var(--panel); border:1px solid var(--line); border-radius:12px; padding:8px 6px; text-align:center}
+  .stat .label{font-size:.58rem; color:var(--dim); text-transform:uppercase; letter-spacing:1px}
+  .stat .v{font-weight:900; font-size:1.05rem; margin-top:2px}
+  .stat .v.win{color:var(--em)} .stat .v.place{color:#86efac} .stat .v.lose{color:#ef4444}
+  .stat .v.rate{color:var(--violet)}
+
+  .racecard{background:var(--panel); border:1px solid var(--line); border-radius:18px;
+    padding:12px; margin-bottom:12px; box-shadow:0 8px 22px rgba(0,0,0,.35)}
+  .rc-head{display:flex; justify-content:space-between; align-items:baseline; gap:8px}
+  .rc-head .t{font-weight:900; font-size:1.05rem; color:var(--violet)}
+  .rc-head .meta{font-size:.62rem; color:var(--dim); text-align:right; line-height:1.4}
+  .rc-name{font-size:.72rem; color:var(--dim); margin:2px 0 10px; overflow:hidden;
+    text-overflow:ellipsis; white-space:nowrap}
+
+  .sel{background:var(--panel2); border:1px solid var(--line); border-radius:14px; padding:10px 12px; margin-bottom:8px}
+  .sel .row{display:flex; gap:8px; align-items:flex-start}
+  .sel .rk{font-weight:900; color:var(--dim); font-size:.72rem; min-width:18px; padding-top:2px}
+  .sel .mid{flex:1; min-width:0}
+  .sel .hn{font-weight:900; font-size:.98rem; line-height:1.15}
+  .sel .jt{font-size:.66rem; color:var(--dim); margin-top:1px}
+  .sel .odds{color:var(--sky); font-weight:900; font-size:.85rem; margin-top:4px}
+  .badge{font-size:.6rem; font-weight:900; border-radius:8px; padding:3px 7px; margin-left:4px; white-space:nowrap; align-self:flex-start}
+  .badge.WIN{background:#0b2e21; color:var(--em)} .badge.PLACE{background:#123227; color:#86efac}
+  .badge.LOSE{background:#331111; color:#fca5a5} .badge.PEND{background:#2d2410; color:#fcd34d}
+  .badgeline{margin-top:8px; display:flex; gap:6px; flex-wrap:wrap}
+  .bchip{border:1px solid var(--line); color:var(--dim); font-size:.62rem; font-weight:700;
+    border-radius:9px; padding:4px 8px; background:#0c1526}
+  .bchip.claim{border-color:#6c4c9e; color:#c4b5fd}
+  .bchip.atmark{border-color:#10653f; color:var(--em); font-weight:900}
+  .bchip.hot{border-color:#7c6412; color:#fcd34d}
+  .noneq{font-size:.7rem; color:var(--dim); padding:6px 2px}
+  .stale-warn{background:#2d2410; border:1px solid #7c6412; color:#fcd34d; border-radius:12px;
+    padding:8px 10px; font-size:.7rem; margin-bottom:10px}
+
+  footer.hint{font-size:.66rem; color:var(--dim); text-align:center; margin:14px 0; line-height:1.6}
+  .err{background:#271e08; border:1px solid #7c6412; color:#fde68a; border-radius:12px;
+    padding:12px; font-size:.8rem; margin:10px 0; line-height:1.5}
+</style>
+</head>
+<body>
+<header>
+  <div class="brand">🐇 <span style="color:var(--violet)">Wonderland</span></div>
+  <div class="topbtns">
+    <span class="datechip" id="datechip">—</span>
+    <button class="iconbtn" id="installBtn" style="display:none" title="Install app">⬇️</button>
+    <button class="iconbtn" id="refresh" title="Fetch latest">⟳</button>
+  </div>
+</header>
+
+<div class="banner" id="installBanner">
+  📱 <b>Add to Home Screen</b>: iPhone — Share&nbsp;⬆️ → “Add to Home Screen” ·
+  Android Chrome — ⋮ → “Add to Home screen”
+</div>
+
+<div class="days" id="days"></div>
+
+<div class="stats" id="stats">
+  <div class="stat"><div class="label">Wins</div><div class="v win" id="stW">–</div></div>
+  <div class="stat"><div class="label">Places</div><div class="v place" id="stP">–</div></div>
+  <div class="stat"><div class="label">Losers</div><div class="v lose" id="stL">–</div></div>
+  <div class="stat"><div class="label">Win rate</div><div class="v rate" id="stR">–</div></div>
+</div>
+
+<div id="app"><div class="err">Loading…</div></div>
+
+<footer class="hint">
+  UK all-weather handicaps · C+D winner · 14 days fresh · at/below last
+  winning C+D mark · claimers first, max three a race.
+  <span id="updated" style="display:block"></span>
+</footer>
+
+<script>
+"use strict";
+const $ = (id) => document.getElementById(id);
+
+function esc(s){
+  return String(s ?? "").replace(/[&<>"']/g, c =>
+    ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+}
+
+async function jget(path){
+  const res = await fetch(path + "?ts=" + Date.now(), {cache:"no-store"});
+  if(!res.ok) throw new Error(path + " → HTTP " + res.status);
+  return res.json();
+}
+
+let DAYS = [], DAY = null, DATA = null, deferredInstall = null;
+
+function renderDays(){
+  const box = $("days");
+  box.innerHTML = "";
+  for(const d of DAYS){
+    const el = document.createElement("button");
+    el.className = "day" + (d === DAY ? " on" : "");
+    el.textContent = d.slice(5).replace("-", "/");
+    if(d === DATA?.date && anySettled(DATA)) el.insertAdjacentHTML("beforeend", '<span class="dot"></span>');
+    el.onclick = () => { DAY = d; loadDay(d); };
+    box.appendChild(el);
+  }
+}
+
+function anySettled(data){ return (data.races || []).some(r => r.settled); }
+
+function stats(races){
+  let w = 0, p = 0, l = 0;
+  for(const rc of (races || [])){
+    for(const s of (rc.sel || [])){
+      if(s.res === "WIN") w++;
+      else if(s.res === "PLACE") p++;
+      else if(s.res === "LOSE") l++;
+    }
+  }
+  const settled = w + p + l;
+  return {w, p, l,
+    rate: settled ? Math.round(100 * w / settled) : null};
+}
+
+function render(){
+  $("datechip").textContent = DATA.date;
+  document.title = "Wonderland · " + DATA.date;
+  renderDays();
+
+  const races = DATA.races || [];
+  const t = stats(races);
+  $("stW").textContent = t.w; $("stP").textContent = t.p;
+  $("stL").textContent = t.l; $("stR").textContent = t.rate === null ? "–" : t.rate + "%";
+
+  const app = $("app");
+  app.innerHTML = "";
+  if(!races.length){
+    app.innerHTML = '<div class="err">No Wonderland qualifiers today — no AW handicap made the cut.</div>';
+  }
+  for(const rc of races){
+    try{ app.appendChild(raceCard(rc)); }
+    catch(err){
+      app.insertAdjacentHTML("beforeend",
+        '<div class="err">Race skipped (' + esc(err.message) + '): ' +
+        esc(rc.time) + " " + esc(rc.meeting) + '</div>');
+    }
+  }
+  if(DATA.updated){
+    const u = new Date(DATA.updated);
+    $("updated").textContent = "updated " +
+      u.toLocaleString([], {weekday:"short", hour:"2-digit", minute:"2-digit"});
+  }
+}
+
+function raceCard(rc){
+  const div = document.createElement("div");
+  div.className = "racecard";
+  let inner =
+    `<div class="rc-head">
+      <div class="t">${esc(rc.time)} ${esc(rc.meeting)}</div>
+      <div class="meta">${esc(rc.riders || "") ? rc.riders + " runners<br>" : ""}${esc(rc.distance || "")}</div>
+    </div>
+    <div class="rc-name">${esc(rc.name || "")}</div>`;
+
+  if(!(rc.sel || []).length){
+    inner += '<div class="noneq">No qualifiers.</div>';
+  }
+  for(const s of (rc.sel || [])){
+    const res = s.res
+      ? `<span class="badge ${s.res}">${s.res}</span>`
+      : (rc.settled ? "" : '<span class="badge PEND">—</span>');
+    const verdict = s.res === "WIN" ? "WON"
+      : s.res === "PLACE" ? (s.pos ? "st " + s.pos : "placed") : s.res;
+    const chips = [];
+    chips.push(s.claim ? `<span class="bchip claim">claimer ${s.claim}lb</span>`
+                       : '<span class="bchip">no claimer</span>');
+    if(s.gap === 0) chips.push('<span class="bchip atmark">at the mark</span>');
+    else chips.push(`<span class="bchip">${s.gap > 0 ? "+" : ""}${s.gap} vs mark</span>`);
+    chips.push(`<span class="bchip hot">${s.days}d since run</span>`);
+    chips.push(`<span class="bchip">mark ${s.mark} @ ${s.mark_date.slice(5)}</span>`);
+    const node = document.createElement("div");
+    node.className = "sel";
+    node.innerHTML =
+      `<div class="row">
+        <div class="rk">${s.rank}</div>
+        <div class="mid">
+          <div class="hn">${esc(s.horse)} ${res.replace('class="', 'class="badge "')}</div>
+          <div class="jt">${esc(s.jockey || "")}</div>
+        </div>
+      </div>
+      <div class="badgeline">${chips.join("")}</div>
+      <div class="odds">${esc(s.odds || "")} ${verdict && s.res ? "· " + verdict : ""}</div>`;
+    div.appendChild(node);
+  }
+  return div;
+}
+
+async function fetchDay(){
+  try{ return await jget("data/" + DAY + ".json"); }
+  catch(err){ return await jget("data/latest.json"); }
+}
+
+async function loadDay(d){
+  $("app").innerHTML = '<div class="err">Loading ' + esc(d) + '…</div>';
+  try{
+    const j = await fetchDay();
+    DATA = j;
+    if(j.date !== d){
+      DAY = j.date;
+      if(!DAYS.includes(DAY)) DAYS.unshift(DAY);
+      renderDays();
+    }
+    render();
+  }catch(err){
+    $("app").innerHTML =
+      '<div class="err">Couldn’t load the day’s data (' + esc(err.message) +
+      ').<br>Check the connection and tap <b>⟳</b> — the laptop pushes after every run.</div>';
+  }
+  location.hash = d;
+}
+
+async function init(){
+  if(window.matchMedia && !(window.matchMedia("(display-mode: standalone)").matches)
+     && !navigator.standalone){
+    $("installBanner").classList.add("show");
+  }
+  const hash = (location.hash || "").replace("#", "");
+  try{
+    const idx = await jget("data/index.json");
+    DAYS = idx.days || [];
+    DAY = (hash && DAYS.includes(hash)) ? hash : (idx.latest || DAYS[0]);
+  }catch(err){
+    try{
+      const latest = await jget("data/latest.json");
+      DAY = latest.date; DAYS = [DAY];
+    }catch(err2){
+      $("app").innerHTML =
+        '<div class="err">No day data in the repo yet (' + esc(err2.message) +
+        '). Run the laptop script with --publish, then tap ⟳.</div>';
+      return;
+    }
+  }
+  if(DAY) await loadDay(DAY);
+}
+
+window.addEventListener("beforeinstallprompt", (e) => {
+  e.preventDefault();
+  deferredInstall = e;
+  $("installBtn").style.display = "inline-block";
+});
+window.addEventListener("appinstalled", () => {
+  $("installBtn").style.display = "none";
+  $("installBanner").classList.remove("show");
+});
+$("installBtn").onclick = () => {
+  if(deferredInstall){
+    deferredInstall.prompt();
+    deferredInstall.userChoice.then(() => {
+      deferredInstall = null; $("installBtn").style.display = "none";
+    });
+  }
+};
+$("refresh").onclick = async (e) => {
+  const btn = e.currentTarget;
+  btn.classList.add("spin");
+  try{ await loadDay(DAY); }
+  finally{ btn.classList.remove("spin"); }
+};
+
+init();
+</script>
+<script>
+if("serviceWorker" in navigator){
+  navigator.serviceWorker.register("./sw.js").catch(() => {});
+}
+</script>
+</body>
+</html>
