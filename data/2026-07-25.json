@@ -1,0 +1,56 @@
+{
+  "date": "2026-07-25",
+  "updated": "2026-11-08T08:06:02+0000",
+  "races": [
+    {
+      "time": "15:35",
+      "meeting": "Newcastle",
+      "name": "John And Ross Greenhill Handicap",
+      "class": "6",
+      "distance": "1m 5y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Adelaide Bay",
+          "jockey": "Billy Loughnane",
+          "claim": null,
+          "or": 54,
+          "mark": 54,
+          "mark_date": "2026-09-25",
+          "gap": 0,
+          "days": 11,
+          "odds": "6/4",
+          "pos": 4,
+          "res": "LOSE"
+        }
+      ]
+    },
+    {
+      "time": "16:10",
+      "meeting": "Newcastle",
+      "name": "Jimmy Tindall Handicap",
+      "class": "6",
+      "distance": "5f",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Ellie's De Vega",
+          "jockey": "Billy Garritty",
+          "claim": null,
+          "or": 50,
+          "mark": 52,
+          "mark_date": "2026-10-20",
+          "gap": -2,
+          "days": 19,
+          "odds": "5/2",
+          "pos": 2,
+          "res": "PLACE"
+        }
+      ]
+    }
+  ]
+}
