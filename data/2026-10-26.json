@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-26",
+  "updated": "2026-11-08T08:06:02+0000",
+  "races": [
+    {
+      "time": "18:00",
+      "meeting": "Southwell",
+      "name": "Midnite Ain't Your Grandads Bookie Handicap",
+      "class": "5",
+      "distance": "1m 13y",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Sterling Fortune",
+          "jockey": "George Wood",
+          "claim": null,
+          "or": 65,
+          "mark": 65,
+          "mark_date": "2026-10-19",
+          "gap": 0,
+          "days": 7,
+          "odds": "10/3",
+          "pos": 5,
+          "res": "LOSE"
+        }
+      ]
+    }
+  ]
+}
