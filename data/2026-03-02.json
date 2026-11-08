@@ -1,0 +1,31 @@
+{
+  "date": "2026-03-02",
+  "updated": "2026-11-08T08:06:01+0000",
+  "races": [
+    {
+      "time": "19:30",
+      "meeting": "Wolverhampton",
+      "name": "Win 250,000 With BetMGM's Golden Goals Fillies' Handicap",
+      "class": "5",
+      "distance": "6f 20y",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Bint Havana Gold",
+          "jockey": "Donagh Murphy",
+          "claim": 7,
+          "or": 62,
+          "mark": 62,
+          "mark_date": "2026-02-23",
+          "gap": 0,
+          "days": 7,
+          "odds": "10/3",
+          "pos": 7,
+          "res": "LOSE"
+        }
+      ]
+    }
+  ]
+}
