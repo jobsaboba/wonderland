@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-07",
+  "updated": "2026-11-08T07:38:19+0000",
+  "races": [
+    {
+      "time": "16:25",
+      "meeting": "Southwell",
+      "name": "Midnight A Next Generation Betting App Handicap",
+      "class": "6",
+      "distance": "6f 16y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Piperstown",
+          "jockey": "Matthew Slater",
+          "claim": 7,
+          "or": 52,
+          "mark": 54,
+          "mark_date": "2026-04-11",
+          "gap": -2,
+          "days": 14,
+          "odds": "33/1",
+          "pos": 8,
+          "res": "LOSE"
+        }
+      ]
+    }
+  ]
+}
