@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-06",
+  "updated": "2026-11-08T07:45:13+0000",
+  "races": [
+    {
+      "time": "18:30",
+      "meeting": "Newcastle",
+      "name": "Make The Move To Midnite Handicap (Div 1)",
+      "class": "6",
+      "distance": "6f",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Tactical Blitz",
+          "jockey": "C J Whiteley",
+          "claim": 5,
+          "or": 63,
+          "mark": 65,
+          "mark_date": "2026-10-30",
+          "gap": -2,
+          "days": 7,
+          "odds": "11/1",
+          "pos": 5,
+          "res": "LOSE"
+        }
+      ]
+    },
+    {
+      "time": "19:00",
+      "meeting": "Newcastle",
+      "name": "Make The Move To Midnite Handicap (Div 2)",
+      "class": "6",
+      "distance": "6f",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Sugar Baby",
+          "jockey": "Jake Dickson",
+          "claim": 5,
+          "or": 65,
+          "mark": 65,
+          "mark_date": "2026-10-30",
+          "gap": 0,
+          "days": 7,
+          "odds": "10/1",
+          "pos": 6,
+          "res": "LOSE"
+        }
+      ]
+    }
+  ]
+}
