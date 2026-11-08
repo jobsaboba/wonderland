@@ -1,0 +1,31 @@
+{
+  "date": "2026-01-26",
+  "updated": "2026-11-08T08:06:00+0000",
+  "races": [
+    {
+      "time": "17:00",
+      "meeting": "Wolverhampton",
+      "name": "Read Meg Nicholls' Blog At betmgm.co.uk Handicap (Div 1)",
+      "class": "5",
+      "distance": "6f 20y",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "King Of Chaos",
+          "jockey": "L Morris",
+          "claim": null,
+          "or": 70,
+          "mark": 72,
+          "mark_date": "2026-07-17",
+          "gap": -2,
+          "days": 16,
+          "odds": "11/2",
+          "pos": 2,
+          "res": "PLACE"
+        }
+      ]
+    }
+  ]
+}
