@@ -1,5 +1,5 @@
 /* Wonderland — service worker (app shell cache + always-fresh day data) */
-const CACHE = "wonderapp-v2";
+const CACHE = "wonderapp-v3";
 const SHELL = ["./", "./index.html", "./manifest.webmanifest",
                "./icons/icon-192.png", "./icons/icon-512.png"];
 
