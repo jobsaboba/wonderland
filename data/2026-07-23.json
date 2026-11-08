@@ -1,0 +1,31 @@
+{
+  "date": "2026-07-23",
+  "updated": "2026-11-08T08:06:02+0000",
+  "races": [
+    {
+      "time": "15:53",
+      "meeting": "Southwell",
+      "name": "Sky Sports Racing Sky 415 Apprentice Handicap",
+      "class": "5",
+      "distance": "7f 14y",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Anthropologist",
+          "jockey": "C J Whiteley",
+          "claim": 5,
+          "or": 69,
+          "mark": 70,
+          "mark_date": "2026-10-24",
+          "gap": -1,
+          "days": 18,
+          "odds": "5/1",
+          "pos": 3,
+          "res": "PLACE"
+        }
+      ]
+    }
+  ]
+}
