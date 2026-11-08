@@ -210,8 +210,9 @@ function raceCard(rc){
     const res = s.res
       ? `<span class="badge ${s.res}">${s.res}</span>`
       : (rc.settled ? "" : '<span class="badge PEND">—</span>');
-    const verdict = s.res === "WIN" ? "WON"
-      : s.res === "PLACE" ? (s.pos ? "st " + s.pos : "placed") : s.res;
+    const verdict = s.res === "WIN" ? "won"
+      : s.res === "PLACE" ? (s.pos ? "placed " + s.pos : "placed")
+      : "";
     const chips = [];
     chips.push(s.claim ? `<span class="bchip claim">claimer ${s.claim}lb</span>`
                        : '<span class="bchip">no claimer</span>');
@@ -225,12 +226,12 @@ function raceCard(rc){
       `<div class="row">
         <div class="rk">${s.rank}</div>
         <div class="mid">
-          <div class="hn">${esc(s.horse)} ${res.replace('class="', 'class="badge "')}</div>
+          <div class="hn">${esc(s.horse)} ${res}</div>
           <div class="jt">${esc(s.jockey || "")}</div>
         </div>
       </div>
       <div class="badgeline">${chips.join("")}</div>
-      <div class="odds">${esc(s.odds || "")} ${verdict && s.res ? "· " + verdict : ""}</div>`;
+      <div class="odds">${esc(s.odds || "")}${verdict ? " · " + verdict : ""}</div>`;
     div.appendChild(node);
   }
   return div;
