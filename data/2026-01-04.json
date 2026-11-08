@@ -1,0 +1,31 @@
+{
+  "date": "2026-01-04",
+  "updated": "2026-11-08T08:06:00+0000",
+  "races": [
+    {
+      "time": "13:30",
+      "meeting": "Southwell",
+      "name": "Always Gamble Responsibly At BetMGM Handicap",
+      "class": "5",
+      "distance": "7f 14y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Down To The Kid",
+          "jockey": "N Callan",
+          "claim": null,
+          "or": 75,
+          "mark": 84,
+          "mark_date": "2026-02-20",
+          "gap": -9,
+          "days": 17,
+          "odds": "10/3",
+          "pos": 1,
+          "res": "WIN"
+        }
+      ]
+    }
+  ]
+}
