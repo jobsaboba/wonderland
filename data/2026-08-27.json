@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-27",
+  "updated": "2026-11-08T08:06:02+0000",
+  "races": [
+    {
+      "time": "19:30",
+      "meeting": "Southwell",
+      "name": "Get Raceday Ready Handicap",
+      "class": "5",
+      "distance": "6f 16y",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Massimo Blue",
+          "jockey": "Billy Loughnane",
+          "claim": null,
+          "or": 65,
+          "mark": 70,
+          "mark_date": "2026-10-19",
+          "gap": -5,
+          "days": 11,
+          "odds": "11/8",
+          "pos": 1,
+          "res": "WIN"
+        }
+      ]
+    }
+  ]
+}
