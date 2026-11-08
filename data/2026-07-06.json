@@ -1,0 +1,31 @@
+{
+  "date": "2026-07-06",
+  "updated": "2026-11-08T08:06:02+0000",
+  "races": [
+    {
+      "time": "18:30",
+      "meeting": "Wolverhampton",
+      "name": "Race & Rest - Wolverhampton Holiday Inn Handicap",
+      "class": "5",
+      "distance": "6f 20y",
+      "riders": 13,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Style King",
+          "jockey": "S De Sousa",
+          "claim": null,
+          "or": 60,
+          "mark": 67,
+          "mark_date": "2026-10-02",
+          "gap": -7,
+          "days": 8,
+          "odds": "12/1",
+          "pos": 1,
+          "res": "WIN"
+        }
+      ]
+    }
+  ]
+}
