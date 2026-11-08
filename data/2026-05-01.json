@@ -1,0 +1,56 @@
+{
+  "date": "2026-05-01",
+  "updated": "2026-11-08T08:06:01+0000",
+  "races": [
+    {
+      "time": "18:02",
+      "meeting": "Newcastle",
+      "name": "Northumbria Leisure For Gaming Machines Handicap",
+      "class": "4",
+      "distance": "6f",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Yy Spirit",
+          "jockey": "Rhys Elliott",
+          "claim": 5,
+          "or": 73,
+          "mark": 73,
+          "mark_date": "2025-12-09",
+          "gap": 0,
+          "days": 15,
+          "odds": "66/1",
+          "pos": 8,
+          "res": "LOSE"
+        }
+      ]
+    },
+    {
+      "time": "19:10",
+      "meeting": "Newcastle",
+      "name": "Ride For Tommie Jakes Racing Club Memorial Handicap",
+      "class": "5",
+      "distance": "6f",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Asadjumeirah",
+          "jockey": "Alex Jary",
+          "claim": 3,
+          "or": 50,
+          "mark": 52,
+          "mark_date": "2026-09-03",
+          "gap": -2,
+          "days": 11,
+          "odds": "25/1",
+          "pos": 8,
+          "res": "LOSE"
+        }
+      ]
+    }
+  ]
+}
