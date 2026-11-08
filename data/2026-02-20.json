@@ -1,0 +1,31 @@
+{
+  "date": "2026-02-20",
+  "updated": "2026-11-08T08:06:01+0000",
+  "races": [
+    {
+      "time": "16:26",
+      "meeting": "Southwell",
+      "name": "Bet Responsibly With SBK Handicap (Div 1)",
+      "class": "5",
+      "distance": "7f 14y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Anthropologist",
+          "jockey": "Dylan Hogan",
+          "claim": null,
+          "or": 69,
+          "mark": 70,
+          "mark_date": "2026-10-24",
+          "gap": -1,
+          "days": 14,
+          "odds": "33/1",
+          "pos": 4,
+          "res": "LOSE"
+        }
+      ]
+    }
+  ]
+}
