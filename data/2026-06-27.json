@@ -1,0 +1,31 @@
+{
+  "date": "2026-06-27",
+  "updated": "2026-11-08T08:06:02+0000",
+  "races": [
+    {
+      "time": "15:58",
+      "meeting": "Newcastle",
+      "name": "Pertemps Network Educational Handicap",
+      "class": "5",
+      "distance": "1m 4f 98y",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Jujubella",
+          "jockey": "Darragh Keenan",
+          "claim": null,
+          "or": 65,
+          "mark": 66,
+          "mark_date": "2026-10-01",
+          "gap": -1,
+          "days": 2,
+          "odds": "10/3",
+          "pos": 2,
+          "res": "PLACE"
+        }
+      ]
+    }
+  ]
+}
