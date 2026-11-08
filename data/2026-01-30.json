@@ -1,0 +1,56 @@
+{
+  "date": "2026-01-30",
+  "updated": "2026-11-08T08:06:00+0000",
+  "races": [
+    {
+      "time": "15:03",
+      "meeting": "Southwell",
+      "name": "Always Gamble Responsibly At BetMGM Handicap",
+      "class": "3",
+      "distance": "7f 14y",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Down To The Kid",
+          "jockey": "Edward Greatrex",
+          "claim": null,
+          "or": 78,
+          "mark": 84,
+          "mark_date": "2026-02-20",
+          "gap": -6,
+          "days": 7,
+          "odds": "9/4",
+          "pos": 3,
+          "res": "PLACE"
+        }
+      ]
+    },
+    {
+      "time": "17:00",
+      "meeting": "Wolverhampton",
+      "name": "Midnite, Building The Future Of Betting Handicap (GBBPlus Race)",
+      "class": "4",
+      "distance": "1m 4f 51y",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Cardinal Point",
+          "jockey": "H Crouch",
+          "claim": null,
+          "or": 68,
+          "mark": 68,
+          "mark_date": "2026-01-23",
+          "gap": 0,
+          "days": 7,
+          "odds": "2/1",
+          "pos": 9,
+          "res": "LOSE"
+        }
+      ]
+    }
+  ]
+}
