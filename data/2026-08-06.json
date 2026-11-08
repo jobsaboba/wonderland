@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-06",
+  "updated": "2026-11-08T08:06:02+0000",
+  "races": [
+    {
+      "time": "17:06",
+      "meeting": "Southwell",
+      "name": "Simon Davis Big 60th Birthday Bash Fillies' Handicap",
+      "class": "5",
+      "distance": "1m 14y",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Filly Eilish",
+          "jockey": "S De Sousa",
+          "claim": null,
+          "or": 64,
+          "mark": 68,
+          "mark_date": "2026-10-22",
+          "gap": -4,
+          "days": 10,
+          "odds": "3/1",
+          "pos": 5,
+          "res": "LOSE"
+        }
+      ]
+    }
+  ]
+}
