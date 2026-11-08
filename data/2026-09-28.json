@@ -1,0 +1,56 @@
+{
+  "date": "2026-09-28",
+  "updated": "2026-11-08T08:06:02+0000",
+  "races": [
+    {
+      "time": "18:30",
+      "meeting": "Wolverhampton",
+      "name": "Free Race Replays On attheraces.com Handicap",
+      "class": "6",
+      "distance": "1m 142y",
+      "riders": 13,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Coxy's Star",
+          "jockey": "Lewis Edmunds",
+          "claim": null,
+          "or": 58,
+          "mark": 58,
+          "mark_date": "2026-10-13",
+          "gap": 0,
+          "days": 19,
+          "odds": "15/2",
+          "pos": 2,
+          "res": "PLACE"
+        }
+      ]
+    },
+    {
+      "time": "19:30",
+      "meeting": "Wolverhampton",
+      "name": "Free Digital Racecard At raceday-ready.com Handicap",
+      "class": "5",
+      "distance": "1m 1f 104y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "The Anthony Gover",
+          "jockey": "Billy Loughnane",
+          "claim": null,
+          "or": 65,
+          "mark": 65,
+          "mark_date": "2026-09-21",
+          "gap": 0,
+          "days": 7,
+          "odds": "11/8",
+          "pos": 3,
+          "res": "PLACE"
+        }
+      ]
+    }
+  ]
+}
