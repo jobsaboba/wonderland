@@ -1,7 +1,30 @@
 {
   "date": "2026-03-13",
-  "updated": "2026-11-08T08:06:01+0000",
+  "updated": "2026-11-09T03:02:00+0000",
   "races": [
+    {
+      "time": "16:25",
+      "meeting": "Wolverhampton",
+      "name": "Midnite, Building The Future Of Betting Handicap (GBBPlus Race)",
+      "class": "3",
+      "distance": "1m 5f 219y",
+      "riders": 5,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Charging Thunder",
+          "jockey": "Mason Paetel",
+          "cd": 1,
+          "days": 11,
+          "odds": "7/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.23
+        }
+      ]
+    },
     {
       "time": "17:05",
       "meeting": "Wolverhampton",
@@ -13,17 +36,213 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Trust Sergei",
-          "jockey": "Jonny Peate",
-          "claim": null,
-          "or": 55,
-          "mark": 55,
-          "mark_date": "2026-09-15",
-          "gap": 0,
-          "days": 18,
-          "odds": "18/1",
+          "horse": "Beauzon",
+          "jockey": "Charles Bishop",
+          "cd": 11,
+          "days": 10,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.23
+        },
+        {
+          "rank": 2,
+          "horse": "Em Jay Kay",
+          "jockey": "Grace McEntee",
+          "cd": 1,
+          "days": 26,
+          "odds": "28/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 0.23
+        }
+      ]
+    },
+    {
+      "time": "17:10",
+      "meeting": "Southwell",
+      "name": "Create Your Bet Builders At Midnite Handicap",
+      "class": "5",
+      "distance": "4f 214y",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Street Life",
+          "jockey": "Ryan Kavanagh",
+          "cd": 5,
+          "days": 16,
+          "odds": "11/2",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.23
+        }
+      ]
+    },
+    {
+      "time": "17:40",
+      "meeting": "Wolverhampton",
+      "name": "Win 250,000 With BetMGM's Golden Goals Handicap",
+      "class": "5",
+      "distance": "5f 21y",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Love Alive",
+          "jockey": "Jack Dace",
+          "cd": 1,
+          "days": 13,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 0.23
+        },
+        {
+          "rank": 2,
+          "horse": "U S S Charleston",
+          "jockey": "Tom Kiely-Marshall",
+          "cd": 1,
+          "days": 14,
+          "odds": "9/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.23
+        }
+      ]
+    },
+    {
+      "time": "17:45",
+      "meeting": "Southwell",
+      "name": "Always Gamble Responsibly At BetMGM Handicap",
+      "class": "3",
+      "distance": "7f 14y",
+      "riders": 6,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "King Of Ithaca",
+          "jockey": "Callum Shepherd",
+          "cd": 4,
+          "days": 13,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.23
+        },
+        {
+          "rank": 2,
+          "horse": "Legal Reform",
+          "jockey": "K Shoemark",
+          "cd": 5,
+          "days": 14,
+          "odds": "10/3",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.23
+        }
+      ]
+    },
+    {
+      "time": "18:10",
+      "meeting": "Wolverhampton",
+      "name": "Bet 10 Get 40 With BetMGM Handicap",
+      "class": "4",
+      "distance": "1m 142y",
+      "riders": 7,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Tribal Wisdom",
+          "jockey": "Billy Loughnane",
+          "cd": 4,
+          "days": 7,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.23
+        },
+        {
+          "rank": 2,
+          "horse": "Bravo Zulu",
+          "jockey": "Daniel Muscutt",
+          "cd": 1,
+          "days": 13,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.23
+        },
+        {
+          "rank": 3,
+          "horse": "Hitched",
+          "jockey": "Charles Bishop",
+          "cd": 2,
+          "days": 15,
+          "odds": "14/1",
+          "mark": null,
           "pos": 4,
-          "res": "LOSE"
+          "res": "LOSE",
+          "stake": 0.23
+        }
+      ]
+    },
+    {
+      "time": "18:20",
+      "meeting": "Southwell",
+      "name": "BetMGM Supports Safer Gambling Fillies' Handicap",
+      "class": "4",
+      "distance": "6f 16y",
+      "riders": 7,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Brazilian Rose",
+          "jockey": "Kaiya Fraser",
+          "cd": 2,
+          "days": 4,
+          "odds": "11/5",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.23
+        }
+      ]
+    },
+    {
+      "time": "18:50",
+      "meeting": "Southwell",
+      "name": "Win 250,000 With BetMGM's Golden Goals Handicap",
+      "class": "2",
+      "distance": "6f 16y",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Grey Horizon",
+          "jockey": "K T O'Neill",
+          "cd": 2,
+          "days": 14,
+          "odds": "33/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.23
         }
       ]
     },
@@ -38,24 +257,81 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Bad Habits",
-          "jockey": "J P Sullivan",
-          "claim": null,
-          "or": 53,
-          "mark": 53,
-          "mark_date": "2026-04-21",
-          "gap": 0,
-          "days": 18,
+          "horse": "Dayman",
+          "jockey": "Rossa Ryan",
+          "cd": 1,
+          "days": 10,
+          "odds": "7/2",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.23
+        },
+        {
+          "rank": 2,
+          "horse": "Bomb Squad",
+          "jockey": "Hollie Doyle",
+          "cd": 1,
+          "days": 17,
+          "odds": "11/8",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.23
+        },
+        {
+          "rank": 3,
+          "horse": "Ramon Di Loria",
+          "jockey": "Greg Fairley",
+          "cd": 1,
+          "days": 17,
           "odds": "9/1",
-          "pos": 7,
-          "res": "LOSE"
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.23
         }
       ]
     },
     {
-      "time": "20:10",
+      "time": "19:20",
+      "meeting": "Southwell",
+      "name": "Bet 10 Get 40 With BetMGM Handicap",
+      "class": "6",
+      "distance": "1m 13y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Marry The Night",
+          "jockey": "Sean Kirrane",
+          "cd": 3,
+          "days": 9,
+          "odds": "7/2",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.23
+        },
+        {
+          "rank": 2,
+          "horse": "Relevant Range",
+          "jockey": "Elle-May Croot",
+          "cd": 1,
+          "days": 9,
+          "odds": "11/2",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.24
+        }
+      ]
+    },
+    {
+      "time": "19:40",
       "meeting": "Wolverhampton",
-      "name": "Daily Profit Boosts At betmgm.co.uk Handicap (Div 3)",
+      "name": "Daily Profit Boosts At betmgm.co.uk Handicap (Div 2)",
       "class": "6",
       "distance": "7f 36y",
       "riders": 8,
@@ -63,19 +339,46 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Fistral Beach",
-          "jockey": "Jack Doughty",
-          "claim": null,
-          "or": 55,
-          "mark": 55,
-          "mark_date": "2026-03-23",
-          "gap": 0,
-          "days": 18,
-          "odds": "7/2",
+          "horse": "Pessoa",
+          "jockey": "Finley Marsh",
+          "cd": 4,
+          "days": 4,
+          "odds": "5/2",
+          "mark": null,
           "pos": 3,
-          "res": "PLACE"
+          "res": "LOSE",
+          "stake": 0.24
+        },
+        {
+          "rank": 2,
+          "horse": "Simply Blue",
+          "jockey": "Paddy Bradley",
+          "cd": 1,
+          "days": 16,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.23
+        },
+        {
+          "rank": 3,
+          "horse": "Habrdi",
+          "jockey": "J P Sullivan",
+          "cd": 1,
+          "days": 17,
+          "odds": "15/2",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.23
         }
       ]
     }
-  ]
+  ],
+  "bank": {
+    "start": 22.85,
+    "stake": 0.23,
+    "end": 24.9
+  }
 }

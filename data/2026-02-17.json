@@ -1,0 +1,279 @@
+{
+  "date": "2026-02-17",
+  "updated": "2026-11-09T03:01:59+0000",
+  "races": [
+    {
+      "time": "16:22",
+      "meeting": "Wolverhampton",
+      "name": "Midnite A Next Generation Betting App Handicap (Rider Restricted Race) (Div 1)",
+      "class": "6",
+      "distance": "1m 5f 219y",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Moon Over The Sea",
+          "jockey": "Gina Mangan",
+          "cd": 1,
+          "days": 12,
+          "odds": "7/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.19
+        }
+      ]
+    },
+    {
+      "time": "16:57",
+      "meeting": "Wolverhampton",
+      "name": "Midnite A Next Generation Betting App Handicap (Rider Restricted Race) (Div 2)",
+      "class": "6",
+      "distance": "1m 5f 219y",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Forglen",
+          "jockey": "O McSweeney",
+          "cd": 1,
+          "days": 28,
+          "odds": "5/2",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.19
+        }
+      ]
+    },
+    {
+      "time": "17:30",
+      "meeting": "Wolverhampton",
+      "name": "Create Your Bet Builders At Midnite Handicap (Rider Restricted Race)",
+      "class": "5",
+      "distance": "6f 20y",
+      "riders": 6,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Water Of Leith",
+          "jockey": "Lauren Young",
+          "cd": 2,
+          "days": 1,
+          "odds": "4/6",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.19
+        },
+        {
+          "rank": 2,
+          "horse": "Woodhay Whisper",
+          "jockey": "Rhys Clutterbuck",
+          "cd": 1,
+          "days": 11,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.19
+        }
+      ]
+    },
+    {
+      "time": "18:30",
+      "meeting": "Wolverhampton",
+      "name": "Midnite, Building The Future Of Betting Handicap (Rider Restricted Race)",
+      "class": "6",
+      "distance": "5f 21y",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Colors Of Freedom",
+          "jockey": "Nicola Currie",
+          "cd": 3,
+          "days": 4,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.19
+        },
+        {
+          "rank": 2,
+          "horse": "Second Collection",
+          "jockey": "Myla Coppins",
+          "cd": 2,
+          "days": 8,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.19
+        }
+      ]
+    },
+    {
+      "time": "19:00",
+      "meeting": "Wolverhampton",
+      "name": "Read Meg Nicholls' Blog At betmgm.co.uk Handicap (Rider Restricted Race)",
+      "class": "4",
+      "distance": "5f 21y",
+      "riders": 7,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Fortification",
+          "jockey": "Harry Vigors",
+          "cd": 1,
+          "days": 25,
+          "odds": "11/4",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.2
+        }
+      ]
+    },
+    {
+      "time": "19:30",
+      "meeting": "Wolverhampton",
+      "name": "BetMGM Supports Safer Gambling Handicap (Rider Restricted Race)",
+      "class": "5",
+      "distance": "1m 142y",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Sceptic",
+          "jockey": "Ryan Kavanagh",
+          "cd": 1,
+          "days": 13,
+          "odds": "22/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.2
+        },
+        {
+          "rank": 2,
+          "horse": "Mr Nugget",
+          "jockey": "O McSweeney",
+          "cd": 3,
+          "days": 15,
+          "odds": "4/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.2
+        },
+        {
+          "rank": 3,
+          "horse": "Eagle Day",
+          "jockey": "George Downing",
+          "cd": 4,
+          "days": 22,
+          "odds": "10/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 0.2
+        }
+      ]
+    },
+    {
+      "time": "20:00",
+      "meeting": "Wolverhampton",
+      "name": "Make The Move To Midnite Handicap (Rider Restricted Race) (Div 1)",
+      "class": "6",
+      "distance": "1m 1f 104y",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Silkies Sib",
+          "jockey": "Ashley Lewis",
+          "cd": 1,
+          "days": 10,
+          "odds": "5/2",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.19
+        },
+        {
+          "rank": 2,
+          "horse": "Scenario",
+          "jockey": "Harry Vigors",
+          "cd": 1,
+          "days": 12,
+          "odds": "13/2",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.19
+        }
+      ]
+    },
+    {
+      "time": "20:30",
+      "meeting": "Wolverhampton",
+      "name": "Make The Move To Midnite Handicap (Rider Restricted Race) (Div 2)",
+      "class": "6",
+      "distance": "1m 1f 104y",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Galaxy Wonder",
+          "jockey": "D C Costello",
+          "cd": 1,
+          "days": 13,
+          "odds": "5/4",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.19
+        },
+        {
+          "rank": 2,
+          "horse": "Tiger Beetle",
+          "jockey": "Zoe Lewis",
+          "cd": 3,
+          "days": 15,
+          "odds": "22/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.19
+        },
+        {
+          "rank": 3,
+          "horse": "Ciotog",
+          "jockey": "Jonny Peate",
+          "cd": 2,
+          "days": 27,
+          "odds": "9/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.19
+        }
+      ]
+    }
+  ],
+  "bank": {
+    "start": 18.77,
+    "stake": 0.19,
+    "end": 18.52
+  }
+}

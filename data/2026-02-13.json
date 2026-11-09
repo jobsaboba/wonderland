@@ -1,0 +1,140 @@
+{
+  "date": "2026-02-13",
+  "updated": "2026-11-09T03:01:58+0000",
+  "races": [
+    {
+      "time": "17:15",
+      "meeting": "Wolverhampton",
+      "name": "BetMGM Supports Safer Gambling Apprentice Handicap",
+      "class": "6",
+      "distance": "1m 142y",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Age Of Time",
+          "jockey": "Ryan Kavanagh",
+          "cd": 2,
+          "days": 9,
+          "odds": "5/2",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.18
+        },
+        {
+          "rank": 2,
+          "horse": "Poetic Force",
+          "jockey": "Myla Coppins",
+          "cd": 5,
+          "days": 11,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.18
+        }
+      ]
+    },
+    {
+      "time": "18:45",
+      "meeting": "Wolverhampton",
+      "name": "Win 250,000 With BetMGM's Golden Goals Handicap",
+      "class": "4",
+      "distance": "7f 36y",
+      "riders": 4,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Follow Your Heart",
+          "jockey": "Warren Fentiman",
+          "cd": 5,
+          "days": 9,
+          "odds": "4/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.2
+        },
+        {
+          "rank": 2,
+          "horse": "Al Muqdad",
+          "jockey": "Mark Winn",
+          "cd": 1,
+          "days": 21,
+          "odds": "13/2",
+          "mark": null,
+          "pos": 3,
+          "res": "LOSE",
+          "stake": 0.2
+        },
+        {
+          "rank": 3,
+          "horse": "City Cyclone",
+          "jockey": "William Carson",
+          "cd": 4,
+          "days": 23,
+          "odds": "13/8",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.2
+        }
+      ]
+    },
+    {
+      "time": "19:45",
+      "meeting": "Wolverhampton",
+      "name": "Join The Midnite Movement Handicap",
+      "class": "4",
+      "distance": "5f 21y",
+      "riders": 7,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Alondra",
+          "jockey": "K T O'Neill",
+          "cd": 1,
+          "days": 4,
+          "odds": "5/2",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.2
+        },
+        {
+          "rank": 2,
+          "horse": "Gustav Graves",
+          "jockey": "Joanna Mason",
+          "cd": 7,
+          "days": 4,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.2
+        },
+        {
+          "rank": 3,
+          "horse": "Gogo Yubari",
+          "jockey": "Harry Vigors",
+          "cd": 1,
+          "days": 13,
+          "odds": "20/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.2
+        }
+      ]
+    }
+  ],
+  "bank": {
+    "start": 17.69,
+    "stake": 0.18,
+    "end": 19.56
+  }
+}

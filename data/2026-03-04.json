@@ -1,0 +1,69 @@
+{
+  "date": "2026-03-04",
+  "updated": "2026-11-09T03:02:00+0000",
+  "races": [
+    {
+      "time": "13:32",
+      "meeting": "Southwell",
+      "name": "Always Gamble Responsibly At BetMGM Handicap (Div 1)",
+      "class": "6",
+      "distance": "1m 13y",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "How's The Guvnor",
+          "jockey": "Darragh Keenan",
+          "cd": 1,
+          "days": 4,
+          "odds": "11/4",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.21
+        },
+        {
+          "rank": 2,
+          "horse": "Roaring Ralph",
+          "jockey": "Mark Winn",
+          "cd": 1,
+          "days": 27,
+          "odds": "11/4",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.21
+        }
+      ]
+    },
+    {
+      "time": "17:07",
+      "meeting": "Southwell",
+      "name": "Read Meg Nicholls' Blog At betmgm.co.uk Fillies' Handicap (GBBPlus Race)",
+      "class": "4",
+      "distance": "1m 3f 23y",
+      "riders": 6,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Caramay",
+          "jockey": "Lewis Edmunds",
+          "cd": 2,
+          "days": 21,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 3,
+          "res": "LOSE",
+          "stake": 0.21
+        }
+      ]
+    }
+  ],
+  "bank": {
+    "start": 20.95,
+    "stake": 0.21,
+    "end": 20.9
+  }
+}

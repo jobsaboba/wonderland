@@ -1,6 +1,6 @@
 {
   "date": "2026-07-07",
-  "updated": "2026-11-08T08:06:02+0000",
+  "updated": "2026-11-09T03:02:08+0000",
   "races": [
     {
       "time": "17:10",
@@ -13,19 +13,127 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Bajan Bandit",
-          "jockey": "Billy Loughnane",
-          "claim": null,
-          "or": 60,
-          "mark": 61,
-          "mark_date": "2026-10-27",
-          "gap": -1,
-          "days": 3,
-          "odds": "13/2",
+          "horse": "River Wharfe",
+          "jockey": "Matthew Slater",
+          "cd": 2,
+          "days": 12,
+          "odds": "100/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.2
+        },
+        {
+          "rank": 2,
+          "horse": "Eagle Day",
+          "jockey": "Rossa Ryan",
+          "cd": 5,
+          "days": 21,
+          "odds": "7/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 0.2
+        },
+        {
+          "rank": 3,
+          "horse": "American State",
+          "jockey": "S Donohoe",
+          "cd": 1,
+          "days": 27,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.2
+        }
+      ]
+    },
+    {
+      "time": "18:40",
+      "meeting": "Wolverhampton",
+      "name": "Follow AtTheRaces On X Handicap (Div 1)",
+      "class": "6",
+      "distance": "6f 20y",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Fancy Dancer",
+          "jockey": "L Morris",
+          "cd": 1,
+          "days": 6,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.2
+        }
+      ]
+    },
+    {
+      "time": "19:10",
+      "meeting": "Wolverhampton",
+      "name": "Follow AtTheRaces On X Handicap (Div 2)",
+      "class": "6",
+      "distance": "6f 20y",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Dr Ali",
+          "jockey": "Jonny Peate",
+          "cd": 1,
+          "days": 19,
+          "odds": "9/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.2
+        },
+        {
+          "rank": 2,
+          "horse": "Walking On Clouds",
+          "jockey": "Joey Haynes",
+          "cd": 1,
+          "days": 26,
+          "odds": "6/1",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.19
+        }
+      ]
+    },
+    {
+      "time": "19:40",
+      "meeting": "Wolverhampton",
+      "name": "Sky Sports Racing Sky 512 Handicap",
+      "class": "6",
+      "distance": "1m 5f 219y",
+      "riders": 6,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "The Craftymaster",
+          "jockey": "Myla Coppins",
+          "cd": 1,
+          "days": 9,
+          "odds": "11/4",
+          "mark": null,
           "pos": 2,
-          "res": "PLACE"
+          "res": "PLACE",
+          "stake": 0.2
         }
       ]
     }
-  ]
+  ],
+  "bank": {
+    "start": 20.43,
+    "stake": 0.2,
+    "end": 20.29
+  }
 }

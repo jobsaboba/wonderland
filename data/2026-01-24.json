@@ -1,0 +1,139 @@
+{
+  "date": "2026-01-24",
+  "updated": "2026-11-09T03:01:57+0000",
+  "races": [
+    {
+      "time": "16:05",
+      "meeting": "Newcastle",
+      "name": "Midnite A Next Generation Betting App Handicap",
+      "class": "6",
+      "distance": "1m 2f 42y",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Alpine Sierra",
+          "jockey": "P Mulrennan",
+          "cd": 1,
+          "days": 14,
+          "odds": "4/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.14
+        },
+        {
+          "rank": 2,
+          "horse": "Star Cast",
+          "jockey": "Billy Loughnane",
+          "cd": 1,
+          "days": 14,
+          "odds": "10/3",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.14
+        },
+        {
+          "rank": 3,
+          "horse": "Brunello Breeze",
+          "jockey": "Billy Garritty",
+          "cd": 2,
+          "days": 15,
+          "odds": "28/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.14
+        }
+      ]
+    },
+    {
+      "time": "17:35",
+      "meeting": "Newcastle",
+      "name": "Midnite, Building The Future Of Betting Handicap",
+      "class": "2",
+      "distance": "5f",
+      "riders": 6,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Paddy's Day",
+          "jockey": "Alex Jary",
+          "cd": 7,
+          "days": 11,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 3,
+          "res": "LOSE",
+          "stake": 0.14
+        }
+      ]
+    },
+    {
+      "time": "18:05",
+      "meeting": "Newcastle",
+      "name": "Midnite: Built For 2026 Not 2006 Handicap",
+      "class": "4",
+      "distance": "6f",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "True Promise",
+          "jockey": "O McSweeney",
+          "cd": 1,
+          "days": 8,
+          "odds": "4/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.14
+        },
+        {
+          "rank": 2,
+          "horse": "The Turpinator",
+          "jockey": "Oliver Stammers",
+          "cd": 1,
+          "days": 11,
+          "odds": "6/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.14
+        }
+      ]
+    },
+    {
+      "time": "18:35",
+      "meeting": "Newcastle",
+      "name": "Win 250,000 With BetMGM's Golden Goals Handicap",
+      "class": "6",
+      "distance": "7f 14y",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Woodrafff",
+          "jockey": "J P Sullivan",
+          "cd": 1,
+          "days": 21,
+          "odds": "3/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.14
+        }
+      ]
+    }
+  ],
+  "bank": {
+    "start": 14.39,
+    "stake": 0.14,
+    "end": 13.61
+  }
+}

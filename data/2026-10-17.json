@@ -1,0 +1,128 @@
+{
+  "date": "2026-10-17",
+  "updated": "2026-11-09T03:02:15+0000",
+  "races": [
+    {
+      "time": "15:23",
+      "meeting": "Southwell",
+      "name": "Book The Bistro In Seasons Restaurant Handicap",
+      "class": "6",
+      "distance": "1m 14y",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "El Fox",
+          "jockey": "L Morris",
+          "cd": 1,
+          "days": 7,
+          "odds": "7/2",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.14
+        },
+        {
+          "rank": 2,
+          "horse": "Relevant Range",
+          "jockey": "Elle-May Croot",
+          "cd": 1,
+          "days": 15,
+          "odds": "22/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 0.14
+        },
+        {
+          "rank": 3,
+          "horse": "Avatar Jet",
+          "jockey": "Zak Wheatley",
+          "cd": 1,
+          "days": 21,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 11,
+          "res": "LOSE",
+          "stake": 0.14
+        }
+      ]
+    },
+    {
+      "time": "16:30",
+      "meeting": "Southwell",
+      "name": "Saturday 24th October Gents Night Handicap (Div 1)",
+      "class": "5",
+      "distance": "7f 15y",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Enpassant",
+          "jockey": "K T O'Neill",
+          "cd": 1,
+          "days": 9,
+          "odds": "10/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.14
+        },
+        {
+          "rank": 2,
+          "horse": "King Of York",
+          "jockey": "Christian Howarth",
+          "cd": 5,
+          "days": 9,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.14
+        }
+      ]
+    },
+    {
+      "time": "17:00",
+      "meeting": "Southwell",
+      "name": "Saturday 24th October Gents Night Handicap (Div 2)",
+      "class": "5",
+      "distance": "7f 15y",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Shaw Park",
+          "jockey": "K T O'Neill",
+          "cd": 1,
+          "days": 9,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.14
+        },
+        {
+          "rank": 2,
+          "horse": "King Sharja",
+          "jockey": "J P Sullivan",
+          "cd": 1,
+          "days": 15,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.14
+        }
+      ]
+    }
+  ],
+  "bank": {
+    "start": 13.79,
+    "stake": 0.14,
+    "end": 13.71
+  }
+}

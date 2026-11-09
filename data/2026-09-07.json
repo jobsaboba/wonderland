@@ -1,32 +1,7 @@
 {
   "date": "2026-09-07",
-  "updated": "2026-11-08T08:06:02+0000",
+  "updated": "2026-11-09T03:02:12+0000",
   "races": [
-    {
-      "time": "18:00",
-      "meeting": "Wolverhampton",
-      "name": "Call 01902 390016 To Name A Race Handicap",
-      "class": "6",
-      "distance": "1m 142y",
-      "riders": 13,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Crown The Future",
-          "jockey": "Jack Doughty",
-          "claim": null,
-          "or": 48,
-          "mark": 50,
-          "mark_date": "2026-09-28",
-          "gap": -2,
-          "days": 20,
-          "odds": "10/1",
-          "pos": 2,
-          "res": "PLACE"
-        }
-      ]
-    },
     {
       "time": "18:30",
       "meeting": "Wolverhampton",
@@ -38,19 +13,92 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "The Anthony Gover",
-          "jockey": "Billy Loughnane",
-          "claim": null,
-          "or": 62,
-          "mark": 65,
-          "mark_date": "2026-09-21",
-          "gap": -3,
+          "horse": "Midnight Media",
+          "jockey": "Lewis Edmunds",
+          "cd": 1,
+          "days": 6,
+          "odds": "8/11",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.22
+        },
+        {
+          "rank": 2,
+          "horse": "Zipwire",
+          "jockey": "Taylor Fisher",
+          "cd": 2,
+          "days": 17,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.22
+        }
+      ]
+    },
+    {
+      "time": "19:00",
+      "meeting": "Wolverhampton",
+      "name": "attheraces.com/marketmovers Handicap",
+      "class": "4",
+      "distance": "1m 142y",
+      "riders": 13,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Helm Rock",
+          "jockey": "Alec Voikhansky",
+          "cd": 1,
+          "days": 19,
+          "odds": "10/1",
+          "mark": null,
+          "pos": 12,
+          "res": "LOSE",
+          "stake": 0.22
+        }
+      ]
+    },
+    {
+      "time": "19:30",
+      "meeting": "Wolverhampton",
+      "name": "Get The Inside Track With raceday-ready.com Handicap",
+      "class": "5",
+      "distance": "5f 21y",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "General Assembly",
+          "jockey": "Lewis Edmunds",
+          "cd": 1,
           "days": 11,
-          "odds": "10/3",
-          "pos": 1,
-          "res": "WIN"
+          "odds": "15/2",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.21
+        },
+        {
+          "rank": 2,
+          "horse": "Blue Force",
+          "jockey": "Cam Hardie",
+          "cd": 1,
+          "days": 21,
+          "odds": "15/8",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.21
         }
       ]
     }
-  ]
+  ],
+  "bank": {
+    "start": 22.08,
+    "stake": 0.22,
+    "end": 21.03
+  }
 }

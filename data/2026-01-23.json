@@ -1,7 +1,171 @@
 {
   "date": "2026-01-23",
-  "updated": "2026-11-08T08:06:00+0000",
+  "updated": "2026-11-09T03:01:57+0000",
   "races": [
+    {
+      "time": "12:57",
+      "meeting": "Wolverhampton",
+      "name": "Midnite: Built For 2026 Not 2006 Handicap",
+      "class": "6",
+      "distance": "1m 1f 104y",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Mr Nugget",
+          "jockey": "S M Levey",
+          "cd": 1,
+          "days": 6,
+          "odds": "11/4",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.14
+        },
+        {
+          "rank": 2,
+          "horse": "Dingwall",
+          "jockey": "Cam Hardie",
+          "cd": 2,
+          "days": 7,
+          "odds": "6/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.14
+        },
+        {
+          "rank": 3,
+          "horse": "Magic Runner",
+          "jockey": "J P Sullivan",
+          "cd": 2,
+          "days": 7,
+          "odds": "13/2",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.14
+        }
+      ]
+    },
+    {
+      "time": "13:27",
+      "meeting": "Wolverhampton",
+      "name": "Always Gamble Responsibly At BetMGM Handicap",
+      "class": "5",
+      "distance": "1m 142y",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Fools Rush In",
+          "jockey": "J P Sullivan",
+          "cd": 2,
+          "days": 7,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.14
+        }
+      ]
+    },
+    {
+      "time": "16:10",
+      "meeting": "Wolverhampton",
+      "name": "Make The Move To Midnite Handicap",
+      "class": "5",
+      "distance": "5f 21y",
+      "riders": 7,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Street Life",
+          "jockey": "Ethan Tindall",
+          "cd": 3,
+          "days": 3,
+          "odds": "15/2",
+          "mark": null,
+          "pos": 3,
+          "res": "LOSE",
+          "stake": 0.14
+        },
+        {
+          "rank": 2,
+          "horse": "Blue Force",
+          "jockey": "Cam Hardie",
+          "cd": 1,
+          "days": 21,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.14
+        },
+        {
+          "rank": 3,
+          "horse": "Gustav Graves",
+          "jockey": "Jack Doughty",
+          "cd": 7,
+          "days": 21,
+          "odds": "9/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.14
+        }
+      ]
+    },
+    {
+      "time": "16:45",
+      "meeting": "Southwell",
+      "name": "Win 250,000 With BetMGM's Golden Goals Handicap",
+      "class": "6",
+      "distance": "1m 13y",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Imola",
+          "jockey": "Lewis Edmunds",
+          "cd": 1,
+          "days": 7,
+          "odds": "5/4",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.14
+        },
+        {
+          "rank": 2,
+          "horse": "Amber Honey",
+          "jockey": "Tom Marquand",
+          "cd": 1,
+          "days": 13,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.14
+        },
+        {
+          "rank": 3,
+          "horse": "Quite Sweet",
+          "jockey": "William Carson",
+          "cd": 1,
+          "days": 17,
+          "odds": "18/1",
+          "mark": null,
+          "pos": 11,
+          "res": "LOSE",
+          "stake": 0.13
+        }
+      ]
+    },
     {
       "time": "18:15",
       "meeting": "Southwell",
@@ -15,17 +179,55 @@
           "rank": 1,
           "horse": "Down To The Kid",
           "jockey": "Jason Hart",
-          "claim": null,
-          "or": 78,
-          "mark": 84,
-          "mark_date": "2026-02-20",
-          "gap": -6,
+          "cd": 1,
           "days": 19,
           "odds": "3/1",
+          "mark": -6,
           "pos": 1,
-          "res": "WIN"
+          "res": "WIN",
+          "stake": 0.13
+        },
+        {
+          "rank": 2,
+          "horse": "Chola Empire",
+          "jockey": "L Morris",
+          "cd": 3,
+          "days": 21,
+          "odds": "18/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.14
+        }
+      ]
+    },
+    {
+      "time": "18:45",
+      "meeting": "Southwell",
+      "name": "BetMGM Supports Safer Gambling Handicap (Div 2)",
+      "class": "4",
+      "distance": "7f 14y",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Eligible",
+          "jockey": "Joanna Mason",
+          "cd": 4,
+          "days": 13,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.14
         }
       ]
     }
-  ]
+  ],
+  "bank": {
+    "start": 13.79,
+    "stake": 0.14,
+    "end": 14.39
+  }
 }

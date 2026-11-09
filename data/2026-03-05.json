@@ -1,0 +1,128 @@
+{
+  "date": "2026-03-05",
+  "updated": "2026-11-09T03:02:00+0000",
+  "races": [
+    {
+      "time": "16:55",
+      "meeting": "Newcastle",
+      "name": "Midnite Ain't Your Grandad's Bookie Handicap",
+      "class": "5",
+      "distance": "1m 2f 42y",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Ana Emaraaty",
+          "jockey": "Lauren Young",
+          "cd": 2,
+          "days": 6,
+          "odds": "9/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 0.21
+        }
+      ]
+    },
+    {
+      "time": "18:30",
+      "meeting": "Newcastle",
+      "name": "Win 250,000 With BetMGM's Golden Goals Handicap",
+      "class": "3",
+      "distance": "7f 14y",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Aisling Oscar",
+          "jockey": "Hollie Doyle",
+          "cd": 4,
+          "days": 5,
+          "odds": "6/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.21
+        },
+        {
+          "rank": 2,
+          "horse": "Nikovo",
+          "jockey": "Jason Hart",
+          "cd": 1,
+          "days": 8,
+          "odds": "15/8",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.2
+        },
+        {
+          "rank": 3,
+          "horse": "Eldrickjones",
+          "jockey": "Mark Winn",
+          "cd": 4,
+          "days": 13,
+          "odds": "9/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.21
+        }
+      ]
+    },
+    {
+      "time": "19:30",
+      "meeting": "Newcastle",
+      "name": "Midnite: Built For 2026 Not 2006 Handicap",
+      "class": "5",
+      "distance": "5f",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Blue Force",
+          "jockey": "Cam Hardie",
+          "cd": 2,
+          "days": 13,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.2
+        },
+        {
+          "rank": 2,
+          "horse": "Dark Kestrel",
+          "jockey": "Harry Russell",
+          "cd": 3,
+          "days": 14,
+          "odds": "22/1",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.2
+        },
+        {
+          "rank": 3,
+          "horse": "Digital",
+          "jockey": "J P Sullivan",
+          "cd": 3,
+          "days": 14,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 0.24
+        }
+      ]
+    }
+  ],
+  "bank": {
+    "start": 20.9,
+    "stake": 0.21,
+    "end": 24.21
+  }
+}

@@ -1,6 +1,6 @@
 {
   "date": "2026-08-31",
-  "updated": "2026-11-08T08:06:02+0000",
+  "updated": "2026-11-09T03:02:11+0000",
   "races": [
     {
       "time": "13:07",
@@ -13,17 +13,50 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Blue Tulip",
-          "jockey": "Billy Loughnane",
-          "claim": null,
-          "or": 58,
-          "mark": 58,
-          "mark_date": "2026-10-03",
-          "gap": 0,
+          "horse": "Lednikov",
+          "jockey": "Elle-May Croot",
+          "cd": 1,
           "days": 16,
-          "odds": "6/4",
+          "odds": "10/3",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.23
+        }
+      ]
+    },
+    {
+      "time": "13:42",
+      "meeting": "Southwell",
+      "name": "Winter Ladies Evening Sat 28th November Handicap",
+      "class": "5",
+      "distance": "1m 3f 23y",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Bearwith",
+          "jockey": "Tom Kiely-Marshall",
+          "cd": 1,
+          "days": 19,
+          "odds": "4/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.23
+        },
+        {
+          "rank": 2,
+          "horse": "Everyoneknowsadave",
+          "jockey": "Liam Wright",
+          "cd": 1,
+          "days": 28,
+          "odds": "9/1",
+          "mark": null,
           "pos": 2,
-          "res": "PLACE"
+          "res": "PLACE",
+          "stake": 0.22
         }
       ]
     },
@@ -38,44 +71,93 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Izzari",
-          "jockey": "A Mullen",
-          "claim": null,
-          "or": 63,
-          "mark": 66,
-          "mark_date": "2026-10-10",
-          "gap": -3,
-          "days": 20,
-          "odds": "11/2",
-          "pos": 8,
-          "res": "LOSE"
+          "horse": "Bajan Bandit",
+          "jockey": "Paddy Bradley",
+          "cd": 1,
+          "days": 11,
+          "odds": "13/2",
+          "mark": null,
+          "pos": 12,
+          "res": "LOSE",
+          "stake": 0.23
+        },
+        {
+          "rank": 2,
+          "horse": "Avatar Jet",
+          "jockey": "Zak Wheatley",
+          "cd": 1,
+          "days": 12,
+          "odds": "7/2",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.22
+        },
+        {
+          "rank": 3,
+          "horse": "Just Typical",
+          "jockey": "Billy Loughnane",
+          "cd": 1,
+          "days": 25,
+          "odds": "7/2",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.22
         }
       ]
     },
     {
-      "time": "15:25",
+      "time": "16:00",
       "meeting": "Southwell",
-      "name": "Southwell Racecourse Conference & Events Handicap (Div 2)",
+      "name": "Gents Evening Saturday 24th October Handicap",
       "class": "5",
-      "distance": "1m 13y",
-      "riders": 9,
+      "distance": "6f 16y",
+      "riders": 12,
       "settled": true,
       "sel": [
         {
           "rank": 1,
-          "horse": "Roi De Coeur",
-          "jockey": "Marco Ghiani",
-          "claim": null,
-          "or": 70,
-          "mark": 72,
-          "mark_date": "2026-09-17",
-          "gap": -2,
-          "days": 21,
-          "odds": "9/4",
-          "pos": 2,
-          "res": "PLACE"
+          "horse": "Hectic",
+          "jockey": "J Garritty",
+          "cd": 1,
+          "days": 14,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.22
+        },
+        {
+          "rank": 2,
+          "horse": "Hierarchy",
+          "jockey": "William Carver",
+          "cd": 2,
+          "days": 16,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 12,
+          "res": "LOSE",
+          "stake": 0.22
+        },
+        {
+          "rank": 3,
+          "horse": "Thunderous Love",
+          "jockey": "Rob Hornby",
+          "cd": 1,
+          "days": 20,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 0.22
         }
       ]
     }
-  ]
+  ],
+  "bank": {
+    "start": 22.85,
+    "stake": 0.23,
+    "end": 21.72
+  }
 }

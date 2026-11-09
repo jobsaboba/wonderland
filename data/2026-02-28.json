@@ -1,0 +1,151 @@
+{
+  "date": "2026-02-28",
+  "updated": "2026-11-09T03:01:59+0000",
+  "races": [
+    {
+      "time": "16:21",
+      "meeting": "Southwell",
+      "name": "Always Gamble Responsibly At BetMGM Handicap (Div 1)",
+      "class": "5",
+      "distance": "7f 14y",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Fools Rush In",
+          "jockey": "J P Sullivan",
+          "cd": 2,
+          "days": 8,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.2
+        }
+      ]
+    },
+    {
+      "time": "16:55",
+      "meeting": "Southwell",
+      "name": "Always Gamble Responsibly At BetMGM Handicap (Div 2)",
+      "class": "5",
+      "distance": "7f 14y",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "King Of York",
+          "jockey": "K T O'Neill",
+          "cd": 5,
+          "days": 8,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.2
+        },
+        {
+          "rank": 2,
+          "horse": "No Knee Never",
+          "jockey": "S H James",
+          "cd": 1,
+          "days": 8,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.2
+        },
+        {
+          "rank": 3,
+          "horse": "Packetofbiscuits",
+          "jockey": "P J McDonald",
+          "cd": 1,
+          "days": 8,
+          "odds": "15/8",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.2
+        }
+      ]
+    },
+    {
+      "time": "19:00",
+      "meeting": "Southwell",
+      "name": "Midnite A Next Generation Betting App Handicap",
+      "class": "4",
+      "distance": "1m 13y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Panama Black",
+          "jockey": "Charles Bishop",
+          "cd": 1,
+          "days": 4,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.2
+        },
+        {
+          "rank": 2,
+          "horse": "Aisling Oscar",
+          "jockey": "C J Whiteley",
+          "cd": 1,
+          "days": 14,
+          "odds": "3/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.2
+        },
+        {
+          "rank": 3,
+          "horse": "Tribal Wisdom",
+          "jockey": "Edward Greatrex",
+          "cd": 1,
+          "days": 16,
+          "odds": "10/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.2
+        }
+      ]
+    },
+    {
+      "time": "20:30",
+      "meeting": "Southwell",
+      "name": "Bet 10 Get 40 With BetMGM Handicap",
+      "class": "5",
+      "distance": "4f 214y",
+      "riders": 7,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Rotokura Belle",
+          "jockey": "Elle-May Croot",
+          "cd": 1,
+          "days": 25,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.2
+        }
+      ]
+    }
+  ],
+  "bank": {
+    "start": 20.04,
+    "stake": 0.2,
+    "end": 19.86
+  }
+}

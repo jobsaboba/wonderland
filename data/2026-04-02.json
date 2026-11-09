@@ -1,7 +1,30 @@
 {
   "date": "2026-04-02",
-  "updated": "2026-11-08T08:06:01+0000",
+  "updated": "2026-11-09T03:02:02+0000",
   "races": [
+    {
+      "time": "16:48",
+      "meeting": "Southwell",
+      "name": "Make The Move To Midnite Handicap",
+      "class": "4",
+      "distance": "6f 16y",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Stanley Spencer",
+          "jockey": "D Tudhope",
+          "cd": 2,
+          "days": 5,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.17
+        }
+      ]
+    },
     {
       "time": "17:48",
       "meeting": "Southwell",
@@ -13,19 +36,92 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Opal Storm",
-          "jockey": "Faye McManoman",
-          "claim": null,
-          "or": 52,
-          "mark": 59,
-          "mark_date": "2026-10-10",
-          "gap": -7,
-          "days": 19,
-          "odds": "33/1",
+          "horse": "Colors Of Freedom",
+          "jockey": "K T O'Neill",
+          "cd": 2,
+          "days": 5,
+          "odds": "6/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.17
+        },
+        {
+          "rank": 2,
+          "horse": "Street Life",
+          "jockey": "Myla Coppins",
+          "cd": 5,
+          "days": 5,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.17
+        },
+        {
+          "rank": 3,
+          "horse": "Master Zack",
+          "jockey": "Hollie Doyle",
+          "cd": 1,
+          "days": 26,
+          "odds": "28/1",
+          "mark": null,
+          "pos": 13,
+          "res": "LOSE",
+          "stake": 0.17
+        }
+      ]
+    },
+    {
+      "time": "18:48",
+      "meeting": "Southwell",
+      "name": "Midnite Are Upping The Betting Game Handicap",
+      "class": "6",
+      "distance": "2m 102y",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Zephlyn",
+          "jockey": "Jason Hart",
+          "cd": 1,
+          "days": 23,
+          "odds": "7/2",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.16
+        }
+      ]
+    },
+    {
+      "time": "19:18",
+      "meeting": "Southwell",
+      "name": "Create Your Bet Builders At Midnite Handicap",
+      "class": "5",
+      "distance": "1m 3f 23y",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Hackney Diamonds",
+          "jockey": "Jason Watson",
+          "cd": 1,
+          "days": 12,
+          "odds": "11/2",
+          "mark": null,
           "pos": 1,
-          "res": "WIN"
+          "res": "WIN",
+          "stake": 0.16
         }
       ]
     }
-  ]
+  ],
+  "bank": {
+    "start": 17.0,
+    "stake": 0.17,
+    "end": 17.03
+  }
 }

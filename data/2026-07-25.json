@@ -1,7 +1,88 @@
 {
   "date": "2026-07-25",
-  "updated": "2026-11-08T08:06:02+0000",
+  "updated": "2026-11-09T03:02:09+0000",
   "races": [
+    {
+      "time": "12:35",
+      "meeting": "Newcastle",
+      "name": "John Duncan Brack Apprentice Handicap",
+      "class": "6",
+      "distance": "1m 2f 42y",
+      "riders": 13,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Jewel Maker",
+          "jockey": "Jack Nicholls",
+          "cd": 1,
+          "days": 21,
+          "odds": "28/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.2
+        },
+        {
+          "rank": 2,
+          "horse": "Gemini Man",
+          "jockey": "Cara Tuke",
+          "cd": 1,
+          "days": 25,
+          "odds": "11/2",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 0.19
+        }
+      ]
+    },
+    {
+      "time": "13:05",
+      "meeting": "Newcastle",
+      "name": "www.eatflixcinema.com Handicap (GBBPlus Race)",
+      "class": "4",
+      "distance": "1m 4f 98y",
+      "riders": 13,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Haveyoumissedme",
+          "jockey": "A Mullen",
+          "cd": 1,
+          "days": 28,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.19
+        }
+      ]
+    },
+    {
+      "time": "14:15",
+      "meeting": "Newcastle",
+      "name": "Brack Burger On Uber Eats Beeswing Handicap (Div 1)",
+      "class": "4",
+      "distance": "1m 5y",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Sovereign View",
+          "jockey": "Darragh Keenan",
+          "cd": 1,
+          "days": 26,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.19
+        }
+      ]
+    },
     {
       "time": "15:35",
       "meeting": "Newcastle",
@@ -13,44 +94,34 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Adelaide Bay",
-          "jockey": "Billy Loughnane",
-          "claim": null,
-          "or": 54,
-          "mark": 54,
-          "mark_date": "2026-09-25",
-          "gap": 0,
-          "days": 11,
-          "odds": "6/4",
-          "pos": 4,
-          "res": "LOSE"
-        }
-      ]
-    },
-    {
-      "time": "16:10",
-      "meeting": "Newcastle",
-      "name": "Jimmy Tindall Handicap",
-      "class": "6",
-      "distance": "5f",
-      "riders": 10,
-      "settled": true,
-      "sel": [
+          "horse": "Little Ted",
+          "jockey": "O McSweeney",
+          "cd": 1,
+          "days": 21,
+          "odds": "4/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.19
+        },
         {
-          "rank": 1,
-          "horse": "Ellie's De Vega",
-          "jockey": "Billy Garritty",
-          "claim": null,
-          "or": 50,
-          "mark": 52,
-          "mark_date": "2026-10-20",
-          "gap": -2,
-          "days": 19,
-          "odds": "5/2",
-          "pos": 2,
-          "res": "PLACE"
+          "rank": 2,
+          "horse": "Wheres The Crumpet",
+          "jockey": "Callum Hutchinson",
+          "cd": 1,
+          "days": 21,
+          "odds": "33/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.19
         }
       ]
     }
-  ]
+  ],
+  "bank": {
+    "start": 19.63,
+    "stake": 0.2,
+    "end": 18.48
+  }
 }

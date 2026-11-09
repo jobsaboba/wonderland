@@ -1,7 +1,205 @@
 {
   "date": "2026-02-24",
-  "updated": "2026-11-08T08:06:01+0000",
+  "updated": "2026-11-09T03:01:59+0000",
   "races": [
+    {
+      "time": "14:42",
+      "meeting": "Newcastle",
+      "name": "Join The Midnite Movement Handicap",
+      "class": "6",
+      "distance": "5f",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Shatin Venture",
+          "jockey": "Amie Waugh",
+          "cd": 1,
+          "days": 9,
+          "odds": "9/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.18
+        },
+        {
+          "rank": 2,
+          "horse": "Wee Mary",
+          "jockey": "Lauren Young",
+          "cd": 1,
+          "days": 22,
+          "odds": "28/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.18
+        }
+      ]
+    },
+    {
+      "time": "15:42",
+      "meeting": "Newcastle",
+      "name": "Midnite Are Upping The Betting Game Handicap",
+      "class": "5",
+      "distance": "6f",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Dandy Magic",
+          "jockey": "Lauren Young",
+          "cd": 2,
+          "days": 5,
+          "odds": "11/2",
+          "mark": null,
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 0.18
+        },
+        {
+          "rank": 2,
+          "horse": "True Promise",
+          "jockey": "Callum Rodriguez",
+          "cd": 1,
+          "days": 5,
+          "odds": "3/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.17
+        },
+        {
+          "rank": 3,
+          "horse": "Novak",
+          "jockey": "Mohammed Tabti",
+          "cd": 1,
+          "days": 9,
+          "odds": "10/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.17
+        }
+      ]
+    },
+    {
+      "time": "15:55",
+      "meeting": "Southwell",
+      "name": "Bet 10 Get 40 With BetMGM Handicap",
+      "class": "5",
+      "distance": "1m 13y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Hale End",
+          "jockey": "Daniel Muscutt",
+          "cd": 1,
+          "days": 25,
+          "odds": "17/2",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.17
+        },
+        {
+          "rank": 2,
+          "horse": "Panama Black",
+          "jockey": "Joe Leavy",
+          "cd": 1,
+          "days": 25,
+          "odds": "11/2",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.17
+        }
+      ]
+    },
+    {
+      "time": "16:12",
+      "meeting": "Newcastle",
+      "name": "Always Gamble Responsibly At BetMGM Handicap (Div 1)",
+      "class": "6",
+      "distance": "7f 14y",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Pallas Lord",
+          "jockey": "Jason Hart",
+          "cd": 4,
+          "days": 5,
+          "odds": "11/4",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.17
+        }
+      ]
+    },
+    {
+      "time": "17:30",
+      "meeting": "Southwell",
+      "name": "Midnite Are Upping The Betting Game Handicap (Div 1)",
+      "class": "6",
+      "distance": "6f 16y",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Walking On Clouds",
+          "jockey": "Joey Haynes",
+          "cd": 3,
+          "days": 13,
+          "odds": "28/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 0.17
+        }
+      ]
+    },
+    {
+      "time": "17:42",
+      "meeting": "Newcastle",
+      "name": "Win 250,000 With BetMGM's Golden Goals Handicap",
+      "class": "6",
+      "distance": "1m 5y",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Dream Illusion",
+          "jockey": "Jason Hart",
+          "cd": 1,
+          "days": 4,
+          "odds": "5/4",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.17
+        },
+        {
+          "rank": 2,
+          "horse": "Wyvern",
+          "jockey": "C Horgan",
+          "cd": 2,
+          "days": 5,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.17
+        }
+      ]
+    },
     {
       "time": "18:00",
       "meeting": "Southwell",
@@ -13,19 +211,69 @@
       "sel": [
         {
           "rank": 1,
+          "horse": "Barney's Bay",
+          "jockey": "Faye McManoman",
+          "cd": 1,
+          "days": 5,
+          "odds": "28/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.17
+        },
+        {
+          "rank": 2,
           "horse": "Piperstown",
           "jockey": "Oliver Stammers",
-          "claim": null,
-          "or": 53,
-          "mark": 54,
-          "mark_date": "2026-04-11",
-          "gap": -1,
+          "cd": 1,
           "days": 15,
           "odds": "6/1",
+          "mark": -1,
           "pos": 5,
-          "res": "LOSE"
+          "res": "LOSE",
+          "stake": 0.16
+        },
+        {
+          "rank": 3,
+          "horse": "Glendown",
+          "jockey": "D Fentiman",
+          "cd": 1,
+          "days": 19,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 0.16
+        }
+      ]
+    },
+    {
+      "time": "20:00",
+      "meeting": "Southwell",
+      "name": "Midnite: Built For 2026 Not 2006 Handicap",
+      "class": "5",
+      "distance": "2m 102y",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Further Measure",
+          "jockey": "K T O'Neill",
+          "cd": 2,
+          "days": 13,
+          "odds": "11/2",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.16
         }
       ]
     }
-  ]
+  ],
+  "bank": {
+    "start": 18.02,
+    "stake": 0.18,
+    "end": 15.98
+  }
 }

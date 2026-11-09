@@ -1,6 +1,6 @@
 {
   "date": "2026-11-06",
-  "updated": "2026-11-09T02:21:01+0000",
+  "updated": "2026-11-09T03:02:16+0000",
   "races": [
     {
       "time": "14:53",
@@ -18,9 +18,10 @@
           "cd": 1,
           "days": 18,
           "odds": "7/1",
+          "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 0.04
+          "stake": 0.09
         }
       ]
     },
@@ -40,9 +41,10 @@
           "cd": 3,
           "days": 17,
           "odds": "33/1",
+          "mark": null,
           "pos": 12,
           "res": "LOSE",
-          "stake": 0.04
+          "stake": 0.09
         },
         {
           "rank": 2,
@@ -51,9 +53,10 @@
           "cd": 1,
           "days": 18,
           "odds": "7/2",
+          "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 0.04
+          "stake": 0.09
         },
         {
           "rank": 3,
@@ -62,9 +65,10 @@
           "cd": 1,
           "days": 21,
           "odds": "22/1",
+          "mark": null,
           "pos": 14,
           "res": "LOSE",
-          "stake": 0.04
+          "stake": 0.09
         }
       ]
     },
@@ -84,9 +88,10 @@
           "cd": 5,
           "days": 7,
           "odds": "50/1",
+          "mark": null,
           "pos": 11,
           "res": "LOSE",
-          "stake": 0.04
+          "stake": 0.09
         },
         {
           "rank": 2,
@@ -95,9 +100,10 @@
           "cd": 4,
           "days": 20,
           "odds": "7/1",
+          "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.04
+          "stake": 0.09
         },
         {
           "rank": 3,
@@ -106,9 +112,10 @@
           "cd": 4,
           "days": 20,
           "odds": "11/1",
+          "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.04
+          "stake": 0.09
         }
       ]
     },
@@ -128,9 +135,10 @@
           "cd": 2,
           "days": 7,
           "odds": "11/1",
+          "mark": -2,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.04
+          "stake": 0.09
         },
         {
           "rank": 2,
@@ -139,9 +147,10 @@
           "cd": 1,
           "days": 7,
           "odds": "11/1",
+          "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.04
+          "stake": 0.09
         }
       ]
     },
@@ -161,38 +170,29 @@
           "cd": 2,
           "days": 7,
           "odds": "4/1",
+          "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.04
+          "stake": 0.09
         },
         {
           "rank": 2,
-          "horse": "Sugar Baby",
-          "jockey": "Jake Dickson",
-          "cd": 1,
-          "days": 7,
-          "odds": "10/1",
-          "pos": 6,
-          "res": "LOSE",
-          "stake": 0.04
-        },
-        {
-          "rank": 3,
           "horse": "Too Much",
           "jockey": "Kaiya Fraser",
           "cd": 1,
           "days": 11,
           "odds": "16/1",
+          "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.04
+          "stake": 0.09
         }
       ]
     }
   ],
   "bank": {
-    "start": 3.92,
-    "stake": 0.04,
-    "end": 3.63
+    "start": 9.42,
+    "stake": 0.09,
+    "end": 8.85
   }
 }

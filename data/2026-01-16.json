@@ -1,29 +1,402 @@
 {
   "date": "2026-01-16",
-  "updated": "2026-11-08T08:06:00+0000",
+  "updated": "2026-11-09T03:01:56+0000",
   "races": [
     {
-      "time": "14:50",
+      "time": "12:30",
       "meeting": "Newcastle",
-      "name": "Midnite AWC Middle Distance Trial Handicap (GBBPlus Race)",
+      "name": "Midnite Are Upping The Betting Game Apprentice Handicap (Div 1)",
+      "class": "5",
+      "distance": "6f",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Blue Lakota",
+          "jockey": "Jack Nicholls",
+          "cd": 1,
+          "days": 15,
+          "odds": "10/1",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.08
+        },
+        {
+          "rank": 2,
+          "horse": "Lion's House",
+          "jockey": "Alfie Redman",
+          "cd": 1,
+          "days": 15,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 0.08
+        },
+        {
+          "rank": 3,
+          "horse": "True Promise",
+          "jockey": "O McSweeney",
+          "cd": 1,
+          "days": 19,
+          "odds": "4/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.08
+        }
+      ]
+    },
+    {
+      "time": "13:05",
+      "meeting": "Newcastle",
+      "name": "Midnite Are Upping The Betting Game Apprentice Handicap (Div 2)",
+      "class": "5",
+      "distance": "6f",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Judgment Call",
+          "jockey": "Alex Jary",
+          "cd": 1,
+          "days": 12,
+          "odds": "7/2",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.08
+        },
+        {
+          "rank": 2,
+          "horse": "Dandy Magic",
+          "jockey": "Rhys Elliott",
+          "cd": 2,
+          "days": 15,
+          "odds": "7/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.08
+        },
+        {
+          "rank": 3,
+          "horse": "Fiscal Policy",
+          "jockey": "Warren Fentiman",
+          "cd": 1,
+          "days": 19,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.08
+        }
+      ]
+    },
+    {
+      "time": "14:15",
+      "meeting": "Newcastle",
+      "name": "Midnite AWC Marathon Trial Handicap (GBBPlus Race)",
       "class": "2",
-      "distance": "1m 2f 42y",
+      "distance": "2m 56y",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Wise Eagle",
+          "jockey": "Billy Garritty",
+          "cd": 2,
+          "days": 15,
+          "odds": "33/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.08
+        }
+      ]
+    },
+    {
+      "time": "15:20",
+      "meeting": "Newcastle",
+      "name": "Midnite AWC Sprint Trial Handicap",
+      "class": "2",
+      "distance": "6f",
       "riders": 14,
       "settled": true,
       "sel": [
         {
           "rank": 1,
-          "horse": "Zryan",
-          "jockey": "Mark Winn",
-          "claim": null,
-          "or": 86,
-          "mark": 86,
-          "mark_date": "2026-01-31",
-          "gap": 0,
-          "days": 21,
+          "horse": "Heavenly Heather",
+          "jockey": "Barry McHugh",
+          "cd": 1,
+          "days": 3,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.08
+        },
+        {
+          "rank": 2,
+          "horse": "Fivethousandtoone",
+          "jockey": "Sean Kirrane",
+          "cd": 3,
+          "days": 15,
           "odds": "28/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.08
+        },
+        {
+          "rank": 3,
+          "horse": "Oriental Prince",
+          "jockey": "Amie Waugh",
+          "cd": 1,
+          "days": 15,
+          "odds": "33/1",
+          "mark": null,
           "pos": 10,
-          "res": "LOSE"
+          "res": "LOSE",
+          "stake": 0.08
+        }
+      ]
+    },
+    {
+      "time": "15:55",
+      "meeting": "Newcastle",
+      "name": "BetMGM AWC 3YO Trial Handicap",
+      "class": "2",
+      "distance": "6f",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Augustus Gloop",
+          "jockey": "Harry Davies",
+          "cd": 1,
+          "days": 10,
+          "odds": "10/3",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.08
+        }
+      ]
+    },
+    {
+      "time": "16:30",
+      "meeting": "Newcastle",
+      "name": "BetMGM AWC Mile Trial Handicap",
+      "class": "2",
+      "distance": "1m 5y",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Talis Evolvere",
+          "jockey": "Alec Voikhansky",
+          "cd": 1,
+          "days": 13,
+          "odds": "13/2",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.08
+        }
+      ]
+    },
+    {
+      "time": "17:00",
+      "meeting": "Wolverhampton",
+      "name": "Create Your Bet Builders At Midnite Apprentice Handicap",
+      "class": "6",
+      "distance": "1m 1f 104y",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Magic Runner",
+          "jockey": "Taryn Langley",
+          "cd": 1,
+          "days": 14,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.08
+        },
+        {
+          "rank": 2,
+          "horse": "Prince Ali",
+          "jockey": "Zoe Lewis",
+          "cd": 3,
+          "days": 14,
+          "odds": "33/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.09
+        },
+        {
+          "rank": 3,
+          "horse": "Stipulation",
+          "jockey": "Donagh Murphy",
+          "cd": 1,
+          "days": 19,
+          "odds": "10/3",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.09
+        }
+      ]
+    },
+    {
+      "time": "17:30",
+      "meeting": "Wolverhampton",
+      "name": "Bet 10 Get 40 With BetMGM Handicap",
+      "class": "6",
+      "distance": "1m 142y",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Fools Rush In",
+          "jockey": "J P Sullivan",
+          "cd": 2,
+          "days": 10,
+          "odds": "18/5",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.09
+        },
+        {
+          "rank": 2,
+          "horse": "Latin",
+          "jockey": "Paddy Bradley",
+          "cd": 2,
+          "days": 10,
+          "odds": "16/5",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.09
+        },
+        {
+          "rank": 3,
+          "horse": "The Dark Baron",
+          "jockey": "Laura Coughlan",
+          "cd": 1,
+          "days": 20,
+          "odds": "10/3",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.09
+        }
+      ]
+    },
+    {
+      "time": "18:30",
+      "meeting": "Wolverhampton",
+      "name": "Join The Midnite Movement Handicap",
+      "class": "6",
+      "distance": "6f 20y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Tommytwohoots",
+          "jockey": "Alistair Rawlinson",
+          "cd": 2,
+          "days": 7,
+          "odds": "13/2",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 0.09
+        },
+        {
+          "rank": 2,
+          "horse": "Autumn Angel",
+          "jockey": "Marco Ghiani",
+          "cd": 2,
+          "days": 10,
+          "odds": "3/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.09
+        },
+        {
+          "rank": 3,
+          "horse": "Eldeyaar",
+          "jockey": "Cam Hardie",
+          "cd": 3,
+          "days": 12,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.09
+        }
+      ]
+    },
+    {
+      "time": "19:00",
+      "meeting": "Wolverhampton",
+      "name": "BetMGM Supports Safer Gambling Handicap",
+      "class": "4",
+      "distance": "1m 142y",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "First Greyed",
+          "jockey": "Zoe Lewis",
+          "cd": 3,
+          "days": 10,
+          "odds": "28/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.09
+        },
+        {
+          "rank": 2,
+          "horse": "Hitched",
+          "jockey": "L Morris",
+          "cd": 1,
+          "days": 16,
+          "odds": "9/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.09
+        },
+        {
+          "rank": 3,
+          "horse": "Advancing",
+          "jockey": "Marco Ghiani",
+          "cd": 1,
+          "days": 20,
+          "odds": "4/7",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.09
         }
       ]
     },
@@ -38,19 +411,34 @@
       "sel": [
         {
           "rank": 1,
+          "horse": "Colors Of Freedom",
+          "jockey": "Gina Mangan",
+          "cd": 3,
+          "days": 2,
+          "odds": "9/4",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.09
+        },
+        {
+          "rank": 2,
           "horse": "Rogue De Vega",
           "jockey": "Cam Hardie",
-          "claim": null,
-          "or": 53,
-          "mark": 56,
-          "mark_date": "2026-01-27",
-          "gap": -3,
+          "cd": 2,
           "days": 14,
           "odds": "7/4",
+          "mark": -3,
           "pos": 1,
-          "res": "WIN"
+          "res": "WIN",
+          "stake": 0.09
         }
       ]
     }
-  ]
+  ],
+  "bank": {
+    "start": 7.7,
+    "stake": 0.08,
+    "end": 9.06
+  }
 }

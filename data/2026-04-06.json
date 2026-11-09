@@ -1,6 +1,6 @@
 {
   "date": "2026-04-06",
-  "updated": "2026-11-08T08:06:01+0000",
+  "updated": "2026-11-09T03:02:02+0000",
   "races": [
     {
       "time": "12:55",
@@ -13,42 +13,27 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Coloane",
-          "jockey": "C J Whiteley",
-          "claim": 5,
-          "or": 58,
-          "mark": 58,
-          "mark_date": "2026-04-04",
-          "gap": 0,
-          "days": 2,
-          "odds": "11/10",
-          "pos": 1,
-          "res": "WIN"
-        }
-      ]
-    },
-    {
-      "time": "14:05",
-      "meeting": "Wolverhampton",
-      "name": "Free Bets On attheraces.com Handicap",
-      "class": "6",
-      "distance": "1m 4f 51y",
-      "riders": 7,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Kelly Burn",
-          "jockey": "Daniel Muscutt",
-          "claim": null,
-          "or": 65,
-          "mark": 67,
-          "mark_date": "2026-05-18",
-          "gap": -2,
+          "horse": "King Of Speed",
+          "jockey": "Hope Regan",
+          "cd": 4,
           "days": 8,
-          "odds": "1/1",
-          "pos": 2,
-          "res": "PLACE"
+          "odds": "9/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.18
+        },
+        {
+          "rank": 2,
+          "horse": "River Wharfe",
+          "jockey": "Matthew Slater",
+          "cd": 2,
+          "days": 20,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.18
         }
       ]
     },
@@ -65,17 +50,114 @@
           "rank": 1,
           "horse": "V Power",
           "jockey": "Zoe Lewis",
-          "claim": 7,
-          "or": 59,
-          "mark": 60,
-          "mark_date": "2026-07-07",
-          "gap": -1,
+          "cd": 1,
           "days": 6,
           "odds": "10/1",
+          "mark": -1,
           "pos": 1,
-          "res": "WIN"
+          "res": "WIN",
+          "stake": 0.18
+        },
+        {
+          "rank": 2,
+          "horse": "The Craftymaster",
+          "jockey": "William Carson",
+          "cd": 1,
+          "days": 10,
+          "odds": "5/2",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.2
+        }
+      ]
+    },
+    {
+      "time": "16:25",
+      "meeting": "Wolverhampton",
+      "name": "Follow AtTheRaces On X Handicap (Div 2)",
+      "class": "6",
+      "distance": "6f 20y",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "East Tyrone",
+          "jockey": "Cam Hardie",
+          "cd": 1,
+          "days": 14,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.19
+        },
+        {
+          "rank": 2,
+          "horse": "Gustav Graves",
+          "jockey": "Joanna Mason",
+          "cd": 1,
+          "days": 17,
+          "odds": "7/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.19
+        }
+      ]
+    },
+    {
+      "time": "16:55",
+      "meeting": "Wolverhampton",
+      "name": "Follow AtTheRaces On Instagram Handicap",
+      "class": "6",
+      "distance": "1m 1f 104y",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Book Of Life",
+          "jockey": "Ryan Kavanagh",
+          "cd": 1,
+          "days": 2,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.19
+        },
+        {
+          "rank": 2,
+          "horse": "Masqool",
+          "jockey": "D C Costello",
+          "cd": 3,
+          "days": 20,
+          "odds": "28/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.19
+        },
+        {
+          "rank": 3,
+          "horse": "It's A Love Thing",
+          "jockey": "Jonny Peate",
+          "cd": 3,
+          "days": 26,
+          "odds": "18/1",
+          "mark": null,
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 0.19
         }
       ]
     }
-  ]
+  ],
+  "bank": {
+    "start": 18.39,
+    "stake": 0.18,
+    "end": 18.5
+  }
 }

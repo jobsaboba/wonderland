@@ -1,6 +1,6 @@
 {
   "date": "2026-03-23",
-  "updated": "2026-11-08T08:06:01+0000",
+  "updated": "2026-11-09T03:02:01+0000",
   "races": [
     {
       "time": "16:50",
@@ -13,17 +13,39 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Faster Bee",
-          "jockey": "Gina Mangan",
-          "claim": null,
-          "or": 52,
-          "mark": 52,
-          "mark_date": "2026-04-21",
-          "gap": 0,
-          "days": 12,
-          "odds": "4/1",
-          "pos": 4,
-          "res": "LOSE"
+          "horse": "Fistral Beach",
+          "jockey": "Jack Doughty",
+          "cd": 2,
+          "days": 10,
+          "odds": "11/4",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.18
+        },
+        {
+          "rank": 2,
+          "horse": "Zu Run",
+          "jockey": "Billy Loughnane",
+          "cd": 1,
+          "days": 10,
+          "odds": "11/4",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.18
+        },
+        {
+          "rank": 3,
+          "horse": "Hannah's Return",
+          "jockey": "L Morris",
+          "cd": 2,
+          "days": 25,
+          "odds": "22/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.18
         }
       ]
     },
@@ -40,15 +62,107 @@
           "rank": 1,
           "horse": "Bad Habits",
           "jockey": "J P Sullivan",
-          "claim": null,
-          "or": 52,
-          "mark": 53,
-          "mark_date": "2026-04-21",
-          "gap": -1,
+          "cd": 1,
           "days": 10,
           "odds": "7/1",
+          "mark": -1,
           "pos": 2,
-          "res": "PLACE"
+          "res": "PLACE",
+          "stake": 0.18
+        },
+        {
+          "rank": 2,
+          "horse": "Bernie The Bear",
+          "jockey": "Rhys Clutterbuck",
+          "cd": 1,
+          "days": 13,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.18
+        },
+        {
+          "rank": 3,
+          "horse": "Bungle Bay",
+          "jockey": "Joe Leavy",
+          "cd": 5,
+          "days": 20,
+          "odds": "17/2",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.18
+        }
+      ]
+    },
+    {
+      "time": "18:30",
+      "meeting": "Wolverhampton",
+      "name": "Bet 10 Get 40 With BetMGM Fillies' Handicap",
+      "class": "5",
+      "distance": "1m 1f 104y",
+      "riders": 5,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Samra Star",
+          "jockey": "Tom Kiely-Marshall",
+          "cd": 2,
+          "days": 13,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 3,
+          "res": "LOSE",
+          "stake": 0.18
+        }
+      ]
+    },
+    {
+      "time": "19:30",
+      "meeting": "Wolverhampton",
+      "name": "Make The Move To Midnite Handicap (Div 1)",
+      "class": "6",
+      "distance": "6f 20y",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Piperstown",
+          "jockey": "Oliver Stammers",
+          "cd": 3,
+          "days": 12,
+          "odds": "7/2",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.18
+        },
+        {
+          "rank": 2,
+          "horse": "East Tyrone",
+          "jockey": "Billy Loughnane",
+          "cd": 1,
+          "days": 13,
+          "odds": "3/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.18
+        },
+        {
+          "rank": 3,
+          "horse": "Sisters In The Sky",
+          "jockey": "Finley Marsh",
+          "cd": 3,
+          "days": 13,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.18
         }
       ]
     },
@@ -63,33 +177,69 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Magna",
-          "jockey": "Rossa Ryan",
-          "claim": null,
-          "or": 55,
-          "mark": 66,
-          "mark_date": "2026-05-05",
-          "gap": -11,
-          "days": 19,
-          "odds": "11/4",
-          "pos": 1,
-          "res": "WIN"
+          "horse": "Fircombe Hall",
+          "jockey": "Billy Loughnane",
+          "cd": 1,
+          "days": 13,
+          "odds": "11/2",
+          "mark": null,
+          "pos": 3,
+          "res": "LOSE",
+          "stake": 0.18
         },
         {
           "rank": 2,
-          "horse": "Trust Sergei",
-          "jockey": "Jonny Peate",
-          "claim": null,
-          "or": 55,
-          "mark": 55,
-          "mark_date": "2026-09-15",
-          "gap": 0,
-          "days": 10,
-          "odds": "2/1",
-          "pos": 6,
-          "res": "LOSE"
+          "horse": "Legendsoftheland",
+          "jockey": "Finley Marsh",
+          "cd": 1,
+          "days": 13,
+          "odds": "10/3",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.18
+        },
+        {
+          "rank": 3,
+          "horse": "Mintana",
+          "jockey": "Joe Leavy",
+          "cd": 1,
+          "days": 26,
+          "odds": "10/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.18
+        }
+      ]
+    },
+    {
+      "time": "20:30",
+      "meeting": "Wolverhampton",
+      "name": "Midnite Aint Your Grandads Bookie Handicap",
+      "class": "4",
+      "distance": "6f 20y",
+      "riders": 6,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Dyrholaey",
+          "jockey": "Hollie Doyle",
+          "cd": 1,
+          "days": 19,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.18
         }
       ]
     }
-  ]
+  ],
+  "bank": {
+    "start": 17.67,
+    "stake": 0.18,
+    "end": 17.55
+  }
 }

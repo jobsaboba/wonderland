@@ -1,31 +1,34 @@
 {
   "date": "2026-07-23",
-  "updated": "2026-11-08T08:06:02+0000",
+  "updated": "2026-11-09T03:02:09+0000",
   "races": [
     {
-      "time": "15:53",
+      "time": "18:46",
       "meeting": "Southwell",
-      "name": "Sky Sports Racing Sky 415 Apprentice Handicap",
-      "class": "5",
-      "distance": "7f 14y",
-      "riders": 14,
+      "name": "Free Tips On attheraces.com Handicap",
+      "class": "6",
+      "distance": "1m 4f 14y",
+      "riders": 10,
       "settled": true,
       "sel": [
         {
           "rank": 1,
-          "horse": "Anthropologist",
-          "jockey": "C J Whiteley",
-          "claim": 5,
-          "or": 69,
-          "mark": 70,
-          "mark_date": "2026-10-24",
-          "gap": -1,
-          "days": 18,
-          "odds": "5/1",
-          "pos": 3,
-          "res": "PLACE"
+          "horse": "Lednikov",
+          "jockey": "Elle-May Croot",
+          "cd": 3,
+          "days": 16,
+          "odds": "13/2",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.2
         }
       ]
     }
-  ]
+  ],
+  "bank": {
+    "start": 19.83,
+    "stake": 0.2,
+    "end": 19.63
+  }
 }

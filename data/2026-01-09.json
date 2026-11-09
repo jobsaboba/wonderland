@@ -1,7 +1,89 @@
 {
   "date": "2026-01-09",
-  "updated": "2026-11-08T08:06:00+0000",
+  "updated": "2026-11-09T03:01:56+0000",
   "races": [
+    {
+      "time": "15:30",
+      "meeting": "Newcastle",
+      "name": "Bet 10 Get 40 At BetMGM Fillies' Handicap",
+      "class": "4",
+      "distance": "1m 5y",
+      "riders": 6,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Electric Avenue",
+          "jockey": "Cam Hardie",
+          "cd": 2,
+          "days": 25,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.08
+        },
+        {
+          "rank": 2,
+          "horse": "Enola Grey",
+          "jockey": "Kaiya Fraser",
+          "cd": 2,
+          "days": 25,
+          "odds": "6/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.08
+        }
+      ]
+    },
+    {
+      "time": "16:25",
+      "meeting": "Wolverhampton",
+      "name": "SBK: Dont Settle For Less Handicap (Div 1)",
+      "class": "5",
+      "distance": "6f 20y",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Gustav Graves",
+          "jockey": "Joanna Mason",
+          "cd": 1,
+          "days": 7,
+          "odds": "10/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 0.08
+        },
+        {
+          "rank": 2,
+          "horse": "Brian The Snail",
+          "jockey": "D Nolan",
+          "cd": 1,
+          "days": 18,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 0.08
+        },
+        {
+          "rank": 3,
+          "horse": "Some Nightmare",
+          "jockey": "Gina Mangan",
+          "cd": 1,
+          "days": 27,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 0.08
+        }
+      ]
+    },
     {
       "time": "16:35",
       "meeting": "Newcastle",
@@ -13,17 +95,74 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Little Mi Mi",
-          "jockey": "Mohammed Tabti",
-          "claim": 5,
-          "or": 54,
-          "mark": 65,
-          "mark_date": "2026-06-26",
-          "gap": -11,
-          "days": 8,
-          "odds": "15/8",
-          "pos": 6,
-          "res": "LOSE"
+          "horse": "Okami",
+          "jockey": "O McSweeney",
+          "cd": 1,
+          "days": 5,
+          "odds": "11/2",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.08
+        },
+        {
+          "rank": 2,
+          "horse": "What What What",
+          "jockey": "Billy Garritty",
+          "cd": 1,
+          "days": 5,
+          "odds": "7/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.08
+        },
+        {
+          "rank": 3,
+          "horse": "Desert Master",
+          "jockey": "Cam Hardie",
+          "cd": 1,
+          "days": 7,
+          "odds": "20/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.08
+        }
+      ]
+    },
+    {
+      "time": "17:00",
+      "meeting": "Wolverhampton",
+      "name": "SBK: Dont Settle For Less Handicap (Div 2)",
+      "class": "5",
+      "distance": "6f 20y",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Addarella",
+          "jockey": "Marco Ghiani",
+          "cd": 1,
+          "days": 6,
+          "odds": "4/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 0.08
+        },
+        {
+          "rank": 2,
+          "horse": "Zoulu Warrior",
+          "jockey": "Cieren Fallon",
+          "cd": 1,
+          "days": 13,
+          "odds": "7/4",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 0.08
         }
       ]
     },
@@ -38,17 +177,85 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Kullazain",
-          "jockey": "Callum Shepherd",
-          "claim": null,
-          "or": 84,
-          "mark": 84,
-          "mark_date": "2025-12-30",
-          "gap": 0,
+          "horse": "Coachello",
+          "jockey": "Edward Greatrex",
+          "cd": 1,
           "days": 10,
-          "odds": "9/2",
+          "odds": "10/1",
+          "mark": null,
           "pos": 0,
-          "res": null
+          "res": null,
+          "stake": 0.08
+        },
+        {
+          "rank": 2,
+          "horse": "Dyrholaey",
+          "jockey": "L Morris",
+          "cd": 1,
+          "days": 18,
+          "odds": "20/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 0.08
+        }
+      ]
+    },
+    {
+      "time": "18:00",
+      "meeting": "Wolverhampton",
+      "name": "Friday Night Live With SBK Handicap",
+      "class": "5",
+      "distance": "1m 4f 51y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Aiming High",
+          "jockey": "Callum Shepherd",
+          "cd": 1,
+          "days": 18,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 0.08
+        }
+      ]
+    },
+    {
+      "time": "18:30",
+      "meeting": "Wolverhampton",
+      "name": "SBK: No Casino Just Sports Handicap",
+      "class": "4",
+      "distance": "7f 36y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Follow Your Heart",
+          "jockey": "Warren Fentiman",
+          "cd": 5,
+          "days": 3,
+          "odds": "10/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 0.08
+        },
+        {
+          "rank": 2,
+          "horse": "Little Empire",
+          "jockey": "Callum Shepherd",
+          "cd": 1,
+          "days": 21,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 0.08
         }
       ]
     },
@@ -63,19 +270,187 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Vince Lombardi",
-          "jockey": "D Swift",
-          "claim": null,
-          "or": 71,
-          "mark": 71,
-          "mark_date": "2026-01-19",
-          "gap": 0,
-          "days": 21,
-          "odds": "7/1",
+          "horse": "Revolutionise",
+          "jockey": "Jack Dace",
+          "cd": 2,
+          "days": 7,
+          "odds": "5/1",
+          "mark": null,
           "pos": 0,
-          "res": null
+          "res": null,
+          "stake": 0.08
+        },
+        {
+          "rank": 2,
+          "horse": "Harbour Vision",
+          "jockey": "K T O'Neill",
+          "cd": 3,
+          "days": 13,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 0.08
+        },
+        {
+          "rank": 3,
+          "horse": "The Caribbean",
+          "jockey": "Cieren Fallon",
+          "cd": 1,
+          "days": 27,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 0.08
+        }
+      ]
+    },
+    {
+      "time": "19:30",
+      "meeting": "Wolverhampton",
+      "name": "Tipping Tom On SBK Bet Feed Handicap (Div 2)",
+      "class": "5",
+      "distance": "7f 36y",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Simply Blue",
+          "jockey": "Harry Davies",
+          "cd": 1,
+          "days": 5,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 0.08
+        },
+        {
+          "rank": 2,
+          "horse": "Bella Bisbee",
+          "jockey": "K T O'Neill",
+          "cd": 1,
+          "days": 14,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 0.08
+        },
+        {
+          "rank": 3,
+          "horse": "He's A Gentleman",
+          "jockey": "Jason Hart",
+          "cd": 3,
+          "days": 20,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 0.08
+        }
+      ]
+    },
+    {
+      "time": "20:00",
+      "meeting": "Wolverhampton",
+      "name": "SBK Betting Podcast Handicap",
+      "class": "4",
+      "distance": "1m 142y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Gaiety Musical",
+          "jockey": "Jack Dace",
+          "cd": 1,
+          "days": 9,
+          "odds": "10/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 0.08
+        },
+        {
+          "rank": 2,
+          "horse": "Rajapour",
+          "jockey": "D Nolan",
+          "cd": 1,
+          "days": 13,
+          "odds": "10/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 0.08
+        },
+        {
+          "rank": 3,
+          "horse": "San Juanito",
+          "jockey": "R Havlin",
+          "cd": 2,
+          "days": 27,
+          "odds": "25/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 0.08
+        }
+      ]
+    },
+    {
+      "time": "20:30",
+      "meeting": "Wolverhampton",
+      "name": "Bet Responsibly With SBK Handicap",
+      "class": "4",
+      "distance": "1m 1f 104y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Tonal",
+          "jockey": "Ryan Kavanagh",
+          "cd": 2,
+          "days": 7,
+          "odds": "4/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 0.08
+        },
+        {
+          "rank": 2,
+          "horse": "Urban Road",
+          "jockey": "Jason Hart",
+          "cd": 2,
+          "days": 8,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 0.08
+        },
+        {
+          "rank": 3,
+          "horse": "Hitched",
+          "jockey": "L Morris",
+          "cd": 1,
+          "days": 9,
+          "odds": "6/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 0.08
         }
       ]
     }
-  ]
+  ],
+  "bank": {
+    "start": 8.11,
+    "stake": 0.08,
+    "end": 8.15
+  }
 }

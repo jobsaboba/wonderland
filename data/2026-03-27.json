@@ -1,7 +1,276 @@
 {
   "date": "2026-03-27",
-  "updated": "2026-11-08T08:06:01+0000",
+  "updated": "2026-11-09T03:02:01+0000",
   "races": [
+    {
+      "time": "16:25",
+      "meeting": "Newcastle",
+      "name": "Tipping Tom On SBK Bet Feed Handicap (Div 1)",
+      "class": "5",
+      "distance": "1m 5y",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Tasever",
+          "jockey": "Harry Vigors",
+          "cd": 4,
+          "days": 6,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.18
+        },
+        {
+          "rank": 2,
+          "horse": "Trais Fluors",
+          "jockey": "Alex Jary",
+          "cd": 4,
+          "days": 6,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.18
+        },
+        {
+          "rank": 3,
+          "horse": "Dream Illusion",
+          "jockey": "Dylan Hogan",
+          "cd": 1,
+          "days": 16,
+          "odds": "9/5",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.18
+        }
+      ]
+    },
+    {
+      "time": "17:00",
+      "meeting": "Newcastle",
+      "name": "Tipping Tom On SBK Bet Feed Handicap (Div 2)",
+      "class": "5",
+      "distance": "1m 5y",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Concert Boy",
+          "jockey": "Darragh Keenan",
+          "cd": 2,
+          "days": 6,
+          "odds": "13/2",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.18
+        },
+        {
+          "rank": 2,
+          "horse": "Chuzzlewit",
+          "jockey": "D Swift",
+          "cd": 1,
+          "days": 21,
+          "odds": "4/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.17
+        }
+      ]
+    },
+    {
+      "time": "17:30",
+      "meeting": "Newcastle",
+      "name": "Bet Responsibly With SBK Handicap",
+      "class": "5",
+      "distance": "7f 14y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Bobby Joe Leg",
+          "jockey": "J P Sullivan",
+          "cd": 10,
+          "days": 13,
+          "odds": "22/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.17
+        },
+        {
+          "rank": 2,
+          "horse": "Novak",
+          "jockey": "Mohammed Tabti",
+          "cd": 2,
+          "days": 15,
+          "odds": "6/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.17
+        },
+        {
+          "rank": 3,
+          "horse": "Phoenix Of Dreams",
+          "jockey": "Jason Hart",
+          "cd": 1,
+          "days": 15,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.17
+        }
+      ]
+    },
+    {
+      "time": "18:00",
+      "meeting": "Newcastle",
+      "name": "SBK: No Casino Just Sports Handicap (Div 1)",
+      "class": "5",
+      "distance": "6f",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Yorkshire Glory",
+          "jockey": "Harry Vigors",
+          "cd": 6,
+          "days": 4,
+          "odds": "6/4",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.17
+        },
+        {
+          "rank": 2,
+          "horse": "Pit Boss",
+          "jockey": "C Horgan",
+          "cd": 2,
+          "days": 6,
+          "odds": "10/3",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.17
+        },
+        {
+          "rank": 3,
+          "horse": "Water Of Leith",
+          "jockey": "P Mulrennan",
+          "cd": 1,
+          "days": 11,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.17
+        }
+      ]
+    },
+    {
+      "time": "18:30",
+      "meeting": "Newcastle",
+      "name": "SBK: No Casino Just Sports Handicap (Div 2)",
+      "class": "5",
+      "distance": "6f",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Tickets",
+          "jockey": "A Mullen",
+          "cd": 2,
+          "days": 16,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.17
+        },
+        {
+          "rank": 2,
+          "horse": "Teardrops",
+          "jockey": "Jack Callan",
+          "cd": 3,
+          "days": 21,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.17
+        }
+      ]
+    },
+    {
+      "time": "19:00",
+      "meeting": "Newcastle",
+      "name": "SBK: Betting Without The Bull Handicap",
+      "class": "3",
+      "distance": "6f 1y",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Badri",
+          "jockey": "Jason Hart",
+          "cd": 1,
+          "days": 20,
+          "odds": "10/1",
+          "mark": null,
+          "pos": 13,
+          "res": "LOSE",
+          "stake": 0.17
+        },
+        {
+          "rank": 2,
+          "horse": "Sergeant Wilko",
+          "jockey": "K Stott",
+          "cd": 1,
+          "days": 28,
+          "odds": "7/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.17
+        }
+      ]
+    },
+    {
+      "time": "19:30",
+      "meeting": "Newcastle",
+      "name": "Friday Night Live With SBK Handicap",
+      "class": "4",
+      "distance": "1m 5y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Flying Fletcher",
+          "jockey": "Warren Fentiman",
+          "cd": 1,
+          "days": 21,
+          "odds": "17/2",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.17
+        }
+      ]
+    },
     {
       "time": "20:00",
       "meeting": "Newcastle",
@@ -13,19 +282,45 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Beale Street",
-          "jockey": "P Mulrennan",
-          "claim": null,
-          "or": 78,
-          "mark": 78,
-          "mark_date": "2026-05-01",
-          "gap": 0,
-          "days": 15,
-          "odds": "9/1",
-          "pos": 11,
-          "res": "LOSE"
+          "horse": "Benacre",
+          "jockey": "Oliver Stammers",
+          "cd": 2,
+          "days": 28,
+          "odds": "10/1",
+          "mark": null,
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 0.17
+        }
+      ]
+    },
+    {
+      "time": "20:30",
+      "meeting": "Newcastle",
+      "name": "SBK Betting Podcast Handicap",
+      "class": "4",
+      "distance": "5f",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Sports Coach",
+          "jockey": "Cam Hardie",
+          "cd": 1,
+          "days": 13,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.17
         }
       ]
     }
-  ]
+  ],
+  "bank": {
+    "start": 18.12,
+    "stake": 0.18,
+    "end": 16.39
+  }
 }

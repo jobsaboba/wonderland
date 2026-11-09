@@ -1,0 +1,104 @@
+{
+  "date": "2026-05-21",
+  "updated": "2026-11-09T03:02:05+0000",
+  "races": [
+    {
+      "time": "16:57",
+      "meeting": "Southwell",
+      "name": "Follow attheraces On Instagram Handicap",
+      "class": "5",
+      "distance": "4f 214y",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Shalaa Asker",
+          "jockey": "Jason Watson",
+          "cd": 1,
+          "days": 12,
+          "odds": "17/2",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.16
+        }
+      ]
+    },
+    {
+      "time": "19:30",
+      "meeting": "Southwell",
+      "name": "Free Race Replays On attheraces.com Handicap (Div 2)",
+      "class": "6",
+      "distance": "7f 14y",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Turbo Command",
+          "jockey": "Cam Hardie",
+          "cd": 3,
+          "days": 14,
+          "odds": "11/2",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.16
+        },
+        {
+          "rank": 2,
+          "horse": "King Sharja",
+          "jockey": "Joanna Mason",
+          "cd": 1,
+          "days": 23,
+          "odds": "10/3",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.16
+        }
+      ]
+    },
+    {
+      "time": "20:00",
+      "meeting": "Southwell",
+      "name": "Sky Sports Racing Sky 415 Handicap",
+      "class": "6",
+      "distance": "6f 16y",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Daytona Lady",
+          "jockey": "Joanna Mason",
+          "cd": 2,
+          "days": 16,
+          "odds": "10/3",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.16
+        },
+        {
+          "rank": 2,
+          "horse": "Bomb Squad",
+          "jockey": "Hollie Doyle",
+          "cd": 2,
+          "days": 28,
+          "odds": "7/2",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.16
+        }
+      ]
+    }
+  ],
+  "bank": {
+    "start": 16.2,
+    "stake": 0.16,
+    "end": 15.8
+  }
+}

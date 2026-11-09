@@ -1,7 +1,54 @@
 {
   "date": "2026-09-02",
-  "updated": "2026-11-08T08:06:02+0000",
+  "updated": "2026-11-09T03:02:12+0000",
   "races": [
+    {
+      "time": "14:15",
+      "meeting": "Newcastle",
+      "name": "High Gosforth Park Golf Club Handicap",
+      "class": "5",
+      "distance": "7f 15y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Havana Prince",
+          "jockey": "T Eaves",
+          "cd": 1,
+          "days": 14,
+          "odds": "13/2",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.21
+        },
+        {
+          "rank": 2,
+          "horse": "Bloodsweatandtyres",
+          "jockey": "Mikey Sheehy",
+          "cd": 1,
+          "days": 19,
+          "odds": "13/2",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.21
+        },
+        {
+          "rank": 3,
+          "horse": "Beattie Is Back",
+          "jockey": "Warren Fentiman",
+          "cd": 2,
+          "days": 27,
+          "odds": "3/1",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.21
+        }
+      ]
+    },
     {
       "time": "15:15",
       "meeting": "Newcastle",
@@ -13,17 +60,39 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Starliner",
-          "jockey": "William Pyle",
-          "claim": null,
-          "or": 62,
-          "mark": 62,
-          "mark_date": "2026-09-05",
-          "gap": 0,
+          "horse": "Criminal Shore",
+          "jockey": "Mark Winn",
+          "cd": 1,
           "days": 18,
-          "odds": "10/1",
-          "pos": 2,
-          "res": "PLACE"
+          "odds": "4/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.21
+        },
+        {
+          "rank": 2,
+          "horse": "Flying Fletcher",
+          "jockey": "Warren Fentiman",
+          "cd": 1,
+          "days": 21,
+          "odds": "11/2",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.21
+        },
+        {
+          "rank": 3,
+          "horse": "Mr Mistoffelees",
+          "jockey": "T Eaves",
+          "cd": 1,
+          "days": 25,
+          "odds": "11/2",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.21
         }
       ]
     },
@@ -38,19 +107,80 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Ellie's De Vega",
-          "jockey": "Cam Hardie",
-          "claim": null,
-          "or": 49,
-          "mark": 52,
-          "mark_date": "2026-10-20",
-          "gap": -3,
-          "days": 11,
+          "horse": "Let's Go Hugo",
+          "jockey": "Tom Kiely-Marshall",
+          "cd": 2,
+          "days": 8,
           "odds": "3/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.21
+        },
+        {
+          "rank": 2,
+          "horse": "Papa Don't Preach",
+          "jockey": "Oliver Stammers",
+          "cd": 1,
+          "days": 16,
+          "odds": "4/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.21
+        }
+      ]
+    },
+    {
+      "time": "16:15",
+      "meeting": "Newcastle",
+      "name": "Sky Sports Racing Virgin 512 Handicap (Div 1)",
+      "class": "6",
+      "distance": "1m 5y",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Sassy Glory",
+          "jockey": "Rhys Elliott",
+          "cd": 2,
+          "days": 25,
+          "odds": "13/2",
+          "mark": null,
           "pos": 1,
-          "res": "WIN"
+          "res": "WIN",
+          "stake": 0.2
+        }
+      ]
+    },
+    {
+      "time": "16:45",
+      "meeting": "Newcastle",
+      "name": "Sky Sports Racing Virgin 512 Handicap (Div 2)",
+      "class": "6",
+      "distance": "1m 5y",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Barleybrown",
+          "jockey": "Joanna Mason",
+          "cd": 4,
+          "days": 17,
+          "odds": "2/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.21
         }
       ]
     }
-  ]
+  ],
+  "bank": {
+    "start": 20.85,
+    "stake": 0.21,
+    "end": 21.34
+  }
 }

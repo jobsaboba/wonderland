@@ -1,6 +1,6 @@
 {
   "date": "2026-01-20",
-  "updated": "2026-11-08T08:06:00+0000",
+  "updated": "2026-11-09T03:01:56+0000",
   "races": [
     {
       "time": "14:13",
@@ -13,17 +13,74 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Sea Legend",
-          "jockey": "P Mulrennan",
-          "claim": null,
-          "or": 64,
-          "mark": 66,
-          "mark_date": "2026-03-27",
-          "gap": -2,
+          "horse": "Aisling Oscar",
+          "jockey": "O McSweeney",
+          "cd": 2,
+          "days": 7,
+          "odds": "11/8",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.13
+        },
+        {
+          "rank": 2,
+          "horse": "Tasever",
+          "jockey": "D Nolan",
+          "cd": 3,
           "days": 10,
-          "odds": "13/2",
-          "pos": 3,
-          "res": "PLACE"
+          "odds": "3/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.13
+        },
+        {
+          "rank": 3,
+          "horse": "Little Ted",
+          "jockey": "Sean Kirrane",
+          "cd": 1,
+          "days": 22,
+          "odds": "10/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.13
+        }
+      ]
+    },
+    {
+      "time": "14:43",
+      "meeting": "Newcastle",
+      "name": "Create Your Bet Builders At Midnite Handicap",
+      "class": "3",
+      "distance": "6f",
+      "riders": 7,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Northern Spirit",
+          "jockey": "Ben Robinson",
+          "cd": 2,
+          "days": 3,
+          "odds": "9/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 0.12
+        },
+        {
+          "rank": 2,
+          "horse": "Coachello",
+          "jockey": "George Wood",
+          "cd": 1,
+          "days": 21,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.12
         }
       ]
     },
@@ -38,31 +95,39 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Yaahobby",
-          "jockey": "Alex Jary",
-          "claim": 3,
-          "or": 45,
-          "mark": 45,
-          "mark_date": "2026-09-19",
-          "gap": 0,
-          "days": 19,
-          "odds": "10/1",
-          "pos": 7,
-          "res": "LOSE"
+          "horse": "Teardrops",
+          "jockey": "George Wood",
+          "cd": 3,
+          "days": 7,
+          "odds": "6/4",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.12
         },
         {
           "rank": 2,
+          "horse": "Fircombe Hall",
+          "jockey": "Rhys Elliott",
+          "cd": 6,
+          "days": 10,
+          "odds": "9/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.12
+        },
+        {
+          "rank": 3,
           "horse": "Spartan Fighter",
           "jockey": "Cam Hardie",
-          "claim": null,
-          "or": 54,
-          "mark": 59,
-          "mark_date": "2026-02-10",
-          "gap": -5,
+          "cd": 8,
           "days": 10,
           "odds": "5/2",
+          "mark": -5,
           "pos": 1,
-          "res": "WIN"
+          "res": "WIN",
+          "stake": 0.12
         }
       ]
     },
@@ -79,42 +144,277 @@
           "rank": 1,
           "horse": "Yorkshire Glory",
           "jockey": "A Mullen",
-          "claim": null,
-          "or": 51,
-          "mark": 66,
-          "mark_date": "2026-03-27",
-          "gap": -15,
+          "cd": 2,
           "days": 10,
           "odds": "11/4",
+          "mark": -15,
           "pos": 1,
-          "res": "WIN"
+          "res": "WIN",
+          "stake": 0.12
+        },
+        {
+          "rank": 2,
+          "horse": "The Gay Blade",
+          "jockey": "Cara Tuke",
+          "cd": 1,
+          "days": 11,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.13
+        },
+        {
+          "rank": 3,
+          "horse": "Bernie The Bear",
+          "jockey": "Kaiya Fraser",
+          "cd": 1,
+          "days": 19,
+          "odds": "28/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.13
         }
       ]
     },
     {
-      "time": "19:30",
-      "meeting": "Southwell",
-      "name": "Midnite Aint Your Grandad's Bookie Handicap (Div 2)",
-      "class": "6",
-      "distance": "1m 6f 21y",
-      "riders": 8,
+      "time": "16:13",
+      "meeting": "Newcastle",
+      "name": "Make The Move To Midnite Handicap",
+      "class": "5",
+      "distance": "5f",
+      "riders": 11,
       "settled": true,
       "sel": [
         {
           "rank": 1,
-          "horse": "Forglen",
-          "jockey": "Alistair Rawlinson",
-          "claim": null,
-          "or": 47,
-          "mark": 54,
-          "mark_date": "2026-03-13",
-          "gap": -7,
-          "days": 3,
-          "odds": "7/4",
-          "pos": 2,
-          "res": "PLACE"
+          "horse": "Digital",
+          "jockey": "J P Sullivan",
+          "cd": 1,
+          "days": 7,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.12
+        },
+        {
+          "rank": 2,
+          "horse": "Bibendum",
+          "jockey": "George Wood",
+          "cd": 1,
+          "days": 18,
+          "odds": "6/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.13
+        },
+        {
+          "rank": 3,
+          "horse": "Dark Kestrel",
+          "jockey": "Cam Hardie",
+          "cd": 2,
+          "days": 19,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.13
+        }
+      ]
+    },
+    {
+      "time": "17:00",
+      "meeting": "Southwell",
+      "name": "Read Meg Nicholls' Blog At betmgm.co.uk Amateur Jockeys' Handicap",
+      "class": "6",
+      "distance": "7f 14y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Onemorenomore",
+          "jockey": "Mr Fletcher Yarham",
+          "cd": 1,
+          "days": 23,
+          "odds": "7/2",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.13
+        }
+      ]
+    },
+    {
+      "time": "17:30",
+      "meeting": "Southwell",
+      "name": "Midnite A Next Generation Betting App Handicap",
+      "class": "4",
+      "distance": "6f 16y",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Hierarchy",
+          "jockey": "Callum Shepherd",
+          "cd": 2,
+          "days": 13,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 0.12
+        },
+        {
+          "rank": 2,
+          "horse": "Amazonian Dream",
+          "jockey": "Lewis Edmunds",
+          "cd": 1,
+          "days": 19,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.12
+        },
+        {
+          "rank": 3,
+          "horse": "Papa Cocktail",
+          "jockey": "Callum Rodriguez",
+          "cd": 1,
+          "days": 21,
+          "odds": "5/1",
+          "mark": -3,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.13
+        }
+      ]
+    },
+    {
+      "time": "18:30",
+      "meeting": "Southwell",
+      "name": "Bet 10 Get 40 With BetMGM Handicap",
+      "class": "6",
+      "distance": "1m 13y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Pride Eye",
+          "jockey": "Rossa Ryan",
+          "cd": 1,
+          "days": 14,
+          "odds": "10/1",
+          "mark": null,
+          "pos": 11,
+          "res": "LOSE",
+          "stake": 0.12
+        },
+        {
+          "rank": 2,
+          "horse": "Timely Affair",
+          "jockey": "N Callan",
+          "cd": 1,
+          "days": 16,
+          "odds": "1/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.12
+        }
+      ]
+    },
+    {
+      "time": "19:00",
+      "meeting": "Southwell",
+      "name": "Midnite Aint Your Grandad's Bookie Handicap (Div 1)",
+      "class": "6",
+      "distance": "1m 6f 21y",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Smokey Malone",
+          "jockey": "Dylan Hogan",
+          "cd": 2,
+          "days": 12,
+          "odds": "15/2",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.12
+        }
+      ]
+    },
+    {
+      "time": "20:00",
+      "meeting": "Southwell",
+      "name": "Midnite: Built For 2026 Not 2006 Handicap",
+      "class": "5",
+      "distance": "1m 3f 23y",
+      "riders": 7,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Bearwith",
+          "jockey": "Aiden Brookes",
+          "cd": 1,
+          "days": 17,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 3,
+          "res": "LOSE",
+          "stake": 0.13
+        }
+      ]
+    },
+    {
+      "time": "20:30",
+      "meeting": "Southwell",
+      "name": "Make The Move To Midnite Handicap",
+      "class": "6",
+      "distance": "4f 214y",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Juno Star",
+          "jockey": "Jason Watson",
+          "cd": 1,
+          "days": 16,
+          "odds": "17/2",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.13
+        },
+        {
+          "rank": 2,
+          "horse": "Street Life",
+          "jockey": "Ethan Tindall",
+          "cd": 4,
+          "days": 21,
+          "odds": "11/2",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.13
         }
       ]
     }
-  ]
+  ],
+  "bank": {
+    "start": 12.51,
+    "stake": 0.13,
+    "end": 13.25
+  }
 }

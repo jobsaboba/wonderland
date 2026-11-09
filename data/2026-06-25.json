@@ -1,7 +1,77 @@
 {
   "date": "2026-06-25",
-  "updated": "2026-11-08T08:06:02+0000",
+  "updated": "2026-11-09T03:02:07+0000",
   "races": [
+    {
+      "time": "13:02",
+      "meeting": "Newcastle",
+      "name": "JenningsBet In North Shields Handicap",
+      "class": "6",
+      "distance": "7f 14y",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Surgeon Commander",
+          "jockey": "D Allan",
+          "cd": 2,
+          "days": 11,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.18
+        },
+        {
+          "rank": 2,
+          "horse": "Fanjove",
+          "jockey": "Callum Rodriguez",
+          "cd": 1,
+          "days": 20,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.19
+        }
+      ]
+    },
+    {
+      "time": "14:12",
+      "meeting": "Newcastle",
+      "name": "JenningsBet In Scarborough Handicap (GBBPlus Race)",
+      "class": "2",
+      "distance": "1m 2f 42y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Cloth Of Gold",
+          "jockey": "Jason Hart",
+          "cd": 1,
+          "days": 13,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.19
+        },
+        {
+          "rank": 2,
+          "horse": "Per Contra",
+          "jockey": "D Allan",
+          "cd": 1,
+          "days": 13,
+          "odds": "11/4",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.19
+        }
+      ]
+    },
     {
       "time": "17:07",
       "meeting": "Newcastle",
@@ -13,19 +83,46 @@
       "sel": [
         {
           "rank": 1,
+          "horse": "I Can Boogy",
+          "jockey": "Alex Jary",
+          "cd": 1,
+          "days": 9,
+          "odds": "10/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.19
+        },
+        {
+          "rank": 2,
+          "horse": "Little Ted",
+          "jockey": "D Allan",
+          "cd": 1,
+          "days": 9,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.19
+        },
+        {
+          "rank": 3,
           "horse": "Sassy Glory",
           "jockey": "Rhys Elliott",
-          "claim": 5,
-          "or": 47,
-          "mark": 49,
-          "mark_date": "2026-09-02",
-          "gap": -2,
+          "cd": 1,
           "days": 9,
           "odds": "11/2",
+          "mark": -2,
           "pos": 1,
-          "res": "WIN"
+          "res": "WIN",
+          "stake": 0.19
         }
       ]
     }
-  ]
+  ],
+  "bank": {
+    "start": 18.17,
+    "stake": 0.18,
+    "end": 19.69
+  }
 }

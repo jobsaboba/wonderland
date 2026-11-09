@@ -1,7 +1,54 @@
 {
   "date": "2026-02-23",
-  "updated": "2026-11-08T08:06:01+0000",
+  "updated": "2026-11-09T03:01:59+0000",
   "races": [
+    {
+      "time": "16:25",
+      "meeting": "Wolverhampton",
+      "name": "Midnite: Built For 2026 Not 2006 Apprentice Handicap",
+      "class": "6",
+      "distance": "6f 20y",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Woodhay Whisper",
+          "jockey": "Jack Nicholls",
+          "cd": 2,
+          "days": 6,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.18
+        },
+        {
+          "rank": 2,
+          "horse": "Neptune Legend",
+          "jockey": "Mason Paetel",
+          "cd": 2,
+          "days": 16,
+          "odds": "28/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.18
+        },
+        {
+          "rank": 3,
+          "horse": "Twilight Madness",
+          "jockey": "Taryn Langley",
+          "cd": 1,
+          "days": 24,
+          "odds": "13/2",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.18
+        }
+      ]
+    },
     {
       "time": "18:00",
       "meeting": "Wolverhampton",
@@ -13,17 +60,39 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Bad Habits",
-          "jockey": "J P Sullivan",
-          "claim": null,
-          "or": 53,
-          "mark": 53,
-          "mark_date": "2026-04-21",
-          "gap": 0,
-          "days": 7,
+          "horse": "River Wharfe",
+          "jockey": "Myla Coppins",
+          "cd": 1,
+          "days": 11,
           "odds": "5/1",
-          "pos": 4,
-          "res": "LOSE"
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.18
+        },
+        {
+          "rank": 2,
+          "horse": "Amaysmont",
+          "jockey": "Oliver Stammers",
+          "cd": 1,
+          "days": 14,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.18
+        },
+        {
+          "rank": 3,
+          "horse": "Porfin",
+          "jockey": "Connor Planas",
+          "cd": 2,
+          "days": 14,
+          "odds": "10/1",
+          "mark": null,
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 0.18
         }
       ]
     },
@@ -40,31 +109,32 @@
           "rank": 1,
           "horse": "Faster Bee",
           "jockey": "Gina Mangan",
-          "claim": null,
-          "or": 45,
-          "mark": 52,
-          "mark_date": "2026-04-21",
-          "gap": -7,
+          "cd": 1,
           "days": 7,
           "odds": "13/8",
+          "mark": -7,
           "pos": 2,
-          "res": "PLACE"
+          "res": "PLACE",
+          "stake": 0.18
         },
         {
           "rank": 2,
           "horse": "Fistral Beach",
           "jockey": "Jack Doughty",
-          "claim": null,
-          "or": 52,
-          "mark": 55,
-          "mark_date": "2026-03-23",
-          "gap": -3,
+          "cd": 1,
           "days": 17,
           "odds": "10/3",
+          "mark": -3,
           "pos": 1,
-          "res": "WIN"
+          "res": "WIN",
+          "stake": 0.18
         }
       ]
     }
-  ]
+  ],
+  "bank": {
+    "start": 18.14,
+    "stake": 0.18,
+    "end": 18.02
+  }
 }

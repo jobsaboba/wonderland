@@ -1,31 +1,105 @@
 {
   "date": "2026-03-09",
-  "updated": "2026-11-08T08:06:01+0000",
+  "updated": "2026-11-09T03:02:00+0000",
   "races": [
     {
-      "time": "20:30",
+      "time": "17:30",
       "meeting": "Wolverhampton",
-      "name": "Bet 10 Get 40 With BetMGM Handicap",
+      "name": "Daily Profit Boosts At betmgm.co.uk Apprentice Handicap",
       "class": "6",
-      "distance": "1m 4f 51y",
-      "riders": 7,
+      "distance": "1m 142y",
+      "riders": 9,
       "settled": true,
       "sel": [
         {
           "rank": 1,
-          "horse": "Crown Inn To Win",
-          "jockey": "K T O'Neill",
-          "claim": null,
-          "or": 52,
-          "mark": 53,
-          "mark_date": "2026-04-27",
-          "gap": -1,
-          "days": 13,
-          "odds": "6/4",
+          "horse": "Always Fearless",
+          "jockey": "Tyrese Cameron",
+          "cd": 1,
+          "days": 7,
+          "odds": "9/1",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.22
+        },
+        {
+          "rank": 2,
+          "horse": "Book Of Life",
+          "jockey": "Ryan Kavanagh",
+          "cd": 1,
+          "days": 10,
+          "odds": "15/8",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.24
+        },
+        {
+          "rank": 3,
+          "horse": "Kaaress",
+          "jockey": "Isobelle Chalmers",
+          "cd": 3,
+          "days": 11,
+          "odds": "10/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.24
+        }
+      ]
+    },
+    {
+      "time": "19:30",
+      "meeting": "Wolverhampton",
+      "name": "Midnite, Building The Future Of Betting Handicap",
+      "class": "4",
+      "distance": "5f 21y",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Moulin Booj",
+          "jockey": "Callum Shepherd",
+          "cd": 1,
+          "days": 16,
+          "odds": "15/8",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.24
+        },
+        {
+          "rank": 2,
+          "horse": "Almaty Star",
+          "jockey": "J Mitchell",
+          "cd": 1,
+          "days": 17,
+          "odds": "3/1",
+          "mark": null,
           "pos": 2,
-          "res": "PLACE"
+          "res": "PLACE",
+          "stake": 0.24
+        },
+        {
+          "rank": 3,
+          "horse": "Alondra",
+          "jockey": "K T O'Neill",
+          "cd": 2,
+          "days": 21,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.24
         }
       ]
     }
-  ]
+  ],
+  "bank": {
+    "start": 22.24,
+    "stake": 0.22,
+    "end": 23.39
+  }
 }

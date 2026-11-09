@@ -1,7 +1,264 @@
 {
   "date": "2026-03-21",
-  "updated": "2026-11-08T08:06:01+0000",
+  "updated": "2026-11-09T03:02:01+0000",
   "races": [
+    {
+      "time": "13:43",
+      "meeting": "Southwell",
+      "name": "Midnite Are Upping The Betting Game Apprentice Handicap",
+      "class": "6",
+      "distance": "6f 16y",
+      "riders": 7,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Mount Ruapehu",
+          "jockey": "Jack Nicholls",
+          "cd": 1,
+          "days": 7,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.18
+        },
+        {
+          "rank": 2,
+          "horse": "Tuscan Point",
+          "jockey": "Taryn Langley",
+          "cd": 1,
+          "days": 10,
+          "odds": "11/10",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.19
+        },
+        {
+          "rank": 3,
+          "horse": "Up The Monk",
+          "jockey": "Liam Wright",
+          "cd": 1,
+          "days": 10,
+          "odds": "50/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.18
+        }
+      ]
+    },
+    {
+      "time": "14:20",
+      "meeting": "Southwell",
+      "name": "Win 250,000 With BetMGM's Golden Goals Handicap",
+      "class": "6",
+      "distance": "1m 13y",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Create",
+          "jockey": "K T O'Neill",
+          "cd": 3,
+          "days": 17,
+          "odds": "18/1",
+          "mark": null,
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 0.18
+        },
+        {
+          "rank": 2,
+          "horse": "Mr Fustic",
+          "jockey": "Dylan Hogan",
+          "cd": 1,
+          "days": 28,
+          "odds": "6/1",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.18
+        }
+      ]
+    },
+    {
+      "time": "16:38",
+      "meeting": "Southwell",
+      "name": "Midnite A Next Generation Betting App Handicap",
+      "class": "2",
+      "distance": "4f 214y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Gaeli",
+          "jockey": "Jack Gilligan",
+          "cd": 1,
+          "days": 17,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.19
+        },
+        {
+          "rank": 2,
+          "horse": "Ziggy's Triton",
+          "jockey": "Saffie Osborne",
+          "cd": 2,
+          "days": 17,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 0.19
+        }
+      ]
+    },
+    {
+      "time": "17:13",
+      "meeting": "Southwell",
+      "name": "Daily Profit Boosts At betmgm.co.uk Fillies' Handicap",
+      "class": "5",
+      "distance": "1m 4f 14y",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Hackney Diamonds",
+          "jockey": "Ryan Kavanagh",
+          "cd": 1,
+          "days": 10,
+          "odds": "3/1",
+          "mark": null,
+          "pos": 3,
+          "res": "LOSE",
+          "stake": 0.19
+        }
+      ]
+    },
+    {
+      "time": "17:43",
+      "meeting": "Southwell",
+      "name": "Read Meg Nicholls' Blog At betmgm.co.uk Handicap",
+      "class": "5",
+      "distance": "7f 14y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Ash Wednesday",
+          "jockey": "J Mitchell",
+          "cd": 2,
+          "days": 10,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.18
+        },
+        {
+          "rank": 2,
+          "horse": "King Of York",
+          "jockey": "K T O'Neill",
+          "cd": 5,
+          "days": 11,
+          "odds": "9/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.18
+        },
+        {
+          "rank": 3,
+          "horse": "Grabajabba",
+          "jockey": "Alistair Rawlinson",
+          "cd": 1,
+          "days": 14,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.18
+        }
+      ]
+    },
+    {
+      "time": "19:00",
+      "meeting": "Newcastle",
+      "name": "Daily Profit Boosts At betmgm.co.uk Handicap",
+      "class": "5",
+      "distance": "1m 5y",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Concert Boy",
+          "jockey": "Hollie Doyle",
+          "cd": 2,
+          "days": 9,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.18
+        },
+        {
+          "rank": 2,
+          "horse": "Tasever",
+          "jockey": "Billy Loughnane",
+          "cd": 4,
+          "days": 15,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.18
+        },
+        {
+          "rank": 3,
+          "horse": "Selection",
+          "jockey": "Jason Hart",
+          "cd": 1,
+          "days": 25,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.18
+        }
+      ]
+    },
+    {
+      "time": "19:30",
+      "meeting": "Newcastle",
+      "name": "Bet 10 Get 40 With BetMGM Handicap (Div 1)",
+      "class": "5",
+      "distance": "6f",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Henriette Ronner",
+          "jockey": "D Nolan",
+          "cd": 1,
+          "days": 21,
+          "odds": "9/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.18
+        }
+      ]
+    },
     {
       "time": "20:30",
       "meeting": "Newcastle",
@@ -13,19 +270,46 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Asadjumeirah",
-          "jockey": "Tyrese Cameron",
-          "claim": null,
-          "or": 52,
-          "mark": 52,
-          "mark_date": "2026-09-03",
-          "gap": 0,
+          "horse": "Pit Boss",
+          "jockey": "C J Whiteley",
+          "cd": 1,
+          "days": 9,
+          "odds": "15/8",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.18
+        },
+        {
+          "rank": 2,
+          "horse": "Spun To Gold",
+          "jockey": "Shay Farmer",
+          "cd": 2,
           "days": 9,
           "odds": "5/1",
-          "pos": 4,
-          "res": "LOSE"
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.18
+        },
+        {
+          "rank": 3,
+          "horse": "Instant Bond",
+          "jockey": "Owen Lewis",
+          "cd": 1,
+          "days": 10,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.18
         }
       ]
     }
-  ]
+  ],
+  "bank": {
+    "start": 18.02,
+    "stake": 0.18,
+    "end": 17.67
+  }
 }

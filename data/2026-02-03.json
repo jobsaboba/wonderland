@@ -1,0 +1,139 @@
+{
+  "date": "2026-02-03",
+  "updated": "2026-11-09T03:01:58+0000",
+  "races": [
+    {
+      "time": "17:30",
+      "meeting": "Wolverhampton",
+      "name": "Win 250,000 With BetMGM's Golden Goals Handicap",
+      "class": "6",
+      "distance": "7f 36y",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Harbour Vision",
+          "jockey": "K T O'Neill",
+          "cd": 4,
+          "days": 8,
+          "odds": "6/1",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.16
+        }
+      ]
+    },
+    {
+      "time": "18:00",
+      "meeting": "Wolverhampton",
+      "name": "Midnite, Building The Future Of Betting Handicap",
+      "class": "4",
+      "distance": "6f 20y",
+      "riders": 7,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Coachello",
+          "jockey": "Finley Marsh",
+          "cd": 1,
+          "days": 14,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.17
+        },
+        {
+          "rank": 2,
+          "horse": "Dyrholaey",
+          "jockey": "Hollie Doyle",
+          "cd": 1,
+          "days": 17,
+          "odds": "4/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.17
+        }
+      ]
+    },
+    {
+      "time": "19:00",
+      "meeting": "Wolverhampton",
+      "name": "Join The Midnite Movement Handicap",
+      "class": "5",
+      "distance": "1m 5f 219y",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Parramount",
+          "jockey": "Rob Hornby",
+          "cd": 1,
+          "days": 19,
+          "odds": "15/2",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 0.17
+        }
+      ]
+    },
+    {
+      "time": "19:30",
+      "meeting": "Wolverhampton",
+      "name": "Midnite A Next Generation Betting App Handicap",
+      "class": "4",
+      "distance": "1m 1f 104y",
+      "riders": 7,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Eupator",
+          "jockey": "S M Levey",
+          "cd": 2,
+          "days": 8,
+          "odds": "1/1",
+          "mark": null,
+          "pos": 3,
+          "res": "LOSE",
+          "stake": 0.17
+        },
+        {
+          "rank": 2,
+          "horse": "Commander Of Life",
+          "jockey": "Lewis Edmunds",
+          "cd": 1,
+          "days": 11,
+          "odds": "9/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.17
+        },
+        {
+          "rank": 3,
+          "horse": "Urban Road",
+          "jockey": "Sean Kirrane",
+          "cd": 2,
+          "days": 12,
+          "odds": "25/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.17
+        }
+      ]
+    }
+  ],
+  "bank": {
+    "start": 16.45,
+    "stake": 0.16,
+    "end": 16.68
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "date": "2026-09-24",
+  "updated": "2026-11-09T03:02:13+0000",
+  "races": [
+    {
+      "time": "15:22",
+      "meeting": "Southwell",
+      "name": "Weekend Winners On At The Races Handicap",
+      "class": "6",
+      "distance": "1m 14y",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Al Suil Eile",
+          "jockey": "Jack Gilligan",
+          "cd": 4,
+          "days": 6,
+          "odds": "22/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.18
+        },
+        {
+          "rank": 2,
+          "horse": "Soames Forsyte",
+          "jockey": "S M Levey",
+          "cd": 2,
+          "days": 7,
+          "odds": "10/3",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.18
+        },
+        {
+          "rank": 3,
+          "horse": "Mercurius Power",
+          "jockey": "Lewis Edmunds",
+          "cd": 1,
+          "days": 22,
+          "odds": "10/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.18
+        }
+      ]
+    },
+    {
+      "time": "16:30",
+      "meeting": "Southwell",
+      "name": "Download The At The Races App Handicap (Div 1)",
+      "class": "5",
+      "distance": "7f 15y",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Enpassant",
+          "jockey": "K T O'Neill",
+          "cd": 1,
+          "days": 19,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.18
+        }
+      ]
+    },
+    {
+      "time": "17:00",
+      "meeting": "Southwell",
+      "name": "Download The At The Races App Handicap (Div 2)",
+      "class": "5",
+      "distance": "7f 15y",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Shaw Park",
+          "jockey": "K T O'Neill",
+          "cd": 1,
+          "days": 23,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.18
+        }
+      ]
+    },
+    {
+      "time": "18:30",
+      "meeting": "Southwell",
+      "name": "Sky Sports Racing Virgin 512 Handicap",
+      "class": "5",
+      "distance": "4f 215y",
+      "riders": 7,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Cayman Tai",
+          "jockey": "S C Cronin",
+          "cd": 1,
+          "days": 13,
+          "odds": "9/4",
+          "mark": null,
+          "pos": 3,
+          "res": "LOSE",
+          "stake": 0.17
+        },
+        {
+          "rank": 2,
+          "horse": "Guernsey Angel",
+          "jockey": "P Cosgrave",
+          "cd": 1,
+          "days": 13,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.17
+        }
+      ]
+    },
+    {
+      "time": "19:30",
+      "meeting": "Southwell",
+      "name": "attheraces.com/marketmovers Selling Handicap",
+      "class": "5",
+      "distance": "1m 3f 24y",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Bearwith",
+          "jockey": "Tom Kiely-Marshall",
+          "cd": 1,
+          "days": 8,
+          "odds": "2/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.17
+        }
+      ]
+    }
+  ],
+  "bank": {
+    "start": 18.23,
+    "stake": 0.18,
+    "end": 16.94
+  }
+}

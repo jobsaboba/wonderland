@@ -1,0 +1,186 @@
+{
+  "date": "2026-04-03",
+  "updated": "2026-11-09T03:02:02+0000",
+  "races": [
+    {
+      "time": "12:50",
+      "meeting": "Newcastle",
+      "name": "BetMGM All-Weather 3 Year Old Championships Handicap",
+      "class": "2",
+      "distance": "6f",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Cotai Lights",
+          "jockey": "Barry McHugh",
+          "cd": 1,
+          "days": 12,
+          "odds": "9/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 0.17
+        }
+      ]
+    },
+    {
+      "time": "14:00",
+      "meeting": "Newcastle",
+      "name": "BetMGM All-Weather Championships Mile Handicap",
+      "class": "2",
+      "distance": "1m 5y",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Rogue Encore",
+          "jockey": "Hollie Doyle",
+          "cd": 3,
+          "days": 7,
+          "odds": "50/1",
+          "mark": null,
+          "pos": 14,
+          "res": "LOSE",
+          "stake": 0.17
+        },
+        {
+          "rank": 2,
+          "horse": "Apiarist",
+          "jockey": "K Stott",
+          "cd": 1,
+          "days": 16,
+          "odds": "22/1",
+          "mark": null,
+          "pos": 12,
+          "res": "LOSE",
+          "stake": 0.17
+        },
+        {
+          "rank": 3,
+          "horse": "Witch Hunter",
+          "jockey": "J P Spencer",
+          "cd": 1,
+          "days": 27,
+          "odds": "18/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 0.17
+        }
+      ]
+    },
+    {
+      "time": "14:35",
+      "meeting": "Newcastle",
+      "name": "Midnite All-Weather Sprint Handicap",
+      "class": "2",
+      "distance": "6f",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Ferrous",
+          "jockey": "Callum Rodriguez",
+          "cd": 1,
+          "days": 27,
+          "odds": "15/2",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.16
+        },
+        {
+          "rank": 2,
+          "horse": "Heathcliff",
+          "jockey": "Daniel Muscutt",
+          "cd": 1,
+          "days": 27,
+          "odds": "28/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.16
+        },
+        {
+          "rank": 3,
+          "horse": "Marshman",
+          "jockey": "C Lee",
+          "cd": 1,
+          "days": 27,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.16
+        }
+      ]
+    },
+    {
+      "time": "15:10",
+      "meeting": "Newcastle",
+      "name": "Midnite All-Weather Easter Classic Middle Distance Handicap (GBBPlus Race)",
+      "class": "2",
+      "distance": "1m 2f 42y",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "King's Code",
+          "jockey": "Saffie Osborne",
+          "cd": 1,
+          "days": 6,
+          "odds": "33/1",
+          "mark": null,
+          "pos": 14,
+          "res": "LOSE",
+          "stake": 0.16
+        },
+        {
+          "rank": 2,
+          "horse": "The Glen Rovers",
+          "jockey": "S D Bowen",
+          "cd": 1,
+          "days": 22,
+          "odds": "33/1",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.16
+        }
+      ]
+    },
+    {
+      "time": "15:42",
+      "meeting": "Newcastle",
+      "name": "Midnite All-Weather Easter Plate Marathon Handicap (GBBPlus Race)",
+      "class": "2",
+      "distance": "2m 56y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Sax Appeal",
+          "jockey": "Daniel Muscutt",
+          "cd": 1,
+          "days": 21,
+          "odds": "33/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.21
+        }
+      ]
+    }
+  ],
+  "bank": {
+    "start": 17.03,
+    "stake": 0.17,
+    "end": 20.62
+  }
+}

@@ -1,7 +1,170 @@
 {
   "date": "2026-04-21",
-  "updated": "2026-11-08T08:06:01+0000",
+  "updated": "2026-11-09T03:02:03+0000",
   "races": [
+    {
+      "time": "17:00",
+      "meeting": "Wolverhampton",
+      "name": "Get Raceday Ready Handicap",
+      "class": "5",
+      "distance": "5f 21y",
+      "riders": 7,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Diomed Spirit",
+          "jockey": "Olivia Haines",
+          "cd": 2,
+          "days": 12,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.15
+        },
+        {
+          "rank": 2,
+          "horse": "Phoenix Beach",
+          "jockey": "K T O'Neill",
+          "cd": 4,
+          "days": 17,
+          "odds": "10/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.15
+        },
+        {
+          "rank": 3,
+          "horse": "Shalaa Asker",
+          "jockey": "Rob Hornby",
+          "cd": 1,
+          "days": 17,
+          "odds": "3/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.15
+        }
+      ]
+    },
+    {
+      "time": "17:30",
+      "meeting": "Wolverhampton",
+      "name": "Advance Price Midweek Racing For 10 Handicap",
+      "class": "6",
+      "distance": "1m 4f 51y",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Beaune",
+          "jockey": "David Probert",
+          "cd": 1,
+          "days": 11,
+          "odds": "5/4",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.15
+        },
+        {
+          "rank": 2,
+          "horse": "Knight Of Magic",
+          "jockey": "William Carson",
+          "cd": 1,
+          "days": 14,
+          "odds": "20/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.15
+        }
+      ]
+    },
+    {
+      "time": "18:00",
+      "meeting": "Wolverhampton",
+      "name": "Get The Inside Track With raceday-ready.com Fillies' Handicap",
+      "class": "5",
+      "distance": "6f 20y",
+      "riders": 6,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Daytona Lady",
+          "jockey": "Joanna Mason",
+          "cd": 2,
+          "days": 16,
+          "odds": "7/4",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.15
+        }
+      ]
+    },
+    {
+      "time": "18:30",
+      "meeting": "Wolverhampton",
+      "name": "Download The Racecourse App Raceday Ready Handicap (Div 1)",
+      "class": "6",
+      "distance": "7f 36y",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Bungle Bay",
+          "jockey": "Joe Leavy",
+          "cd": 5,
+          "days": 16,
+          "odds": "7/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.15
+        }
+      ]
+    },
+    {
+      "time": "19:00",
+      "meeting": "Wolverhampton",
+      "name": "Download The Racecourse App Raceday Ready Handicap (Div 2)",
+      "class": "6",
+      "distance": "7f 36y",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Bad Habits",
+          "jockey": "Joanna Mason",
+          "cd": 1,
+          "days": 11,
+          "odds": "9/4",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.15
+        },
+        {
+          "rank": 2,
+          "horse": "So Chic",
+          "jockey": "Jack Doughty",
+          "cd": 2,
+          "days": 27,
+          "odds": "11/2",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.15
+        }
+      ]
+    },
     {
       "time": "19:30",
       "meeting": "Wolverhampton",
@@ -13,19 +176,34 @@
       "sel": [
         {
           "rank": 1,
+          "horse": "Distinction",
+          "jockey": "P J McDonald",
+          "cd": 2,
+          "days": 14,
+          "odds": "6/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.15
+        },
+        {
+          "rank": 2,
           "horse": "Kaaranah",
           "jockey": "D Egan",
-          "claim": null,
-          "or": 61,
-          "mark": 70,
-          "mark_date": "2026-07-21",
-          "gap": -9,
+          "cd": 1,
           "days": 15,
           "odds": "11/10",
+          "mark": -9,
           "pos": 1,
-          "res": "WIN"
+          "res": "WIN",
+          "stake": 0.15
         }
       ]
     }
-  ]
+  ],
+  "bank": {
+    "start": 15.32,
+    "stake": 0.15,
+    "end": 15.1
+  }
 }

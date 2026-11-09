@@ -1,45 +1,92 @@
 {
   "date": "2026-10-06",
-  "updated": "2026-11-08T08:06:02+0000",
+  "updated": "2026-11-09T03:02:14+0000",
   "races": [
     {
-      "time": "19:30",
+      "time": "17:00",
       "meeting": "Southwell",
-      "name": "bettingsites.co.uk Each Way Extra Places Handicap",
-      "class": "6",
-      "distance": "1m 3f 23y",
-      "riders": 9,
+      "name": "bettingsites.co.uk Bet Smarter Fillies' Handicap",
+      "class": "5",
+      "distance": "7f 14y",
+      "riders": 11,
       "settled": true,
       "sel": [
         {
           "rank": 1,
-          "horse": "Spec Of Light",
-          "jockey": "Gina Mangan",
-          "claim": null,
-          "or": 53,
-          "mark": 57,
-          "mark_date": "2026-10-19",
-          "gap": -4,
-          "days": 19,
-          "odds": "11/2",
+          "horse": "Crafty Blue",
+          "jockey": "S M Levey",
+          "cd": 1,
+          "days": 22,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.16
+        }
+      ]
+    },
+    {
+      "time": "18:00",
+      "meeting": "Southwell",
+      "name": "bettingsites.co.uk Bet Smarter Fillies' Handicap",
+      "class": "5",
+      "distance": "6f 16y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Daytona Lady",
+          "jockey": "J P Sullivan",
+          "cd": 2,
+          "days": 15,
+          "odds": "22/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.16
+        }
+      ]
+    },
+    {
+      "time": "18:30",
+      "meeting": "Southwell",
+      "name": "bettingsites.co.uk Racing Offers Handicap",
+      "class": "6",
+      "distance": "4f 214y",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Popular Dream",
+          "jockey": "Joanna Mason",
+          "cd": 4,
+          "days": 3,
+          "odds": "11/8",
+          "mark": null,
           "pos": 1,
-          "res": "WIN"
+          "res": "WIN",
+          "stake": 0.16
         },
         {
           "rank": 2,
-          "horse": "Norflondonforever",
-          "jockey": "T Eaves",
-          "claim": null,
-          "or": 60,
-          "mark": 60,
-          "mark_date": "2026-10-15",
-          "gap": 0,
-          "days": 21,
-          "odds": "5/1",
-          "pos": 2,
-          "res": "PLACE"
+          "horse": "Khabib",
+          "jockey": "C Horgan",
+          "cd": 2,
+          "days": 11,
+          "odds": "3/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.16
         }
       ]
     }
-  ]
+  ],
+  "bank": {
+    "start": 16.4,
+    "stake": 0.16,
+    "end": 15.98
+  }
 }

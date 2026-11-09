@@ -1,29 +1,97 @@
 {
   "date": "2026-05-01",
-  "updated": "2026-11-08T08:06:01+0000",
+  "updated": "2026-11-09T03:02:03+0000",
   "races": [
     {
-      "time": "18:02",
+      "time": "16:20",
       "meeting": "Newcastle",
-      "name": "Northumbria Leisure For Gaming Machines Handicap",
-      "class": "4",
-      "distance": "6f",
-      "riders": 8,
+      "name": "Get Your Free Bets At freebets.com Handicap",
+      "class": "5",
+      "distance": "1m 2f 42y",
+      "riders": 12,
       "settled": true,
       "sel": [
         {
           "rank": 1,
-          "horse": "Yy Spirit",
-          "jockey": "Rhys Elliott",
-          "claim": 5,
-          "or": 73,
-          "mark": 73,
-          "mark_date": "2025-12-09",
-          "gap": 0,
-          "days": 15,
-          "odds": "66/1",
+          "horse": "Mao Shang Wong",
+          "jockey": "Mark Winn",
+          "cd": 1,
+          "days": 11,
+          "odds": "9/1",
+          "mark": null,
           "pos": 8,
-          "res": "LOSE"
+          "res": "LOSE",
+          "stake": 0.15
+        }
+      ]
+    },
+    {
+      "time": "16:53",
+      "meeting": "Newcastle",
+      "name": "Roflow Dust & Fume Lev Systems Handicap (GBBPlus Race)",
+      "class": "4",
+      "distance": "1m 4f 98y",
+      "riders": 6,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Ludo's Landing",
+          "jockey": "A Mullen",
+          "cd": 1,
+          "days": 19,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.15
+        }
+      ]
+    },
+    {
+      "time": "18:33",
+      "meeting": "Newcastle",
+      "name": "Hays Travel: Nobody Offers You More Handicap",
+      "class": "4",
+      "distance": "7f 14y",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "The Green Man",
+          "jockey": "L Morris",
+          "cd": 1,
+          "days": 11,
+          "odds": "4/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.15
+        },
+        {
+          "rank": 2,
+          "horse": "Blufferonthebus",
+          "jockey": "Rhys Elliott",
+          "cd": 1,
+          "days": 16,
+          "odds": "40/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.15
+        },
+        {
+          "rank": 3,
+          "horse": "William Dewhirst",
+          "jockey": "A Mullen",
+          "cd": 5,
+          "days": 18,
+          "odds": "25/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.15
         }
       ]
     },
@@ -38,19 +106,46 @@
       "sel": [
         {
           "rank": 1,
+          "horse": "Raft Up",
+          "jockey": "Ethan Tindall",
+          "cd": 3,
+          "days": 8,
+          "odds": "11/4",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.15
+        },
+        {
+          "rank": 2,
           "horse": "Asadjumeirah",
           "jockey": "Alex Jary",
-          "claim": 3,
-          "or": 50,
-          "mark": 52,
-          "mark_date": "2026-09-03",
-          "gap": -2,
+          "cd": 5,
           "days": 11,
           "odds": "25/1",
+          "mark": -2,
           "pos": 8,
-          "res": "LOSE"
+          "res": "LOSE",
+          "stake": 0.15
+        },
+        {
+          "rank": 3,
+          "horse": "Lion's House",
+          "jockey": "Kaiya Fraser",
+          "cd": 1,
+          "days": 19,
+          "odds": "13/2",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.15
         }
       ]
     }
-  ]
+  ],
+  "bank": {
+    "start": 15.47,
+    "stake": 0.15,
+    "end": 15.0
+  }
 }

@@ -1,0 +1,269 @@
+{
+  "date": "2026-01-02",
+  "updated": "2026-11-09T03:01:55+0000",
+  "races": [
+    {
+      "time": "16:30",
+      "meeting": "Wolverhampton",
+      "name": "Midnite A Next Generation Betting App Handicap",
+      "class": "6",
+      "distance": "6f 20y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Buraback",
+          "jockey": "Joanna Mason",
+          "cd": 2,
+          "days": 15,
+          "odds": "18/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.1
+        },
+        {
+          "rank": 2,
+          "horse": "Royal Musketeer",
+          "jockey": "Charles Bishop",
+          "cd": 1,
+          "days": 15,
+          "odds": "15/2",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 0.1
+        }
+      ]
+    },
+    {
+      "time": "18:30",
+      "meeting": "Wolverhampton",
+      "name": "Read Meg Nicholls' Blog At betmgm.co.uk Handicap",
+      "class": "5",
+      "distance": "7f 36y",
+      "riders": 7,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Adelaide Bay",
+          "jockey": "William Carson",
+          "cd": 1,
+          "days": 16,
+          "odds": "50/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.1
+        },
+        {
+          "rank": 2,
+          "horse": "River Wharfe",
+          "jockey": "Matthew Slater",
+          "cd": 1,
+          "days": 18,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.1
+        },
+        {
+          "rank": 3,
+          "horse": "Straight A",
+          "jockey": "Alistair Rawlinson",
+          "cd": 1,
+          "days": 27,
+          "odds": "9/4",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.1
+        }
+      ]
+    },
+    {
+      "time": "19:00",
+      "meeting": "Wolverhampton",
+      "name": "Always Gamble Responsibly At BetMGM Handicap",
+      "class": "5",
+      "distance": "1m 142y",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Ernie's Valentine",
+          "jockey": "Phoebe Edwards",
+          "cd": 2,
+          "days": 11,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.1
+        },
+        {
+          "rank": 2,
+          "horse": "Lessay",
+          "jockey": "Paddy Bradley",
+          "cd": 1,
+          "days": 13,
+          "odds": "25/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.1
+        },
+        {
+          "rank": 3,
+          "horse": "Soames Forsyte",
+          "jockey": "Jason Hart",
+          "cd": 1,
+          "days": 15,
+          "odds": "40/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.1
+        }
+      ]
+    },
+    {
+      "time": "19:30",
+      "meeting": "Wolverhampton",
+      "name": "Midnite Are Upping The Betting Game Handicap",
+      "class": "5",
+      "distance": "5f 21y",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Beaumadier",
+          "jockey": "Jason Hart",
+          "cd": 1,
+          "days": 7,
+          "odds": "4/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.1
+        },
+        {
+          "rank": 2,
+          "horse": "Gustav Graves",
+          "jockey": "Joanna Mason",
+          "cd": 7,
+          "days": 11,
+          "odds": "6/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.1
+        },
+        {
+          "rank": 3,
+          "horse": "Bang On The Bell",
+          "jockey": "Jonny Peate",
+          "cd": 4,
+          "days": 15,
+          "odds": "6/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.09
+        }
+      ]
+    },
+    {
+      "time": "20:00",
+      "meeting": "Wolverhampton",
+      "name": "Join The Midnite Movement Handicap (Div 1)",
+      "class": "6",
+      "distance": "1m 1f 104y",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Sense Of Worth",
+          "jockey": "D Swift",
+          "cd": 1,
+          "days": 15,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 0.09
+        },
+        {
+          "rank": 2,
+          "horse": "Prince Ali",
+          "jockey": "Zoe Lewis",
+          "cd": 3,
+          "days": 20,
+          "odds": "25/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.09
+        }
+      ]
+    },
+    {
+      "time": "20:30",
+      "meeting": "Wolverhampton",
+      "name": "Join The Midnite Movement Handicap (Div 2)",
+      "class": "6",
+      "distance": "1m 1f 104y",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Law Supreme",
+          "jockey": "Ryan Kavanagh",
+          "cd": 1,
+          "days": 7,
+          "odds": "11/4",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.09
+        },
+        {
+          "rank": 2,
+          "horse": "Magic Runner",
+          "jockey": "J P Sullivan",
+          "cd": 1,
+          "days": 13,
+          "odds": "10/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.09
+        },
+        {
+          "rank": 3,
+          "horse": "Ciotog",
+          "jockey": "Jason Hart",
+          "cd": 2,
+          "days": 20,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.09
+        }
+      ]
+    }
+  ],
+  "bank": {
+    "start": 10.41,
+    "stake": 0.1,
+    "end": 8.95
+  }
+}

@@ -1,7 +1,77 @@
 {
   "date": "2026-10-03",
-  "updated": "2026-11-08T08:06:02+0000",
+  "updated": "2026-11-09T03:02:14+0000",
   "races": [
+    {
+      "time": "16:55",
+      "meeting": "Southwell",
+      "name": "bettingsites.co.uk Best Odds Guaranteed Handicap",
+      "class": "4",
+      "distance": "1m 13y",
+      "riders": 13,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Vincent Rocks",
+          "jockey": "Darragh Keenan",
+          "cd": 1,
+          "days": 11,
+          "odds": "25/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.15
+        }
+      ]
+    },
+    {
+      "time": "18:30",
+      "meeting": "Southwell",
+      "name": "bettingsites.co.uk Every Bookie Compared Handicap",
+      "class": "5",
+      "distance": "6f 16y",
+      "riders": 13,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Kats Bob",
+          "jockey": "Billy Garritty",
+          "cd": 2,
+          "days": 7,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.15
+        },
+        {
+          "rank": 2,
+          "horse": "Hundred Caps",
+          "jockey": "Dylan Hogan",
+          "cd": 1,
+          "days": 14,
+          "odds": "13/2",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.15
+        },
+        {
+          "rank": 3,
+          "horse": "Jenever",
+          "jockey": "Jack Doughty",
+          "cd": 1,
+          "days": 20,
+          "odds": "7/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.15
+        }
+      ]
+    },
     {
       "time": "19:00",
       "meeting": "Southwell",
@@ -13,47 +83,34 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Popular Dream",
-          "jockey": "Alex Jary",
-          "claim": 3,
-          "or": 55,
-          "mark": 55,
-          "mark_date": "2026-10-06",
-          "gap": 0,
-          "days": 7,
-          "odds": "12/1",
-          "pos": 5,
-          "res": "LOSE"
+          "horse": "Guernsey Angel",
+          "jockey": "D Nolan",
+          "cd": 1,
+          "days": 9,
+          "odds": "7/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.14
         },
         {
           "rank": 2,
-          "horse": "Fletcher's Flight",
-          "jockey": "Joe Leavy",
-          "claim": null,
-          "or": 57,
-          "mark": 58,
-          "mark_date": "2026-11-05",
-          "gap": -1,
-          "days": 19,
-          "odds": "50/1",
-          "pos": 3,
-          "res": "PLACE"
-        },
-        {
-          "rank": 3,
-          "horse": "Opal Storm",
-          "jockey": "Faye McManoman",
-          "claim": null,
-          "or": 59,
-          "mark": 59,
-          "mark_date": "2026-10-10",
-          "gap": 0,
-          "days": 11,
-          "odds": "12/1",
-          "pos": 7,
-          "res": "LOSE"
+          "horse": "Toptime",
+          "jockey": "Darragh Keenan",
+          "cd": 2,
+          "days": 25,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.14
         }
       ]
     }
-  ]
+  ],
+  "bank": {
+    "start": 14.9,
+    "stake": 0.15,
+    "end": 15.06
+  }
 }

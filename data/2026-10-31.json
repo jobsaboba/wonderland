@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-31",
+  "updated": "2026-11-09T03:02:16+0000",
+  "races": [
+    {
+      "time": "16:00",
+      "meeting": "Southwell",
+      "name": "ARC All Weather Bonus Is Back Handicap (Div 1)",
+      "class": "6",
+      "distance": "1m 13y",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Dumfries",
+          "jockey": "J P Sullivan",
+          "cd": 1,
+          "days": 7,
+          "odds": "18/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 0.11
+        },
+        {
+          "rank": 2,
+          "horse": "Mercurius Power",
+          "jockey": "Lewis Edmunds",
+          "cd": 1,
+          "days": 21,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.11
+        }
+      ]
+    },
+    {
+      "time": "16:35",
+      "meeting": "Southwell",
+      "name": "ARC All Weather Bonus Is Back Handicap (Div 2)",
+      "class": "6",
+      "distance": "1m 13y",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Hear The Drums",
+          "jockey": "Warren Fentiman",
+          "cd": 1,
+          "days": 23,
+          "odds": "18/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.11
+        }
+      ]
+    },
+    {
+      "time": "20:00",
+      "meeting": "Southwell",
+      "name": "Midnite A Next Generation Betting App Handicap",
+      "class": "6",
+      "distance": "4f 214y",
+      "riders": 7,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Guernsey Angel",
+          "jockey": "Marco Ghiani",
+          "cd": 1,
+          "days": 28,
+          "odds": "11/4",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 0.11
+        }
+      ]
+    }
+  ],
+  "bank": {
+    "start": 11.25,
+    "stake": 0.11,
+    "end": 10.92
+  }
+}

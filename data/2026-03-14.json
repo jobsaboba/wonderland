@@ -1,31 +1,116 @@
 {
   "date": "2026-03-14",
-  "updated": "2026-11-08T08:06:01+0000",
+  "updated": "2026-11-09T03:02:00+0000",
   "races": [
     {
-      "time": "20:00",
+      "time": "18:00",
       "meeting": "Southwell",
-      "name": "Midnite, Building The Future Of Betting Handicap (GBBPlus Race)",
-      "class": "4",
-      "distance": "2m 102y",
-      "riders": 6,
+      "name": "BetMGM Supports Safer Gambling Handicap",
+      "class": "5",
+      "distance": "7f 14y",
+      "riders": 11,
       "settled": true,
       "sel": [
         {
           "rank": 1,
-          "horse": "Tarbat Ness",
-          "jockey": "Gina Mangan",
-          "claim": null,
-          "or": 72,
-          "mark": 72,
-          "mark_date": "2026-10-26",
-          "gap": 0,
+          "horse": "Bobby Joe Leg",
+          "jockey": "J P Sullivan",
+          "cd": 3,
+          "days": 8,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 11,
+          "res": "LOSE",
+          "stake": 0.25
+        },
+        {
+          "rank": 2,
+          "horse": "No Knee Never",
+          "jockey": "Ashley Lewis",
+          "cd": 1,
           "days": 10,
-          "odds": "9/2",
+          "odds": "8/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.25
+        }
+      ]
+    },
+    {
+      "time": "18:30",
+      "meeting": "Southwell",
+      "name": "Midnite A Next Generation Betting App Handicap",
+      "class": "6",
+      "distance": "6f 16y",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "He's An Angel",
+          "jockey": "Oliver Stammers",
+          "cd": 1,
+          "days": 8,
+          "odds": "15/2",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.24
+        },
+        {
+          "rank": 2,
+          "horse": "Pinjarra",
+          "jockey": "Jason Hart",
+          "cd": 1,
+          "days": 21,
+          "odds": "13/2",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.24
+        }
+      ]
+    },
+    {
+      "time": "20:30",
+      "meeting": "Southwell",
+      "name": "Midnite: Built For 2026 Not 2006 Handicap",
+      "class": "4",
+      "distance": "4f 214y",
+      "riders": 7,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Master Of My Fate",
+          "jockey": "Jason Hart",
+          "cd": 3,
+          "days": 22,
+          "odds": "9/4",
+          "mark": null,
           "pos": 4,
-          "res": "LOSE"
+          "res": "LOSE",
+          "stake": 0.24
+        },
+        {
+          "rank": 2,
+          "horse": "Sam's Hope",
+          "jockey": "O J Orr",
+          "cd": 3,
+          "days": 22,
+          "odds": "7/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.24
         }
       ]
     }
-  ]
+  ],
+  "bank": {
+    "start": 24.9,
+    "stake": 0.25,
+    "end": 23.78
+  }
 }

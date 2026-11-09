@@ -1,0 +1,69 @@
+{
+  "date": "2026-07-27",
+  "updated": "2026-11-09T03:02:09+0000",
+  "races": [
+    {
+      "time": "16:00",
+      "meeting": "Southwell",
+      "name": "Prestige Safety Construction Safety Specialists Handicap (Div 1)",
+      "class": "4",
+      "distance": "7f 14y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Chalk Mountain",
+          "jockey": "Alfie Redman",
+          "cd": 1,
+          "days": 17,
+          "odds": "4/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.18
+        },
+        {
+          "rank": 2,
+          "horse": "Tropez Power",
+          "jockey": "J Garritty",
+          "cd": 1,
+          "days": 24,
+          "odds": "33/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 0.18
+        }
+      ]
+    },
+    {
+      "time": "17:05",
+      "meeting": "Southwell",
+      "name": "Prestige Safety Services PPE And Workwear Handicap",
+      "class": "5",
+      "distance": "6f 16y",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Hierarchy",
+          "jockey": "William Carver",
+          "cd": 2,
+          "days": 10,
+          "odds": "33/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.18
+        }
+      ]
+    }
+  ],
+  "bank": {
+    "start": 18.48,
+    "stake": 0.18,
+    "end": 18.08
+  }
+}

@@ -1,7 +1,158 @@
 {
   "date": "2026-07-31",
-  "updated": "2026-11-08T08:06:02+0000",
+  "updated": "2026-11-09T03:02:09+0000",
   "races": [
+    {
+      "time": "13:35",
+      "meeting": "Wolverhampton",
+      "name": "Get Raceday Ready Handicap",
+      "class": "5",
+      "distance": "7f 36y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Al Muqdad",
+          "jockey": "S De Sousa",
+          "cd": 1,
+          "days": 8,
+          "odds": "3/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 0.2
+        },
+        {
+          "rank": 2,
+          "horse": "Espanita",
+          "jockey": "Oliver Stammers",
+          "cd": 1,
+          "days": 25,
+          "odds": "20/1",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.2
+        },
+        {
+          "rank": 3,
+          "horse": "Gunfighter",
+          "jockey": "Jack Gilligan",
+          "cd": 1,
+          "days": 26,
+          "odds": "5/2",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.24
+        }
+      ]
+    },
+    {
+      "time": "14:10",
+      "meeting": "Wolverhampton",
+      "name": "Call 01902 390016 To Name A Race Fillies' Handicap",
+      "class": "4",
+      "distance": "7f 36y",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Bella Bisbee",
+          "jockey": "Christian Howarth",
+          "cd": 1,
+          "days": 9,
+          "odds": "18/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.24
+        },
+        {
+          "rank": 2,
+          "horse": "Carnival Of Light",
+          "jockey": "Oliver Stammers",
+          "cd": 1,
+          "days": 14,
+          "odds": "11/4",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.23
+        }
+      ]
+    },
+    {
+      "time": "14:55",
+      "meeting": "Newcastle",
+      "name": "QuinnBet Best Odds Guaranteed Handicap",
+      "class": "5",
+      "distance": "5f",
+      "riders": 13,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Houndhill",
+          "jockey": "Alex Jary",
+          "cd": 1,
+          "days": 15,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.24
+        }
+      ]
+    },
+    {
+      "time": "15:30",
+      "meeting": "Newcastle",
+      "name": "QuinnBet Extra Place Handicap (Div 1)",
+      "class": "6",
+      "distance": "7f 14y",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Reginald Charles",
+          "jockey": "P J McDonald",
+          "cd": 1,
+          "days": 28,
+          "odds": "6/4",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.25
+        }
+      ]
+    },
+    {
+      "time": "15:55",
+      "meeting": "Wolverhampton",
+      "name": "Cavani Fashion Forward Handicap",
+      "class": "4",
+      "distance": "6f 20y",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Papa Cocktail",
+          "jockey": "Edward Greatrex",
+          "cd": 2,
+          "days": 18,
+          "odds": "13/2",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.25
+        }
+      ]
+    },
     {
       "time": "16:05",
       "meeting": "Newcastle",
@@ -15,17 +166,32 @@
           "rank": 1,
           "horse": "Finn Ironside",
           "jockey": "Elle-May Croot",
-          "claim": 5,
-          "or": 62,
-          "mark": 64,
-          "mark_date": "2026-10-02",
-          "gap": -2,
+          "cd": 1,
           "days": 8,
           "odds": "10/3",
+          "mark": -2,
           "pos": 2,
-          "res": "PLACE"
+          "res": "PLACE",
+          "stake": 0.25
+        },
+        {
+          "rank": 2,
+          "horse": "Saisons D'Or",
+          "jockey": "J Garritty",
+          "cd": 3,
+          "days": 23,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.25
         }
       ]
     }
-  ]
+  ],
+  "bank": {
+    "start": 20.2,
+    "stake": 0.2,
+    "end": 24.65
+  }
 }

@@ -1,7 +1,147 @@
 {
   "date": "2026-04-09",
-  "updated": "2026-11-08T08:06:01+0000",
+  "updated": "2026-11-09T03:02:02+0000",
   "races": [
+    {
+      "time": "13:07",
+      "meeting": "Southwell",
+      "name": "Country & Western Night 25th April Fillies' Handicap",
+      "class": "5",
+      "distance": "4f 214y",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Filly Foden",
+          "jockey": "Lewis Edmunds",
+          "cd": 1,
+          "days": 15,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.18
+        },
+        {
+          "rank": 2,
+          "horse": "Alfa Duplicate",
+          "jockey": "D Nolan",
+          "cd": 1,
+          "days": 19,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.18
+        },
+        {
+          "rank": 3,
+          "horse": "La Belle Forest",
+          "jockey": "Pierre-Louis Jamin",
+          "cd": 1,
+          "days": 27,
+          "odds": "11/8",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.18
+        }
+      ]
+    },
+    {
+      "time": "14:17",
+      "meeting": "Southwell",
+      "name": "Book The Bistro In Sherwood Restaurant Handicap",
+      "class": "4",
+      "distance": "4f 214y",
+      "riders": 7,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Master Of My Fate",
+          "jockey": "O J Orr",
+          "cd": 3,
+          "days": 13,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.17
+        }
+      ]
+    },
+    {
+      "time": "15:55",
+      "meeting": "Southwell",
+      "name": "Ladies Day Sunday 16th August Handicap",
+      "class": "4",
+      "distance": "1m 13y",
+      "riders": 7,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Down To The Kid",
+          "jockey": "N Callan",
+          "cd": 3,
+          "days": 27,
+          "odds": "11/4",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.18
+        }
+      ]
+    },
+    {
+      "time": "16:30",
+      "meeting": "Wolverhampton",
+      "name": "Download The At The Races App Apprentice Handicap",
+      "class": "6",
+      "distance": "1m 1f 104y",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Ciotog",
+          "jockey": "Hope Regan",
+          "cd": 2,
+          "days": 4,
+          "odds": "17/2",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.18
+        },
+        {
+          "rank": 2,
+          "horse": "Port Noir",
+          "jockey": "Rose Dawes",
+          "cd": 3,
+          "days": 4,
+          "odds": "3/1",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.18
+        },
+        {
+          "rank": 3,
+          "horse": "Crafter",
+          "jockey": "Ethan Tindall",
+          "cd": 2,
+          "days": 13,
+          "odds": "10/3",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.18
+        }
+      ]
+    },
     {
       "time": "17:30",
       "meeting": "Wolverhampton",
@@ -13,19 +153,81 @@
       "sel": [
         {
           "rank": 1,
+          "horse": "Henery Hawk",
+          "jockey": "Rhys Clutterbuck",
+          "cd": 2,
+          "days": 16,
+          "odds": "9/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.18
+        },
+        {
+          "rank": 2,
+          "horse": "Kento",
+          "jockey": "Rossa Ryan",
+          "cd": 3,
+          "days": 16,
+          "odds": "3/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.18
+        },
+        {
+          "rank": 3,
           "horse": "Midnight Call",
           "jockey": "Hollie Doyle",
-          "claim": null,
-          "or": 54,
-          "mark": 62,
-          "mark_date": "2026-05-18",
-          "gap": -8,
+          "cd": 2,
           "days": 17,
           "odds": "15/8",
+          "mark": -8,
           "pos": 1,
-          "res": "WIN"
+          "res": "WIN",
+          "stake": 0.18
+        }
+      ]
+    },
+    {
+      "time": "18:30",
+      "meeting": "Wolverhampton",
+      "name": "Free Bets On attheraces.com Handicap",
+      "class": "4",
+      "distance": "6f 20y",
+      "riders": 6,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Dyrholaey",
+          "jockey": "Harry Vigors",
+          "cd": 1,
+          "days": 17,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 3,
+          "res": "LOSE",
+          "stake": 0.18
+        },
+        {
+          "rank": 2,
+          "horse": "Tiger Crusade",
+          "jockey": "Callum Shepherd",
+          "cd": 1,
+          "days": 22,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.18
         }
       ]
     }
-  ]
+  ],
+  "bank": {
+    "start": 17.78,
+    "stake": 0.18,
+    "end": 17.61
+  }
 }

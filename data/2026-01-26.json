@@ -1,7 +1,101 @@
 {
   "date": "2026-01-26",
-  "updated": "2026-11-08T08:06:00+0000",
+  "updated": "2026-11-09T03:01:57+0000",
   "races": [
+    {
+      "time": "15:55",
+      "meeting": "Wolverhampton",
+      "name": "Make The Move To Midnite Handicap (Div 1)",
+      "class": "6",
+      "distance": "6f 20y",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Bernie The Bear",
+          "jockey": "Kaiya Fraser",
+          "cd": 1,
+          "days": 6,
+          "odds": "18/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.14
+        },
+        {
+          "rank": 2,
+          "horse": "East Tyrone",
+          "jockey": "Cam Hardie",
+          "cd": 1,
+          "days": 9,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.13
+        },
+        {
+          "rank": 3,
+          "horse": "Tommytwohoots",
+          "jockey": "Lewis Edmunds",
+          "cd": 2,
+          "days": 10,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.14
+        }
+      ]
+    },
+    {
+      "time": "16:25",
+      "meeting": "Wolverhampton",
+      "name": "Make The Move To Midnite Handicap (Div 2)",
+      "class": "6",
+      "distance": "6f 20y",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Sisters In The Sky",
+          "jockey": "Finley Marsh",
+          "cd": 2,
+          "days": 3,
+          "odds": "13/2",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.13
+        },
+        {
+          "rank": 2,
+          "horse": "Porfin",
+          "jockey": "Connor Planas",
+          "cd": 1,
+          "days": 9,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.14
+        },
+        {
+          "rank": 3,
+          "horse": "Nordic Glory",
+          "jockey": "Ryan Kavanagh",
+          "cd": 3,
+          "days": 10,
+          "odds": "11/4",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.14
+        }
+      ]
+    },
     {
       "time": "17:00",
       "meeting": "Wolverhampton",
@@ -13,19 +107,139 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "King Of Chaos",
+          "horse": "Grey Horizon",
+          "jockey": "K T O'Neill",
+          "cd": 1,
+          "days": 14,
+          "odds": "4/1",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.14
+        }
+      ]
+    },
+    {
+      "time": "18:30",
+      "meeting": "Wolverhampton",
+      "name": "Always Gamble Responsibly At BetMGM Handicap",
+      "class": "6",
+      "distance": "7f 36y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Adelaide Bay",
+          "jockey": "Finley Marsh",
+          "cd": 1,
+          "days": 14,
+          "odds": "40/1",
+          "mark": null,
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 0.14
+        },
+        {
+          "rank": 2,
+          "horse": "Harbour Vision",
+          "jockey": "K T O'Neill",
+          "cd": 3,
+          "days": 14,
+          "odds": "20/1",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.14
+        },
+        {
+          "rank": 3,
+          "horse": "Toussarok",
           "jockey": "L Morris",
-          "claim": null,
-          "or": 70,
-          "mark": 72,
-          "mark_date": "2026-07-17",
-          "gap": -2,
-          "days": 16,
-          "odds": "11/2",
+          "cd": 1,
+          "days": 23,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.17
+        }
+      ]
+    },
+    {
+      "time": "19:00",
+      "meeting": "Wolverhampton",
+      "name": "Midnite A Next Generation Betting App Handicap",
+      "class": "5",
+      "distance": "1m 1f 104y",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Eupator",
+          "jockey": "S M Levey",
+          "cd": 1,
+          "days": 3,
+          "odds": "11/8",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.17
+        },
+        {
+          "rank": 2,
+          "horse": "Monty Beau",
+          "jockey": "Jason Hart",
+          "cd": 1,
+          "days": 11,
+          "odds": "13/2",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.17
+        },
+        {
+          "rank": 3,
+          "horse": "Oman",
+          "jockey": "Jason Watson",
+          "cd": 1,
+          "days": 11,
+          "odds": "8/1",
+          "mark": null,
           "pos": 2,
-          "res": "PLACE"
+          "res": "PLACE",
+          "stake": 0.17
+        }
+      ]
+    },
+    {
+      "time": "19:30",
+      "meeting": "Wolverhampton",
+      "name": "BetMGM Supports Safer Gambling Fillies' Handicap",
+      "class": "5",
+      "distance": "1m 142y",
+      "riders": 6,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Caramay",
+          "jockey": "Lewis Edmunds",
+          "cd": 2,
+          "days": 20,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.17
         }
       ]
     }
-  ]
+  ],
+  "bank": {
+    "start": 13.61,
+    "stake": 0.14,
+    "end": 16.79
+  }
 }
