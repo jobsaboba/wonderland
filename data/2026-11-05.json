@@ -1,6 +1,6 @@
 {
   "date": "2026-11-05",
-  "updated": "2026-11-09T03:02:16+0000",
+  "updated": "2026-11-09T03:22:36+0000",
   "races": [
     {
       "time": "14:20",
@@ -21,7 +21,7 @@
           "mark": -2,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.1
+          "stake": 0.19
         }
       ]
     },
@@ -36,18 +36,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Alessia Fernanda",
-          "jockey": "C J Whiteley",
-          "cd": 1,
-          "days": 13,
-          "odds": "11/1",
-          "mark": null,
-          "pos": 12,
-          "res": "LOSE",
-          "stake": 0.1
-        },
-        {
-          "rank": 2,
           "horse": "Orangesandlemons",
           "jockey": "C Horgan",
           "cd": 1,
@@ -56,7 +44,7 @@
           "mark": null,
           "pos": 11,
           "res": "LOSE",
-          "stake": 0.1
+          "stake": 0.19
         }
       ]
     },
@@ -79,22 +67,10 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.1
+          "stake": 0.19
         },
         {
           "rank": 2,
-          "horse": "Prince Of Pillo",
-          "jockey": "J Garritty",
-          "cd": 1,
-          "days": 17,
-          "odds": "11/4",
-          "mark": null,
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 0.09
-        },
-        {
-          "rank": 3,
           "horse": "Ormolulu",
           "jockey": "C J Whiteley",
           "cd": 5,
@@ -103,14 +79,14 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.09
+          "stake": 0.18
         }
       ]
     }
   ],
   "bank": {
-    "start": 9.86,
-    "stake": 0.1,
-    "end": 9.42
+    "start": 18.93,
+    "stake": 0.19,
+    "end": 18.47
   }
 }

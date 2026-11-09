@@ -1,6 +1,6 @@
 {
   "date": "2026-01-16",
-  "updated": "2026-11-09T03:01:56+0000",
+  "updated": "2026-11-09T03:22:20+0000",
   "races": [
     {
       "time": "12:30",
@@ -21,22 +21,10 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.08
+          "stake": 0.12
         },
         {
           "rank": 2,
-          "horse": "Lion's House",
-          "jockey": "Alfie Redman",
-          "cd": 1,
-          "days": 15,
-          "odds": "16/1",
-          "mark": null,
-          "pos": 9,
-          "res": "LOSE",
-          "stake": 0.08
-        },
-        {
-          "rank": 3,
           "horse": "True Promise",
           "jockey": "O McSweeney",
           "cd": 1,
@@ -45,7 +33,7 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.08
+          "stake": 0.13
         }
       ]
     },
@@ -68,7 +56,7 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.08
+          "stake": 0.13
         },
         {
           "rank": 2,
@@ -80,7 +68,7 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.08
+          "stake": 0.13
         },
         {
           "rank": 3,
@@ -92,30 +80,7 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.08
-        }
-      ]
-    },
-    {
-      "time": "14:15",
-      "meeting": "Newcastle",
-      "name": "Midnite AWC Marathon Trial Handicap (GBBPlus Race)",
-      "class": "2",
-      "distance": "2m 56y",
-      "riders": 11,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Wise Eagle",
-          "jockey": "Billy Garritty",
-          "cd": 2,
-          "days": 15,
-          "odds": "33/1",
-          "mark": null,
-          "pos": 7,
-          "res": "LOSE",
-          "stake": 0.08
+          "stake": 0.13
         }
       ]
     },
@@ -130,39 +95,15 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Heavenly Heather",
-          "jockey": "Barry McHugh",
-          "cd": 1,
-          "days": 3,
-          "odds": "11/1",
-          "mark": null,
-          "pos": 5,
-          "res": "LOSE",
-          "stake": 0.08
-        },
-        {
-          "rank": 2,
-          "horse": "Fivethousandtoone",
-          "jockey": "Sean Kirrane",
-          "cd": 3,
+          "horse": "Pocklington",
+          "jockey": "P J McDonald",
+          "cd": 2,
           "days": 15,
-          "odds": "28/1",
+          "odds": "10/3",
           "mark": null,
-          "pos": 3,
+          "pos": 2,
           "res": "PLACE",
-          "stake": 0.08
-        },
-        {
-          "rank": 3,
-          "horse": "Oriental Prince",
-          "jockey": "Amie Waugh",
-          "cd": 1,
-          "days": 15,
-          "odds": "33/1",
-          "mark": null,
-          "pos": 10,
-          "res": "LOSE",
-          "stake": 0.08
+          "stake": 0.13
         }
       ]
     },
@@ -185,7 +126,7 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.08
+          "stake": 0.12
         }
       ]
     },
@@ -208,7 +149,7 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.08
+          "stake": 0.12
         }
       ]
     },
@@ -223,30 +164,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Magic Runner",
-          "jockey": "Taryn Langley",
-          "cd": 1,
-          "days": 14,
-          "odds": "16/1",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.08
-        },
-        {
-          "rank": 2,
-          "horse": "Prince Ali",
-          "jockey": "Zoe Lewis",
-          "cd": 3,
-          "days": 14,
-          "odds": "33/1",
-          "mark": null,
-          "pos": 8,
-          "res": "LOSE",
-          "stake": 0.09
-        },
-        {
-          "rank": 3,
           "horse": "Stipulation",
           "jockey": "Donagh Murphy",
           "cd": 1,
@@ -255,7 +172,19 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.09
+          "stake": 0.12
+        },
+        {
+          "rank": 2,
+          "horse": "Dingwall",
+          "jockey": "Cara Tuke",
+          "cd": 2,
+          "days": 27,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.12
         }
       ]
     },
@@ -278,7 +207,7 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.09
+          "stake": 0.12
         },
         {
           "rank": 2,
@@ -290,7 +219,7 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.09
+          "stake": 0.12
         },
         {
           "rank": 3,
@@ -302,7 +231,7 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.09
+          "stake": 0.12
         }
       ]
     },
@@ -325,7 +254,7 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 0.09
+          "stake": 0.12
         },
         {
           "rank": 2,
@@ -337,7 +266,7 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.09
+          "stake": 0.12
         },
         {
           "rank": 3,
@@ -349,7 +278,7 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.09
+          "stake": 0.12
         }
       ]
     },
@@ -364,18 +293,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "First Greyed",
-          "jockey": "Zoe Lewis",
-          "cd": 3,
-          "days": 10,
-          "odds": "28/1",
-          "mark": null,
-          "pos": 8,
-          "res": "LOSE",
-          "stake": 0.09
-        },
-        {
-          "rank": 2,
           "horse": "Hitched",
           "jockey": "L Morris",
           "cd": 1,
@@ -384,61 +301,14 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.09
-        },
-        {
-          "rank": 3,
-          "horse": "Advancing",
-          "jockey": "Marco Ghiani",
-          "cd": 1,
-          "days": 20,
-          "odds": "4/7",
-          "mark": null,
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 0.09
-        }
-      ]
-    },
-    {
-      "time": "20:30",
-      "meeting": "Wolverhampton",
-      "name": "Midnite Are Upping The Betting Game Handicap",
-      "class": "6",
-      "distance": "5f 21y",
-      "riders": 8,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Colors Of Freedom",
-          "jockey": "Gina Mangan",
-          "cd": 3,
-          "days": 2,
-          "odds": "9/4",
-          "mark": null,
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 0.09
-        },
-        {
-          "rank": 2,
-          "horse": "Rogue De Vega",
-          "jockey": "Cam Hardie",
-          "cd": 2,
-          "days": 14,
-          "odds": "7/4",
-          "mark": -3,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.09
+          "stake": 0.12
         }
       ]
     }
   ],
   "bank": {
-    "start": 7.7,
-    "stake": 0.08,
-    "end": 9.06
+    "start": 11.67,
+    "stake": 0.12,
+    "end": 12.07
   }
 }

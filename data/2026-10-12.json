@@ -1,6 +1,6 @@
 {
   "date": "2026-10-12",
-  "updated": "2026-11-09T03:02:14+0000",
+  "updated": "2026-11-09T03:22:35+0000",
   "races": [
     {
       "time": "16:00",
@@ -21,30 +21,7 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.17
-        }
-      ]
-    },
-    {
-      "time": "17:30",
-      "meeting": "Newcastle",
-      "name": "Download The Raceday Ready App Handicap (Div 1)",
-      "class": "5",
-      "distance": "6f",
-      "riders": 13,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Pit Boss",
-          "jockey": "A Mullen",
-          "cd": 2,
-          "days": 12,
-          "odds": "33/1",
-          "mark": null,
-          "pos": 8,
-          "res": "LOSE",
-          "stake": 0.17
+          "stake": 0.22
         }
       ]
     },
@@ -67,42 +44,7 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.16
-        },
-        {
-          "rank": 2,
-          "horse": "Bellagio Man",
-          "jockey": "Cam Hardie",
-          "cd": 5,
-          "days": 10,
-          "odds": "33/1",
-          "mark": null,
-          "pos": 11,
-          "res": "LOSE",
-          "stake": 0.16
-        }
-      ]
-    },
-    {
-      "time": "18:30",
-      "meeting": "Newcastle",
-      "name": "Download The Racecourse App Raceday Ready Handicap",
-      "class": "6",
-      "distance": "1m 5y",
-      "riders": 14,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Cusack",
-          "jockey": "Cam Hardie",
-          "cd": 4,
-          "days": 17,
-          "odds": "66/1",
-          "mark": null,
-          "pos": 13,
-          "res": "LOSE",
-          "stake": 0.16
+          "stake": 0.22
         }
       ]
     },
@@ -125,37 +67,14 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.16
-        }
-      ]
-    },
-    {
-      "time": "19:30",
-      "meeting": "Newcastle",
-      "name": "Free Digital Racecard At raceday-ready.com Handicap",
-      "class": "6",
-      "distance": "6f",
-      "riders": 13,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Korroor",
-          "jockey": "Mark Winn",
-          "cd": 2,
-          "days": 23,
-          "odds": "33/1",
-          "mark": null,
-          "pos": 11,
-          "res": "LOSE",
-          "stake": 0.16
+          "stake": 0.22
         }
       ]
     }
   ],
   "bank": {
-    "start": 16.69,
-    "stake": 0.17,
-    "end": 15.77
+    "start": 22.39,
+    "stake": 0.22,
+    "end": 22.04
   }
 }

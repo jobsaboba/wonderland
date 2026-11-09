@@ -1,6 +1,6 @@
 {
   "date": "2026-01-26",
-  "updated": "2026-11-09T03:01:57+0000",
+  "updated": "2026-11-09T03:22:21+0000",
   "races": [
     {
       "time": "15:55",
@@ -13,18 +13,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Bernie The Bear",
-          "jockey": "Kaiya Fraser",
-          "cd": 1,
-          "days": 6,
-          "odds": "18/1",
-          "mark": null,
-          "pos": 8,
-          "res": "LOSE",
-          "stake": 0.14
-        },
-        {
-          "rank": 2,
           "horse": "East Tyrone",
           "jockey": "Cam Hardie",
           "cd": 1,
@@ -33,19 +21,19 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.13
+          "stake": 0.12
         },
         {
-          "rank": 3,
-          "horse": "Tommytwohoots",
-          "jockey": "Lewis Edmunds",
-          "cd": 2,
-          "days": 10,
-          "odds": "12/1",
+          "rank": 2,
+          "horse": "He's An Angel",
+          "jockey": "Oliver Stammers",
+          "cd": 1,
+          "days": 13,
+          "odds": "3/1",
           "mark": null,
-          "pos": 6,
-          "res": "LOSE",
-          "stake": 0.14
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.12
         }
       ]
     },
@@ -80,19 +68,7 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.14
-        },
-        {
-          "rank": 3,
-          "horse": "Nordic Glory",
-          "jockey": "Ryan Kavanagh",
-          "cd": 3,
-          "days": 10,
-          "odds": "11/4",
-          "mark": null,
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 0.14
+          "stake": 0.13
         }
       ]
     },
@@ -115,7 +91,7 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.14
+          "stake": 0.13
         }
       ]
     },
@@ -130,30 +106,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Adelaide Bay",
-          "jockey": "Finley Marsh",
-          "cd": 1,
-          "days": 14,
-          "odds": "40/1",
-          "mark": null,
-          "pos": 10,
-          "res": "LOSE",
-          "stake": 0.14
-        },
-        {
-          "rank": 2,
-          "horse": "Harbour Vision",
-          "jockey": "K T O'Neill",
-          "cd": 3,
-          "days": 14,
-          "odds": "20/1",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.14
-        },
-        {
-          "rank": 3,
           "horse": "Toussarok",
           "jockey": "L Morris",
           "cd": 1,
@@ -162,7 +114,7 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.17
+          "stake": 0.14
         }
       ]
     },
@@ -177,18 +129,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Eupator",
-          "jockey": "S M Levey",
-          "cd": 1,
-          "days": 3,
-          "odds": "11/8",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.17
-        },
-        {
-          "rank": 2,
           "horse": "Monty Beau",
           "jockey": "Jason Hart",
           "cd": 1,
@@ -197,10 +137,10 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.17
+          "stake": 0.14
         },
         {
-          "rank": 3,
+          "rank": 2,
           "horse": "Oman",
           "jockey": "Jason Watson",
           "cd": 1,
@@ -209,7 +149,7 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.17
+          "stake": 0.14
         }
       ]
     },
@@ -232,14 +172,14 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.17
+          "stake": 0.14
         }
       ]
     }
   ],
   "bank": {
-    "start": 13.61,
-    "stake": 0.14,
-    "end": 16.79
+    "start": 12.27,
+    "stake": 0.12,
+    "end": 13.52
   }
 }

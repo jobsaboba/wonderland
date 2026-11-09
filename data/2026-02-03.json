@@ -1,6 +1,6 @@
 {
   "date": "2026-02-03",
-  "updated": "2026-11-09T03:01:58+0000",
+  "updated": "2026-11-09T03:22:21+0000",
   "races": [
     {
       "time": "17:30",
@@ -21,7 +21,7 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.16
+          "stake": 0.14
         }
       ]
     },
@@ -44,7 +44,7 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.17
+          "stake": 0.15
         },
         {
           "rank": 2,
@@ -56,7 +56,7 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.17
+          "stake": 0.15
         }
       ]
     },
@@ -79,7 +79,7 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 0.17
+          "stake": 0.15
         }
       ]
     },
@@ -94,18 +94,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Eupator",
-          "jockey": "S M Levey",
-          "cd": 2,
-          "days": 8,
-          "odds": "1/1",
-          "mark": null,
-          "pos": 3,
-          "res": "LOSE",
-          "stake": 0.17
-        },
-        {
-          "rank": 2,
           "horse": "Commander Of Life",
           "jockey": "Lewis Edmunds",
           "cd": 1,
@@ -114,26 +102,26 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.17
+          "stake": 0.14
         },
         {
-          "rank": 3,
-          "horse": "Urban Road",
-          "jockey": "Sean Kirrane",
+          "rank": 2,
+          "horse": "Charlie's Choice",
+          "jockey": "Taryn Langley",
           "cd": 2,
-          "days": 12,
-          "odds": "25/1",
+          "days": 21,
+          "odds": "13/2",
           "mark": null,
-          "pos": 4,
+          "pos": 5,
           "res": "LOSE",
-          "stake": 0.17
+          "stake": 0.15
         }
       ]
     }
   ],
   "bank": {
-    "start": 16.45,
-    "stake": 0.16,
-    "end": 16.68
+    "start": 14.05,
+    "stake": 0.14,
+    "end": 14.38
   }
 }

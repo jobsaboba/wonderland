@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated": "2026-11-09T03:02:14+0000",
+  "updated": "2026-11-09T03:22:35+0000",
   "races": [
     {
       "time": "15:30",
@@ -21,30 +21,7 @@
           "mark": null,
           "pos": 13,
           "res": "LOSE",
-          "stake": 0.15
-        }
-      ]
-    },
-    {
-      "time": "17:00",
-      "meeting": "Southwell",
-      "name": "Follow AtTheRaces On X Handicap (Div 1)",
-      "class": "6",
-      "distance": "7f 14y",
-      "riders": 14,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Turbo Command",
-          "jockey": "P Mulrennan",
-          "cd": 3,
-          "days": 20,
-          "odds": "14/1",
-          "mark": null,
-          "pos": 12,
-          "res": "LOSE",
-          "stake": 0.15
+          "stake": 0.21
         }
       ]
     },
@@ -67,61 +44,14 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.15
-        },
-        {
-          "rank": 2,
-          "horse": "Pink Socks",
-          "jockey": "Oliver Carmichael",
-          "cd": 1,
-          "days": 17,
-          "odds": "40/1",
-          "mark": null,
-          "pos": 10,
-          "res": "LOSE",
-          "stake": 0.15
-        }
-      ]
-    },
-    {
-      "time": "18:30",
-      "meeting": "Southwell",
-      "name": "attheraces.com/marketmovers Handicap",
-      "class": "4",
-      "distance": "6f 16y",
-      "riders": 9,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Yordan",
-          "jockey": "K Stott",
-          "cd": 1,
-          "days": 13,
-          "odds": "7/4",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.15
-        },
-        {
-          "rank": 2,
-          "horse": "Hunky Dory",
-          "jockey": "Tom Kiely-Marshall",
-          "cd": 1,
-          "days": 27,
-          "odds": "28/1",
-          "mark": null,
-          "pos": 6,
-          "res": "LOSE",
-          "stake": 0.15
+          "stake": 0.21
         }
       ]
     }
   ],
   "bank": {
-    "start": 15.18,
-    "stake": 0.15,
-    "end": 14.54
+    "start": 21.38,
+    "stake": 0.21,
+    "end": 20.96
   }
 }

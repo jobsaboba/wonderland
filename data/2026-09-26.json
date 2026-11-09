@@ -1,6 +1,6 @@
 {
   "date": "2026-09-26",
-  "updated": "2026-11-09T03:02:13+0000",
+  "updated": "2026-11-09T03:22:34+0000",
   "races": [
     {
       "time": "16:55",
@@ -21,42 +21,7 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.16
-        },
-        {
-          "rank": 2,
-          "horse": "Hypnotised",
-          "jockey": "Daniel Muscutt",
-          "cd": 1,
-          "days": 13,
-          "odds": "4/5",
-          "mark": null,
-          "pos": 6,
-          "res": "LOSE",
-          "stake": 0.16
-        }
-      ]
-    },
-    {
-      "time": "17:30",
-      "meeting": "Southwell",
-      "name": "Tipsy Tapas At Winter Ladies Evening Handicap",
-      "class": "5",
-      "distance": "1m 4f 15y",
-      "riders": 8,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Patrol",
-          "jockey": "Jack Callan",
-          "cd": 1,
-          "days": 16,
-          "odds": "15/8",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.16
+          "stake": 0.21
         }
       ]
     },
@@ -79,7 +44,7 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.16
+          "stake": 0.21
         }
       ]
     },
@@ -102,7 +67,7 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.16
+          "stake": 0.21
         }
       ]
     },
@@ -125,14 +90,14 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 0.16
+          "stake": 0.2
         }
       ]
     }
   ],
   "bank": {
-    "start": 16.42,
-    "stake": 0.16,
-    "end": 15.87
+    "start": 20.84,
+    "stake": 0.21,
+    "end": 20.16
   }
 }

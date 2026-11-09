@@ -1,6 +1,6 @@
 {
   "date": "2026-03-24",
-  "updated": "2026-11-09T03:02:01+0000",
+  "updated": "2026-11-09T03:22:24+0000",
   "races": [
     {
       "time": "17:30",
@@ -21,22 +21,10 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.18
+          "stake": 0.15
         },
         {
           "rank": 2,
-          "horse": "Kento",
-          "jockey": "Rossa Ryan",
-          "cd": 2,
-          "days": 8,
-          "odds": "11/4",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.17
-        },
-        {
-          "rank": 3,
           "horse": "Kipp Kelly",
           "jockey": "Joanna Mason",
           "cd": 1,
@@ -45,7 +33,19 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.18
+          "stake": 0.14
+        },
+        {
+          "rank": 3,
+          "horse": "Colors Of Freedom",
+          "jockey": "Billy Loughnane",
+          "cd": 3,
+          "days": 17,
+          "odds": "4/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.14
         }
       ]
     },
@@ -68,7 +68,7 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.17
+          "stake": 0.14
         }
       ]
     },
@@ -91,7 +91,7 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.17
+          "stake": 0.14
         },
         {
           "rank": 2,
@@ -103,14 +103,14 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.17
+          "stake": 0.14
         }
       ]
     }
   ],
   "bank": {
-    "start": 17.55,
-    "stake": 0.18,
-    "end": 17.12
+    "start": 14.62,
+    "stake": 0.15,
+    "end": 13.88
   }
 }

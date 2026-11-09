@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated": "2026-11-09T03:02:15+0000",
+  "updated": "2026-11-09T03:22:35+0000",
   "races": [
     {
       "time": "15:57",
@@ -21,7 +21,7 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.12
+          "stake": 0.2
         }
       ]
     },
@@ -36,18 +36,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Blufferonthebus",
-          "jockey": "D Allan",
-          "cd": 1,
-          "days": 12,
-          "odds": "16/1",
-          "mark": null,
-          "pos": 13,
-          "res": "LOSE",
-          "stake": 0.12
-        },
-        {
-          "rank": 2,
           "horse": "Gressington",
           "jockey": "Rhys Elliott",
           "cd": 1,
@@ -56,7 +44,7 @@
           "mark": null,
           "pos": 12,
           "res": "LOSE",
-          "stake": 0.12
+          "stake": 0.19
         }
       ]
     },
@@ -79,19 +67,7 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.12
-        },
-        {
-          "rank": 2,
-          "horse": "Tasever",
-          "jockey": "D Nolan",
-          "cd": 4,
-          "days": 25,
-          "odds": "18/1",
-          "mark": null,
-          "pos": 7,
-          "res": "LOSE",
-          "stake": 0.12
+          "stake": 0.19
         }
       ]
     },
@@ -114,30 +90,7 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 0.12
-        }
-      ]
-    },
-    {
-      "time": "18:30",
-      "meeting": "Newcastle",
-      "name": "Make The Move To Midnite Handicap",
-      "class": "5",
-      "distance": "5f",
-      "riders": 13,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Golden Havana",
-          "jockey": "Sean Kirrane",
-          "cd": 1,
-          "days": 19,
-          "odds": "40/1",
-          "mark": null,
-          "pos": 5,
-          "res": "LOSE",
-          "stake": 0.11
+          "stake": 0.19
         }
       ]
     },
@@ -160,7 +113,7 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.11
+          "stake": 0.19
         }
       ]
     },
@@ -183,7 +136,7 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.11
+          "stake": 0.19
         },
         {
           "rank": 2,
@@ -195,26 +148,14 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.11
-        },
-        {
-          "rank": 3,
-          "horse": "Lord Abama",
-          "jockey": "Jack Callan",
-          "cd": 2,
-          "days": 25,
-          "odds": "11/1",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.11
+          "stake": 0.19
         }
       ]
     }
   ],
   "bank": {
-    "start": 11.85,
-    "stake": 0.12,
-    "end": 12.31
+    "start": 19.55,
+    "stake": 0.2,
+    "end": 19.07
   }
 }

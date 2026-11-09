@@ -1,30 +1,7 @@
 {
   "date": "2026-07-30",
-  "updated": "2026-11-09T03:02:09+0000",
+  "updated": "2026-11-09T03:22:31+0000",
   "races": [
-    {
-      "time": "15:35",
-      "meeting": "Wolverhampton",
-      "name": "Book To Stay- Wolverhampton Holiday Inn Handicap",
-      "class": "6",
-      "distance": "5f 21y",
-      "riders": 8,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Sands of Seve",
-          "jockey": "Darragh Keenan",
-          "cd": 1,
-          "days": 10,
-          "odds": "18/1",
-          "mark": null,
-          "pos": 6,
-          "res": "LOSE",
-          "stake": 0.18
-        }
-      ]
-    },
     {
       "time": "16:10",
       "meeting": "Wolverhampton",
@@ -44,7 +21,7 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.18
+          "stake": 0.19
         },
         {
           "rank": 2,
@@ -56,7 +33,7 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.18
+          "stake": 0.19
         }
       ]
     },
@@ -79,19 +56,7 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.18
-        },
-        {
-          "rank": 2,
-          "horse": "White Umbrella",
-          "jockey": "William Carver",
-          "cd": 1,
-          "days": 9,
-          "odds": "33/1",
-          "mark": null,
-          "pos": 8,
-          "res": "LOSE",
-          "stake": 0.18
+          "stake": 0.2
         }
       ]
     },
@@ -114,38 +79,14 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.18
-        },
-        {
-          "rank": 2,
-          "horse": "Manton Road",
-          "jockey": "Jonny Peate",
-          "cd": 1,
-          "days": 17,
-          "odds": "14/1",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.18
-        },
-        {
-          "rank": 3,
-          "horse": "Mythical Isle",
-          "jockey": "Paddy Bradley",
-          "cd": 1,
-          "days": 24,
-          "odds": "16/1",
-          "mark": null,
-          "pos": 5,
-          "res": "LOSE",
           "stake": 0.2
         }
       ]
     }
   ],
   "bank": {
-    "start": 18.08,
-    "stake": 0.18,
-    "end": 20.2
+    "start": 19.26,
+    "stake": 0.19,
+    "end": 19.61
   }
 }

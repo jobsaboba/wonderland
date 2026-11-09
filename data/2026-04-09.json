@@ -1,6 +1,6 @@
 {
   "date": "2026-04-09",
-  "updated": "2026-11-09T03:02:02+0000",
+  "updated": "2026-11-09T03:22:25+0000",
   "races": [
     {
       "time": "13:07",
@@ -21,7 +21,7 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.18
+          "stake": 0.13
         },
         {
           "rank": 2,
@@ -33,19 +33,7 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.18
-        },
-        {
-          "rank": 3,
-          "horse": "La Belle Forest",
-          "jockey": "Pierre-Louis Jamin",
-          "cd": 1,
-          "days": 27,
-          "odds": "11/8",
-          "mark": null,
-          "pos": 7,
-          "res": "LOSE",
-          "stake": 0.18
+          "stake": 0.13
         }
       ]
     },
@@ -68,30 +56,7 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.17
-        }
-      ]
-    },
-    {
-      "time": "15:55",
-      "meeting": "Southwell",
-      "name": "Ladies Day Sunday 16th August Handicap",
-      "class": "4",
-      "distance": "1m 13y",
-      "riders": 7,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Down To The Kid",
-          "jockey": "N Callan",
-          "cd": 3,
-          "days": 27,
-          "odds": "11/4",
-          "mark": null,
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 0.18
+          "stake": 0.13
         }
       ]
     },
@@ -114,7 +79,7 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.18
+          "stake": 0.14
         },
         {
           "rank": 2,
@@ -126,7 +91,7 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.18
+          "stake": 0.14
         },
         {
           "rank": 3,
@@ -138,7 +103,7 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.18
+          "stake": 0.14
         }
       ]
     },
@@ -161,7 +126,7 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.18
+          "stake": 0.14
         },
         {
           "rank": 2,
@@ -173,61 +138,14 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.18
-        },
-        {
-          "rank": 3,
-          "horse": "Midnight Call",
-          "jockey": "Hollie Doyle",
-          "cd": 2,
-          "days": 17,
-          "odds": "15/8",
-          "mark": -8,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.18
-        }
-      ]
-    },
-    {
-      "time": "18:30",
-      "meeting": "Wolverhampton",
-      "name": "Free Bets On attheraces.com Handicap",
-      "class": "4",
-      "distance": "6f 20y",
-      "riders": 6,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Dyrholaey",
-          "jockey": "Harry Vigors",
-          "cd": 1,
-          "days": 17,
-          "odds": "12/1",
-          "mark": null,
-          "pos": 3,
-          "res": "LOSE",
-          "stake": 0.18
-        },
-        {
-          "rank": 2,
-          "horse": "Tiger Crusade",
-          "jockey": "Callum Shepherd",
-          "cd": 1,
-          "days": 22,
-          "odds": "12/1",
-          "mark": null,
-          "pos": 6,
-          "res": "LOSE",
-          "stake": 0.18
+          "stake": 0.14
         }
       ]
     }
   ],
   "bank": {
-    "start": 17.78,
-    "stake": 0.18,
-    "end": 17.61
+    "start": 13.4,
+    "stake": 0.13,
+    "end": 13.62
   }
 }

@@ -1,30 +1,7 @@
 {
   "date": "2026-04-15",
-  "updated": "2026-11-09T03:02:02+0000",
+  "updated": "2026-11-09T03:22:25+0000",
   "races": [
-    {
-      "time": "16:57",
-      "meeting": "Southwell",
-      "name": "Country & Western Night 25th April Handicap",
-      "class": "6",
-      "distance": "4f 214y",
-      "riders": 10,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Irish Dancer",
-          "jockey": "Harry Smith",
-          "cd": 2,
-          "days": 18,
-          "odds": "11/4",
-          "mark": null,
-          "pos": 7,
-          "res": "LOSE",
-          "stake": 0.17
-        }
-      ]
-    },
     {
       "time": "18:30",
       "meeting": "Southwell",
@@ -36,18 +13,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Embarked",
-          "jockey": "Tyler Heard",
-          "cd": 1,
-          "days": 8,
-          "odds": "40/1",
-          "mark": null,
-          "pos": 9,
-          "res": "LOSE",
-          "stake": 0.17
-        },
-        {
-          "rank": 2,
           "horse": "Call Glory",
           "jockey": "Ryan Kavanagh",
           "cd": 1,
@@ -56,7 +21,7 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.17
+          "stake": 0.14
         }
       ]
     },
@@ -79,14 +44,14 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.17
+          "stake": 0.14
         }
       ]
     }
   ],
   "bank": {
-    "start": 17.34,
-    "stake": 0.17,
-    "end": 16.78
+    "start": 14.1,
+    "stake": 0.14,
+    "end": 13.92
   }
 }

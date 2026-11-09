@@ -1,42 +1,7 @@
 {
   "date": "2026-10-23",
-  "updated": "2026-11-09T03:02:15+0000",
+  "updated": "2026-11-09T03:22:35+0000",
   "races": [
-    {
-      "time": "15:25",
-      "meeting": "Wolverhampton",
-      "name": "AW Trials Day - Lingfield 2nd January 2027 Handicap (Div 1)",
-      "class": "6",
-      "distance": "1m 142y",
-      "riders": 11,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Snaafy",
-          "jockey": "Rowan Scott",
-          "cd": 1,
-          "days": 17,
-          "odds": "20/1",
-          "mark": null,
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 0.12
-        },
-        {
-          "rank": 2,
-          "horse": "Fools Rush In",
-          "jockey": "William Pyle",
-          "cd": 2,
-          "days": 23,
-          "odds": "33/1",
-          "mark": null,
-          "pos": 10,
-          "res": "LOSE",
-          "stake": 0.12
-        }
-      ]
-    },
     {
       "time": "16:00",
       "meeting": "Wolverhampton",
@@ -48,18 +13,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "San Juanito",
-          "jockey": "K T O'Neill",
-          "cd": 2,
-          "days": 14,
-          "odds": "18/1",
-          "mark": null,
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 0.12
-        },
-        {
-          "rank": 2,
           "horse": "Ernie's Valentine",
           "jockey": "Alexandra Egan",
           "cd": 2,
@@ -68,19 +21,7 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.13
-        },
-        {
-          "rank": 3,
-          "horse": "Karakula Dancer",
-          "jockey": "Alice Bond",
-          "cd": 1,
-          "days": 23,
-          "odds": "20/1",
-          "mark": null,
-          "pos": 8,
-          "res": "LOSE",
-          "stake": 0.13
+          "stake": 0.19
         }
       ]
     },
@@ -103,7 +44,7 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.12
+          "stake": 0.19
         }
       ]
     },
@@ -126,7 +67,7 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.13
+          "stake": 0.2
         },
         {
           "rank": 2,
@@ -138,19 +79,7 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.13
-        },
-        {
-          "rank": 3,
-          "horse": "Port Noir",
-          "jockey": "L Morris",
-          "cd": 4,
-          "days": 24,
-          "odds": "66/1",
-          "mark": null,
-          "pos": 10,
-          "res": "LOSE",
-          "stake": 0.13
+          "stake": 0.2
         }
       ]
     },
@@ -173,7 +102,7 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.13
+          "stake": 0.2
         },
         {
           "rank": 2,
@@ -185,7 +114,7 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.13
+          "stake": 0.2
         }
       ]
     },
@@ -200,18 +129,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Call Me Betty",
-          "jockey": "Sean Kirrane",
-          "cd": 1,
-          "days": 6,
-          "odds": "33/1",
-          "mark": null,
-          "pos": 9,
-          "res": "LOSE",
-          "stake": 0.12
-        },
-        {
-          "rank": 2,
           "horse": "Hilltop",
           "jockey": "Billy Loughnane",
           "cd": 1,
@@ -220,14 +137,14 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.12
+          "stake": 0.19
         }
       ]
     }
   ],
   "bank": {
-    "start": 12.1,
-    "stake": 0.12,
-    "end": 12.24
+    "start": 19.31,
+    "stake": 0.19,
+    "end": 19.27
   }
 }

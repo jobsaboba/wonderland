@@ -1,6 +1,6 @@
 {
   "date": "2026-06-16",
-  "updated": "2026-11-09T03:02:06+0000",
+  "updated": "2026-11-09T03:22:28+0000",
   "races": [
     {
       "time": "16:15",
@@ -13,18 +13,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Harbour Vision",
-          "jockey": "Mr Frederick Tett",
-          "cd": 6,
-          "days": 12,
-          "odds": "40/1",
-          "mark": null,
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 0.17
-        },
-        {
-          "rank": 2,
           "horse": "Imola",
           "jockey": "Mr Fletcher Yarham",
           "cd": 2,
@@ -33,7 +21,7 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.18
+          "stake": 0.16
         }
       ]
     },
@@ -56,7 +44,7 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.18
+          "stake": 0.16
         }
       ]
     },
@@ -79,22 +67,10 @@
           "mark": -3,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.18
+          "stake": 0.16
         },
         {
           "rank": 2,
-          "horse": "Eagle Day",
-          "jockey": "P Cosgrave",
-          "cd": 5,
-          "days": 12,
-          "odds": "12/1",
-          "mark": null,
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 0.19
-        },
-        {
-          "rank": 3,
           "horse": "Asian Journey",
           "jockey": "O J Orr",
           "cd": 1,
@@ -103,14 +79,14 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.19
+          "stake": 0.16
         }
       ]
     }
   ],
   "bank": {
-    "start": 17.02,
-    "stake": 0.17,
-    "end": 18.54
+    "start": 15.84,
+    "stake": 0.16,
+    "end": 16.3
   }
 }

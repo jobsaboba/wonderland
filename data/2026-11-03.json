@@ -1,30 +1,7 @@
 {
   "date": "2026-11-03",
-  "updated": "2026-11-09T03:02:16+0000",
+  "updated": "2026-11-09T03:22:36+0000",
   "races": [
-    {
-      "time": "17:00",
-      "meeting": "Wolverhampton",
-      "name": "AWC Season 14 Has Begun Handicap (Div 2)",
-      "class": "6",
-      "distance": "7f 36y",
-      "riders": 12,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "So Chic",
-          "jockey": "Liam Wright",
-          "cd": 2,
-          "days": 21,
-          "odds": "50/1",
-          "mark": null,
-          "pos": 7,
-          "res": "LOSE",
-          "stake": 0.1
-        }
-      ]
-    },
     {
       "time": "18:30",
       "meeting": "Wolverhampton",
@@ -44,31 +21,7 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.1
-        },
-        {
-          "rank": 2,
-          "horse": "Sam's Xpress",
-          "jockey": "Dylan Hogan",
-          "cd": 2,
-          "days": 22,
-          "odds": "11/8",
-          "mark": null,
-          "pos": 8,
-          "res": "LOSE",
-          "stake": 0.1
-        },
-        {
-          "rank": 3,
-          "horse": "Jungle Dance",
-          "jockey": "C Lee",
-          "cd": 1,
-          "days": 28,
-          "odds": "16/1",
-          "mark": null,
-          "pos": 9,
-          "res": "LOSE",
-          "stake": 0.1
+          "stake": 0.19
         }
       ]
     },
@@ -91,14 +44,14 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.1
+          "stake": 0.19
         }
       ]
     }
   ],
   "bank": {
-    "start": 10.27,
-    "stake": 0.1,
-    "end": 9.86
+    "start": 19.14,
+    "stake": 0.19,
+    "end": 18.93
   }
 }

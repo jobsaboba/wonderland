@@ -1,6 +1,6 @@
 {
   "date": "2026-04-13",
-  "updated": "2026-11-09T03:02:02+0000",
+  "updated": "2026-11-09T03:22:25+0000",
   "races": [
     {
       "time": "18:00",
@@ -13,18 +13,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Cajetan",
-          "jockey": "J P Sullivan",
-          "cd": 2,
-          "days": 11,
-          "odds": "40/1",
-          "mark": null,
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 0.18
-        },
-        {
-          "rank": 2,
           "horse": "Grant Wood",
           "jockey": "Jason Hart",
           "cd": 3,
@@ -33,10 +21,10 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.18
+          "stake": 0.14
         },
         {
-          "rank": 3,
+          "rank": 2,
           "horse": "Albasheer",
           "jockey": "Hollie Doyle",
           "cd": 1,
@@ -45,7 +33,7 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.18
+          "stake": 0.14
         }
       ]
     },
@@ -68,19 +56,7 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.18
-        },
-        {
-          "rank": 2,
-          "horse": "Trais Fluors",
-          "jockey": "Alex Jary",
-          "cd": 4,
-          "days": 17,
-          "odds": "16/1",
-          "mark": null,
-          "pos": 8,
-          "res": "LOSE",
-          "stake": 0.18
+          "stake": 0.14
         }
       ]
     },
@@ -103,7 +79,7 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.17
+          "stake": 0.14
         },
         {
           "rank": 2,
@@ -115,7 +91,7 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.17
+          "stake": 0.14
         },
         {
           "rank": 3,
@@ -127,14 +103,14 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.17
+          "stake": 0.14
         }
       ]
     }
   ],
   "bank": {
-    "start": 17.99,
-    "stake": 0.18,
-    "end": 17.34
+    "start": 14.32,
+    "stake": 0.14,
+    "end": 14.1
   }
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-06-02",
-  "updated": "2026-11-09T03:02:06+0000",
+  "updated": "2026-11-09T03:22:28+0000",
   "races": [
     {
       "time": "17:45",
@@ -13,18 +13,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Desert Quest",
-          "jockey": "Greg Fairley",
-          "cd": 1,
-          "days": 22,
-          "odds": "12/1",
-          "mark": null,
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 0.18
-        },
-        {
-          "rank": 2,
           "horse": "Havachoc",
           "jockey": "C Horgan",
           "cd": 1,
@@ -33,10 +21,10 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.18
+          "stake": 0.17
         },
         {
-          "rank": 3,
+          "rank": 2,
           "horse": "Rubellite",
           "jockey": "C J Whiteley",
           "cd": 2,
@@ -45,7 +33,7 @@
           "mark": -2,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.18
+          "stake": 0.17
         }
       ]
     },
@@ -68,30 +56,7 @@
           "mark": null,
           "pos": 3,
           "res": "LOSE",
-          "stake": 0.18
-        }
-      ]
-    },
-    {
-      "time": "18:45",
-      "meeting": "Newcastle",
-      "name": "Penny On The Move Handicap",
-      "class": "6",
-      "distance": "5f",
-      "riders": 10,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Auntie Jo",
-          "jockey": "C J Whiteley",
-          "cd": 1,
-          "days": 7,
-          "odds": "5/2",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.18
+          "stake": 0.17
         }
       ]
     },
@@ -106,18 +71,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Second Fiddle",
-          "jockey": "Aiden Brookes",
-          "cd": 5,
-          "days": 16,
-          "odds": "40/1",
-          "mark": null,
-          "pos": 11,
-          "res": "LOSE",
-          "stake": 0.19
-        },
-        {
-          "rank": 2,
           "horse": "Flying Fletcher",
           "jockey": "Ethan Tindall",
           "cd": 1,
@@ -126,10 +79,10 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.18
+          "stake": 0.17
         },
         {
-          "rank": 3,
+          "rank": 2,
           "horse": "Quiet Resolve",
           "jockey": "Sean Kirrane",
           "cd": 1,
@@ -138,7 +91,7 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.18
+          "stake": 0.17
         }
       ]
     },
@@ -161,7 +114,7 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.18
+          "stake": 0.17
         },
         {
           "rank": 2,
@@ -173,7 +126,7 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.18
+          "stake": 0.16
         },
         {
           "rank": 3,
@@ -185,7 +138,7 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.18
+          "stake": 0.16
         }
       ]
     },
@@ -200,18 +153,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Port Noir",
-          "jockey": "Rose Dawes",
-          "cd": 4,
-          "days": 10,
-          "odds": "22/1",
-          "mark": null,
-          "pos": 8,
-          "res": "LOSE",
-          "stake": 0.18
-        },
-        {
-          "rank": 2,
           "horse": "Silkies Sib",
           "jockey": "Cieren Fallon",
           "cd": 1,
@@ -220,10 +161,10 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.17
+          "stake": 0.16
         },
         {
-          "rank": 3,
+          "rank": 2,
           "horse": "Arlecchino's Rex",
           "jockey": "R Havlin",
           "cd": 1,
@@ -232,14 +173,14 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.17
+          "stake": 0.16
         }
       ]
     }
   ],
   "bank": {
-    "start": 18.11,
-    "stake": 0.18,
-    "end": 17.02
+    "start": 16.59,
+    "stake": 0.17,
+    "end": 15.84
   }
 }

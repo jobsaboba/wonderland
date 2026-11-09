@@ -1,42 +1,7 @@
 {
   "date": "2026-09-21",
-  "updated": "2026-11-09T03:02:13+0000",
+  "updated": "2026-11-09T03:22:34+0000",
   "races": [
-    {
-      "time": "17:42",
-      "meeting": "Wolverhampton",
-      "name": "Race & Rest - Wolverhampton Holiday Inn Handicap (Div 2)",
-      "class": "6",
-      "distance": "7f 36y",
-      "riders": 10,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Based",
-          "jockey": "Marco Ghiani",
-          "cd": 1,
-          "days": 3,
-          "odds": "11/4",
-          "mark": null,
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 0.19
-        },
-        {
-          "rank": 2,
-          "horse": "Distillation",
-          "jockey": "Rose Dawes",
-          "cd": 1,
-          "days": 3,
-          "odds": "8/13",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.19
-        }
-      ]
-    },
     {
       "time": "18:12",
       "meeting": "Wolverhampton",
@@ -56,30 +21,7 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.19
-        }
-      ]
-    },
-    {
-      "time": "18:42",
-      "meeting": "Wolverhampton",
-      "name": "Book Now At wolverhampton-racecourse.co.uk Handicap",
-      "class": "6",
-      "distance": "1m 4f 51y",
-      "riders": 12,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Forever Perfect",
-          "jockey": "Kaiya Fraser",
-          "cd": 1,
-          "days": 12,
-          "odds": "33/1",
-          "mark": null,
-          "pos": 5,
-          "res": "LOSE",
-          "stake": 0.19
+          "stake": 0.22
         }
       ]
     },
@@ -102,26 +44,14 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.19
-        },
-        {
-          "rank": 2,
-          "horse": "Midnight Call",
-          "jockey": "Gina Mangan",
-          "cd": 2,
-          "days": 14,
-          "odds": "16/1",
-          "mark": null,
-          "pos": 7,
-          "res": "LOSE",
-          "stake": 0.19
+          "stake": 0.22
         }
       ]
     }
   ],
   "bank": {
-    "start": 19.18,
-    "stake": 0.19,
-    "end": 18.39
+    "start": 21.81,
+    "stake": 0.22,
+    "end": 21.63
   }
 }

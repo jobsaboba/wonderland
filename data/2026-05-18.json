@@ -1,30 +1,7 @@
 {
   "date": "2026-05-18",
-  "updated": "2026-11-09T03:02:05+0000",
+  "updated": "2026-11-09T03:22:27+0000",
   "races": [
-    {
-      "time": "17:00",
-      "meeting": "Wolverhampton",
-      "name": "Dine In The Wolverhampton Horizons Restaurant Fillies' Handicap",
-      "class": "5",
-      "distance": "5f 21y",
-      "riders": 9,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Midnight Call",
-          "jockey": "Hollie Doyle",
-          "cd": 3,
-          "days": 27,
-          "odds": "7/4",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.16
-        }
-      ]
-    },
     {
       "time": "19:00",
       "meeting": "Wolverhampton",
@@ -44,7 +21,7 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.17
+          "stake": 0.15
         },
         {
           "rank": 2,
@@ -56,7 +33,7 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.16
+          "stake": 0.15
         },
         {
           "rank": 3,
@@ -68,37 +45,14 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.16
-        }
-      ]
-    },
-    {
-      "time": "19:30",
-      "meeting": "Wolverhampton",
-      "name": "Cavani Tailored Champion Handicap",
-      "class": "5",
-      "distance": "7f 36y",
-      "riders": 10,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Horwich",
-          "jockey": "Rob Hornby",
-          "cd": 2,
-          "days": 23,
-          "odds": "22/1",
-          "mark": null,
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 0.16
+          "stake": 0.15
         }
       ]
     }
   ],
   "bank": {
-    "start": 16.48,
-    "stake": 0.16,
-    "end": 16.25
+    "start": 14.79,
+    "stake": 0.15,
+    "end": 14.62
   }
 }

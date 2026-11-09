@@ -1,6 +1,6 @@
 {
   "date": "2026-03-21",
-  "updated": "2026-11-09T03:02:01+0000",
+  "updated": "2026-11-09T03:22:24+0000",
   "races": [
     {
       "time": "13:43",
@@ -21,31 +21,7 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.18
-        },
-        {
-          "rank": 2,
-          "horse": "Tuscan Point",
-          "jockey": "Taryn Langley",
-          "cd": 1,
-          "days": 10,
-          "odds": "11/10",
-          "mark": null,
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 0.19
-        },
-        {
-          "rank": 3,
-          "horse": "Up The Monk",
-          "jockey": "Liam Wright",
-          "cd": 1,
-          "days": 10,
-          "odds": "50/1",
-          "mark": null,
-          "pos": 7,
-          "res": "LOSE",
-          "stake": 0.18
+          "stake": 0.15
         }
       ]
     },
@@ -60,18 +36,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Create",
-          "jockey": "K T O'Neill",
-          "cd": 3,
-          "days": 17,
-          "odds": "18/1",
-          "mark": null,
-          "pos": 10,
-          "res": "LOSE",
-          "stake": 0.18
-        },
-        {
-          "rank": 2,
           "horse": "Mr Fustic",
           "jockey": "Dylan Hogan",
           "cd": 1,
@@ -80,7 +44,7 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.18
+          "stake": 0.15
         }
       ]
     },
@@ -103,19 +67,7 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.19
-        },
-        {
-          "rank": 2,
-          "horse": "Ziggy's Triton",
-          "jockey": "Saffie Osborne",
-          "cd": 2,
-          "days": 17,
-          "odds": "12/1",
-          "mark": null,
-          "pos": 9,
-          "res": "LOSE",
-          "stake": 0.19
+          "stake": 0.16
         }
       ]
     },
@@ -138,7 +90,7 @@
           "mark": null,
           "pos": 3,
           "res": "LOSE",
-          "stake": 0.19
+          "stake": 0.16
         }
       ]
     },
@@ -161,7 +113,7 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.18
+          "stake": 0.16
         },
         {
           "rank": 2,
@@ -173,7 +125,7 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.18
+          "stake": 0.16
         },
         {
           "rank": 3,
@@ -185,7 +137,7 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.18
+          "stake": 0.16
         }
       ]
     },
@@ -200,18 +152,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Concert Boy",
-          "jockey": "Hollie Doyle",
-          "cd": 2,
-          "days": 9,
-          "odds": "11/1",
-          "mark": null,
-          "pos": 6,
-          "res": "LOSE",
-          "stake": 0.18
-        },
-        {
-          "rank": 2,
           "horse": "Tasever",
           "jockey": "Billy Loughnane",
           "cd": 4,
@@ -220,10 +160,10 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.18
+          "stake": 0.16
         },
         {
-          "rank": 3,
+          "rank": 2,
           "horse": "Selection",
           "jockey": "Jason Hart",
           "cd": 1,
@@ -232,7 +172,7 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.18
+          "stake": 0.16
         }
       ]
     },
@@ -255,7 +195,7 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.18
+          "stake": 0.16
         }
       ]
     },
@@ -270,18 +210,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Pit Boss",
-          "jockey": "C J Whiteley",
-          "cd": 1,
-          "days": 9,
-          "odds": "15/8",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.18
-        },
-        {
-          "rank": 2,
           "horse": "Spun To Gold",
           "jockey": "Shay Farmer",
           "cd": 2,
@@ -290,10 +218,10 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.18
+          "stake": 0.15
         },
         {
-          "rank": 3,
+          "rank": 2,
           "horse": "Instant Bond",
           "jockey": "Owen Lewis",
           "cd": 1,
@@ -302,14 +230,26 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.18
+          "stake": 0.15
+        },
+        {
+          "rank": 3,
+          "horse": "Andalprofit",
+          "jockey": "Joe Bradnam",
+          "cd": 1,
+          "days": 15,
+          "odds": "7/2",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.15
         }
       ]
     }
   ],
   "bank": {
-    "start": 18.02,
-    "stake": 0.18,
-    "end": 17.67
+    "start": 14.95,
+    "stake": 0.15,
+    "end": 15.19
   }
 }

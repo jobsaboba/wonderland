@@ -1,30 +1,7 @@
 {
   "date": "2026-01-13",
-  "updated": "2026-11-09T03:01:56+0000",
+  "updated": "2026-11-09T03:22:20+0000",
   "races": [
-    {
-      "time": "13:38",
-      "meeting": "Newcastle",
-      "name": "Midnite A Next Generation Betting App Handicap",
-      "class": "6",
-      "distance": "2m 56y",
-      "riders": 8,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Billy Bathgate",
-          "jockey": "P J McDonald",
-          "cd": 2,
-          "days": 15,
-          "odds": "11/4",
-          "mark": null,
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 0.08
-        }
-      ]
-    },
     {
       "time": "14:08",
       "meeting": "Newcastle",
@@ -44,7 +21,7 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.08
+          "stake": 0.11
         },
         {
           "rank": 2,
@@ -56,7 +33,7 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.08
+          "stake": 0.11
         },
         {
           "rank": 3,
@@ -68,7 +45,7 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.07
+          "stake": 0.11
         }
       ]
     },
@@ -83,18 +60,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Digital",
-          "jockey": "J P Sullivan",
-          "cd": 1,
-          "days": 12,
-          "odds": "7/4",
-          "mark": null,
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 0.08
-        },
-        {
-          "rank": 2,
           "horse": "Azucena",
           "jockey": "P Mulrennan",
           "cd": 2,
@@ -103,7 +68,7 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.08
+          "stake": 0.11
         }
       ]
     },
@@ -126,7 +91,7 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.08
+          "stake": 0.12
         }
       ]
     },
@@ -149,7 +114,7 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.08
+          "stake": 0.12
         }
       ]
     },
@@ -172,7 +137,7 @@
           "mark": null,
           "pos": 3,
           "res": "LOSE",
-          "stake": 0.08
+          "stake": 0.12
         },
         {
           "rank": 2,
@@ -184,19 +149,7 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.08
-        },
-        {
-          "rank": 3,
-          "horse": "Aisling Oscar",
-          "jockey": "C J Whiteley",
-          "cd": 2,
-          "days": 24,
-          "odds": "6/4",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.08
+          "stake": 0.12
         }
       ]
     },
@@ -219,19 +172,7 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.08
-        },
-        {
-          "rank": 2,
-          "horse": "Ottawa",
-          "jockey": "Darragh Keenan",
-          "cd": 1,
-          "days": 26,
-          "odds": "14/1",
-          "mark": null,
-          "pos": 8,
-          "res": "LOSE",
-          "stake": 0.08
+          "stake": 0.12
         }
       ]
     },
@@ -254,7 +195,7 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.08
+          "stake": 0.12
         },
         {
           "rank": 2,
@@ -266,7 +207,7 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.08
+          "stake": 0.12
         }
       ]
     },
@@ -281,18 +222,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Charlie's Choice",
-          "jockey": "Taryn Langley",
-          "cd": 1,
-          "days": 3,
-          "odds": "11/8",
-          "mark": null,
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 0.08
-        },
-        {
-          "rank": 2,
           "horse": "Cannon Rock",
           "jockey": "P Cosgrave",
           "cd": 1,
@@ -301,14 +230,14 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.08
+          "stake": 0.12
         }
       ]
     }
   ],
   "bank": {
-    "start": 7.63,
-    "stake": 0.08,
-    "end": 7.7
+    "start": 11.24,
+    "stake": 0.11,
+    "end": 11.67
   }
 }

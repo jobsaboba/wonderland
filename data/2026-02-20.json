@@ -1,6 +1,6 @@
 {
   "date": "2026-02-20",
-  "updated": "2026-11-09T03:01:59+0000",
+  "updated": "2026-11-09T03:22:22+0000",
   "races": [
     {
       "time": "16:26",
@@ -13,18 +13,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Fools Rush In",
-          "jockey": "J P Sullivan",
-          "cd": 2,
-          "days": 15,
-          "odds": "22/1",
-          "mark": null,
-          "pos": 10,
-          "res": "LOSE",
-          "stake": 0.17
-        },
-        {
-          "rank": 2,
           "horse": "King Of York",
           "jockey": "K T O'Neill",
           "cd": 4,
@@ -60,18 +48,6 @@
         },
         {
           "rank": 2,
-          "horse": "No Knee Never",
-          "jockey": "S H James",
-          "cd": 1,
-          "days": 15,
-          "odds": "12/1",
-          "mark": null,
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 0.18
-        },
-        {
-          "rank": 3,
           "horse": "Chola Empire",
           "jockey": "L Morris",
           "cd": 3,
@@ -81,29 +57,18 @@
           "pos": 5,
           "res": "LOSE",
           "stake": 0.18
-        }
-      ]
-    },
-    {
-      "time": "17:30",
-      "meeting": "Southwell",
-      "name": "Tipping Tom On SBK Bet Feed Handicap",
-      "class": "5",
-      "distance": "1m 4f 14y",
-      "riders": 12,
-      "settled": true,
-      "sel": [
+        },
         {
-          "rank": 1,
-          "horse": "Motazzen",
-          "jockey": "Cieren Fallon",
-          "cd": 1,
-          "days": 18,
-          "odds": "25/1",
+          "rank": 3,
+          "horse": "Federal Envoy",
+          "jockey": "Lewis Edmunds",
+          "cd": 3,
+          "days": 21,
+          "odds": "13/2",
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 0.18
+          "stake": 0.17
         }
       ]
     },
@@ -126,7 +91,7 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.18
+          "stake": 0.17
         }
       ]
     },
@@ -149,22 +114,10 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 0.18
-        },
-        {
-          "rank": 2,
-          "horse": "Intervention",
-          "jockey": "Harry Davies",
-          "cd": 1,
-          "days": 9,
-          "odds": "12/1",
-          "mark": null,
-          "pos": 7,
-          "res": "LOSE",
           "stake": 0.17
         },
         {
-          "rank": 3,
+          "rank": 2,
           "horse": "Betsen",
           "jockey": "Billy Loughnane",
           "cd": 1,
@@ -173,6 +126,18 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
+          "stake": 0.17
+        },
+        {
+          "rank": 3,
+          "horse": "Stanley Spencer",
+          "jockey": "Jason Watson",
+          "cd": 2,
+          "days": 22,
+          "odds": "7/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
           "stake": 0.17
         }
       ]
@@ -246,18 +211,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Bravo Zulu",
-          "jockey": "J Mitchell",
-          "cd": 2,
-          "days": 10,
-          "odds": "25/1",
-          "mark": null,
-          "pos": 5,
-          "res": "LOSE",
-          "stake": 0.18
-        },
-        {
-          "rank": 2,
           "horse": "Down To The Kid",
           "jockey": "Jason Hart",
           "cd": 2,
@@ -267,25 +220,13 @@
           "pos": 1,
           "res": "WIN",
           "stake": 0.18
-        },
-        {
-          "rank": 3,
-          "horse": "Eligible",
-          "jockey": "Joanna Mason",
-          "cd": 5,
-          "days": 28,
-          "odds": "16/1",
-          "mark": null,
-          "pos": 6,
-          "res": "LOSE",
-          "stake": 0.18
         }
       ]
     }
   ],
   "bank": {
-    "start": 17.39,
+    "start": 16.62,
     "stake": 0.17,
-    "end": 18.14
+    "end": 18.11
   }
 }

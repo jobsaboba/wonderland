@@ -1,6 +1,6 @@
 {
   "date": "2026-04-28",
-  "updated": "2026-11-09T03:02:03+0000",
+  "updated": "2026-11-09T03:22:26+0000",
   "races": [
     {
       "time": "13:20",
@@ -13,18 +13,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Brother Dave",
-          "jockey": "J P Sullivan",
-          "cd": 3,
-          "days": 17,
-          "odds": "14/1",
-          "mark": null,
-          "pos": 9,
-          "res": "LOSE",
-          "stake": 0.16
-        },
-        {
-          "rank": 2,
           "horse": "Fistral Beach",
           "jockey": "Jack Doughty",
           "cd": 1,
@@ -33,10 +21,10 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.16
+          "stake": 0.14
         },
         {
-          "rank": 3,
+          "rank": 2,
           "horse": "Hint Of The Jungle",
           "jockey": "K T O'Neill",
           "cd": 1,
@@ -45,7 +33,19 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.16
+          "stake": 0.14
+        },
+        {
+          "rank": 3,
+          "horse": "Saisons D'Or",
+          "jockey": "J Garritty",
+          "cd": 2,
+          "days": 21,
+          "odds": "6/1",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.14
         }
       ]
     },
@@ -68,95 +68,14 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.16
-        }
-      ]
-    },
-    {
-      "time": "15:05",
-      "meeting": "Southwell",
-      "name": "Come Racing For Free 18th June Handicap",
-      "class": "6",
-      "distance": "1m 4f 14y",
-      "riders": 10,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Lednikov",
-          "jockey": "D Nolan",
-          "cd": 3,
-          "days": 23,
-          "odds": "12/1",
-          "mark": null,
-          "pos": 6,
-          "res": "LOSE",
-          "stake": 0.16
-        }
-      ]
-    },
-    {
-      "time": "15:35",
-      "meeting": "Southwell",
-      "name": "Conference & Events At Southwell Racecourse Handicap",
-      "class": "6",
-      "distance": "2m 102y",
-      "riders": 11,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Payment Plan",
-          "jockey": "David Probert",
-          "cd": 2,
-          "days": 26,
-          "odds": "12/1",
-          "mark": null,
-          "pos": 9,
-          "res": "LOSE",
-          "stake": 0.16
-        }
-      ]
-    },
-    {
-      "time": "16:10",
-      "meeting": "Southwell",
-      "name": "Ladies Day Sunday 16th August Handicap",
-      "class": "6",
-      "distance": "6f 16y",
-      "riders": 10,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Pinjarra",
-          "jockey": "Jason Hart",
-          "cd": 1,
-          "days": 21,
-          "odds": "11/1",
-          "mark": null,
-          "pos": 8,
-          "res": "LOSE",
-          "stake": 0.16
-        },
-        {
-          "rank": 2,
-          "horse": "Mount Ruapehu",
-          "jockey": "A Mullen",
-          "cd": 2,
-          "days": 22,
-          "odds": "11/4",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
           "stake": 0.15
         }
       ]
     }
   ],
   "bank": {
-    "start": 16.13,
-    "stake": 0.16,
-    "end": 15.61
+    "start": 13.87,
+    "stake": 0.14,
+    "end": 14.43
   }
 }

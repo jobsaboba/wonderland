@@ -1,6 +1,6 @@
 {
   "date": "2026-01-04",
-  "updated": "2026-11-09T03:01:55+0000",
+  "updated": "2026-11-09T03:22:20+0000",
   "races": [
     {
       "time": "13:30",
@@ -21,7 +21,7 @@
           "mark": null,
           "pos": 11,
           "res": "LOSE",
-          "stake": 0.09
+          "stake": 0.11
         },
         {
           "rank": 2,
@@ -33,7 +33,7 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.09
+          "stake": 0.11
         }
       ]
     },
@@ -56,19 +56,7 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.09
-        },
-        {
-          "rank": 2,
-          "horse": "Secret Road",
-          "jockey": "Callum Hutchinson",
-          "cd": 2,
-          "days": 22,
-          "odds": "11/8",
-          "mark": null,
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 0.09
+          "stake": 0.11
         }
       ]
     },
@@ -83,18 +71,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Hiya Maite",
-          "jockey": "Alistair Rawlinson",
-          "cd": 2,
-          "days": 7,
-          "odds": "5/2",
-          "mark": null,
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 0.09
-        },
-        {
-          "rank": 2,
           "horse": "Ziggy's Triton",
           "jockey": "Mark Winn",
           "cd": 2,
@@ -103,10 +79,10 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.09
+          "stake": 0.11
         },
         {
-          "rank": 3,
+          "rank": 2,
           "horse": "Blinky",
           "jockey": "Alex Jary",
           "cd": 1,
@@ -115,7 +91,7 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.09
+          "stake": 0.11
         }
       ]
     },
@@ -138,22 +114,10 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.09
+          "stake": 0.11
         },
         {
           "rank": 2,
-          "horse": "Beneficiary",
-          "jockey": "J Garritty",
-          "cd": 1,
-          "days": 3,
-          "odds": "12/1",
-          "mark": null,
-          "pos": 9,
-          "res": "LOSE",
-          "stake": 0.09
-        },
-        {
-          "rank": 3,
           "horse": "Forest Gunner",
           "jockey": "Tyler Heard",
           "cd": 1,
@@ -162,14 +126,26 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.08
+          "stake": 0.1
+        },
+        {
+          "rank": 3,
+          "horse": "Arlington",
+          "jockey": "Matthew Slater",
+          "cd": 2,
+          "days": 26,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.1
         }
       ]
     }
   ],
   "bank": {
-    "start": 9.04,
-    "stake": 0.09,
-    "end": 8.35
+    "start": 10.87,
+    "stake": 0.11,
+    "end": 10.7
   }
 }

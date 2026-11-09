@@ -1,6 +1,6 @@
 {
   "date": "2026-04-11",
-  "updated": "2026-11-09T03:02:02+0000",
+  "updated": "2026-11-09T03:22:25+0000",
   "races": [
     {
       "time": "16:15",
@@ -21,7 +21,7 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.18
+          "stake": 0.14
         },
         {
           "rank": 2,
@@ -33,7 +33,7 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.18
+          "stake": 0.14
         }
       ]
     },
@@ -56,22 +56,10 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.18
+          "stake": 0.14
         },
         {
           "rank": 2,
-          "horse": "Pink Socks",
-          "jockey": "Ryan Kavanagh",
-          "cd": 1,
-          "days": 14,
-          "odds": "33/1",
-          "mark": null,
-          "pos": 9,
-          "res": "LOSE",
-          "stake": 0.18
-        },
-        {
-          "rank": 3,
           "horse": "Brother Dave",
           "jockey": "J P Sullivan",
           "cd": 3,
@@ -80,42 +68,7 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.18
-        }
-      ]
-    },
-    {
-      "time": "18:15",
-      "meeting": "Southwell",
-      "name": "Conference & Events At Southwell Racecourse Handicap (Div 2)",
-      "class": "6",
-      "distance": "7f 14y",
-      "riders": 11,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Captain Pickles",
-          "jockey": "S Donohoe",
-          "cd": 1,
-          "days": 12,
-          "odds": "9/4",
-          "mark": null,
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 0.18
-        },
-        {
-          "rank": 2,
-          "horse": "Autumn Angel",
-          "jockey": "Rossa Ryan",
-          "cd": 1,
-          "days": 18,
-          "odds": "11/1",
-          "mark": null,
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 0.17
+          "stake": 0.14
         }
       ]
     },
@@ -138,7 +91,7 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.18
+          "stake": 0.14
         },
         {
           "rank": 2,
@@ -150,14 +103,14 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.17
+          "stake": 0.14
         }
       ]
     }
   ],
   "bank": {
-    "start": 17.98,
-    "stake": 0.18,
-    "end": 17.99
+    "start": 14.22,
+    "stake": 0.14,
+    "end": 14.32
   }
 }

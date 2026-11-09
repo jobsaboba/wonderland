@@ -1,6 +1,6 @@
 {
   "date": "2026-02-24",
-  "updated": "2026-11-09T03:01:59+0000",
+  "updated": "2026-11-09T03:22:22+0000",
   "races": [
     {
       "time": "14:42",
@@ -20,18 +20,6 @@
           "odds": "9/1",
           "mark": null,
           "pos": 5,
-          "res": "LOSE",
-          "stake": 0.18
-        },
-        {
-          "rank": 2,
-          "horse": "Wee Mary",
-          "jockey": "Lauren Young",
-          "cd": 1,
-          "days": 22,
-          "odds": "28/1",
-          "mark": null,
-          "pos": 7,
           "res": "LOSE",
           "stake": 0.18
         }
@@ -68,7 +56,7 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.17
+          "stake": 0.18
         },
         {
           "rank": 3,
@@ -80,7 +68,7 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.17
+          "stake": 0.18
         }
       ]
     },
@@ -120,87 +108,6 @@
       ]
     },
     {
-      "time": "16:12",
-      "meeting": "Newcastle",
-      "name": "Always Gamble Responsibly At BetMGM Handicap (Div 1)",
-      "class": "6",
-      "distance": "7f 14y",
-      "riders": 11,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Pallas Lord",
-          "jockey": "Jason Hart",
-          "cd": 4,
-          "days": 5,
-          "odds": "11/4",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.17
-        }
-      ]
-    },
-    {
-      "time": "17:30",
-      "meeting": "Southwell",
-      "name": "Midnite Are Upping The Betting Game Handicap (Div 1)",
-      "class": "6",
-      "distance": "6f 16y",
-      "riders": 10,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Walking On Clouds",
-          "jockey": "Joey Haynes",
-          "cd": 3,
-          "days": 13,
-          "odds": "28/1",
-          "mark": null,
-          "pos": 9,
-          "res": "LOSE",
-          "stake": 0.17
-        }
-      ]
-    },
-    {
-      "time": "17:42",
-      "meeting": "Newcastle",
-      "name": "Win 250,000 With BetMGM's Golden Goals Handicap",
-      "class": "6",
-      "distance": "1m 5y",
-      "riders": 10,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Dream Illusion",
-          "jockey": "Jason Hart",
-          "cd": 1,
-          "days": 4,
-          "odds": "5/4",
-          "mark": null,
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 0.17
-        },
-        {
-          "rank": 2,
-          "horse": "Wyvern",
-          "jockey": "C Horgan",
-          "cd": 2,
-          "days": 5,
-          "odds": "12/1",
-          "mark": null,
-          "pos": 8,
-          "res": "LOSE",
-          "stake": 0.17
-        }
-      ]
-    },
-    {
       "time": "18:00",
       "meeting": "Southwell",
       "name": "Midnite Are Upping The Betting Game Handicap (Div 2)",
@@ -211,18 +118,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Barney's Bay",
-          "jockey": "Faye McManoman",
-          "cd": 1,
-          "days": 5,
-          "odds": "28/1",
-          "mark": null,
-          "pos": 7,
-          "res": "LOSE",
-          "stake": 0.17
-        },
-        {
-          "rank": 2,
           "horse": "Piperstown",
           "jockey": "Oliver Stammers",
           "cd": 1,
@@ -231,19 +126,19 @@
           "mark": -1,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.16
+          "stake": 0.17
         },
         {
-          "rank": 3,
-          "horse": "Glendown",
-          "jockey": "D Fentiman",
+          "rank": 2,
+          "horse": "Up The Monk",
+          "jockey": "Harry Davies",
           "cd": 1,
           "days": 19,
-          "odds": "12/1",
+          "odds": "11/2",
           "mark": null,
-          "pos": 9,
+          "pos": 4,
           "res": "LOSE",
-          "stake": 0.16
+          "stake": 0.17
         }
       ]
     },
@@ -266,14 +161,14 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.16
+          "stake": 0.17
         }
       ]
     }
   ],
   "bank": {
-    "start": 18.02,
+    "start": 18.06,
     "stake": 0.18,
-    "end": 15.98
+    "end": 16.49
   }
 }

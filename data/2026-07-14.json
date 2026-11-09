@@ -1,6 +1,6 @@
 {
   "date": "2026-07-14",
-  "updated": "2026-11-09T03:02:08+0000",
+  "updated": "2026-11-09T03:22:30+0000",
   "races": [
     {
       "time": "17:55",
@@ -13,18 +13,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Adelaide Bay",
-          "jockey": "S Donohoe",
-          "cd": 1,
-          "days": 12,
-          "odds": "5/4",
-          "mark": null,
-          "pos": 6,
-          "res": "LOSE",
-          "stake": 0.2
-        },
-        {
-          "rank": 2,
           "horse": "Sanditon",
           "jockey": "J Mitchell",
           "cd": 1,
@@ -33,30 +21,7 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.2
-        }
-      ]
-    },
-    {
-      "time": "18:25",
-      "meeting": "Wolverhampton",
-      "name": "Free Bets On attheraces.com Handicap (Div 2)",
-      "class": "6",
-      "distance": "7f 36y",
-      "riders": 11,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Classy Clarets",
-          "jockey": "Billy Loughnane",
-          "cd": 1,
-          "days": 6,
-          "odds": "4/7",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.2
+          "stake": 0.19
         }
       ]
     },
@@ -79,14 +44,14 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.2
+          "stake": 0.19
         }
       ]
     }
   ],
   "bank": {
-    "start": 20.29,
-    "stake": 0.2,
-    "end": 19.73
+    "start": 19.37,
+    "stake": 0.19,
+    "end": 19.12
   }
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-03-28",
-  "updated": "2026-11-09T03:02:01+0000",
+  "updated": "2026-11-09T03:22:24+0000",
   "races": [
     {
       "time": "17:00",
@@ -13,18 +13,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Colors Of Freedom",
-          "jockey": "K T O'Neill",
-          "cd": 2,
-          "days": 4,
-          "odds": "11/1",
-          "mark": null,
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 0.16
-        },
-        {
-          "rank": 2,
           "horse": "Irish Dancer",
           "jockey": "Zak Wheatley",
           "cd": 2,
@@ -33,19 +21,7 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.17
-        },
-        {
-          "rank": 3,
-          "horse": "Street Life",
-          "jockey": "Ryan Kavanagh",
-          "cd": 5,
-          "days": 15,
-          "odds": "11/1",
-          "mark": null,
-          "pos": 11,
-          "res": "LOSE",
-          "stake": 0.17
+          "stake": 0.13
         }
       ]
     },
@@ -68,53 +44,7 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.17
-        }
-      ]
-    },
-    {
-      "time": "18:00",
-      "meeting": "Southwell",
-      "name": "Bet 10 Get 40 With BetMGM Handicap",
-      "class": "4",
-      "distance": "7f 15y",
-      "riders": 9,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Illy's Roo",
-          "jockey": "David Probert",
-          "cd": 1,
-          "days": 17,
-          "odds": "12/1",
-          "mark": null,
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 0.17
-        }
-      ]
-    },
-    {
-      "time": "19:30",
-      "meeting": "Southwell",
-      "name": "Make The Move To Midnite Handicap (Div 1)",
-      "class": "6",
-      "distance": "1m 3f 24y",
-      "riders": 10,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Moon Over The Sea",
-          "jockey": "William Carson",
-          "cd": 1,
-          "days": 14,
-          "odds": "16/1",
-          "mark": null,
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 0.17
+          "stake": 0.13
         }
       ]
     },
@@ -137,49 +67,14 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.17
-        }
-      ]
-    },
-    {
-      "time": "20:30",
-      "meeting": "Southwell",
-      "name": "BetMGM Supports Safer Gambling Handicap",
-      "class": "6",
-      "distance": "1m 14y",
-      "riders": 8,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Pink Socks",
-          "jockey": "Ryan Kavanagh",
-          "cd": 1,
-          "days": 23,
-          "odds": "33/1",
-          "mark": null,
-          "pos": 5,
-          "res": "LOSE",
-          "stake": 0.17
-        },
-        {
-          "rank": 2,
-          "horse": "Roaring Ralph",
-          "jockey": "Sean Kirrane",
-          "cd": 2,
-          "days": 24,
-          "odds": "5/6",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.17
+          "stake": 0.14
         }
       ]
     }
   ],
   "bank": {
-    "start": 16.39,
-    "stake": 0.16,
-    "end": 16.84
+    "start": 13.36,
+    "stake": 0.13,
+    "end": 13.37
   }
 }

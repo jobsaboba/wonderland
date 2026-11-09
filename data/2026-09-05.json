@@ -1,6 +1,6 @@
 {
   "date": "2026-09-05",
-  "updated": "2026-11-09T03:02:12+0000",
+  "updated": "2026-11-09T03:22:33+0000",
   "races": [
     {
       "time": "18:00",
@@ -38,41 +38,6 @@
       ]
     },
     {
-      "time": "19:00",
-      "meeting": "Newcastle",
-      "name": "Free Tips On attheraces.com Handicap (Div 2)",
-      "class": "5",
-      "distance": "7f 14y",
-      "riders": 9,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Gressington",
-          "jockey": "T Eaves",
-          "cd": 1,
-          "days": 11,
-          "odds": "18/1",
-          "mark": null,
-          "pos": 5,
-          "res": "LOSE",
-          "stake": 0.23
-        },
-        {
-          "rank": 2,
-          "horse": "Jesmond Dawn",
-          "jockey": "J Garritty",
-          "cd": 1,
-          "days": 22,
-          "odds": "18/1",
-          "mark": null,
-          "pos": 6,
-          "res": "LOSE",
-          "stake": 0.23
-        }
-      ]
-    },
-    {
       "time": "19:30",
       "meeting": "Newcastle",
       "name": "attheraces.com Handicap",
@@ -83,18 +48,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Relevant Range",
-          "jockey": "Elle-May Croot",
-          "cd": 1,
-          "days": 5,
-          "odds": "12/1",
-          "mark": null,
-          "pos": 9,
-          "res": "LOSE",
-          "stake": 0.22
-        },
-        {
-          "rank": 2,
           "horse": "Second Fiddle",
           "jockey": "Jack Nicholls",
           "cd": 5,
@@ -109,8 +62,8 @@
     }
   ],
   "bank": {
-    "start": 21.36,
+    "start": 20.72,
     "stake": 0.21,
-    "end": 22.08
+    "end": 22.12
   }
 }

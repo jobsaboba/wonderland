@@ -1,42 +1,7 @@
 {
   "date": "2026-09-07",
-  "updated": "2026-11-09T03:02:12+0000",
+  "updated": "2026-11-09T03:22:33+0000",
   "races": [
-    {
-      "time": "18:30",
-      "meeting": "Wolverhampton",
-      "name": "Cavani Signature Style Handicap",
-      "class": "6",
-      "distance": "1m 1f 104y",
-      "riders": 13,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Midnight Media",
-          "jockey": "Lewis Edmunds",
-          "cd": 1,
-          "days": 6,
-          "odds": "8/11",
-          "mark": null,
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 0.22
-        },
-        {
-          "rank": 2,
-          "horse": "Zipwire",
-          "jockey": "Taylor Fisher",
-          "cd": 2,
-          "days": 17,
-          "odds": "14/1",
-          "mark": null,
-          "pos": 6,
-          "res": "LOSE",
-          "stake": 0.22
-        }
-      ]
-    },
     {
       "time": "19:00",
       "meeting": "Wolverhampton",
@@ -79,26 +44,14 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.21
-        },
-        {
-          "rank": 2,
-          "horse": "Blue Force",
-          "jockey": "Cam Hardie",
-          "cd": 1,
-          "days": 21,
-          "odds": "15/8",
-          "mark": null,
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 0.21
+          "stake": 0.22
         }
       ]
     }
   ],
   "bank": {
-    "start": 22.08,
+    "start": 22.12,
     "stake": 0.22,
-    "end": 21.03
+    "end": 21.68
   }
 }

@@ -1,54 +1,7 @@
 {
   "date": "2026-03-23",
-  "updated": "2026-11-09T03:02:01+0000",
+  "updated": "2026-11-09T03:22:24+0000",
   "races": [
-    {
-      "time": "16:50",
-      "meeting": "Wolverhampton",
-      "name": "BetMGM Supports Safer Gambling Handicap (Div 1)",
-      "class": "6",
-      "distance": "7f 36y",
-      "riders": 10,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Fistral Beach",
-          "jockey": "Jack Doughty",
-          "cd": 2,
-          "days": 10,
-          "odds": "11/4",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.18
-        },
-        {
-          "rank": 2,
-          "horse": "Zu Run",
-          "jockey": "Billy Loughnane",
-          "cd": 1,
-          "days": 10,
-          "odds": "11/4",
-          "mark": null,
-          "pos": 6,
-          "res": "LOSE",
-          "stake": 0.18
-        },
-        {
-          "rank": 3,
-          "horse": "Hannah's Return",
-          "jockey": "L Morris",
-          "cd": 2,
-          "days": 25,
-          "odds": "22/1",
-          "mark": null,
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 0.18
-        }
-      ]
-    },
     {
       "time": "17:25",
       "meeting": "Wolverhampton",
@@ -68,22 +21,10 @@
           "mark": -1,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.18
+          "stake": 0.15
         },
         {
           "rank": 2,
-          "horse": "Bernie The Bear",
-          "jockey": "Rhys Clutterbuck",
-          "cd": 1,
-          "days": 13,
-          "odds": "14/1",
-          "mark": null,
-          "pos": 8,
-          "res": "LOSE",
-          "stake": 0.18
-        },
-        {
-          "rank": 3,
           "horse": "Bungle Bay",
           "jockey": "Joe Leavy",
           "cd": 5,
@@ -92,7 +33,7 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.18
+          "stake": 0.15
         }
       ]
     },
@@ -115,7 +56,7 @@
           "mark": null,
           "pos": 3,
           "res": "LOSE",
-          "stake": 0.18
+          "stake": 0.15
         }
       ]
     },
@@ -138,7 +79,7 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.18
+          "stake": 0.15
         },
         {
           "rank": 2,
@@ -150,19 +91,19 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.18
+          "stake": 0.15
         },
         {
           "rank": 3,
-          "horse": "Sisters In The Sky",
-          "jockey": "Finley Marsh",
-          "cd": 3,
-          "days": 13,
-          "odds": "16/1",
+          "horse": "Midnight Call",
+          "jockey": "Matthew Slater",
+          "cd": 2,
+          "days": 28,
+          "odds": "7/2",
           "mark": null,
-          "pos": 8,
+          "pos": 5,
           "res": "LOSE",
-          "stake": 0.18
+          "stake": 0.15
         }
       ]
     },
@@ -185,7 +126,7 @@
           "mark": null,
           "pos": 3,
           "res": "LOSE",
-          "stake": 0.18
+          "stake": 0.15
         },
         {
           "rank": 2,
@@ -197,7 +138,7 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.18
+          "stake": 0.15
         },
         {
           "rank": 3,
@@ -209,7 +150,7 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.18
+          "stake": 0.15
         }
       ]
     },
@@ -232,14 +173,14 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.18
+          "stake": 0.15
         }
       ]
     }
   ],
   "bank": {
-    "start": 17.67,
-    "stake": 0.18,
-    "end": 17.55
+    "start": 15.19,
+    "stake": 0.15,
+    "end": 14.62
   }
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-03-13",
-  "updated": "2026-11-09T03:02:00+0000",
+  "updated": "2026-11-09T03:22:23+0000",
   "races": [
     {
       "time": "16:25",
@@ -21,7 +21,7 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.23
+          "stake": 0.14
         }
       ]
     },
@@ -44,19 +44,7 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.23
-        },
-        {
-          "rank": 2,
-          "horse": "Em Jay Kay",
-          "jockey": "Grace McEntee",
-          "cd": 1,
-          "days": 26,
-          "odds": "28/1",
-          "mark": null,
-          "pos": 9,
-          "res": "LOSE",
-          "stake": 0.23
+          "stake": 0.14
         }
       ]
     },
@@ -79,7 +67,7 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.23
+          "stake": 0.15
         }
       ]
     },
@@ -94,18 +82,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Love Alive",
-          "jockey": "Jack Dace",
-          "cd": 1,
-          "days": 13,
-          "odds": "14/1",
-          "mark": null,
-          "pos": 9,
-          "res": "LOSE",
-          "stake": 0.23
-        },
-        {
-          "rank": 2,
           "horse": "U S S Charleston",
           "jockey": "Tom Kiely-Marshall",
           "cd": 1,
@@ -114,7 +90,7 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.23
+          "stake": 0.15
         }
       ]
     },
@@ -129,18 +105,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "King Of Ithaca",
-          "jockey": "Callum Shepherd",
-          "cd": 4,
-          "days": 13,
-          "odds": "12/1",
-          "mark": null,
-          "pos": 5,
-          "res": "LOSE",
-          "stake": 0.23
-        },
-        {
-          "rank": 2,
           "horse": "Legal Reform",
           "jockey": "K Shoemark",
           "cd": 5,
@@ -149,7 +113,7 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.23
+          "stake": 0.15
         }
       ]
     },
@@ -172,77 +136,7 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.23
-        },
-        {
-          "rank": 2,
-          "horse": "Bravo Zulu",
-          "jockey": "Daniel Muscutt",
-          "cd": 1,
-          "days": 13,
-          "odds": "11/1",
-          "mark": null,
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 0.23
-        },
-        {
-          "rank": 3,
-          "horse": "Hitched",
-          "jockey": "Charles Bishop",
-          "cd": 2,
-          "days": 15,
-          "odds": "14/1",
-          "mark": null,
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 0.23
-        }
-      ]
-    },
-    {
-      "time": "18:20",
-      "meeting": "Southwell",
-      "name": "BetMGM Supports Safer Gambling Fillies' Handicap",
-      "class": "4",
-      "distance": "6f 16y",
-      "riders": 7,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Brazilian Rose",
-          "jockey": "Kaiya Fraser",
-          "cd": 2,
-          "days": 4,
-          "odds": "11/5",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.23
-        }
-      ]
-    },
-    {
-      "time": "18:50",
-      "meeting": "Southwell",
-      "name": "Win 250,000 With BetMGM's Golden Goals Handicap",
-      "class": "2",
-      "distance": "6f 16y",
-      "riders": 8,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Grey Horizon",
-          "jockey": "K T O'Neill",
-          "cd": 2,
-          "days": 14,
-          "odds": "33/1",
-          "mark": null,
-          "pos": 5,
-          "res": "LOSE",
-          "stake": 0.23
+          "stake": 0.15
         }
       ]
     },
@@ -265,22 +159,10 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.23
+          "stake": 0.15
         },
         {
           "rank": 2,
-          "horse": "Bomb Squad",
-          "jockey": "Hollie Doyle",
-          "cd": 1,
-          "days": 17,
-          "odds": "11/8",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.23
-        },
-        {
-          "rank": 3,
           "horse": "Ramon Di Loria",
           "jockey": "Greg Fairley",
           "cd": 1,
@@ -289,7 +171,7 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.23
+          "stake": 0.15
         }
       ]
     },
@@ -312,7 +194,7 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.23
+          "stake": 0.15
         },
         {
           "rank": 2,
@@ -324,7 +206,7 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.24
+          "stake": 0.15
         }
       ]
     },
@@ -339,18 +221,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Pessoa",
-          "jockey": "Finley Marsh",
-          "cd": 4,
-          "days": 4,
-          "odds": "5/2",
-          "mark": null,
-          "pos": 3,
-          "res": "LOSE",
-          "stake": 0.24
-        },
-        {
-          "rank": 2,
           "horse": "Simply Blue",
           "jockey": "Paddy Bradley",
           "cd": 1,
@@ -359,10 +229,10 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.23
+          "stake": 0.15
         },
         {
-          "rank": 3,
+          "rank": 2,
           "horse": "Habrdi",
           "jockey": "J P Sullivan",
           "cd": 1,
@@ -371,14 +241,14 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.23
+          "stake": 0.15
         }
       ]
     }
   ],
   "bank": {
-    "start": 22.85,
-    "stake": 0.23,
-    "end": 24.9
+    "start": 14.42,
+    "stake": 0.14,
+    "end": 16.22
   }
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated": "2026-11-09T03:02:15+0000",
+  "updated": "2026-11-09T03:22:35+0000",
   "races": [
     {
       "time": "15:08",
@@ -21,30 +21,7 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.15
-        }
-      ]
-    },
-    {
-      "time": "15:43",
-      "meeting": "Newcastle",
-      "name": "Northumbria Leisure For Gaming Machines Handicap (GBBPlus Race)",
-      "class": "4",
-      "distance": "1m 2f 42y",
-      "riders": 11,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Krissy",
-          "jockey": "Rhys Elliott",
-          "cd": 1,
-          "days": 17,
-          "odds": "25/1",
-          "mark": null,
-          "pos": 8,
-          "res": "LOSE",
-          "stake": 0.14
+          "stake": 0.21
         }
       ]
     },
@@ -67,7 +44,7 @@
           "mark": null,
           "pos": 10,
           "res": "LOSE",
-          "stake": 0.14
+          "stake": 0.21
         },
         {
           "rank": 2,
@@ -79,7 +56,7 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.14
+          "stake": 0.21
         },
         {
           "rank": 3,
@@ -91,7 +68,7 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.14
+          "stake": 0.2
         }
       ]
     },
@@ -114,22 +91,10 @@
           "mark": null,
           "pos": 10,
           "res": "LOSE",
-          "stake": 0.14
+          "stake": 0.2
         },
         {
           "rank": 2,
-          "horse": "Pockley",
-          "jockey": "Alex Jary",
-          "cd": 6,
-          "days": 14,
-          "odds": "20/1",
-          "mark": null,
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 0.14
-        },
-        {
-          "rank": 3,
           "horse": "Zuffolo",
           "jockey": "Rhys Elliott",
           "cd": 2,
@@ -138,14 +103,26 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.14
+          "stake": 0.2
+        },
+        {
+          "rank": 3,
+          "horse": "Shatin Venture",
+          "jockey": "Tom Kiely-Marshall",
+          "cd": 1,
+          "days": 21,
+          "odds": "17/2",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.2
         }
       ]
     }
   ],
   "bank": {
-    "start": 14.54,
-    "stake": 0.15,
-    "end": 13.79
+    "start": 20.96,
+    "stake": 0.21,
+    "end": 20.41
   }
 }

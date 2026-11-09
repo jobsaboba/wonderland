@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated": "2026-11-09T03:02:15+0000",
+  "updated": "2026-11-09T03:22:36+0000",
   "races": [
     {
       "time": "16:30",
@@ -21,19 +21,7 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.12
-        },
-        {
-          "rank": 2,
-          "horse": "Dappled Light",
-          "jockey": "Molly Keegan-Price",
-          "cd": 1,
-          "days": 28,
-          "odds": "18/1",
-          "mark": null,
-          "pos": 7,
-          "res": "LOSE",
-          "stake": 0.12
+          "stake": 0.19
         }
       ]
     },
@@ -56,7 +44,7 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 0.12
+          "stake": 0.19
         }
       ]
     },
@@ -79,7 +67,7 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.12
+          "stake": 0.19
         },
         {
           "rank": 2,
@@ -91,7 +79,7 @@
           "mark": null,
           "pos": 10,
           "res": "LOSE",
-          "stake": 0.11
+          "stake": 0.18
         }
       ]
     },
@@ -114,7 +102,7 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.11
+          "stake": 0.18
         },
         {
           "rank": 2,
@@ -126,37 +114,14 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.11
-        }
-      ]
-    },
-    {
-      "time": "19:30",
-      "meeting": "Wolverhampton",
-      "name": "Midnite Built Different Handicap",
-      "class": "5",
-      "distance": "1m 4f 51y",
-      "riders": 10,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Made All",
-          "jockey": "O J Orr",
-          "cd": 1,
-          "days": 10,
-          "odds": "18/1",
-          "mark": null,
-          "pos": 9,
-          "res": "LOSE",
-          "stake": 0.11
+          "stake": 0.18
         }
       ]
     }
   ],
   "bank": {
-    "start": 11.96,
-    "stake": 0.12,
-    "end": 11.11
+    "start": 19.05,
+    "stake": 0.19,
+    "end": 18.05
   }
 }

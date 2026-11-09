@@ -1,6 +1,6 @@
 {
   "date": "2026-01-03",
-  "updated": "2026-11-09T03:01:55+0000",
+  "updated": "2026-11-09T03:22:20+0000",
   "races": [
     {
       "time": "18:00",
@@ -21,7 +21,7 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.09
+          "stake": 0.11
         }
       ]
     },
@@ -44,7 +44,7 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.09
+          "stake": 0.11
         }
       ]
     },
@@ -67,7 +67,7 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.09
+          "stake": 0.11
         }
       ]
     },
@@ -82,18 +82,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Bearwith",
-          "jockey": "P J McDonald",
-          "cd": 1,
-          "days": 14,
-          "odds": "20/1",
-          "mark": null,
-          "pos": 5,
-          "res": "LOSE",
-          "stake": 0.09
-        },
-        {
-          "rank": 2,
           "horse": "Tortured Soul",
           "jockey": "Jack Doughty",
           "cd": 2,
@@ -102,14 +90,14 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.09
+          "stake": 0.11
         }
       ]
     }
   ],
   "bank": {
-    "start": 8.95,
-    "stake": 0.09,
-    "end": 9.04
+    "start": 10.63,
+    "stake": 0.11,
+    "end": 10.87
   }
 }

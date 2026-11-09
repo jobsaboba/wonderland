@@ -1,6 +1,6 @@
 {
   "date": "2026-02-27",
-  "updated": "2026-11-09T03:01:59+0000",
+  "updated": "2026-11-09T03:22:23+0000",
   "races": [
     {
       "time": "17:13",
@@ -13,18 +13,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Pessoa",
-          "jockey": "Finley Marsh",
-          "cd": 2,
-          "days": 18,
-          "odds": "12/1",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.16
-        },
-        {
-          "rank": 2,
           "horse": "Rainwater",
           "jockey": "D Nolan",
           "cd": 1,
@@ -33,10 +21,10 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.18
+          "stake": 0.16
         },
         {
-          "rank": 3,
+          "rank": 2,
           "horse": "Book Of Life",
           "jockey": "Ryan Kavanagh",
           "cd": 1,
@@ -45,7 +33,7 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.18
+          "stake": 0.16
         }
       ]
     },
@@ -68,31 +56,19 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.18
+          "stake": 0.16
         },
         {
           "rank": 2,
-          "horse": "Harbour Vision",
-          "jockey": "Faye McManoman",
-          "cd": 5,
-          "days": 7,
-          "odds": "40/1",
-          "mark": null,
-          "pos": 11,
-          "res": "LOSE",
-          "stake": 0.19
-        },
-        {
-          "rank": 3,
-          "horse": "Giorgio M",
-          "jockey": "Hollie Doyle",
+          "horse": "Beattie Is Back",
+          "jockey": "J Garritty",
           "cd": 1,
-          "days": 20,
-          "odds": "12/1",
+          "days": 27,
+          "odds": "11/2",
           "mark": null,
-          "pos": 7,
-          "res": "LOSE",
-          "stake": 0.19
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.18
         }
       ]
     },
@@ -107,18 +83,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Beaumadier",
-          "jockey": "Hollie Doyle",
-          "cd": 1,
-          "days": 13,
-          "odds": "11/1",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.19
-        },
-        {
-          "rank": 2,
           "horse": "Gustav Graves",
           "jockey": "Joanna Mason",
           "cd": 7,
@@ -127,10 +91,10 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.2
+          "stake": 0.18
         },
         {
-          "rank": 3,
+          "rank": 2,
           "horse": "Hint Of Humour",
           "jockey": "William Carson",
           "cd": 2,
@@ -139,37 +103,26 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.2
-        }
-      ]
-    },
-    {
-      "time": "19:45",
-      "meeting": "Wolverhampton",
-      "name": "Make The Move To Midnite Handicap (GBBPlus Race)",
-      "class": "4",
-      "distance": "1m 4f 51y",
-      "riders": 8,
-      "settled": true,
-      "sel": [
+          "stake": 0.17
+        },
         {
-          "rank": 1,
-          "horse": "Intinso",
-          "jockey": "Joanna Mason",
-          "cd": 1,
-          "days": 27,
-          "odds": "14/1",
+          "rank": 3,
+          "horse": "Phoenix Beach",
+          "jockey": "Jonny Peate",
+          "cd": 4,
+          "days": 21,
+          "odds": "6/1",
           "mark": null,
-          "pos": 5,
+          "pos": 3,
           "res": "LOSE",
-          "stake": 0.2
+          "stake": 0.17
         }
       ]
     }
   ],
   "bank": {
-    "start": 15.98,
+    "start": 16.49,
     "stake": 0.16,
-    "end": 20.04
+    "end": 17.22
   }
 }

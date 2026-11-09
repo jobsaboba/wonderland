@@ -1,6 +1,6 @@
 {
   "date": "2026-02-04",
-  "updated": "2026-11-09T03:01:58+0000",
+  "updated": "2026-11-09T03:22:21+0000",
   "races": [
     {
       "time": "17:00",
@@ -21,7 +21,7 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.17
+          "stake": 0.14
         },
         {
           "rank": 2,
@@ -33,19 +33,19 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.17
+          "stake": 0.14
         },
         {
           "rank": 3,
-          "horse": "Teardrops",
-          "jockey": "George Wood",
+          "horse": "Captain Vallo",
+          "jockey": "Jack Nicholls",
           "cd": 3,
-          "days": 15,
-          "odds": "7/4",
+          "days": 19,
+          "odds": "11/2",
           "mark": null,
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 0.16
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.14
         }
       ]
     },
@@ -60,18 +60,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Flash The Dash",
-          "jockey": "Rowan Scott",
-          "cd": 1,
-          "days": 13,
-          "odds": "12/1",
-          "mark": null,
-          "pos": 5,
-          "res": "LOSE",
-          "stake": 0.16
-        },
-        {
-          "rank": 2,
           "horse": "Fircombe Hall",
           "jockey": "Rhys Elliott",
           "cd": 6,
@@ -80,42 +68,7 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.16
-        },
-        {
-          "rank": 3,
-          "horse": "Yorkshire Glory",
-          "jockey": "A Mullen",
-          "cd": 3,
-          "days": 15,
-          "odds": "5/2",
-          "mark": -13,
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 0.16
-        }
-      ]
-    },
-    {
-      "time": "18:00",
-      "meeting": "Newcastle",
-      "name": "Midnite A Next Generation Betting App Handicap (Div 3)",
-      "class": "6",
-      "distance": "6f",
-      "riders": 8,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Spun To Gold",
-          "jockey": "P Mulrennan",
-          "cd": 2,
-          "days": 22,
-          "odds": "11/4",
-          "mark": null,
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 0.16
+          "stake": 0.14
         }
       ]
     },
@@ -130,18 +83,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "King's Crown",
-          "jockey": "Rhys Elliott",
-          "cd": 3,
-          "days": 13,
-          "odds": "14/1",
-          "mark": null,
-          "pos": 6,
-          "res": "LOSE",
-          "stake": 0.16
-        },
-        {
-          "rank": 2,
           "horse": "Monks Dream",
           "jockey": "Sean Kirrane",
           "cd": 2,
@@ -150,7 +91,7 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.16
+          "stake": 0.14
         }
       ]
     },
@@ -165,18 +106,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Pallas Lord",
-          "jockey": "Rhys Elliott",
-          "cd": 5,
-          "days": 4,
-          "odds": "5/2",
-          "mark": null,
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 0.16
-        },
-        {
-          "rank": 2,
           "horse": "Concert Boy",
           "jockey": "Warren Fentiman",
           "cd": 2,
@@ -185,10 +114,10 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.16
+          "stake": 0.14
         },
         {
-          "rank": 3,
+          "rank": 2,
           "horse": "Tasever",
           "jockey": "C Horgan",
           "cd": 3,
@@ -197,14 +126,14 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.16
+          "stake": 0.14
         }
       ]
     }
   ],
   "bank": {
-    "start": 16.68,
-    "stake": 0.17,
-    "end": 15.86
+    "start": 14.38,
+    "stake": 0.14,
+    "end": 14.19
   }
 }

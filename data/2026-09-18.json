@@ -1,6 +1,6 @@
 {
   "date": "2026-09-18",
-  "updated": "2026-11-09T03:02:13+0000",
+  "updated": "2026-11-09T03:22:34+0000",
   "races": [
     {
       "time": "16:10",
@@ -21,30 +21,7 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.2
-        }
-      ]
-    },
-    {
-      "time": "17:45",
-      "meeting": "Wolverhampton",
-      "name": "Dave Hill, Mental Health Ambassador Handicap",
-      "class": "6",
-      "distance": "1m 4f 51y",
-      "riders": 7,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Belle Amie",
-          "jockey": "Callum Shepherd",
-          "cd": 1,
-          "days": 16,
-          "odds": "6/4",
-          "mark": null,
-          "pos": 3,
-          "res": "LOSE",
-          "stake": 0.2
+          "stake": 0.22
         }
       ]
     },
@@ -67,7 +44,7 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.2
+          "stake": 0.22
         },
         {
           "rank": 2,
@@ -79,7 +56,7 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.2
+          "stake": 0.21
         }
       ]
     },
@@ -94,18 +71,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Beauzon",
-          "jockey": "S Donohoe",
-          "cd": 12,
-          "days": 15,
-          "odds": "80/1",
-          "mark": null,
-          "pos": 10,
-          "res": "LOSE",
-          "stake": 0.2
-        },
-        {
-          "rank": 2,
           "horse": "Horace Wallace",
           "jockey": "J F Egan",
           "cd": 1,
@@ -114,14 +79,14 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.2
+          "stake": 0.22
         }
       ]
     }
   ],
   "bank": {
-    "start": 20.27,
-    "stake": 0.2,
-    "end": 20.53
+    "start": 21.83,
+    "stake": 0.22,
+    "end": 22.55
   }
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-02-17",
-  "updated": "2026-11-09T03:01:59+0000",
+  "updated": "2026-11-09T03:22:22+0000",
   "races": [
     {
       "time": "16:22",
@@ -21,30 +21,7 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.19
-        }
-      ]
-    },
-    {
-      "time": "16:57",
-      "meeting": "Wolverhampton",
-      "name": "Midnite A Next Generation Betting App Handicap (Rider Restricted Race) (Div 2)",
-      "class": "6",
-      "distance": "1m 5f 219y",
-      "riders": 9,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Forglen",
-          "jockey": "O McSweeney",
-          "cd": 1,
-          "days": 28,
-          "odds": "5/2",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.19
+          "stake": 0.17
         }
       ]
     },
@@ -59,18 +36,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Water Of Leith",
-          "jockey": "Lauren Young",
-          "cd": 2,
-          "days": 1,
-          "odds": "4/6",
-          "mark": null,
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 0.19
-        },
-        {
-          "rank": 2,
           "horse": "Woodhay Whisper",
           "jockey": "Rhys Clutterbuck",
           "cd": 1,
@@ -79,7 +44,7 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.19
+          "stake": 0.17
         }
       ]
     },
@@ -102,7 +67,7 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.19
+          "stake": 0.18
         },
         {
           "rank": 2,
@@ -114,30 +79,7 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.19
-        }
-      ]
-    },
-    {
-      "time": "19:00",
-      "meeting": "Wolverhampton",
-      "name": "Read Meg Nicholls' Blog At betmgm.co.uk Handicap (Rider Restricted Race)",
-      "class": "4",
-      "distance": "5f 21y",
-      "riders": 7,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Fortification",
-          "jockey": "Harry Vigors",
-          "cd": 1,
-          "days": 25,
-          "odds": "11/4",
-          "mark": null,
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 0.2
+          "stake": 0.18
         }
       ]
     },
@@ -152,18 +94,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Sceptic",
-          "jockey": "Ryan Kavanagh",
-          "cd": 1,
-          "days": 13,
-          "odds": "22/1",
-          "mark": null,
-          "pos": 7,
-          "res": "LOSE",
-          "stake": 0.2
-        },
-        {
-          "rank": 2,
           "horse": "Mr Nugget",
           "jockey": "O McSweeney",
           "cd": 3,
@@ -172,10 +102,10 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.2
+          "stake": 0.18
         },
         {
-          "rank": 3,
+          "rank": 2,
           "horse": "Eagle Day",
           "jockey": "George Downing",
           "cd": 4,
@@ -184,7 +114,7 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 0.2
+          "stake": 0.18
         }
       ]
     },
@@ -199,18 +129,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Silkies Sib",
-          "jockey": "Ashley Lewis",
-          "cd": 1,
-          "days": 10,
-          "odds": "5/2",
-          "mark": null,
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 0.19
-        },
-        {
-          "rank": 2,
           "horse": "Scenario",
           "jockey": "Harry Vigors",
           "cd": 1,
@@ -219,7 +137,7 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.19
+          "stake": 0.18
         }
       ]
     },
@@ -234,30 +152,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Galaxy Wonder",
-          "jockey": "D C Costello",
-          "cd": 1,
-          "days": 13,
-          "odds": "5/4",
-          "mark": null,
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 0.19
-        },
-        {
-          "rank": 2,
-          "horse": "Tiger Beetle",
-          "jockey": "Zoe Lewis",
-          "cd": 3,
-          "days": 15,
-          "odds": "22/1",
-          "mark": null,
-          "pos": 7,
-          "res": "LOSE",
-          "stake": 0.19
-        },
-        {
-          "rank": 3,
           "horse": "Ciotog",
           "jockey": "Jonny Peate",
           "cd": 2,
@@ -266,14 +160,14 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.19
+          "stake": 0.18
         }
       ]
     }
   ],
   "bank": {
-    "start": 18.77,
-    "stake": 0.19,
-    "end": 18.52
+    "start": 17.39,
+    "stake": 0.17,
+    "end": 17.69
   }
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "updated": "2026-11-09T03:02:11+0000",
+  "updated": "2026-11-09T03:22:32+0000",
   "races": [
     {
       "time": "16:10",
@@ -21,7 +21,7 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.25
+          "stake": 0.21
         },
         {
           "rank": 2,
@@ -33,7 +33,7 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.25
+          "stake": 0.21
         },
         {
           "rank": 3,
@@ -45,7 +45,7 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.25
+          "stake": 0.21
         }
       ]
     },
@@ -60,18 +60,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Style King",
-          "jockey": "S De Sousa",
-          "cd": 1,
-          "days": 13,
-          "odds": "5/2",
-          "mark": -2,
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 0.24
-        },
-        {
-          "rank": 2,
           "horse": "Dicko The Legend",
           "jockey": "D Tudhope",
           "cd": 1,
@@ -80,7 +68,7 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.24
+          "stake": 0.21
         }
       ]
     },
@@ -103,14 +91,14 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 0.24
+          "stake": 0.2
         }
       ]
     }
   ],
   "bank": {
-    "start": 24.86,
-    "stake": 0.25,
-    "end": 23.98
+    "start": 20.86,
+    "stake": 0.21,
+    "end": 20.22
   }
 }

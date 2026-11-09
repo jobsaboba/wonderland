@@ -1,6 +1,6 @@
 {
   "date": "2026-03-31",
-  "updated": "2026-11-09T03:02:01+0000",
+  "updated": "2026-11-09T03:22:24+0000",
   "races": [
     {
       "time": "17:30",
@@ -21,7 +21,7 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.18
+          "stake": 0.15
         },
         {
           "rank": 2,
@@ -33,7 +33,7 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.18
+          "stake": 0.14
         },
         {
           "rank": 3,
@@ -45,42 +45,7 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.17
-        }
-      ]
-    },
-    {
-      "time": "18:00",
-      "meeting": "Wolverhampton",
-      "name": "Midnite Are Upping The Betting Game Selling Handicap",
-      "class": "6",
-      "distance": "1m 1f 104y",
-      "riders": 11,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Danehill Star",
-          "jockey": "Billy Loughnane",
-          "cd": 2,
-          "days": 3,
-          "odds": "6/5",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.17
-        },
-        {
-          "rank": 2,
-          "horse": "Marinakis",
-          "jockey": "Ryan Kavanagh",
-          "cd": 1,
-          "days": 14,
-          "odds": "12/1",
-          "mark": null,
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 0.17
+          "stake": 0.14
         }
       ]
     },
@@ -103,14 +68,14 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.17
+          "stake": 0.14
         }
       ]
     }
   ],
   "bank": {
-    "start": 17.84,
-    "stake": 0.18,
-    "end": 17.0
+    "start": 14.57,
+    "stake": 0.15,
+    "end": 14.0
   }
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "updated": "2026-11-09T03:02:15+0000",
+  "updated": "2026-11-09T03:22:35+0000",
   "races": [
     {
       "time": "16:00",
@@ -21,22 +21,10 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.12
+          "stake": 0.19
         },
         {
           "rank": 2,
-          "horse": "Sugar Hill Babe",
-          "jockey": "Harry Davies",
-          "cd": 2,
-          "days": 21,
-          "odds": "50/1",
-          "mark": null,
-          "pos": 6,
-          "res": "LOSE",
-          "stake": 0.13
-        },
-        {
-          "rank": 3,
           "horse": "Shes Got A Brother",
           "jockey": "Billy Garritty",
           "cd": 2,
@@ -45,65 +33,7 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.13
-        }
-      ]
-    },
-    {
-      "time": "16:30",
-      "meeting": "Southwell",
-      "name": "Join The Midnite Movement Handicap",
-      "class": "6",
-      "distance": "1m 4f 14y",
-      "riders": 14,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Hickton",
-          "jockey": "Zak Wheatley",
-          "cd": 1,
-          "days": 26,
-          "odds": "14/1",
-          "mark": null,
-          "pos": 6,
-          "res": "LOSE",
-          "stake": 0.12
-        },
-        {
-          "rank": 2,
-          "horse": "Lednikov",
-          "jockey": "Elle-May Croot",
-          "cd": 3,
-          "days": 26,
-          "odds": "14/1",
-          "mark": null,
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 0.12
-        }
-      ]
-    },
-    {
-      "time": "18:00",
-      "meeting": "Southwell",
-      "name": "AW Trials Day - Lingfield 2nd Jan 2027 Handicap",
-      "class": "6",
-      "distance": "1m 13y",
-      "riders": 14,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Dumfries",
-          "jockey": "William Pyle",
-          "cd": 1,
-          "days": 14,
-          "odds": "12/1",
-          "mark": null,
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 0.12
+          "stake": 0.2
         }
       ]
     },
@@ -126,7 +56,7 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.12
+          "stake": 0.2
         },
         {
           "rank": 2,
@@ -138,7 +68,7 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.12
+          "stake": 0.2
         },
         {
           "rank": 3,
@@ -150,7 +80,7 @@
           "mark": null,
           "pos": 10,
           "res": "LOSE",
-          "stake": 0.12
+          "stake": 0.19
         }
       ]
     },
@@ -173,14 +103,14 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.12
+          "stake": 0.19
         }
       ]
     }
   ],
   "bank": {
-    "start": 12.24,
-    "stake": 0.12,
-    "end": 11.91
+    "start": 19.27,
+    "stake": 0.19,
+    "end": 19.05
   }
 }

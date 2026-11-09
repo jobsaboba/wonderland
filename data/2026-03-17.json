@@ -1,6 +1,6 @@
 {
   "date": "2026-03-17",
-  "updated": "2026-11-09T03:02:00+0000",
+  "updated": "2026-11-09T03:22:24+0000",
   "races": [
     {
       "time": "17:30",
@@ -21,7 +21,7 @@
           "mark": null,
           "pos": 10,
           "res": "LOSE",
-          "stake": 0.23
+          "stake": 0.16
         },
         {
           "rank": 2,
@@ -33,19 +33,7 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.23
-        },
-        {
-          "rank": 3,
-          "horse": "White Umbrella",
-          "jockey": "Jason Hart",
-          "cd": 1,
-          "days": 15,
-          "odds": "18/1",
-          "mark": null,
-          "pos": 6,
-          "res": "LOSE",
-          "stake": 0.23
+          "stake": 0.15
         }
       ]
     },
@@ -60,18 +48,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Bomb Squad",
-          "jockey": "Ryan Kavanagh",
-          "cd": 2,
-          "days": 4,
-          "odds": "11/4",
-          "mark": null,
-          "pos": 6,
-          "res": "LOSE",
-          "stake": 0.23
-        },
-        {
-          "rank": 2,
           "horse": "Ramon Di Loria",
           "jockey": "Greg Fairley",
           "cd": 1,
@@ -80,10 +56,10 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.23
+          "stake": 0.16
         },
         {
-          "rank": 3,
+          "rank": 2,
           "horse": "Von Krolock",
           "jockey": "Callum Shepherd",
           "cd": 2,
@@ -92,7 +68,19 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.22
+          "stake": 0.15
+        },
+        {
+          "rank": 3,
+          "horse": "Landlordtothestars",
+          "jockey": "Joe Leavy",
+          "cd": 1,
+          "days": 14,
+          "odds": "6/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.15
         }
       ]
     },
@@ -115,19 +103,7 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.22
-        },
-        {
-          "rank": 2,
-          "horse": "Fortification",
-          "jockey": "James Doyle",
-          "cd": 1,
-          "days": 28,
-          "odds": "2/1",
-          "mark": null,
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 0.22
+          "stake": 0.15
         }
       ]
     },
@@ -150,7 +126,7 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.22
+          "stake": 0.15
         }
       ]
     },
@@ -165,46 +141,22 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "River Wharfe",
-          "jockey": "Myla Coppins",
-          "cd": 2,
-          "days": 6,
-          "odds": "12/1",
-          "mark": null,
-          "pos": 8,
-          "res": "LOSE",
-          "stake": 0.22
-        },
-        {
-          "rank": 2,
-          "horse": "Galaxy Wonder",
-          "jockey": "Rossa Ryan",
+          "horse": "Amber Honey",
+          "jockey": "Cieren Fallon",
           "cd": 1,
-          "days": 12,
-          "odds": "15/8",
+          "days": 18,
+          "odds": "15/2",
           "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.22
-        },
-        {
-          "rank": 3,
-          "horse": "Masqool",
-          "jockey": "D C Costello",
-          "cd": 3,
-          "days": 12,
-          "odds": "18/1",
-          "mark": null,
-          "pos": 9,
+          "pos": 10,
           "res": "LOSE",
-          "stake": 0.22
+          "stake": 0.15
         }
       ]
     }
   ],
   "bank": {
-    "start": 23.19,
-    "stake": 0.23,
-    "end": 22.19
+    "start": 15.62,
+    "stake": 0.16,
+    "end": 15.27
   }
 }

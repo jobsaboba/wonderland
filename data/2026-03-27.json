@@ -1,6 +1,6 @@
 {
   "date": "2026-03-27",
-  "updated": "2026-11-09T03:02:01+0000",
+  "updated": "2026-11-09T03:22:24+0000",
   "races": [
     {
       "time": "16:25",
@@ -21,31 +21,7 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.18
-        },
-        {
-          "rank": 2,
-          "horse": "Trais Fluors",
-          "jockey": "Alex Jary",
-          "cd": 4,
-          "days": 6,
-          "odds": "11/1",
-          "mark": null,
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 0.18
-        },
-        {
-          "rank": 3,
-          "horse": "Dream Illusion",
-          "jockey": "Dylan Hogan",
-          "cd": 1,
-          "days": 16,
-          "odds": "9/5",
-          "mark": null,
-          "pos": 8,
-          "res": "LOSE",
-          "stake": 0.18
+          "stake": 0.15
         }
       ]
     },
@@ -68,7 +44,7 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.18
+          "stake": 0.15
         },
         {
           "rank": 2,
@@ -80,7 +56,7 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.17
+          "stake": 0.14
         }
       ]
     },
@@ -95,18 +71,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Bobby Joe Leg",
-          "jockey": "J P Sullivan",
-          "cd": 10,
-          "days": 13,
-          "odds": "22/1",
-          "mark": null,
-          "pos": 6,
-          "res": "LOSE",
-          "stake": 0.17
-        },
-        {
-          "rank": 2,
           "horse": "Novak",
           "jockey": "Mohammed Tabti",
           "cd": 2,
@@ -115,10 +79,10 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.17
+          "stake": 0.14
         },
         {
-          "rank": 3,
+          "rank": 2,
           "horse": "Phoenix Of Dreams",
           "jockey": "Jason Hart",
           "cd": 1,
@@ -127,7 +91,7 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.17
+          "stake": 0.14
         }
       ]
     },
@@ -142,18 +106,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Yorkshire Glory",
-          "jockey": "Harry Vigors",
-          "cd": 6,
-          "days": 4,
-          "odds": "6/4",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.17
-        },
-        {
-          "rank": 2,
           "horse": "Pit Boss",
           "jockey": "C Horgan",
           "cd": 2,
@@ -162,10 +114,10 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.17
+          "stake": 0.14
         },
         {
-          "rank": 3,
+          "rank": 2,
           "horse": "Water Of Leith",
           "jockey": "P Mulrennan",
           "cd": 1,
@@ -174,7 +126,7 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.17
+          "stake": 0.14
         }
       ]
     },
@@ -189,18 +141,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Tickets",
-          "jockey": "A Mullen",
-          "cd": 2,
-          "days": 16,
-          "odds": "16/1",
-          "mark": null,
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 0.17
-        },
-        {
-          "rank": 2,
           "horse": "Teardrops",
           "jockey": "Jack Callan",
           "cd": 3,
@@ -209,7 +149,7 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.17
+          "stake": 0.14
         }
       ]
     },
@@ -232,7 +172,7 @@
           "mark": null,
           "pos": 13,
           "res": "LOSE",
-          "stake": 0.17
+          "stake": 0.14
         },
         {
           "rank": 2,
@@ -244,7 +184,7 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.17
+          "stake": 0.14
         }
       ]
     },
@@ -267,7 +207,7 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.17
+          "stake": 0.14
         }
       ]
     },
@@ -290,7 +230,7 @@
           "mark": null,
           "pos": 10,
           "res": "LOSE",
-          "stake": 0.17
+          "stake": 0.14
         }
       ]
     },
@@ -313,14 +253,14 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.17
+          "stake": 0.13
         }
       ]
     }
   ],
   "bank": {
-    "start": 18.12,
-    "stake": 0.18,
-    "end": 16.39
+    "start": 14.72,
+    "stake": 0.15,
+    "end": 13.36
   }
 }

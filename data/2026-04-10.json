@@ -1,6 +1,6 @@
 {
   "date": "2026-04-10",
-  "updated": "2026-11-09T03:02:02+0000",
+  "updated": "2026-11-09T03:22:25+0000",
   "races": [
     {
       "time": "17:30",
@@ -13,18 +13,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Addarella",
-          "jockey": "K T O'Neill",
-          "cd": 2,
-          "days": 21,
-          "odds": "18/1",
-          "mark": null,
-          "pos": 7,
-          "res": "LOSE",
-          "stake": 0.18
-        },
-        {
-          "rank": 2,
           "horse": "Papa Cocktail",
           "jockey": "Callum Rodriguez",
           "cd": 2,
@@ -33,7 +21,7 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.17
+          "stake": 0.14
         }
       ]
     },
@@ -56,7 +44,7 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.17
+          "stake": 0.14
         }
       ]
     },
@@ -71,18 +59,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Harbour Vision",
-          "jockey": "K T O'Neill",
-          "cd": 5,
-          "days": 10,
-          "odds": "16/1",
-          "mark": null,
-          "pos": 10,
-          "res": "LOSE",
-          "stake": 0.18
-        },
-        {
-          "rank": 2,
           "horse": "Amelia's Joy",
           "jockey": "S M Levey",
           "cd": 1,
@@ -91,19 +67,19 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.17
+          "stake": 0.14
         },
         {
-          "rank": 3,
-          "horse": "Court Of Session",
-          "jockey": "Connor Planas",
-          "cd": 1,
-          "days": 13,
-          "odds": "25/1",
+          "rank": 2,
+          "horse": "Split Elevens",
+          "jockey": "David Probert",
+          "cd": 3,
+          "days": 28,
+          "odds": "9/2",
           "mark": null,
-          "pos": 12,
+          "pos": 5,
           "res": "LOSE",
-          "stake": 0.18
+          "stake": 0.15
         }
       ]
     },
@@ -126,14 +102,14 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.18
+          "stake": 0.14
         }
       ]
     }
   ],
   "bank": {
-    "start": 17.61,
-    "stake": 0.18,
-    "end": 17.98
+    "start": 13.62,
+    "stake": 0.14,
+    "end": 14.22
   }
 }

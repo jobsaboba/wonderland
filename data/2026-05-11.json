@@ -1,6 +1,6 @@
 {
   "date": "2026-05-11",
-  "updated": "2026-11-09T03:02:04+0000",
+  "updated": "2026-11-09T03:22:27+0000",
   "races": [
     {
       "time": "18:00",
@@ -21,7 +21,7 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.17
+          "stake": 0.15
         }
       ]
     },
@@ -44,7 +44,7 @@
           "mark": null,
           "pos": 11,
           "res": "LOSE",
-          "stake": 0.17
+          "stake": 0.15
         },
         {
           "rank": 2,
@@ -56,49 +56,26 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.17
+          "stake": 0.15
         },
         {
           "rank": 3,
-          "horse": "Molly Valentine",
-          "jockey": "Jack Doughty",
+          "horse": "Arlecchino's Rex",
+          "jockey": "David Probert",
           "cd": 1,
-          "days": 14,
-          "odds": "16/1",
+          "days": 24,
+          "odds": "6/1",
           "mark": null,
-          "pos": 10,
-          "res": "LOSE",
-          "stake": 0.17
-        }
-      ]
-    },
-    {
-      "time": "19:30",
-      "meeting": "Wolverhampton",
-      "name": "Racing Welfare Supporting Racing's Workforce Handicap",
-      "class": "6",
-      "distance": "1m 142y",
-      "riders": 13,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Aspire To Glory",
-          "jockey": "George Wood",
-          "cd": 1,
-          "days": 26,
-          "odds": "22/1",
-          "mark": null,
-          "pos": 10,
-          "res": "LOSE",
-          "stake": 0.17
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.15
         }
       ]
     }
   ],
   "bank": {
-    "start": 17.22,
-    "stake": 0.17,
-    "end": 16.48
+    "start": 15.11,
+    "stake": 0.15,
+    "end": 14.79
   }
 }

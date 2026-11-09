@@ -1,6 +1,6 @@
 {
   "date": "2026-01-09",
-  "updated": "2026-11-09T03:01:56+0000",
+  "updated": "2026-11-09T03:22:20+0000",
   "races": [
     {
       "time": "15:30",
@@ -21,7 +21,7 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.08
+          "stake": 0.11
         },
         {
           "rank": 2,
@@ -33,7 +33,7 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.08
+          "stake": 0.11
         }
       ]
     },
@@ -56,31 +56,7 @@
           "mark": null,
           "pos": 0,
           "res": null,
-          "stake": 0.08
-        },
-        {
-          "rank": 2,
-          "horse": "Brian The Snail",
-          "jockey": "D Nolan",
-          "cd": 1,
-          "days": 18,
-          "odds": "14/1",
-          "mark": null,
-          "pos": 0,
-          "res": null,
-          "stake": 0.08
-        },
-        {
-          "rank": 3,
-          "horse": "Some Nightmare",
-          "jockey": "Gina Mangan",
-          "cd": 1,
-          "days": 27,
-          "odds": "12/1",
-          "mark": null,
-          "pos": 0,
-          "res": null,
-          "stake": 0.08
+          "stake": 0.11
         }
       ]
     },
@@ -103,7 +79,7 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.08
+          "stake": 0.11
         },
         {
           "rank": 2,
@@ -115,19 +91,19 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.08
+          "stake": 0.11
         },
         {
           "rank": 3,
-          "horse": "Desert Master",
-          "jockey": "Cam Hardie",
-          "cd": 1,
-          "days": 7,
-          "odds": "20/1",
+          "horse": "Henery Hawk",
+          "jockey": "Kaiya Fraser",
+          "cd": 4,
+          "days": 8,
+          "odds": "9/1",
           "mark": null,
-          "pos": 8,
-          "res": "LOSE",
-          "stake": 0.08
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.11
         }
       ]
     },
@@ -150,19 +126,7 @@
           "mark": null,
           "pos": 0,
           "res": null,
-          "stake": 0.08
-        },
-        {
-          "rank": 2,
-          "horse": "Zoulu Warrior",
-          "jockey": "Cieren Fallon",
-          "cd": 1,
-          "days": 13,
-          "odds": "7/4",
-          "mark": null,
-          "pos": 0,
-          "res": null,
-          "stake": 0.08
+          "stake": 0.11
         }
       ]
     },
@@ -185,42 +149,7 @@
           "mark": null,
           "pos": 0,
           "res": null,
-          "stake": 0.08
-        },
-        {
-          "rank": 2,
-          "horse": "Dyrholaey",
-          "jockey": "L Morris",
-          "cd": 1,
-          "days": 18,
-          "odds": "20/1",
-          "mark": null,
-          "pos": 0,
-          "res": null,
-          "stake": 0.08
-        }
-      ]
-    },
-    {
-      "time": "18:00",
-      "meeting": "Wolverhampton",
-      "name": "Friday Night Live With SBK Handicap",
-      "class": "5",
-      "distance": "1m 4f 51y",
-      "riders": 12,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Aiming High",
-          "jockey": "Callum Shepherd",
-          "cd": 1,
-          "days": 18,
-          "odds": "12/1",
-          "mark": null,
-          "pos": 0,
-          "res": null,
-          "stake": 0.08
+          "stake": 0.11
         }
       ]
     },
@@ -243,7 +172,7 @@
           "mark": null,
           "pos": 0,
           "res": null,
-          "stake": 0.08
+          "stake": 0.11
         },
         {
           "rank": 2,
@@ -255,7 +184,7 @@
           "mark": null,
           "pos": 0,
           "res": null,
-          "stake": 0.08
+          "stake": 0.11
         }
       ]
     },
@@ -278,22 +207,10 @@
           "mark": null,
           "pos": 0,
           "res": null,
-          "stake": 0.08
+          "stake": 0.11
         },
         {
           "rank": 2,
-          "horse": "Harbour Vision",
-          "jockey": "K T O'Neill",
-          "cd": 3,
-          "days": 13,
-          "odds": "16/1",
-          "mark": null,
-          "pos": 0,
-          "res": null,
-          "stake": 0.08
-        },
-        {
-          "rank": 3,
           "horse": "The Caribbean",
           "jockey": "Cieren Fallon",
           "cd": 1,
@@ -302,7 +219,7 @@
           "mark": null,
           "pos": 0,
           "res": null,
-          "stake": 0.08
+          "stake": 0.11
         }
       ]
     },
@@ -325,7 +242,7 @@
           "mark": null,
           "pos": 0,
           "res": null,
-          "stake": 0.08
+          "stake": 0.11
         },
         {
           "rank": 2,
@@ -337,7 +254,7 @@
           "mark": null,
           "pos": 0,
           "res": null,
-          "stake": 0.08
+          "stake": 0.11
         },
         {
           "rank": 3,
@@ -349,7 +266,7 @@
           "mark": null,
           "pos": 0,
           "res": null,
-          "stake": 0.08
+          "stake": 0.11
         }
       ]
     },
@@ -372,7 +289,7 @@
           "mark": null,
           "pos": 0,
           "res": null,
-          "stake": 0.08
+          "stake": 0.11
         },
         {
           "rank": 2,
@@ -384,19 +301,7 @@
           "mark": null,
           "pos": 0,
           "res": null,
-          "stake": 0.08
-        },
-        {
-          "rank": 3,
-          "horse": "San Juanito",
-          "jockey": "R Havlin",
-          "cd": 2,
-          "days": 27,
-          "odds": "25/1",
-          "mark": null,
-          "pos": 0,
-          "res": null,
-          "stake": 0.08
+          "stake": 0.11
         }
       ]
     },
@@ -419,22 +324,10 @@
           "mark": null,
           "pos": 0,
           "res": null,
-          "stake": 0.08
+          "stake": 0.11
         },
         {
           "rank": 2,
-          "horse": "Urban Road",
-          "jockey": "Jason Hart",
-          "cd": 2,
-          "days": 8,
-          "odds": "14/1",
-          "mark": null,
-          "pos": 0,
-          "res": null,
-          "stake": 0.08
-        },
-        {
-          "rank": 3,
           "horse": "Hitched",
           "jockey": "L Morris",
           "cd": 1,
@@ -443,14 +336,26 @@
           "mark": null,
           "pos": 0,
           "res": null,
-          "stake": 0.08
+          "stake": 0.11
+        },
+        {
+          "rank": 3,
+          "horse": "Advancing",
+          "jockey": "Marco Ghiani",
+          "cd": 1,
+          "days": 13,
+          "odds": "3/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 0.11
         }
       ]
     }
   ],
   "bank": {
-    "start": 8.11,
-    "stake": 0.08,
-    "end": 8.15
+    "start": 11.2,
+    "stake": 0.11,
+    "end": 11.45
   }
 }

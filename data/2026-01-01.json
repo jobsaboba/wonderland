@@ -1,6 +1,6 @@
 {
   "date": "2026-01-01",
-  "updated": "2026-11-09T03:01:55+0000",
+  "updated": "2026-11-09T03:22:20+0000",
   "races": [
     {
       "time": "13:49",
@@ -95,25 +95,13 @@
         },
         {
           "rank": 2,
-          "horse": "Machete",
-          "jockey": "Mark Winn",
-          "cd": 1,
-          "days": 13,
-          "odds": "9/4",
-          "mark": null,
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 0.1
-        },
-        {
-          "rank": 3,
-          "horse": "Urban Road",
-          "jockey": "Barry McHugh",
+          "horse": "Without Compromise",
+          "jockey": "Cam Hardie",
           "cd": 3,
-          "days": 14,
-          "odds": "33/1",
+          "days": 19,
+          "odds": "7/2",
           "mark": null,
-          "pos": 3,
+          "pos": 5,
           "res": "LOSE",
           "stake": 0.1
         }
@@ -154,13 +142,13 @@
         },
         {
           "rank": 3,
-          "horse": "Dark Kestrel",
-          "jockey": "Cam Hardie",
-          "cd": 2,
+          "horse": "Hover On The Wind",
+          "jockey": "Barry McHugh",
+          "cd": 1,
           "days": 27,
-          "odds": "22/1",
+          "odds": "10/1",
           "mark": null,
-          "pos": 9,
+          "pos": 7,
           "res": "LOSE",
           "stake": 0.11
         }
@@ -177,46 +165,11 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Francesi",
-          "jockey": "Myla Coppins",
-          "cd": 1,
-          "days": 3,
-          "odds": "9/4",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.11
-        },
-        {
-          "rank": 2,
           "horse": "Concert Boy",
           "jockey": "Greg Fairley",
           "cd": 2,
           "days": 23,
           "odds": "7/1",
-          "mark": null,
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 0.11
-        }
-      ]
-    },
-    {
-      "time": "16:15",
-      "meeting": "Southwell",
-      "name": "Midnite, Building The Future Of Betting Handicap (GBBPlus Race)",
-      "class": "3",
-      "distance": "1m 4f 14y",
-      "riders": 9,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Humble Spark",
-          "jockey": "Amie Waugh",
-          "cd": 1,
-          "days": 13,
-          "odds": "16/1",
           "mark": null,
           "pos": 4,
           "res": "LOSE",
@@ -291,30 +244,6 @@
           "pos": 9,
           "res": "LOSE",
           "stake": 0.11
-        },
-        {
-          "rank": 2,
-          "horse": "Bernie The Bear",
-          "jockey": "Kaiya Fraser",
-          "cd": 1,
-          "days": 16,
-          "odds": "33/1",
-          "mark": null,
-          "pos": 8,
-          "res": "LOSE",
-          "stake": 0.11
-        },
-        {
-          "rank": 3,
-          "horse": "Green Valentine",
-          "jockey": "Barry McHugh",
-          "cd": 1,
-          "days": 16,
-          "odds": "25/1",
-          "mark": null,
-          "pos": 10,
-          "res": "LOSE",
-          "stake": 0.11
         }
       ]
     },
@@ -329,18 +258,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Aberama Gold",
-          "jockey": "Shane Gray",
-          "cd": 1,
-          "days": 10,
-          "odds": "18/1",
-          "mark": null,
-          "pos": 10,
-          "res": "LOSE",
-          "stake": 0.11
-        },
-        {
-          "rank": 2,
           "horse": "Oriental Prince",
           "jockey": "Amie Waugh",
           "cd": 2,
@@ -388,14 +305,14 @@
         },
         {
           "rank": 3,
-          "horse": "Beneficiary",
-          "jockey": "D Nolan",
+          "horse": "Korroor",
+          "jockey": "Tom Kiely-Marshall",
           "cd": 2,
           "days": 23,
-          "odds": "11/1",
+          "odds": "9/2",
           "mark": null,
-          "pos": 10,
-          "res": "LOSE",
+          "pos": 3,
+          "res": "PLACE",
           "stake": 0.11
         }
       ]
@@ -404,6 +321,6 @@
   "bank": {
     "start": 10.0,
     "stake": 0.1,
-    "end": 10.41
+    "end": 10.87
   }
 }

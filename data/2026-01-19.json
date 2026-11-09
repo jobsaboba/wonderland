@@ -1,6 +1,6 @@
 {
   "date": "2026-01-19",
-  "updated": "2026-11-09T03:01:56+0000",
+  "updated": "2026-11-09T03:22:20+0000",
   "races": [
     {
       "time": "19:00",
@@ -13,18 +13,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Addarella",
-          "jockey": "Marco Ghiani",
-          "cd": 1,
-          "days": 16,
-          "odds": "12/1",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.12
-        },
-        {
-          "rank": 2,
           "horse": "Water Of Leith",
           "jockey": "R Havlin",
           "cd": 2,
@@ -33,19 +21,7 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.13
-        },
-        {
-          "rank": 3,
-          "horse": "Zoulu Warrior",
-          "jockey": "Billy Loughnane",
-          "cd": 1,
-          "days": 23,
-          "odds": "9/4",
-          "mark": null,
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 0.13
+          "stake": 0.12
         }
       ]
     },
@@ -68,37 +44,14 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 0.13
-        }
-      ]
-    },
-    {
-      "time": "20:30",
-      "meeting": "Wolverhampton",
-      "name": "Join The Midnite Movement Handicap",
-      "class": "6",
-      "distance": "5f 21y",
-      "riders": 9,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Colors Of Freedom",
-          "jockey": "Gina Mangan",
-          "cd": 3,
-          "days": 3,
-          "odds": "13/8",
-          "mark": null,
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 0.13
+          "stake": 0.12
         }
       ]
     }
   ],
   "bank": {
-    "start": 11.59,
+    "start": 12.12,
     "stake": 0.12,
-    "end": 12.51
+    "end": 11.95
   }
 }

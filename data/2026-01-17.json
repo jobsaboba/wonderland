@@ -1,42 +1,7 @@
 {
   "date": "2026-01-17",
-  "updated": "2026-11-09T03:01:56+0000",
+  "updated": "2026-11-09T03:22:20+0000",
   "races": [
-    {
-      "time": "17:00",
-      "meeting": "Southwell",
-      "name": "Read Meg Nicholls' Blog At betmgm.co.uk Handicap",
-      "class": "5",
-      "distance": "1m 13y",
-      "riders": 12,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Soames Forsyte",
-          "jockey": "Dylan Hogan",
-          "cd": 1,
-          "days": 15,
-          "odds": "28/1",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.09
-        },
-        {
-          "rank": 2,
-          "horse": "Love Your Work",
-          "jockey": "K T O'Neill",
-          "cd": 5,
-          "days": 18,
-          "odds": "12/1",
-          "mark": null,
-          "pos": 11,
-          "res": "LOSE",
-          "stake": 0.11
-        }
-      ]
-    },
     {
       "time": "19:30",
       "meeting": "Southwell",
@@ -56,26 +21,14 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.11
-        },
-        {
-          "rank": 2,
-          "horse": "Star Chorus",
-          "jockey": "Callum Shepherd",
-          "cd": 2,
-          "days": 7,
-          "odds": "5/2",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.11
+          "stake": 0.12
         }
       ]
     }
   ],
   "bank": {
-    "start": 9.06,
-    "stake": 0.09,
-    "end": 11.59
+    "start": 12.07,
+    "stake": 0.12,
+    "end": 12.12
   }
 }

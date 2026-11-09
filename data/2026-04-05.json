@@ -1,6 +1,6 @@
 {
   "date": "2026-04-05",
-  "updated": "2026-11-09T03:02:02+0000",
+  "updated": "2026-11-09T03:22:25+0000",
   "races": [
     {
       "time": "12:55",
@@ -21,31 +21,7 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.2
-        },
-        {
-          "rank": 2,
-          "horse": "Tuscan Point",
-          "jockey": "Taryn Langley",
-          "cd": 1,
-          "days": 15,
-          "odds": "15/8",
-          "mark": null,
-          "pos": 5,
-          "res": "LOSE",
-          "stake": 0.2
-        },
-        {
-          "rank": 3,
-          "horse": "Starsong",
-          "jockey": "L Morris",
-          "cd": 1,
-          "days": 22,
-          "odds": "16/1",
-          "mark": null,
-          "pos": 9,
-          "res": "LOSE",
-          "stake": 0.19
+          "stake": 0.14
         }
       ]
     },
@@ -68,7 +44,7 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.19
+          "stake": 0.13
         },
         {
           "rank": 2,
@@ -80,7 +56,7 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.19
+          "stake": 0.13
         }
       ]
     },
@@ -95,18 +71,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Yakhabar",
-          "jockey": "Billy Garritty",
-          "cd": 1,
-          "days": 22,
-          "odds": "14/1",
-          "mark": null,
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 0.19
-        },
-        {
-          "rank": 2,
           "horse": "Lednikov",
           "jockey": "Elle-May Croot",
           "cd": 3,
@@ -115,14 +79,14 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.19
+          "stake": 0.13
         }
       ]
     }
   ],
   "bank": {
-    "start": 19.74,
-    "stake": 0.2,
-    "end": 18.39
+    "start": 13.59,
+    "stake": 0.14,
+    "end": 13.06
   }
 }

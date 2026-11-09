@@ -1,53 +1,7 @@
 {
   "date": "2026-05-05",
-  "updated": "2026-11-09T03:02:04+0000",
+  "updated": "2026-11-09T03:22:26+0000",
   "races": [
-    {
-      "time": "17:30",
-      "meeting": "Wolverhampton",
-      "name": "Download The Raceday Ready App Apprentice Handicap",
-      "class": "6",
-      "distance": "1m 142y",
-      "riders": 8,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Al Baahy",
-          "jockey": "Mason Paetel",
-          "cd": 1,
-          "days": 6,
-          "odds": "11/1",
-          "mark": null,
-          "pos": 5,
-          "res": "LOSE",
-          "stake": 0.15
-        }
-      ]
-    },
-    {
-      "time": "18:30",
-      "meeting": "Wolverhampton",
-      "name": "Free Digital Racecard At raceday-ready.com Handicap",
-      "class": "5",
-      "distance": "1m 1f 104y",
-      "riders": 4,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Lexington Express",
-          "jockey": "Marco Ghiani",
-          "cd": 1,
-          "days": 12,
-          "odds": "15/8",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.15
-        }
-      ]
-    },
     {
       "time": "19:30",
       "meeting": "Wolverhampton",
@@ -67,7 +21,7 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.15
+          "stake": 0.14
         }
       ]
     },
@@ -90,7 +44,7 @@
           "mark": null,
           "pos": 3,
           "res": "LOSE",
-          "stake": 0.15
+          "stake": 0.14
         },
         {
           "rank": 2,
@@ -102,14 +56,14 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.15
+          "stake": 0.14
         }
       ]
     }
   ],
   "bank": {
-    "start": 15.0,
-    "stake": 0.15,
-    "end": 15.13
+    "start": 13.99,
+    "stake": 0.14,
+    "end": 14.13
   }
 }

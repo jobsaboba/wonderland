@@ -1,6 +1,6 @@
 {
   "date": "2026-02-16",
-  "updated": "2026-11-09T03:01:58+0000",
+  "updated": "2026-11-09T03:22:22+0000",
   "races": [
     {
       "time": "17:00",
@@ -21,22 +21,10 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.19
+          "stake": 0.17
         },
         {
           "rank": 2,
-          "horse": "El Bufalo",
-          "jockey": "Zoe Lewis",
-          "cd": 3,
-          "days": 3,
-          "odds": "9/4",
-          "mark": null,
-          "pos": 5,
-          "res": "LOSE",
-          "stake": 0.19
-        },
-        {
-          "rank": 3,
           "horse": "Gogo Yubari",
           "jockey": "Harry Vigors",
           "cd": 1,
@@ -45,30 +33,7 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.19
-        }
-      ]
-    },
-    {
-      "time": "17:30",
-      "meeting": "Wolverhampton",
-      "name": "Bet 10 Get 40 With BetMGM Handicap (Rider Restricted Race)",
-      "class": "6",
-      "distance": "7f 36y",
-      "riders": 11,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "So Chic",
-          "jockey": "Liam Wright",
-          "cd": 2,
-          "days": 23,
-          "odds": "16/1",
-          "mark": null,
-          "pos": 5,
-          "res": "LOSE",
-          "stake": 0.18
+          "stake": 0.17
         }
       ]
     },
@@ -91,7 +56,7 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.18
+          "stake": 0.17
         },
         {
           "rank": 2,
@@ -103,7 +68,7 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.18
+          "stake": 0.17
         },
         {
           "rank": 3,
@@ -115,7 +80,7 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.18
+          "stake": 0.17
         }
       ]
     },
@@ -130,18 +95,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Beauzon",
-          "jockey": "Ryan Kavanagh",
-          "cd": 9,
-          "days": 6,
-          "odds": "11/10",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.18
-        },
-        {
-          "rank": 2,
           "horse": "He's An Angel",
           "jockey": "Oliver Stammers",
           "cd": 2,
@@ -150,7 +103,7 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.18
+          "stake": 0.17
         }
       ]
     },
@@ -173,7 +126,7 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.18
+          "stake": 0.17
         },
         {
           "rank": 2,
@@ -185,7 +138,7 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.19
+          "stake": 0.18
         },
         {
           "rank": 3,
@@ -197,14 +150,14 @@
           "mark": null,
           "pos": 3,
           "res": "LOSE",
-          "stake": 0.19
+          "stake": 0.18
         }
       ]
     }
   ],
   "bank": {
-    "start": 18.91,
-    "stake": 0.19,
-    "end": 18.77
+    "start": 17.17,
+    "stake": 0.17,
+    "end": 17.39
   }
 }

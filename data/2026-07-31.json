@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "updated": "2026-11-09T03:02:09+0000",
+  "updated": "2026-11-09T03:22:31+0000",
   "races": [
     {
       "time": "13:35",
@@ -22,65 +22,6 @@
           "pos": 9,
           "res": "LOSE",
           "stake": 0.2
-        },
-        {
-          "rank": 2,
-          "horse": "Espanita",
-          "jockey": "Oliver Stammers",
-          "cd": 1,
-          "days": 25,
-          "odds": "20/1",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.2
-        },
-        {
-          "rank": 3,
-          "horse": "Gunfighter",
-          "jockey": "Jack Gilligan",
-          "cd": 1,
-          "days": 26,
-          "odds": "5/2",
-          "mark": null,
-          "pos": 7,
-          "res": "LOSE",
-          "stake": 0.24
-        }
-      ]
-    },
-    {
-      "time": "14:10",
-      "meeting": "Wolverhampton",
-      "name": "Call 01902 390016 To Name A Race Fillies' Handicap",
-      "class": "4",
-      "distance": "7f 36y",
-      "riders": 9,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Bella Bisbee",
-          "jockey": "Christian Howarth",
-          "cd": 1,
-          "days": 9,
-          "odds": "18/1",
-          "mark": null,
-          "pos": 8,
-          "res": "LOSE",
-          "stake": 0.24
-        },
-        {
-          "rank": 2,
-          "horse": "Carnival Of Light",
-          "jockey": "Oliver Stammers",
-          "cd": 1,
-          "days": 14,
-          "odds": "11/4",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.23
         }
       ]
     },
@@ -103,30 +44,7 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.24
-        }
-      ]
-    },
-    {
-      "time": "15:30",
-      "meeting": "Newcastle",
-      "name": "QuinnBet Extra Place Handicap (Div 1)",
-      "class": "6",
-      "distance": "7f 14y",
-      "riders": 10,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Reginald Charles",
-          "jockey": "P J McDonald",
-          "cd": 1,
-          "days": 28,
-          "odds": "6/4",
-          "mark": null,
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 0.25
+          "stake": 0.19
         }
       ]
     },
@@ -149,7 +67,7 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.25
+          "stake": 0.21
         }
       ]
     },
@@ -172,26 +90,14 @@
           "mark": -2,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.25
-        },
-        {
-          "rank": 2,
-          "horse": "Saisons D'Or",
-          "jockey": "J Garritty",
-          "cd": 3,
-          "days": 23,
-          "odds": "12/1",
-          "mark": null,
-          "pos": 7,
-          "res": "LOSE",
-          "stake": 0.25
+          "stake": 0.21
         }
       ]
     }
   ],
   "bank": {
-    "start": 20.2,
+    "start": 19.61,
     "stake": 0.2,
-    "end": 24.65
+    "end": 20.46
   }
 }

@@ -1,57 +1,10 @@
 {
   "date": "2026-06-18",
-  "updated": "2026-11-09T03:02:07+0000",
-  "races": [
-    {
-      "time": "17:30",
-      "meeting": "Southwell",
-      "name": "Ladies' Day Sunday 16th August Fillies' Handicap",
-      "class": "5",
-      "distance": "4f 214y",
-      "riders": 8,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "La Belle Forest",
-          "jockey": "Edward Greatrex",
-          "cd": 1,
-          "days": 14,
-          "odds": "11/1",
-          "mark": null,
-          "pos": 6,
-          "res": "LOSE",
-          "stake": 0.19
-        }
-      ]
-    },
-    {
-      "time": "19:00",
-      "meeting": "Southwell",
-      "name": "Monday 31st August Family Fun Day Confined Handicap",
-      "class": "5",
-      "distance": "7f 14y",
-      "riders": 11,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Silver Trumpet",
-          "jockey": "Edward Greatrex",
-          "cd": 1,
-          "days": 26,
-          "odds": "11/4",
-          "mark": null,
-          "pos": 6,
-          "res": "LOSE",
-          "stake": 0.18
-        }
-      ]
-    }
-  ],
+  "updated": "2026-11-09T03:22:29+0000",
+  "races": [],
   "bank": {
-    "start": 18.54,
-    "stake": 0.19,
-    "end": 18.17
+    "start": 10.0,
+    "stake": 0.1,
+    "end": 10.0
   }
 }

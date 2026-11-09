@@ -1,6 +1,6 @@
 {
   "date": "2026-10-30",
-  "updated": "2026-11-09T03:02:16+0000",
+  "updated": "2026-11-09T03:22:36+0000",
   "races": [
     {
       "time": "16:15",
@@ -21,19 +21,7 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.1
-        },
-        {
-          "rank": 2,
-          "horse": "Urban Road",
-          "jockey": "T Eaves",
-          "cd": 3,
-          "days": 14,
-          "odds": "12/1",
-          "mark": null,
-          "pos": 7,
-          "res": "LOSE",
-          "stake": 0.11
+          "stake": 0.18
         }
       ]
     },
@@ -48,18 +36,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Liquid Cooled",
-          "jockey": "A Mullen",
-          "cd": 1,
-          "days": 10,
-          "odds": "18/1",
-          "mark": null,
-          "pos": 7,
-          "res": "LOSE",
-          "stake": 0.1
-        },
-        {
-          "rank": 2,
           "horse": "Tactical Blitz",
           "jockey": "Billy Garritty",
           "cd": 1,
@@ -68,7 +44,7 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.1
+          "stake": 0.18
         }
       ]
     },
@@ -91,31 +67,7 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.11
-        },
-        {
-          "rank": 2,
-          "horse": "Paddy's Day",
-          "jockey": "Alex Jary",
-          "cd": 7,
-          "days": 14,
-          "odds": "16/1",
-          "mark": null,
-          "pos": 5,
-          "res": "LOSE",
-          "stake": 0.11
-        },
-        {
-          "rank": 3,
-          "horse": "Juan Les Pins",
-          "jockey": "Joanna Mason",
-          "cd": 1,
-          "days": 18,
-          "odds": "12/1",
-          "mark": null,
-          "pos": 7,
-          "res": "LOSE",
-          "stake": 0.11
+          "stake": 0.2
         }
       ]
     },
@@ -138,7 +90,7 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.11
+          "stake": 0.2
         },
         {
           "rank": 2,
@@ -150,77 +102,7 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.11
-        }
-      ]
-    },
-    {
-      "time": "19:15",
-      "meeting": "Newcastle",
-      "name": "Make The Move To Midnite Handicap",
-      "class": "5",
-      "distance": "6f",
-      "riders": 13,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Winter Crown",
-          "jockey": "Ethan Tindall",
-          "cd": 1,
-          "days": 3,
-          "odds": "40/1",
-          "mark": null,
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 0.11
-        },
-        {
-          "rank": 2,
-          "horse": "Bellagio Man",
-          "jockey": "Cam Hardie",
-          "cd": 5,
-          "days": 18,
-          "odds": "50/1",
-          "mark": null,
-          "pos": 11,
-          "res": "LOSE",
-          "stake": 0.12
-        },
-        {
-          "rank": 3,
-          "horse": "The Green Man",
-          "jockey": "K Stott",
-          "cd": 2,
-          "days": 18,
-          "odds": "12/1",
-          "mark": null,
-          "pos": 5,
-          "res": "LOSE",
-          "stake": 0.12
-        }
-      ]
-    },
-    {
-      "time": "19:45",
-      "meeting": "Newcastle",
-      "name": "AW Trials Day - Lingfield 2nd Jan 2027 Handicap (Div 1)",
-      "class": "6",
-      "distance": "7f 14y",
-      "riders": 11,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Mrbluesky",
-          "jockey": "Greg Fairley",
-          "cd": 1,
-          "days": 18,
-          "odds": "100/1",
-          "mark": null,
-          "pos": 11,
-          "res": "LOSE",
-          "stake": 0.12
+          "stake": 0.2
         }
       ]
     },
@@ -243,7 +125,7 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.12
+          "stake": 0.2
         },
         {
           "rank": 2,
@@ -255,26 +137,14 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.11
-        },
-        {
-          "rank": 3,
-          "horse": "Pallas Lord",
-          "jockey": "Jason Hart",
-          "cd": 5,
-          "days": 18,
-          "odds": "18/1",
-          "mark": null,
-          "pos": 10,
-          "res": "LOSE",
-          "stake": 0.11
+          "stake": 0.2
         }
       ]
     }
   ],
   "bank": {
-    "start": 10.35,
-    "stake": 0.1,
-    "end": 11.25
+    "start": 17.87,
+    "stake": 0.18,
+    "end": 19.75
   }
 }

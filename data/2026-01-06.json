@@ -1,30 +1,7 @@
 {
   "date": "2026-01-06",
-  "updated": "2026-11-09T03:01:55+0000",
+  "updated": "2026-11-09T03:22:20+0000",
   "races": [
-    {
-      "time": "13:15",
-      "meeting": "Wolverhampton",
-      "name": "Read Meg Nicholls' Blog At betmgm.co.uk Handicap",
-      "class": "6",
-      "distance": "1m 142y",
-      "riders": 8,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Snaafy",
-          "jockey": "Rowan Scott",
-          "cd": 1,
-          "days": 7,
-          "odds": "11/4",
-          "mark": null,
-          "pos": 3,
-          "res": "LOSE",
-          "stake": 0.08
-        }
-      ]
-    },
     {
       "time": "15:45",
       "meeting": "Wolverhampton",
@@ -44,7 +21,7 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.08
+          "stake": 0.11
         },
         {
           "rank": 2,
@@ -56,19 +33,7 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.08
-        },
-        {
-          "rank": 3,
-          "horse": "Thurso",
-          "jockey": "Finley Marsh",
-          "cd": 1,
-          "days": 17,
-          "odds": "14/1",
-          "mark": null,
-          "pos": 8,
-          "res": "LOSE",
-          "stake": 0.08
+          "stake": 0.11
         }
       ]
     },
@@ -83,18 +48,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Mersea",
-          "jockey": "Darragh Keenan",
-          "cd": 1,
-          "days": 11,
-          "odds": "33/1",
-          "mark": null,
-          "pos": 5,
-          "res": "LOSE",
-          "stake": 0.08
-        },
-        {
-          "rank": 2,
           "horse": "Thankuappreciate",
           "jockey": "Zak Wheatley",
           "cd": 1,
@@ -103,19 +56,7 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.08
-        },
-        {
-          "rank": 3,
-          "horse": "Winchurch",
-          "jockey": "R Havlin",
-          "cd": 1,
-          "days": 19,
-          "odds": "16/1",
-          "mark": null,
-          "pos": 7,
-          "res": "LOSE",
-          "stake": 0.08
+          "stake": 0.1
         }
       ]
     },
@@ -138,31 +79,7 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.08
-        },
-        {
-          "rank": 2,
-          "horse": "First Greyed",
-          "jockey": "Cieren Fallon",
-          "cd": 3,
-          "days": 7,
-          "odds": "5/2",
-          "mark": null,
-          "pos": 8,
-          "res": "LOSE",
-          "stake": 0.08
-        },
-        {
-          "rank": 3,
-          "horse": "Rogue Soldier",
-          "jockey": "Tyler Heard",
-          "cd": 1,
-          "days": 10,
-          "odds": "400/1",
-          "mark": null,
-          "pos": 10,
-          "res": "LOSE",
-          "stake": 0.08
+          "stake": 0.1
         }
       ]
     },
@@ -185,22 +102,10 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 0.08
+          "stake": 0.11
         },
         {
           "rank": 2,
-          "horse": "Fools Rush In",
-          "jockey": "J P Sullivan",
-          "cd": 1,
-          "days": 10,
-          "odds": "11/4",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.08
-        },
-        {
-          "rank": 3,
           "horse": "Equion",
           "jockey": "Cieren Fallon",
           "cd": 1,
@@ -209,7 +114,19 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.08
+          "stake": 0.1
+        },
+        {
+          "rank": 3,
+          "horse": "King Of Speed",
+          "jockey": "Jonny Peate",
+          "cd": 4,
+          "days": 24,
+          "odds": "10/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.1
         }
       ]
     },
@@ -232,7 +149,7 @@
           "mark": null,
           "pos": 3,
           "res": "LOSE",
-          "stake": 0.08
+          "stake": 0.1
         }
       ]
     },
@@ -247,18 +164,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Charlatan",
-          "jockey": "Callum Shepherd",
-          "cd": 1,
-          "days": 10,
-          "odds": "85/40",
-          "mark": null,
-          "pos": 7,
-          "res": "LOSE",
-          "stake": 0.08
-        },
-        {
-          "rank": 2,
           "horse": "Back From Dubai",
           "jockey": "Lewis Edmunds",
           "cd": 3,
@@ -267,19 +172,7 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.08
-        },
-        {
-          "rank": 3,
-          "horse": "Mickey Mongoose",
-          "jockey": "D Fentiman",
-          "cd": 2,
-          "days": 18,
-          "odds": "14/1",
-          "mark": null,
-          "pos": 8,
-          "res": "LOSE",
-          "stake": 0.08
+          "stake": 0.1
         }
       ]
     },
@@ -302,14 +195,14 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.07
+          "stake": 0.1
         }
       ]
     }
   ],
   "bank": {
-    "start": 8.35,
-    "stake": 0.08,
-    "end": 8.11
+    "start": 10.7,
+    "stake": 0.11,
+    "end": 11.2
   }
 }

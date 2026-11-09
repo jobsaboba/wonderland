@@ -1,6 +1,6 @@
 {
   "date": "2026-02-19",
-  "updated": "2026-11-09T03:01:59+0000",
+  "updated": "2026-11-09T03:22:22+0000",
   "races": [
     {
       "time": "15:57",
@@ -20,18 +20,6 @@
           "odds": "5/1",
           "mark": null,
           "pos": 7,
-          "res": "LOSE",
-          "stake": 0.19
-        },
-        {
-          "rank": 2,
-          "horse": "Fleurman",
-          "jockey": "Gina Mangan",
-          "cd": 1,
-          "days": 17,
-          "odds": "40/1",
-          "mark": null,
-          "pos": 11,
           "res": "LOSE",
           "stake": 0.18
         }
@@ -57,18 +45,6 @@
           "pos": 5,
           "res": "LOSE",
           "stake": 0.18
-        },
-        {
-          "rank": 2,
-          "horse": "Showmedemoney",
-          "jockey": "Mohammed Tabti",
-          "cd": 2,
-          "days": 4,
-          "odds": "9/5",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.18
         }
       ]
     },
@@ -91,31 +67,19 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.18
+          "stake": 0.17
         },
         {
           "rank": 2,
-          "horse": "Pallas Lord",
-          "jockey": "Barry McHugh",
-          "cd": 4,
-          "days": 15,
-          "odds": "11/1",
+          "horse": "Swiss Ace",
+          "jockey": "Taryn Langley",
+          "cd": 3,
+          "days": 20,
+          "odds": "13/2",
           "mark": null,
-          "pos": 5,
+          "pos": 6,
           "res": "LOSE",
-          "stake": 0.18
-        },
-        {
-          "rank": 3,
-          "horse": "Lord Capulet",
-          "jockey": "O McSweeney",
-          "cd": 2,
-          "days": 19,
-          "odds": "5/4",
-          "mark": -11,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.18
+          "stake": 0.17
         }
       ]
     },
@@ -138,7 +102,7 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.18
+          "stake": 0.17
         },
         {
           "rank": 2,
@@ -150,7 +114,7 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.18
+          "stake": 0.17
         },
         {
           "rank": 3,
@@ -162,14 +126,14 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.18
+          "stake": 0.17
         }
       ]
     }
   ],
   "bank": {
-    "start": 18.52,
-    "stake": 0.19,
-    "end": 17.39
+    "start": 17.69,
+    "stake": 0.18,
+    "end": 16.62
   }
 }

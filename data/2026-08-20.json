@@ -1,30 +1,7 @@
 {
   "date": "2026-08-20",
-  "updated": "2026-11-09T03:02:11+0000",
+  "updated": "2026-11-09T03:22:32+0000",
   "races": [
-    {
-      "time": "17:19",
-      "meeting": "Newcastle",
-      "name": "Harry Potter Droneart Show Handicap",
-      "class": "6",
-      "distance": "1m 4f 98y",
-      "riders": 14,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Brunello Breeze",
-          "jockey": "J Garritty",
-          "cd": 1,
-          "days": 16,
-          "odds": "33/1",
-          "mark": null,
-          "pos": 12,
-          "res": "LOSE",
-          "stake": 0.24
-        }
-      ]
-    },
     {
       "time": "19:24",
       "meeting": "Newcastle",
@@ -44,22 +21,10 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.24
+          "stake": 0.2
         },
         {
           "rank": 2,
-          "horse": "True Promise",
-          "jockey": "Harry Russell",
-          "cd": 1,
-          "days": 19,
-          "odds": "14/1",
-          "mark": null,
-          "pos": 7,
-          "res": "LOSE",
-          "stake": 0.23
-        },
-        {
-          "rank": 3,
           "horse": "Buzz Box",
           "jockey": "Jason Hart",
           "cd": 2,
@@ -68,7 +33,19 @@
           "mark": -3,
           "pos": 10,
           "res": "LOSE",
-          "stake": 0.23
+          "stake": 0.2
+        },
+        {
+          "rank": 3,
+          "horse": "Lethal Nymph",
+          "jockey": "D Nolan",
+          "cd": 1,
+          "days": 26,
+          "odds": "3/1",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.2
         }
       ]
     },
@@ -91,14 +68,14 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.23
+          "stake": 0.2
         }
       ]
     }
   ],
   "bank": {
-    "start": 23.88,
-    "stake": 0.24,
-    "end": 22.71
+    "start": 20.34,
+    "stake": 0.2,
+    "end": 20.14
   }
 }

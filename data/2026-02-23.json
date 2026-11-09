@@ -1,6 +1,6 @@
 {
   "date": "2026-02-23",
-  "updated": "2026-11-09T03:01:59+0000",
+  "updated": "2026-11-09T03:22:22+0000",
   "races": [
     {
       "time": "16:25",
@@ -25,18 +25,6 @@
         },
         {
           "rank": 2,
-          "horse": "Neptune Legend",
-          "jockey": "Mason Paetel",
-          "cd": 2,
-          "days": 16,
-          "odds": "28/1",
-          "mark": null,
-          "pos": 6,
-          "res": "LOSE",
-          "stake": 0.18
-        },
-        {
-          "rank": 3,
           "horse": "Twilight Madness",
           "jockey": "Taryn Langley",
           "cd": 1,
@@ -72,18 +60,6 @@
         },
         {
           "rank": 2,
-          "horse": "Amaysmont",
-          "jockey": "Oliver Stammers",
-          "cd": 1,
-          "days": 14,
-          "odds": "12/1",
-          "mark": null,
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 0.18
-        },
-        {
-          "rank": 3,
           "horse": "Porfin",
           "jockey": "Connor Planas",
           "cd": 2,
@@ -92,6 +68,18 @@
           "mark": null,
           "pos": 10,
           "res": "LOSE",
+          "stake": 0.18
+        },
+        {
+          "rank": 3,
+          "horse": "Von Krolock",
+          "jockey": "Ashley Lewis",
+          "cd": 2,
+          "days": 17,
+          "odds": "11/2",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
           "stake": 0.18
         }
       ]
@@ -107,18 +95,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Faster Bee",
-          "jockey": "Gina Mangan",
-          "cd": 1,
-          "days": 7,
-          "odds": "13/8",
-          "mark": -7,
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 0.18
-        },
-        {
-          "rank": 2,
           "horse": "Fistral Beach",
           "jockey": "Jack Doughty",
           "cd": 1,
@@ -133,8 +109,8 @@
     }
   ],
   "bank": {
-    "start": 18.14,
+    "start": 18.11,
     "stake": 0.18,
-    "end": 18.02
+    "end": 18.06
   }
 }

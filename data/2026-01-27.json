@@ -1,6 +1,6 @@
 {
   "date": "2026-01-27",
-  "updated": "2026-11-09T03:01:57+0000",
+  "updated": "2026-11-09T03:22:21+0000",
   "races": [
     {
       "time": "16:28",
@@ -13,18 +13,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Homme De Fer",
-          "jockey": "William Carson",
-          "cd": 1,
-          "days": 13,
-          "odds": "13/8",
-          "mark": null,
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 0.17
-        },
-        {
-          "rank": 2,
           "horse": "Fistral Beach",
           "jockey": "Jack Doughty",
           "cd": 1,
@@ -33,7 +21,7 @@
           "mark": -4,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.17
+          "stake": 0.14
         }
       ]
     },
@@ -56,7 +44,7 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.17
+          "stake": 0.14
         }
       ]
     },
@@ -79,7 +67,7 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.17
+          "stake": 0.14
         }
       ]
     },
@@ -102,7 +90,7 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.17
+          "stake": 0.13
         }
       ]
     },
@@ -125,7 +113,7 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.16
+          "stake": 0.13
         },
         {
           "rank": 2,
@@ -137,14 +125,14 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.16
+          "stake": 0.13
         }
       ]
     }
   ],
   "bank": {
-    "start": 16.79,
-    "stake": 0.17,
-    "end": 16.21
+    "start": 13.52,
+    "stake": 0.14,
+    "end": 13.15
   }
 }

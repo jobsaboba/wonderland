@@ -1,77 +1,7 @@
 {
   "date": "2026-03-12",
-  "updated": "2026-11-09T03:02:00+0000",
+  "updated": "2026-11-09T03:22:23+0000",
   "races": [
-    {
-      "time": "15:48",
-      "meeting": "Newcastle",
-      "name": "Midnite: Built For 2026 Not 2006 Handicap",
-      "class": "6",
-      "distance": "6f",
-      "riders": 10,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Yorkshire Glory",
-          "jockey": "Harry Vigors",
-          "cd": 5,
-          "days": 6,
-          "odds": "6/5",
-          "mark": -5,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.22
-        },
-        {
-          "rank": 2,
-          "horse": "Spun To Gold",
-          "jockey": "Lauren Young",
-          "cd": 2,
-          "days": 16,
-          "odds": "11/1",
-          "mark": null,
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 0.22
-        }
-      ]
-    },
-    {
-      "time": "17:08",
-      "meeting": "Newcastle",
-      "name": "Midnite A Next Generation Betting App Handicap",
-      "class": "5",
-      "distance": "1m 4f 98y",
-      "riders": 10,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Bruce Banner",
-          "jockey": "Jason Hart",
-          "cd": 1,
-          "days": 12,
-          "odds": "16/1",
-          "mark": null,
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 0.23
-        },
-        {
-          "rank": 2,
-          "horse": "Desert Quest",
-          "jockey": "Greg Fairley",
-          "cd": 1,
-          "days": 25,
-          "odds": "33/1",
-          "mark": null,
-          "pos": 5,
-          "res": "LOSE",
-          "stake": 0.23
-        }
-      ]
-    },
     {
       "time": "18:15",
       "meeting": "Newcastle",
@@ -83,18 +13,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Contorno",
-          "jockey": "Callum Rodriguez",
-          "cd": 1,
-          "days": 12,
-          "odds": "2/1",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.23
-        },
-        {
-          "rank": 2,
           "horse": "Mademoiselle Belle",
           "jockey": "Ben Robinson",
           "cd": 1,
@@ -103,7 +21,7 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.23
+          "stake": 0.15
         }
       ]
     },
@@ -126,7 +44,7 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.23
+          "stake": 0.15
         },
         {
           "rank": 2,
@@ -138,7 +56,7 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.24
+          "stake": 0.15
         },
         {
           "rank": 3,
@@ -150,7 +68,7 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.24
+          "stake": 0.15
         }
       ]
     },
@@ -173,22 +91,10 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.23
+          "stake": 0.15
         },
         {
           "rank": 2,
-          "horse": "Grant Wood",
-          "jockey": "D Nolan",
-          "cd": 2,
-          "days": 16,
-          "odds": "5/2",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.23
-        },
-        {
-          "rank": 3,
           "horse": "Ziggy's Condor",
           "jockey": "Warren Fentiman",
           "cd": 1,
@@ -197,7 +103,7 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.24
+          "stake": 0.15
         }
       ]
     },
@@ -212,18 +118,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Saisons D'Or",
-          "jockey": "J Garritty",
-          "cd": 3,
-          "days": 12,
-          "odds": "22/1",
-          "mark": null,
-          "pos": 10,
-          "res": "LOSE",
-          "stake": 0.24
-        },
-        {
-          "rank": 2,
           "horse": "Operation Gimcrack",
           "jockey": "P Mulrennan",
           "cd": 1,
@@ -232,26 +126,26 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.23
+          "stake": 0.15
         },
         {
-          "rank": 3,
-          "horse": "Pallas Lord",
-          "jockey": "Callum Rodriguez",
-          "cd": 5,
-          "days": 16,
-          "odds": "11/1",
+          "rank": 2,
+          "horse": "Front Gunner",
+          "jockey": "Warren Fentiman",
+          "cd": 2,
+          "days": 25,
+          "odds": "6/1",
           "mark": null,
-          "pos": 11,
+          "pos": 6,
           "res": "LOSE",
-          "stake": 0.23
+          "stake": 0.15
         }
       ]
     }
   ],
   "bank": {
-    "start": 22.41,
-    "stake": 0.22,
-    "end": 22.85
+    "start": 14.72,
+    "stake": 0.15,
+    "end": 14.42
   }
 }

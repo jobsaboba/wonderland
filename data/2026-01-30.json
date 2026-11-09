@@ -1,30 +1,7 @@
 {
   "date": "2026-01-30",
-  "updated": "2026-11-09T03:01:57+0000",
+  "updated": "2026-11-09T03:22:21+0000",
   "races": [
-    {
-      "time": "13:32",
-      "meeting": "Southwell",
-      "name": "Read Meg Nicholls' Blog At betmgm.co.uk Handicap",
-      "class": "5",
-      "distance": "1m 13y",
-      "riders": 11,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Tonal",
-          "jockey": "Ryan Kavanagh",
-          "cd": 1,
-          "days": 28,
-          "odds": "11/10",
-          "mark": null,
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 0.16
-        }
-      ]
-    },
     {
       "time": "14:02",
       "meeting": "Southwell",
@@ -44,7 +21,7 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.16
+          "stake": 0.13
         }
       ]
     },
@@ -59,18 +36,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Brazilian Rose",
-          "jockey": "Kaiya Fraser",
-          "cd": 1,
-          "days": 7,
-          "odds": "9/4",
-          "mark": null,
-          "pos": 5,
-          "res": "LOSE",
-          "stake": 0.16
-        },
-        {
-          "rank": 2,
           "horse": "Chola Empire",
           "jockey": "S D Bowen",
           "cd": 3,
@@ -79,10 +44,10 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.16
+          "stake": 0.13
         },
         {
-          "rank": 3,
+          "rank": 2,
           "horse": "How Impressive",
           "jockey": "Edward Greatrex",
           "cd": 2,
@@ -91,7 +56,19 @@
           "mark": null,
           "pos": 0,
           "res": null,
-          "stake": 0.16
+          "stake": 0.13
+        },
+        {
+          "rank": 3,
+          "horse": "Grabajabba",
+          "jockey": "Alistair Rawlinson",
+          "cd": 1,
+          "days": 24,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.13
         }
       ]
     },
@@ -106,18 +83,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Down To The Kid",
-          "jockey": "Edward Greatrex",
-          "cd": 2,
-          "days": 7,
-          "odds": "9/4",
-          "mark": -6,
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 0.16
-        },
-        {
-          "rank": 2,
           "horse": "Doctor Khan Junior",
           "jockey": "P J McDonald",
           "cd": 1,
@@ -126,7 +91,7 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.16
+          "stake": 0.13
         }
       ]
     },
@@ -149,7 +114,7 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.16
+          "stake": 0.13
         }
       ]
     },
@@ -172,7 +137,7 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.16
+          "stake": 0.13
         }
       ]
     },
@@ -195,19 +160,7 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.16
-        },
-        {
-          "rank": 2,
-          "horse": "Tribal Wisdom",
-          "jockey": "Cam Hardie",
-          "cd": 4,
-          "days": 8,
-          "odds": "12/1",
-          "mark": null,
-          "pos": 5,
-          "res": "LOSE",
-          "stake": 0.17
+          "stake": 0.13
         }
       ]
     },
@@ -230,22 +183,10 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.17
+          "stake": 0.14
         },
         {
           "rank": 2,
-          "horse": "Papa Cocktail",
-          "jockey": "J Mitchell",
-          "cd": 1,
-          "days": 10,
-          "odds": "5/2",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.17
-        },
-        {
-          "rank": 3,
           "horse": "Water Of Leith",
           "jockey": "Lauren Young",
           "cd": 2,
@@ -254,14 +195,26 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.17
+          "stake": 0.14
+        },
+        {
+          "rank": 3,
+          "horse": "Ziggy's Queen",
+          "jockey": "Ethan Tindall",
+          "cd": 2,
+          "days": 19,
+          "odds": "9/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.14
         }
       ]
     }
   ],
   "bank": {
-    "start": 16.21,
-    "stake": 0.16,
-    "end": 16.84
+    "start": 13.15,
+    "stake": 0.13,
+    "end": 13.87
   }
 }

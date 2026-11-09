@@ -1,6 +1,6 @@
 {
   "date": "2026-08-31",
-  "updated": "2026-11-09T03:02:11+0000",
+  "updated": "2026-11-09T03:22:33+0000",
   "races": [
     {
       "time": "13:07",
@@ -21,7 +21,7 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.23
+          "stake": 0.21
         }
       ]
     },
@@ -44,7 +44,7 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.23
+          "stake": 0.2
         },
         {
           "rank": 2,
@@ -56,7 +56,7 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.22
+          "stake": 0.2
         }
       ]
     },
@@ -79,7 +79,7 @@
           "mark": null,
           "pos": 12,
           "res": "LOSE",
-          "stake": 0.23
+          "stake": 0.2
         },
         {
           "rank": 2,
@@ -91,7 +91,7 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.22
+          "stake": 0.2
         },
         {
           "rank": 3,
@@ -103,7 +103,7 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.22
+          "stake": 0.2
         }
       ]
     },
@@ -118,30 +118,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Hectic",
-          "jockey": "J Garritty",
-          "cd": 1,
-          "days": 14,
-          "odds": "11/1",
-          "mark": null,
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 0.22
-        },
-        {
-          "rank": 2,
-          "horse": "Hierarchy",
-          "jockey": "William Carver",
-          "cd": 2,
-          "days": 16,
-          "odds": "11/1",
-          "mark": null,
-          "pos": 12,
-          "res": "LOSE",
-          "stake": 0.22
-        },
-        {
-          "rank": 3,
           "horse": "Thunderous Love",
           "jockey": "Rob Hornby",
           "cd": 1,
@@ -150,14 +126,14 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 0.22
+          "stake": 0.2
         }
       ]
     }
   ],
   "bank": {
-    "start": 22.85,
-    "stake": 0.23,
-    "end": 21.72
+    "start": 20.68,
+    "stake": 0.21,
+    "end": 19.63
   }
 }
