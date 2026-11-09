@@ -3,20 +3,20 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, maximum-scale=1, user-scalable=no">
-<meta name="theme-color" content="#0b1220">
+<meta name="theme-color" content="#1a1a1e">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<meta name="apple-mobile-web-app-title" content="Wonderland">
-<title>Wonderland Racing</title>
+<meta name="apple-mobile-web-app-title" content="Sandstorm">
+<title>Sandstorm Racing</title>
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icons/icon-192.png">
 <link rel="apple-touch-icon" href="icons/icon-192.png">
 <style>
   :root{
-    --bg:#0b1220; --panel:#131c2e; --panel2:#0f172a; --line:#22304a;
-    --ink:#e7eef9; --dim:#8fa3bf; --sky:#38bdf8; --emerald:#10b981; --em:#34d399;
-    --amber:#fbbf24; --red:#ef4444; --violet:#a78bfa;
+    --bg:#141418; --panel:#1e1e24; --panel2:#17171c; --line:#33333d;
+    --ink:#f1f0ec; --dim:#9a99a6; --sun:#fde047; --sun-deep:#a16207;
+    --emerald:#10b981; --amber:#fbbf24; --red:#ef4444; --sky:#7dd3fc;
   }
   *{box-sizing:border-box; -webkit-tap-highlight-color:transparent}
   html,body{margin:0; padding:0}
@@ -26,15 +26,16 @@
   }
   header{display:flex; justify-content:space-between; align-items:center; padding:6px 2px 12px}
   .brand{font-weight:900; font-size:1.05rem; letter-spacing:.3px}
+  .brand .accent{color:var(--sun)}
   .topbtns{display:flex; gap:6px; align-items:center}
   .datechip{font-size:.7rem; color:var(--dim); letter-spacing:1px; margin-right:4px; text-transform:uppercase}
   .iconbtn{background:var(--panel); border:1px solid var(--line); color:var(--dim); border-radius:10px;
     padding:7px 9px; font-size:.9rem; cursor:pointer}
-  .iconbtn:active{border-color:var(--sky); color:var(--sky)}
+  .iconbtn:active{border-color:var(--sun); color:var(--sun)}
   .iconbtn.spin{display:inline-block; animation:spin 1s linear infinite}
   @keyframes spin{to{transform:rotate(360deg)}}
 
-  .banner{display:none; background:#271e08; border:1px solid #7c6412; color:#fde68a;
+  .banner{display:none; background:#2b2708; border:1px solid #7c6a12; color:#fde68a;
     border-radius:12px; padding:10px 12px; font-size:.78rem; margin-bottom:10px; line-height:1.5}
   .banner.show{display:block}
 
@@ -42,20 +43,27 @@
   .days::-webkit-scrollbar{display:none}
   .day{border:1px solid var(--line); background:var(--panel); color:var(--dim); border-radius:999px;
     padding:6px 11px; font-size:.72rem; font-weight:800; white-space:nowrap; cursor:pointer; flex-shrink:0}
-  .day.on{background:var(--violet); border-color:var(--violet); color:#1e1440}
+  .day.on{background:var(--sun); border-color:var(--sun); color:#2b2301}
   .day .dot{display:inline-block; width:6px; height:6px; border-radius:50%; background:var(--emerald); margin-left:5px}
 
   .stats{display:grid; grid-template-columns:1fr 1fr 1fr 1fr; gap:8px; margin-bottom:12px}
   .stat{background:var(--panel); border:1px solid var(--line); border-radius:12px; padding:8px 6px; text-align:center}
   .stat .label{font-size:.58rem; color:var(--dim); text-transform:uppercase; letter-spacing:1px}
   .stat .v{font-weight:900; font-size:1.05rem; margin-top:2px}
-  .stat .v.win{color:var(--em)} .stat .v.place{color:#86efac} .stat .v.lose{color:#ef4444}
-  .stat .v.rate{color:var(--violet)}
+  .stat .v.win{color:#4ade80} .stat .v.place{color:var(--amber)} .stat .v.lose{color:#f87171}
+  .stat .v.rate{color:var(--sun)}
+
+  .bankbar{display:grid; grid-template-columns:1fr 1fr; gap:8px; margin-bottom:12px}
+  .bankbar .b{border-radius:12px; padding:9px 10px; border:1px solid var(--line); background:var(--panel)}
+  .bankbar .b .t{font-size:.58rem; color:var(--dim); text-transform:uppercase; letter-spacing:1px}
+  .bankbar .b .n{font-weight:900; font-size:1rem; margin-top:2px; color:var(--sun)}
+  .bankbar button.bank{cursor:pointer; text-align:right}
+  .bankbar button.bank:active{border-color:var(--sun)}
 
   .racecard{background:var(--panel); border:1px solid var(--line); border-radius:18px;
     padding:12px; margin-bottom:12px; box-shadow:0 8px 22px rgba(0,0,0,.35)}
   .rc-head{display:flex; justify-content:space-between; align-items:baseline; gap:8px}
-  .rc-head .t{font-weight:900; font-size:1.05rem; color:var(--violet)}
+  .rc-head .t{font-weight:900; font-size:1.05rem; color:var(--sun)}
   .rc-head .meta{font-size:.62rem; color:var(--dim); text-align:right; line-height:1.4}
   .rc-name{font-size:.72rem; color:var(--dim); margin:2px 0 10px; overflow:hidden;
     text-overflow:ellipsis; white-space:nowrap}
@@ -68,26 +76,32 @@
   .sel .jt{font-size:.66rem; color:var(--dim); margin-top:1px}
   .sel .odds{color:var(--sky); font-weight:900; font-size:.85rem; margin-top:4px}
   .badge{font-size:.6rem; font-weight:900; border-radius:8px; padding:3px 7px; margin-left:4px; white-space:nowrap; align-self:flex-start}
-  .badge.WIN{background:#0b2e21; color:var(--em)} .badge.PLACE{background:#123227; color:#86efac}
-  .badge.LOSE{background:#331111; color:#fca5a5} .badge.PEND{background:#2d2410; color:#fcd34d}
+  .badge.WIN{background:#0b2e21; color:#4ade80}
+  .badge.PLACE{background:#3a2a05; color:var(--amber)}
+  .badge.LOSE{background:#331111; color:#f87171}
+  .badge.PEND{background:#2d2d24; color:var(--sun)}
   .badgeline{margin-top:8px; display:flex; gap:6px; flex-wrap:wrap}
   .bchip{border:1px solid var(--line); color:var(--dim); font-size:.62rem; font-weight:700;
-    border-radius:9px; padding:4px 8px; background:#0c1526}
-  .bchip.claim{border-color:#6c4c9e; color:#c4b5fd}
-  .bchip.atmark{border-color:#10653f; color:var(--em); font-weight:900}
-  .bchip.hot{border-color:#7c6412; color:#fcd34d}
-  .noneq{font-size:.7rem; color:var(--dim); padding:6px 2px}
-  .stale-warn{background:#2d2410; border:1px solid #7c6412; color:#fcd34d; border-radius:12px;
-    padding:8px 10px; font-size:.7rem; margin-bottom:10px}
+    border-radius:9px; padding:4px 8px; background:#101014}
+  .bchip.cd{border-color:#10653f; color:#4ade80; font-weight:800}
+  .bchip.days{border-color:#7c6a12; color:var(--sun)}
 
+  .daypay{display:grid; grid-template-columns:1fr 1fr; gap:8px; margin-top:2px}
+  .daypay .b{border-radius:12px; padding:8px 10px; border:1px solid var(--line); background:#101014}
+  .daypay .b .t{font-size:.55rem; color:var(--dim); text-transform:uppercase; letter-spacing:1px}
+  .daypay .b .n{font-weight:900; font-size:.92rem; margin-top:2px; color:var(--sun)}
+  .daypay button.bank{cursor:pointer; text-align:right}
+
+  .noneq{font-size:.7rem; color:var(--dim); padding:6px 2px}
   footer.hint{font-size:.66rem; color:var(--dim); text-align:center; margin:14px 0; line-height:1.6}
-  .err{background:#271e08; border:1px solid #7c6412; color:#fde68a; border-radius:12px;
+  footer .cp{color:var(--sun); font-weight:800}
+  .err{background:#2b2708; border:1px solid #7c6a12; color:#fde68a; border-radius:12px;
     padding:12px; font-size:.8rem; margin:10px 0; line-height:1.5}
 </style>
 </head>
 <body>
 <header>
-  <div class="brand">🐇 <span style="color:var(--violet)">Wonderland</span></div>
+  <div class="brand">🌪️ <span class="accent">Sandstorm</span></div>
   <div class="topbtns">
     <span class="datechip" id="datechip">—</span>
     <button class="iconbtn" id="installBtn" style="display:none" title="Install app">⬇️</button>
@@ -109,20 +123,29 @@
   <div class="stat"><div class="label">Win rate</div><div class="v rate" id="stR">–</div></div>
 </div>
 
+<div class="bankbar">
+  <div class="b"><div class="t">Stake per horse</div><div class="n" id="stakeTop">–</div></div>
+  <button class="b bank" id="bankBtn" title="Tap to refresh the day">
+    <div class="t">Bankroll</div><div class="n" id="bankTop">–</div>
+  </button>
+</div>
+
 <div id="app"><div class="err">Loading…</div></div>
 
 <footer class="hint">
-  UK all-weather handicaps · C+D winner · 28 days fresh · at/below last
-  winning C+D mark · claimers first, max three a race.
-  <span id="updated" style="display:block"></span>
+  UK all-weather handicaps · C+D winners only · 28 days fresh ·
+  freshest first, max three a race · stake 1% of bankroll.<br>
+  <span class="cp">© Dave Court · Sandstorm v2.0</span>
+  <span id="updated"></span>
 </footer>
 
 <script>
 "use strict";
+const APP_VER = "2.0";
 const $ = (id) => document.getElementById(id);
 
 function esc(s){
-  return String(s ?? "").replace(/[&<>"']/g, c =>
+  return String(s ?? "").replace(/[&<>\"']/g, c =>
     ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 }
 
@@ -133,6 +156,10 @@ async function jget(path){
 }
 
 let DAYS = [], DAY = null, DATA = null, deferredInstall = null;
+
+function money(n){
+  return "£" + Number(n).toFixed(2);
+}
 
 function renderDays(){
   const box = $("days");
@@ -149,6 +176,8 @@ function renderDays(){
 
 function anySettled(data){ return (data.races || []).some(r => r.settled); }
 
+const noqHtml = '<div class="noneq">No qualifiers.</div>';
+
 function stats(races){
   let w = 0, p = 0, l = 0;
   for(const rc of (races || [])){
@@ -159,13 +188,12 @@ function stats(races){
     }
   }
   const settled = w + p + l;
-  return {w, p, l,
-    rate: settled ? Math.round(100 * w / settled) : null};
+  return {w, p, l, rate: settled ? Math.round(100 * w / settled) : null};
 }
 
 function render(){
   $("datechip").textContent = DATA.date;
-  document.title = "Wonderland · " + DATA.date;
+  document.title = "Sandstorm · " + DATA.date;
   renderDays();
 
   const races = DATA.races || [];
@@ -173,10 +201,14 @@ function render(){
   $("stW").textContent = t.w; $("stP").textContent = t.p;
   $("stL").textContent = t.l; $("stR").textContent = t.rate === null ? "–" : t.rate + "%";
 
+  const bank = DATA.bank || {};
+  $("stakeTop").textContent = bank.stake != null ? money(bank.stake) : "–";
+  $("bankTop").textContent = bank.end != null ? money(bank.end) : "–";
+
   const app = $("app");
   app.innerHTML = "";
   if(!races.length){
-    app.innerHTML = '<div class="err">No Wonderland qualifiers today — no AW handicap made the cut.</div>';
+    app.innerHTML = '<div class="err">No C+D winners today — nothing made the 28-day cut.</div>';
   }
   for(const rc of races){
     try{ app.appendChild(raceCard(rc)); }
@@ -188,7 +220,7 @@ function render(){
   }
   if(DATA.updated){
     const u = new Date(DATA.updated);
-    $("updated").textContent = "updated " +
+    $("updated").textContent = " · updated " +
       u.toLocaleString([], {weekday:"short", hour:"2-digit", minute:"2-digit"});
   }
 }
@@ -196,30 +228,27 @@ function render(){
 function raceCard(rc){
   const div = document.createElement("div");
   div.className = "racecard";
-  let inner =
+  div.innerHTML =
     `<div class="rc-head">
       <div class="t">${esc(rc.time)} ${esc(rc.meeting)}</div>
-      <div class="meta">${esc(rc.riders || "") ? rc.riders + " runners<br>" : ""}${esc(rc.distance || "")}</div>
+      <div class="meta">${String(rc.riders || "") ? esc(String(rc.riders)) + " runners<br>" : ""}${esc(rc.distance || "")}</div>
     </div>
     <div class="rc-name">${esc(rc.name || "")}</div>`;
 
   if(!(rc.sel || []).length){
-    inner += '<div class="noneq">No qualifiers.</div>';
+    div.innerHTML += noqHtml;
   }
   for(const s of (rc.sel || [])){
     const res = s.res
       ? `<span class="badge ${s.res}">${s.res}</span>`
       : (rc.settled ? "" : '<span class="badge PEND">—</span>');
-    const verdict = s.res === "WIN" ? "won"
-      : s.res === "PLACE" ? (s.pos ? "placed " + s.pos : "placed")
+    const verdict = s.res === "WIN" ? " · won"
+      : s.res === "PLACE" ? (s.pos ? " · placed " + s.pos : " · placed")
       : "";
     const chips = [];
-    chips.push(s.claim ? `<span class="bchip claim">claimer ${s.claim}lb</span>`
-                       : '<span class="bchip">no claimer</span>');
-    if(s.gap === 0) chips.push('<span class="bchip atmark">at the mark</span>');
-    else chips.push(`<span class="bchip">${s.gap > 0 ? "+" : ""}${s.gap} vs mark</span>`);
-    chips.push(`<span class="bchip hot">${s.days}d since run</span>`);
-    chips.push(`<span class="bchip">mark ${s.mark} @ ${s.mark_date.slice(5)}</span>`);
+    chips.push(`<span class="bchip cd">C+D winner (${s.cd == null ? "?" : s.cd}×)</span>`);
+    chips.push(`<span class="bchip days">${s.days}d since run</span>`);
+    chips.push(`<span class="bchip">${esc(s.odds || "")}</span>`);
     const node = document.createElement("div");
     node.className = "sel";
     node.innerHTML =
@@ -227,12 +256,26 @@ function raceCard(rc){
         <div class="rk">${s.rank}</div>
         <div class="mid">
           <div class="hn">${esc(s.horse)} ${res}</div>
-          <div class="jt">${esc(s.jockey || "")}</div>
+          <div class="jt">${esc(s.jockey || "")} · staked ${s.stake != null ? money(s.stake) : "–"}</div>
         </div>
       </div>
       <div class="badgeline">${chips.join("")}</div>
-      <div class="odds">${esc(s.odds || "")}${verdict ? " · " + verdict : ""}</div>`;
+      <div class="odds">${esc(s.odds || "")}${verdict}</div>`;
     div.appendChild(node);
+  }
+  if((rc.sel || []).length){
+    const bank = DATA.bank || {};
+    const pay = document.createElement("div");
+    pay.className = "daypay";
+    pay.innerHTML =
+      `<div class="b"><div class="t">Stake per horse</div>
+        <div class="n">${bank.stake != null ? money(bank.stake) : "–"}</div></div>
+      <button class="b bank"><div class="t">Bankroll</div>
+        <div class="n">${bank.end != null ? money(bank.end) : "–"}</div></button>`;
+    for(const btn of pay.querySelectorAll ? pay.querySelectorAll("button.bank") : []){
+      btn.onclick = () => loadDay(DAY);
+    }
+    div.appendChild(pay);
   }
   return div;
 }
@@ -302,6 +345,7 @@ $("installBtn").onclick = () => {
     });
   }
 };
+$("bankBtn").onclick = () => loadDay(DAY);
 $("refresh").onclick = async (e) => {
   const btn = e.currentTarget;
   btn.classList.add("spin");
