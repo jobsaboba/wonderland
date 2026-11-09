@@ -1,6 +1,6 @@
 {
   "date": "2026-01-30",
-  "updated": "2026-11-09T03:55:01+0000",
+  "updated": "2026-11-09T06:58:21+0000",
   "races": [
     {
       "time": "14:02",
@@ -21,7 +21,7 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.06
+          "stake": 0.28
         }
       ]
     },
@@ -44,7 +44,7 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.06
+          "stake": 0.28
         },
         {
           "rank": 2,
@@ -56,7 +56,7 @@
           "mark": null,
           "pos": 0,
           "res": null,
-          "stake": 0.06
+          "stake": 0.28
         },
         {
           "rank": 3,
@@ -68,7 +68,7 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.06
+          "stake": 0.28
         }
       ]
     },
@@ -91,7 +91,7 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.06
+          "stake": 0.28
         }
       ]
     },
@@ -114,7 +114,7 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.06
+          "stake": 0.29
         }
       ]
     },
@@ -137,7 +137,7 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.06
+          "stake": 0.29
         }
       ]
     },
@@ -160,7 +160,7 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.06
+          "stake": 0.28
         }
       ]
     },
@@ -183,7 +183,7 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.06
+          "stake": 0.3
         },
         {
           "rank": 2,
@@ -195,7 +195,7 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.06
+          "stake": 0.3
         },
         {
           "rank": 3,
@@ -207,14 +207,14 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.06
+          "stake": 0.31
         }
       ]
     }
   ],
   "bank": {
-    "start": 5.71,
-    "stake": 0.06,
-    "end": 5.59
+    "start": 27.88,
+    "stake": 0.28,
+    "end": 31.26
   }
 }

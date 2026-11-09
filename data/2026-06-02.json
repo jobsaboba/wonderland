@@ -1,6 +1,6 @@
 {
   "date": "2026-06-02",
-  "updated": "2026-11-09T03:55:08+0000",
+  "updated": "2026-11-09T06:58:28+0000",
   "races": [
     {
       "time": "17:45",
@@ -21,7 +21,7 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.01
+          "stake": 3.05
         },
         {
           "rank": 2,
@@ -33,7 +33,7 @@
           "mark": -2,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.01
+          "stake": 3.08
         }
       ]
     },
@@ -56,7 +56,7 @@
           "mark": null,
           "pos": 3,
           "res": "LOSE",
-          "stake": 0.01
+          "stake": 3.2
         }
       ]
     },
@@ -79,7 +79,7 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.01
+          "stake": 3.17
         },
         {
           "rank": 2,
@@ -91,7 +91,7 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.01
+          "stake": 3.14
         }
       ]
     },
@@ -114,7 +114,7 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.01
+          "stake": 3.1
         },
         {
           "rank": 2,
@@ -126,7 +126,7 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.01
+          "stake": 3.13
         },
         {
           "rank": 3,
@@ -138,7 +138,7 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.01
+          "stake": 3.1
         }
       ]
     },
@@ -161,7 +161,7 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.01
+          "stake": 3.07
         },
         {
           "rank": 2,
@@ -173,14 +173,14 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.01
+          "stake": 3.04
         }
       ]
     }
   ],
   "bank": {
-    "start": 0.94,
-    "stake": 0.01,
-    "end": 0.88
+    "start": 305.02,
+    "stake": 3.05,
+    "end": 300.74
   }
 }
