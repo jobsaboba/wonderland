@@ -2,7 +2,7 @@
   "id": "/wonderland/",
   "name": "Sandstorm Racing",
   "short_name": "Sandstorm",
-  "description": "UK all-weather handicaps: course & distance winners, 28 days fresh, freshest first, max three per race. Bankroll-staked: 1% of the bank per horse.",
+  "description": "UK all-weather handicaps: course & distance winners rated below their last winning mark, 28 days fresh, freshest first, max three per race. Bankroll-staked: 1% of the bank per horse.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

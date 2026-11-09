@@ -15,7 +15,7 @@
 <style>
   :root{
     --bg:#141418; --panel:#1e1e24; --panel2:#17171c; --line:#33333d;
-    --ink:#f1f0ec; --dim:#9a99a6; --sun:#fde047; --sun-deep:#a16207;
+    --ink:#f1f0ec; --dim:#9a99a6; --sun:#f5e58b; --sun-deep:#b8a957;
     --emerald:#10b981; --amber:#fbbf24; --red:#ef4444; --sky:#7dd3fc;
   }
   *{box-sizing:border-box; -webkit-tap-highlight-color:transparent}
@@ -35,7 +35,7 @@
   .iconbtn.spin{display:inline-block; animation:spin 1s linear infinite}
   @keyframes spin{to{transform:rotate(360deg)}}
 
-  .banner{display:none; background:#2b2708; border:1px solid #7c6a12; color:#fde68a;
+  .banner{display:none; background:#26260f; border:1px solid #5f5a24; color:#ece7c2;
     border-radius:12px; padding:10px 12px; font-size:.78rem; margin-bottom:10px; line-height:1.5}
   .banner.show{display:block}
 
@@ -43,7 +43,7 @@
   .days::-webkit-scrollbar{display:none}
   .day{border:1px solid var(--line); background:var(--panel); color:var(--dim); border-radius:999px;
     padding:6px 11px; font-size:.72rem; font-weight:800; white-space:nowrap; cursor:pointer; flex-shrink:0}
-  .day.on{background:var(--sun); border-color:var(--sun); color:#2b2301}
+  .day.on{background:var(--sun); border-color:var(--sun); color:#333102}
   .day .dot{display:inline-block; width:6px; height:6px; border-radius:50%; background:var(--emerald); margin-left:5px}
 
   .stats{display:grid; grid-template-columns:1fr 1fr 1fr 1fr; gap:8px; margin-bottom:12px}
@@ -84,7 +84,8 @@
   .bchip{border:1px solid var(--line); color:var(--dim); font-size:.62rem; font-weight:700;
     border-radius:9px; padding:4px 8px; background:#101014}
   .bchip.cd{border-color:#10653f; color:#4ade80; font-weight:800}
-  .bchip.days{border-color:#7c6a12; color:var(--sun)}
+  .bchip.days{border-color:#6f6b2a; color:var(--sun)}
+  .bchip.mark{border-color:#6f6b2a; color:var(--sun); font-weight:800}
 
   .daypay{display:grid; grid-template-columns:1fr 1fr; gap:8px; margin-top:2px}
   .daypay .b{border-radius:12px; padding:8px 10px; border:1px solid var(--line); background:#101014}
@@ -95,7 +96,7 @@
   .noneq{font-size:.7rem; color:var(--dim); padding:6px 2px}
   footer.hint{font-size:.66rem; color:var(--dim); text-align:center; margin:14px 0; line-height:1.6}
   footer .cp{color:var(--sun); font-weight:800}
-  .err{background:#2b2708; border:1px solid #7c6a12; color:#fde68a; border-radius:12px;
+  .err{background:#26260f; border:1px solid #5f5a24; color:#ece7c2; border-radius:12px;
     padding:12px; font-size:.8rem; margin:10px 0; line-height:1.5}
 </style>
 </head>
@@ -133,15 +134,16 @@
 <div id="app"><div class="err">Loading…</div></div>
 
 <footer class="hint">
-  UK all-weather handicaps · C+D winners only · 28 days fresh ·
-  freshest first, max three a race · stake 1% of bankroll.<br>
-  <span class="cp">© Dave Court · Sandstorm v2.0</span>
+  UK all-weather handicaps · C+D winners dropping below their winning
+  mark · 28 days fresh · freshest first, max three a race ·
+  stake 1% of bankroll.<br>
+  <span class="cp">© Dave Court · Sandstorm v2.1</span>
   <span id="updated"></span>
 </footer>
 
 <script>
 "use strict";
-const APP_VER = "2.0";
+const APP_VER = "2.1";
 const $ = (id) => document.getElementById(id);
 
 function esc(s){
@@ -208,7 +210,7 @@ function render(){
   const app = $("app");
   app.innerHTML = "";
   if(!races.length){
-    app.innerHTML = '<div class="err">No C+D winners today — nothing made the 28-day cut.</div>';
+    app.innerHTML = '<div class="err">No droppers today — no C+D winner was rated below its mark.</div>';
   }
   for(const rc of races){
     try{ app.appendChild(raceCard(rc)); }
@@ -248,6 +250,8 @@ function raceCard(rc){
     const chips = [];
     chips.push(`<span class="bchip cd">C+D winner (${s.cd == null ? "?" : s.cd}×)</span>`);
     chips.push(`<span class="bchip days">${s.days}d since run</span>`);
+    if(s.mark != null && s.mark < 0)
+      chips.push(`<span class="bchip mark">−${Math.abs(s.mark)}lb off mark</span>`);
     chips.push(`<span class="bchip">${esc(s.odds || "")}</span>`);
     const node = document.createElement("div");
     node.className = "sel";
