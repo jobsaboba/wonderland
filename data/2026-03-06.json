@@ -1,6 +1,6 @@
 {
   "date": "2026-03-06",
-  "updated": "2026-11-09T03:28:49+0000",
+  "updated": "2026-11-09T03:55:03+0000",
   "races": [
     {
       "time": "17:30",
@@ -21,7 +21,7 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.22
+          "stake": 0.03
         },
         {
           "rank": 2,
@@ -33,7 +33,7 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.21
+          "stake": 0.03
         }
       ]
     },
@@ -56,7 +56,7 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.21
+          "stake": 0.03
         }
       ]
     },
@@ -79,7 +79,7 @@
           "mark": null,
           "pos": 3,
           "res": "LOSE",
-          "stake": 0.21
+          "stake": 0.03
         }
       ]
     },
@@ -102,7 +102,7 @@
           "mark": null,
           "pos": 3,
           "res": "LOSE",
-          "stake": 0.21
+          "stake": 0.03
         }
       ]
     },
@@ -125,7 +125,7 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.2
+          "stake": 0.03
         },
         {
           "rank": 2,
@@ -137,7 +137,7 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.2
+          "stake": 0.03
         }
       ]
     },
@@ -160,7 +160,7 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.2
+          "stake": 0.03
         },
         {
           "rank": 2,
@@ -172,7 +172,7 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.2
+          "stake": 0.02
         },
         {
           "rank": 3,
@@ -184,14 +184,14 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.2
+          "stake": 0.02
         }
       ]
     }
   ],
   "bank": {
-    "start": 21.51,
-    "stake": 0.22,
-    "end": 19.79
+    "start": 2.7,
+    "stake": 0.03,
+    "end": 2.45
   }
 }

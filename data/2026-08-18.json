@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "updated": "2026-11-09T03:28:58+0000",
+  "updated": "2026-11-09T03:55:12+0000",
   "races": [
     {
       "time": "18:00",
@@ -21,7 +21,7 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.34
+          "stake": 0.01
         }
       ]
     },
@@ -44,14 +44,14 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.34
+          "stake": 0.01
         }
       ]
     }
   ],
   "bank": {
-    "start": 33.8,
-    "stake": 0.34,
-    "end": 34.23
+    "start": 0.69,
+    "stake": 0.01,
+    "end": 0.69
   }
 }

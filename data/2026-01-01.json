@@ -1,6 +1,6 @@
 {
   "date": "2026-01-01",
-  "updated": "2026-11-09T03:28:45+0000",
+  "updated": "2026-11-09T03:55:00+0000",
   "races": [
     {
       "time": "13:49",
@@ -150,7 +150,7 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.11
+          "stake": 0.1
         }
       ]
     },
@@ -173,7 +173,7 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.11
+          "stake": 0.1
         }
       ]
     },
@@ -196,7 +196,7 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.11
+          "stake": 0.1
         },
         {
           "rank": 2,
@@ -208,7 +208,7 @@
           "mark": null,
           "pos": 10,
           "res": "LOSE",
-          "stake": 0.11
+          "stake": 0.1
         },
         {
           "rank": 3,
@@ -220,7 +220,7 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.11
+          "stake": 0.1
         }
       ]
     },
@@ -243,7 +243,7 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 0.11
+          "stake": 0.1
         }
       ]
     },
@@ -266,7 +266,7 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.11
+          "stake": 0.1
         }
       ]
     },
@@ -289,7 +289,7 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.11
+          "stake": 0.1
         },
         {
           "rank": 2,
@@ -301,7 +301,7 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.11
+          "stake": 0.1
         },
         {
           "rank": 3,
@@ -313,7 +313,7 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.11
+          "stake": 0.09
         }
       ]
     }
@@ -321,6 +321,6 @@
   "bank": {
     "start": 10.0,
     "stake": 0.1,
-    "end": 11.07
+    "end": 9.46
   }
 }
