@@ -1,6 +1,6 @@
 {
   "date": "2026-01-28",
-  "updated": "2026-11-11T05:52:36+0000",
+  "updated": "2026-11-11T08:41:49+0000",
   "races": [
     {
       "time": "15:02",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.33,
-          "ret": 0.33,
-          "bank": 33.19
+          "stake": 0.39,
+          "ret": 0.39,
+          "bank": 39.07
         },
         {
           "rank": 2,
@@ -35,9 +35,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.33,
-          "ret": 2.31,
-          "bank": 35.5
+          "stake": 0.39,
+          "ret": 2.73,
+          "bank": 41.8
         },
         {
           "rank": 3,
@@ -49,9 +49,9 @@
           "mark": null,
           "pos": 11,
           "res": "LOSE",
-          "stake": 0.35,
-          "ret": -0.35,
-          "bank": 35.15
+          "stake": 0.42,
+          "ret": -0.42,
+          "bank": 41.38
         }
       ]
     },
@@ -74,9 +74,9 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.35,
-          "ret": -0.35,
-          "bank": 34.8
+          "stake": 0.41,
+          "ret": -0.41,
+          "bank": 40.97
         }
       ]
     },
@@ -99,9 +99,34 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.35,
-          "ret": 2.1,
-          "bank": 36.9
+          "stake": 0.41,
+          "ret": 2.46,
+          "bank": 43.43
+        }
+      ]
+    },
+    {
+      "time": "17:30",
+      "meeting": "Kempton",
+      "name": "Unibet More Extra Place Races Amateur Jockeys' Handicap",
+      "class": "6",
+      "distance": "6f",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Man On A Mission",
+          "jockey": "Mr R Birkett",
+          "cd": 2,
+          "days": 17,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.43,
+          "ret": -0.43,
+          "bank": 43.0
         }
       ]
     },
@@ -124,16 +149,41 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.37,
-          "ret": 0.65,
-          "bank": 37.55
+          "stake": 0.43,
+          "ret": 0.75,
+          "bank": 43.75
+        }
+      ]
+    },
+    {
+      "time": "20:30",
+      "meeting": "Kempton",
+      "name": "Try Unibet's New Smartview Racecards Handicap (GBBPlus Race)",
+      "class": "2",
+      "distance": "1m 2f 219y",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "King's Code",
+          "jockey": "P Cosgrave",
+          "cd": 2,
+          "days": 12,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.44,
+          "ret": -0.44,
+          "bank": 43.31
         }
       ]
     }
   ],
   "bank": {
-    "start": 32.86,
-    "stake": 0.33,
-    "end": 37.55
+    "start": 38.68,
+    "stake": 0.39,
+    "end": 43.31
   }
 }

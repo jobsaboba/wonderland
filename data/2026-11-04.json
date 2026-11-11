@@ -1,7 +1,71 @@
 {
   "date": "2026-11-04",
-  "updated": "2026-11-11T05:52:52+0000",
+  "updated": "2026-11-11T08:42:10+0000",
   "races": [
+    {
+      "time": "14:25",
+      "meeting": "Kempton",
+      "name": "Unibet Supports Safer Gambling Apprentice Handicap",
+      "class": "5",
+      "distance": "7f",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Kitaro Kich",
+          "jockey": "Jack Callan",
+          "cd": 1,
+          "days": 21,
+          "odds": "3/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 46.14,
+          "ret": -46.14,
+          "bank": 4567.71
+        },
+        {
+          "rank": 2,
+          "horse": "King Of Ithaca",
+          "jockey": "Harry Vigors",
+          "cd": 1,
+          "days": 27,
+          "odds": "4/1",
+          "mark": null,
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 45.68,
+          "ret": -45.68,
+          "bank": 4522.03
+        }
+      ]
+    },
+    {
+      "time": "15:00",
+      "meeting": "Kempton",
+      "name": "Unibet's New VAR Goal Guarantee Handicap",
+      "class": "6",
+      "distance": "1m",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Valentine Boy",
+          "jockey": "Jack Dace",
+          "cd": 2,
+          "days": 26,
+          "odds": "4/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 45.22,
+          "ret": 45.22,
+          "bank": 4567.25
+        }
+      ]
+    },
     {
       "time": "18:45",
       "meeting": "Dundalk",
@@ -21,9 +85,9 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 29.23,
-          "ret": -29.23,
-          "bank": 2893.39
+          "stake": 45.67,
+          "ret": -45.67,
+          "bank": 4521.58
         }
       ]
     },
@@ -46,16 +110,16 @@
           "mark": null,
           "pos": 14,
           "res": "LOSE",
-          "stake": 28.93,
-          "ret": -28.93,
-          "bank": 2864.46
+          "stake": 45.22,
+          "ret": -45.22,
+          "bank": 4476.36
         }
       ]
     }
   ],
   "bank": {
-    "start": 2922.62,
-    "stake": 29.23,
-    "end": 2864.46
+    "start": 4613.85,
+    "stake": 46.14,
+    "end": 4476.36
   }
 }

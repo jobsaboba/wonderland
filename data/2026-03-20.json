@@ -1,7 +1,71 @@
 {
   "date": "2026-03-20",
-  "updated": "2026-11-11T05:52:39+0000",
+  "updated": "2026-11-11T08:41:53+0000",
   "races": [
+    {
+      "time": "14:12",
+      "meeting": "Lingfield",
+      "name": "Midnite: Built For 2026 Not 2006 Apprentice Handicap",
+      "class": "5",
+      "distance": "1m 7f 169y",
+      "riders": 7,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Bashful Boy",
+          "jockey": "Jack Dace",
+          "cd": 1,
+          "days": 16,
+          "odds": "11/2",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 2.52,
+          "ret": -2.52,
+          "bank": 249.69
+        }
+      ]
+    },
+    {
+      "time": "15:12",
+      "meeting": "Lingfield",
+      "name": "Win 250,000 With BetMGM's Golden Goals Handicap",
+      "class": "5",
+      "distance": "7f 1y",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "This Farh",
+          "jockey": "Laura Pearson",
+          "cd": 1,
+          "days": 22,
+          "odds": "13/2",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 2.5,
+          "ret": -2.5,
+          "bank": 247.19
+        },
+        {
+          "rank": 2,
+          "horse": "My Mate Mike",
+          "jockey": "David Probert",
+          "cd": 2,
+          "days": 28,
+          "odds": "11/2",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 2.47,
+          "ret": -2.47,
+          "bank": 244.72
+        }
+      ]
+    },
     {
       "time": "16:22",
       "meeting": "Wolverhampton",
@@ -21,9 +85,9 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 1.47,
-          "ret": -1.47,
-          "bank": 145.6
+          "stake": 2.45,
+          "ret": -2.45,
+          "bank": 242.27
         }
       ]
     },
@@ -46,9 +110,34 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 1.46,
-          "ret": 2.01,
-          "bank": 147.61
+          "stake": 2.42,
+          "ret": 3.33,
+          "bank": 245.6
+        }
+      ]
+    },
+    {
+      "time": "16:50",
+      "meeting": "Lingfield",
+      "name": "Midnite Ain't Your Grandad's Bookie Handicap",
+      "class": "6",
+      "distance": "5f 6y",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Coolagh Magic",
+          "jockey": "William Carson",
+          "cd": 2,
+          "days": 23,
+          "odds": "10/3",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 2.46,
+          "ret": 2.05,
+          "bank": 247.65
         }
       ]
     },
@@ -71,9 +160,9 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 1.48,
-          "ret": -1.48,
-          "bank": 146.13
+          "stake": 2.48,
+          "ret": -2.48,
+          "bank": 245.17
         },
         {
           "rank": 2,
@@ -85,9 +174,9 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 1.46,
-          "ret": -1.46,
-          "bank": 144.67
+          "stake": 2.45,
+          "ret": -2.45,
+          "bank": 242.72
         },
         {
           "rank": 3,
@@ -99,9 +188,9 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 1.45,
-          "ret": -1.45,
-          "bank": 143.22
+          "stake": 2.43,
+          "ret": -2.43,
+          "bank": 240.29
         }
       ]
     },
@@ -124,9 +213,9 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 1.43,
-          "ret": -1.43,
-          "bank": 141.79
+          "stake": 2.4,
+          "ret": -2.4,
+          "bank": 237.89
         },
         {
           "rank": 2,
@@ -138,9 +227,9 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 1.42,
-          "ret": -1.42,
-          "bank": 140.37
+          "stake": 2.38,
+          "ret": -2.38,
+          "bank": 235.51
         },
         {
           "rank": 3,
@@ -152,9 +241,48 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 1.4,
-          "ret": -1.4,
-          "bank": 138.97
+          "stake": 2.36,
+          "ret": -2.36,
+          "bank": 233.15
+        }
+      ]
+    },
+    {
+      "time": "17:25",
+      "meeting": "Lingfield",
+      "name": "Daily Profit Boosts At betmgm.co.uk Handicap",
+      "class": "4",
+      "distance": "1m 1y",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Bravo Zulu",
+          "jockey": "Laura Pearson",
+          "cd": 2,
+          "days": 7,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 2.33,
+          "ret": -2.33,
+          "bank": 230.82
+        },
+        {
+          "rank": 2,
+          "horse": "Red Hat Eagle",
+          "jockey": "L Morris",
+          "cd": 1,
+          "days": 20,
+          "odds": "17/2",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 2.31,
+          "ret": -2.31,
+          "bank": 228.51
         }
       ]
     },
@@ -177,9 +305,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.39,
-          "ret": 2.26,
-          "bank": 141.23
+          "stake": 2.29,
+          "ret": 3.72,
+          "bank": 232.23
         },
         {
           "rank": 2,
@@ -191,9 +319,9 @@
           "mark": -8,
           "pos": 1,
           "res": "WIN",
-          "stake": 1.41,
-          "ret": 6.34,
-          "bank": 147.57
+          "stake": 2.32,
+          "ret": 10.44,
+          "bank": 242.67
         }
       ]
     },
@@ -216,9 +344,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 1.48,
-          "ret": 14.8,
-          "bank": 162.37
+          "stake": 2.43,
+          "ret": 24.3,
+          "bank": 266.97
         },
         {
           "rank": 2,
@@ -230,9 +358,9 @@
           "mark": null,
           "pos": 14,
           "res": "LOSE",
-          "stake": 1.62,
-          "ret": -1.62,
-          "bank": 160.75
+          "stake": 2.67,
+          "ret": -2.67,
+          "bank": 264.3
         }
       ]
     },
@@ -255,9 +383,9 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 1.61,
-          "ret": -1.61,
-          "bank": 159.14
+          "stake": 2.64,
+          "ret": -2.64,
+          "bank": 261.66
         }
       ]
     },
@@ -280,9 +408,9 @@
           "mark": null,
           "pos": 11,
           "res": "LOSE",
-          "stake": 1.59,
-          "ret": -1.59,
-          "bank": 157.55
+          "stake": 2.62,
+          "ret": -2.62,
+          "bank": 259.04
         }
       ]
     },
@@ -305,9 +433,9 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 1.58,
-          "ret": -1.58,
-          "bank": 155.97
+          "stake": 2.59,
+          "ret": -2.59,
+          "bank": 256.45
         }
       ]
     },
@@ -330,9 +458,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 1.56,
-          "ret": 1.17,
-          "bank": 157.14
+          "stake": 2.56,
+          "ret": 1.92,
+          "bank": 258.37
         },
         {
           "rank": 2,
@@ -344,9 +472,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.57,
-          "ret": 2.55,
-          "bank": 159.69
+          "stake": 2.58,
+          "ret": 4.19,
+          "bank": 262.56
         },
         {
           "rank": 3,
@@ -358,16 +486,16 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 1.6,
-          "ret": -1.6,
-          "bank": 158.09
+          "stake": 2.63,
+          "ret": -2.63,
+          "bank": 259.93
         }
       ]
     }
   ],
   "bank": {
-    "start": 147.07,
-    "stake": 1.47,
-    "end": 158.09
+    "start": 252.21,
+    "stake": 2.52,
+    "end": 259.93
   }
 }

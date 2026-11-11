@@ -1,6 +1,6 @@
 {
   "date": "2026-09-02",
-  "updated": "2026-11-11T05:52:48+0000",
+  "updated": "2026-11-11T08:42:05+0000",
   "races": [
     {
       "time": "14:15",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 10.79,
-          "ret": 17.53,
-          "bank": 1096.1
+          "stake": 19.81,
+          "ret": 32.19,
+          "bank": 2013.07
         },
         {
           "rank": 2,
@@ -35,9 +35,9 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 10.96,
-          "ret": -10.96,
-          "bank": 1085.14
+          "stake": 20.13,
+          "ret": -20.13,
+          "bank": 1992.94
         },
         {
           "rank": 3,
@@ -49,9 +49,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 10.85,
-          "ret": 32.55,
-          "bank": 1117.69
+          "stake": 19.93,
+          "ret": 59.79,
+          "bank": 2052.73
         }
       ]
     },
@@ -74,9 +74,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 11.18,
-          "ret": 11.18,
-          "bank": 1128.87
+          "stake": 20.53,
+          "ret": 20.53,
+          "bank": 2073.26
         },
         {
           "rank": 2,
@@ -88,9 +88,9 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 11.29,
-          "ret": -11.29,
-          "bank": 1117.58
+          "stake": 20.73,
+          "ret": -20.73,
+          "bank": 2052.53
         },
         {
           "rank": 3,
@@ -102,9 +102,9 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 11.18,
-          "ret": -11.18,
-          "bank": 1106.4
+          "stake": 20.53,
+          "ret": -20.53,
+          "bank": 2032.0
         }
       ]
     },
@@ -127,9 +127,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 11.06,
-          "ret": 8.29,
-          "bank": 1114.69
+          "stake": 20.32,
+          "ret": 15.24,
+          "bank": 2047.24
         },
         {
           "rank": 2,
@@ -141,9 +141,9 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 11.15,
-          "ret": -11.15,
-          "bank": 1103.54
+          "stake": 20.47,
+          "ret": -20.47,
+          "bank": 2026.77
         }
       ]
     },
@@ -166,16 +166,41 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 11.04,
-          "ret": 71.76,
-          "bank": 1175.3
+          "stake": 20.27,
+          "ret": 131.75,
+          "bank": 2158.52
+        }
+      ]
+    },
+    {
+      "time": "16:30",
+      "meeting": "Kempton",
+      "name": "Try Unibet's New Improved Acca Boosts Apprentice Handicap",
+      "class": "5",
+      "distance": "7f",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Chapman's Peak",
+          "jockey": "Toby Moore",
+          "cd": 1,
+          "days": 18,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 3,
+          "res": "LOSE",
+          "stake": 21.59,
+          "ret": -21.59,
+          "bank": 2136.93
         }
       ]
     }
   ],
   "bank": {
-    "start": 1078.57,
-    "stake": 10.79,
-    "end": 1175.3
+    "start": 1980.88,
+    "stake": 19.81,
+    "end": 2136.93
   }
 }

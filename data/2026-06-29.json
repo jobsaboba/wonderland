@@ -1,10 +1,50 @@
 {
   "date": "2026-06-29",
-  "updated": "2026-11-11T05:52:45+0000",
-  "races": [],
+  "updated": "2026-11-11T08:42:00+0000",
+  "races": [
+    {
+      "time": "17:45",
+      "meeting": "Kempton",
+      "name": "Unibet More Extra Place Races Fillies' Handicap",
+      "class": "5",
+      "distance": "7f",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Tronido",
+          "jockey": "Paddy Bradley",
+          "cd": 1,
+          "days": 22,
+          "odds": "9/1",
+          "mark": null,
+          "pos": 11,
+          "res": "LOSE",
+          "stake": 13.54,
+          "ret": -13.54,
+          "bank": 1340.89
+        },
+        {
+          "rank": 2,
+          "horse": "Searchingtheblues",
+          "jockey": "Rose Dawes",
+          "cd": 1,
+          "days": 28,
+          "odds": "17/2",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 13.41,
+          "ret": 28.5,
+          "bank": 1369.39
+        }
+      ]
+    }
+  ],
   "bank": {
-    "start": 10.0,
-    "stake": 0.1,
-    "end": 10.0
+    "start": 1354.43,
+    "stake": 13.54,
+    "end": 1369.39
   }
 }

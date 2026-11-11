@@ -1,6 +1,6 @@
 {
   "date": "2026-04-01",
-  "updated": "2026-11-11T05:52:40+0000",
+  "updated": "2026-11-11T08:41:54+0000",
   "races": [
     {
       "time": "16:45",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 1.94,
-          "ret": 17.46,
-          "bank": 211.58
+          "stake": 3.06,
+          "ret": 27.54,
+          "bank": 333.14
         },
         {
           "rank": 2,
@@ -35,9 +35,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 2.12,
-          "ret": 2.92,
-          "bank": 214.5
+          "stake": 3.33,
+          "ret": 4.58,
+          "bank": 337.72
         },
         {
           "rank": 3,
@@ -49,9 +49,48 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 2.15,
-          "ret": -2.15,
-          "bank": 212.35
+          "stake": 3.38,
+          "ret": -3.38,
+          "bank": 334.34
+        }
+      ]
+    },
+    {
+      "time": "17:00",
+      "meeting": "Kempton",
+      "name": "Virgin Bet A Good Bet Handicap",
+      "class": "5",
+      "distance": "1m",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Billy Mill",
+          "jockey": "Lewis Edmunds",
+          "cd": 1,
+          "days": 14,
+          "odds": "6/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 3.34,
+          "ret": 5.01,
+          "bank": 339.35
+        },
+        {
+          "rank": 2,
+          "horse": "Caph Star",
+          "jockey": "Rob Hornby",
+          "cd": 1,
+          "days": 14,
+          "odds": "17/2",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 3.39,
+          "ret": -3.39,
+          "bank": 335.96
         }
       ]
     },
@@ -74,9 +113,9 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 2.12,
-          "ret": -2.12,
-          "bank": 210.23
+          "stake": 3.36,
+          "ret": -3.36,
+          "bank": 332.6
         },
         {
           "rank": 2,
@@ -88,9 +127,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 2.1,
-          "ret": 1.89,
-          "bank": 212.12
+          "stake": 3.33,
+          "ret": 3.0,
+          "bank": 335.6
         },
         {
           "rank": 3,
@@ -102,9 +141,34 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 2.12,
-          "ret": -2.12,
-          "bank": 210.0
+          "stake": 3.36,
+          "ret": -3.36,
+          "bank": 332.24
+        }
+      ]
+    },
+    {
+      "time": "19:00",
+      "meeting": "Kempton",
+      "name": "Virgin Bet Handicap",
+      "class": "6",
+      "distance": "6f",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Corniche Girl",
+          "jockey": "S M Levey",
+          "cd": 1,
+          "days": 16,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 3.32,
+          "ret": -3.32,
+          "bank": 328.92
         }
       ]
     },
@@ -127,9 +191,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 2.1,
-          "ret": 1.58,
-          "bank": 211.58
+          "stake": 3.29,
+          "ret": 2.47,
+          "bank": 331.39
         },
         {
           "rank": 2,
@@ -141,16 +205,55 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 2.12,
-          "ret": 8.48,
-          "bank": 220.06
+          "stake": 3.31,
+          "ret": 13.24,
+          "bank": 344.63
+        }
+      ]
+    },
+    {
+      "time": "19:30",
+      "meeting": "Kempton",
+      "name": "Virgin Bet Every Saturday Money Back Handicap",
+      "class": "5",
+      "distance": "6f",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Em Four",
+          "jockey": "Saffie Osborne",
+          "cd": 1,
+          "days": 14,
+          "odds": "7/2",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 3.45,
+          "ret": -3.45,
+          "bank": 341.18
+        },
+        {
+          "rank": 2,
+          "horse": "Expert Agent",
+          "jockey": "Marco Ghiani",
+          "cd": 1,
+          "days": 28,
+          "odds": "10/3",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 3.41,
+          "ret": 11.37,
+          "bank": 352.55
         }
       ]
     }
   ],
   "bank": {
-    "start": 194.12,
-    "stake": 1.94,
-    "end": 220.06
+    "start": 305.6,
+    "stake": 3.06,
+    "end": 352.55
   }
 }

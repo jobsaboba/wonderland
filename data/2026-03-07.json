@@ -1,6 +1,6 @@
 {
   "date": "2026-03-07",
-  "updated": "2026-11-11T05:52:38+0000",
+  "updated": "2026-11-11T08:41:52+0000",
   "races": [
     {
       "time": "14:42",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 1.16,
-          "ret": -1.16,
-          "bank": 115.27
+          "stake": 1.68,
+          "ret": -1.68,
+          "bank": 166.71
         }
       ]
     },
@@ -46,9 +46,9 @@
           "mark": null,
           "pos": 3,
           "res": "LOSE",
-          "stake": 1.15,
-          "ret": -1.15,
-          "bank": 114.12
+          "stake": 1.67,
+          "ret": -1.67,
+          "bank": 165.04
         }
       ]
     },
@@ -71,9 +71,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.14,
-          "ret": 1.71,
-          "bank": 115.83
+          "stake": 1.65,
+          "ret": 2.47,
+          "bank": 167.51
         },
         {
           "rank": 2,
@@ -85,16 +85,91 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 1.16,
-          "ret": -1.16,
-          "bank": 114.67
+          "stake": 1.68,
+          "ret": -1.68,
+          "bank": 165.83
+        }
+      ]
+    },
+    {
+      "time": "18:30",
+      "meeting": "Chelmsford City",
+      "name": "Exclusive Club Dining Experience Handicap",
+      "class": "4",
+      "distance": "7f",
+      "riders": 6,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Elements Of Fire",
+          "jockey": "Hollie Doyle",
+          "cd": 1,
+          "days": 25,
+          "odds": "4/1",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 1.66,
+          "ret": 6.64,
+          "bank": 172.47
+        }
+      ]
+    },
+    {
+      "time": "19:00",
+      "meeting": "Chelmsford City",
+      "name": "Fairwood Brasserie Handicap",
+      "class": "5",
+      "distance": "6f",
+      "riders": 5,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Tyger Bay",
+          "jockey": "Jack Gilligan",
+          "cd": 1,
+          "days": 10,
+          "odds": "10/3",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 1.72,
+          "ret": 5.73,
+          "bank": 178.2
+        }
+      ]
+    },
+    {
+      "time": "20:00",
+      "meeting": "Chelmsford City",
+      "name": "For The Love Of Horses Handicap",
+      "class": "6",
+      "distance": "5f",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Sir Rodneyredblood",
+          "jockey": "Lewis Edmunds",
+          "cd": 5,
+          "days": 14,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 1.78,
+          "ret": 2.23,
+          "bank": 180.43
         }
       ]
     }
   ],
   "bank": {
-    "start": 116.43,
-    "stake": 1.16,
-    "end": 114.67
+    "start": 168.39,
+    "stake": 1.68,
+    "end": 180.43
   }
 }

@@ -1,10 +1,75 @@
 {
   "date": "2026-07-02",
-  "updated": "2026-11-11T05:52:45+0000",
-  "races": [],
+  "updated": "2026-11-11T08:42:00+0000",
+  "races": [
+    {
+      "time": "18:08",
+      "meeting": "Kempton",
+      "name": "Unibet More Extra Place Races Handicap (Div 2)",
+      "class": "4",
+      "distance": "1m",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Farasi Lane",
+          "jockey": "Charlie Bell",
+          "cd": 1,
+          "days": 3,
+          "odds": "9/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 13.69,
+          "ret": -13.69,
+          "bank": 1355.7
+        }
+      ]
+    },
+    {
+      "time": "19:53",
+      "meeting": "Kempton",
+      "name": "Try Unibet's New Smartview Racecards Handicap",
+      "class": "5",
+      "distance": "6f",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Brazen Idol",
+          "jockey": "Paddy Bradley",
+          "cd": 2,
+          "days": 9,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 13.56,
+          "ret": -13.56,
+          "bank": 1342.14
+        },
+        {
+          "rank": 2,
+          "horse": "Serenity Dream",
+          "jockey": "Billy Loughnane",
+          "cd": 1,
+          "days": 25,
+          "odds": "4/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 13.42,
+          "ret": 13.42,
+          "bank": 1355.56
+        }
+      ]
+    }
+  ],
   "bank": {
-    "start": 10.0,
-    "stake": 0.1,
-    "end": 10.0
+    "start": 1369.39,
+    "stake": 13.69,
+    "end": 1355.56
   }
 }

@@ -1,7 +1,71 @@
 {
   "date": "2026-03-02",
-  "updated": "2026-11-11T05:52:38+0000",
+  "updated": "2026-11-11T08:41:52+0000",
   "races": [
+    {
+      "time": "15:07",
+      "meeting": "Kempton",
+      "name": "Sporting Times/Sri Lanka Awaits You Handicap",
+      "class": "6",
+      "distance": "6f",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Twilight Madness",
+          "jockey": "Alistair Rawlinson",
+          "cd": 2,
+          "days": 7,
+          "odds": "3/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 1.34,
+          "ret": 1.01,
+          "bank": 135.17
+        },
+        {
+          "rank": 2,
+          "horse": "Early Release",
+          "jockey": "Billy Loughnane",
+          "cd": 1,
+          "days": 24,
+          "odds": "7/2",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 1.35,
+          "ret": 4.73,
+          "bank": 139.9
+        }
+      ]
+    },
+    {
+      "time": "16:07",
+      "meeting": "Kempton",
+      "name": "Sri Lanka Paradise Island Handicap",
+      "class": "5",
+      "distance": "7f",
+      "riders": 7,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "How Impressive",
+          "jockey": "Joe Leavy",
+          "cd": 2,
+          "days": 18,
+          "odds": "3/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 1.4,
+          "ret": 1.05,
+          "bank": 140.95
+        }
+      ]
+    },
     {
       "time": "16:50",
       "meeting": "Wolverhampton",
@@ -21,9 +85,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.09,
-          "ret": 1.23,
-          "bank": 109.98
+          "stake": 1.41,
+          "ret": 1.59,
+          "bank": 142.54
         },
         {
           "rank": 2,
@@ -35,9 +99,34 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 1.1,
-          "ret": 4.95,
-          "bank": 114.93
+          "stake": 1.43,
+          "ret": 6.43,
+          "bank": 148.97
+        }
+      ]
+    },
+    {
+      "time": "17:40",
+      "meeting": "Kempton",
+      "name": "Sporting Times Handicap (Div 2)",
+      "class": "6",
+      "distance": "1m",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "The Spotlight Kid",
+          "jockey": "L Morris",
+          "cd": 1,
+          "days": 19,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 1.49,
+          "ret": 1.86,
+          "bank": 150.83
         }
       ]
     },
@@ -60,9 +149,9 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 1.15,
-          "ret": -1.15,
-          "bank": 113.78
+          "stake": 1.51,
+          "ret": -1.51,
+          "bank": 149.32
         }
       ]
     },
@@ -85,9 +174,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.14,
-          "ret": 1.85,
-          "bank": 115.63
+          "stake": 1.49,
+          "ret": 2.42,
+          "bank": 151.74
         },
         {
           "rank": 2,
@@ -99,16 +188,16 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 1.16,
-          "ret": -1.16,
-          "bank": 114.47
+          "stake": 1.52,
+          "ret": -1.52,
+          "bank": 150.22
         }
       ]
     }
   ],
   "bank": {
-    "start": 108.75,
-    "stake": 1.09,
-    "end": 114.47
+    "start": 134.16,
+    "stake": 1.34,
+    "end": 150.22
   }
 }

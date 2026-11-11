@@ -1,7 +1,32 @@
 {
   "date": "2026-04-20",
-  "updated": "2026-11-11T05:52:41+0000",
+  "updated": "2026-11-11T08:41:55+0000",
   "races": [
+    {
+      "time": "13:21",
+      "meeting": "Lingfield",
+      "name": "Free Bets On attheraces.com Amateur Jockeys' Handicap",
+      "class": "6",
+      "distance": "1m 1y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Rosemary's Rose",
+          "jockey": "Mr Patrick Millman",
+          "cd": 1,
+          "days": 12,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 4.91,
+          "ret": -4.91,
+          "bank": 485.83
+        }
+      ]
+    },
     {
       "time": "16:30",
       "meeting": "Newcastle",
@@ -21,9 +46,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 2.78,
-          "ret": 5.21,
-          "bank": 283.69
+          "stake": 4.86,
+          "ret": 9.11,
+          "bank": 494.94
         }
       ]
     },
@@ -46,9 +71,9 @@
           "mark": null,
           "pos": 3,
           "res": "LOSE",
-          "stake": 2.84,
-          "ret": -2.84,
-          "bank": 280.85
+          "stake": 4.95,
+          "ret": -4.95,
+          "bank": 489.99
         }
       ]
     },
@@ -71,9 +96,9 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 2.81,
-          "ret": -2.81,
-          "bank": 278.04
+          "stake": 4.9,
+          "ret": -4.9,
+          "bank": 485.09
         },
         {
           "rank": 2,
@@ -85,9 +110,9 @@
           "mark": -7,
           "pos": 1,
           "res": "WIN",
-          "stake": 2.78,
-          "ret": 12.51,
-          "bank": 290.55
+          "stake": 4.85,
+          "ret": 21.82,
+          "bank": 506.91
         },
         {
           "rank": 3,
@@ -99,9 +124,9 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 2.91,
-          "ret": -2.91,
-          "bank": 287.64
+          "stake": 5.07,
+          "ret": -5.07,
+          "bank": 501.84
         }
       ]
     },
@@ -124,16 +149,16 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 2.88,
-          "ret": -2.88,
-          "bank": 284.76
+          "stake": 5.02,
+          "ret": -5.02,
+          "bank": 496.82
         }
       ]
     }
   ],
   "bank": {
-    "start": 278.48,
-    "stake": 2.78,
-    "end": 284.76
+    "start": 490.74,
+    "stake": 4.91,
+    "end": 496.82
   }
 }

@@ -1,10 +1,86 @@
 {
   "date": "2026-06-10",
-  "updated": "2026-11-11T05:52:44+0000",
-  "races": [],
+  "updated": "2026-11-11T08:41:59+0000",
+  "races": [
+    {
+      "time": "16:08",
+      "meeting": "Kempton",
+      "name": "Bet 20 Get 20 With Unibet Apprentice Handicap",
+      "class": "5",
+      "distance": "1m 7f 218y",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Further Measure",
+          "jockey": "Alfie Redman",
+          "cd": 2,
+          "days": 22,
+          "odds": "9/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 9.37,
+          "ret": -9.37,
+          "bank": 928.06
+        }
+      ]
+    },
+    {
+      "time": "17:40",
+      "meeting": "Kempton",
+      "name": "Set Your Limits With Unibet Handicap",
+      "class": "5",
+      "distance": "1m",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Billy Mill",
+          "jockey": "Saffie Osborne",
+          "cd": 1,
+          "days": 21,
+          "odds": "3/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 9.28,
+          "ret": 6.96,
+          "bank": 935.02
+        }
+      ]
+    },
+    {
+      "time": "18:40",
+      "meeting": "Kempton",
+      "name": "Unibet 40,000+ Live Streamed Events Handicap (Div 2)",
+      "class": "4",
+      "distance": "6f",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Sayidah Hard Spun",
+          "jockey": "W Buick",
+          "cd": 1,
+          "days": 9,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 9.35,
+          "ret": -9.35,
+          "bank": 925.67
+        }
+      ]
+    }
+  ],
   "bank": {
-    "start": 10.0,
-    "stake": 0.1,
-    "end": 10.0
+    "start": 937.43,
+    "stake": 9.37,
+    "end": 925.67
   }
 }

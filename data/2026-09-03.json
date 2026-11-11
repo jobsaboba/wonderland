@@ -1,6 +1,6 @@
 {
   "date": "2026-09-03",
-  "updated": "2026-11-11T05:52:48+0000",
+  "updated": "2026-11-11T08:42:05+0000",
   "races": [
     {
       "time": "14:24",
@@ -21,9 +21,34 @@
           "mark": null,
           "pos": 2,
           "res": "LOSE",
-          "stake": 11.75,
-          "ret": -11.75,
-          "bank": 1163.55
+          "stake": 21.37,
+          "ret": -21.37,
+          "bank": 2115.56
+        }
+      ]
+    },
+    {
+      "time": "15:20",
+      "meeting": "Lingfield",
+      "name": "Free Tips On attheraces.com Handicap",
+      "class": "4",
+      "distance": "5f 6y",
+      "riders": 6,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Forager",
+          "jockey": "J Mitchell",
+          "cd": 1,
+          "days": 23,
+          "odds": "6/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 21.16,
+          "ret": -21.16,
+          "bank": 2094.4
         }
       ]
     },
@@ -46,9 +71,9 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 11.64,
-          "ret": -11.64,
-          "bank": 1151.91
+          "stake": 20.94,
+          "ret": -20.94,
+          "bank": 2073.46
         },
         {
           "rank": 2,
@@ -60,9 +85,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 11.52,
-          "ret": 28.8,
-          "bank": 1180.71
+          "stake": 20.73,
+          "ret": 51.83,
+          "bank": 2125.29
         }
       ]
     },
@@ -85,9 +110,34 @@
           "mark": null,
           "pos": 3,
           "res": "LOSE",
-          "stake": 11.81,
-          "ret": -11.81,
-          "bank": 1168.9
+          "stake": 21.25,
+          "ret": -21.25,
+          "bank": 2104.04
+        }
+      ]
+    },
+    {
+      "time": "16:30",
+      "meeting": "Lingfield",
+      "name": "KSS De Triomphe Handicap",
+      "class": "6",
+      "distance": "1m 7f 169y",
+      "riders": 7,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Further Measure",
+          "jockey": "Marco Ghiani",
+          "cd": 1,
+          "days": 16,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 21.04,
+          "ret": -21.04,
+          "bank": 2083.0
         }
       ]
     },
@@ -110,9 +160,34 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 11.69,
-          "ret": 11.69,
-          "bank": 1180.59
+          "stake": 20.83,
+          "ret": 20.83,
+          "bank": 2103.83
+        }
+      ]
+    },
+    {
+      "time": "17:30",
+      "meeting": "Lingfield",
+      "name": "Get Raceday Ready Handicap",
+      "class": "5",
+      "distance": "6f 1y",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Far Too Fizzy",
+          "jockey": "Laura Pearson",
+          "cd": 1,
+          "days": 2,
+          "odds": "3/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 21.04,
+          "ret": -21.04,
+          "bank": 2082.79
         }
       ]
     },
@@ -135,9 +210,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 11.81,
-          "ret": 25.1,
-          "bank": 1205.69
+          "stake": 20.83,
+          "ret": 44.26,
+          "bank": 2127.05
         }
       ]
     },
@@ -160,9 +235,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 12.06,
-          "ret": 102.51,
-          "bank": 1308.2
+          "stake": 21.27,
+          "ret": 180.79,
+          "bank": 2307.84
         },
         {
           "rank": 2,
@@ -174,9 +249,9 @@
           "mark": null,
           "pos": 10,
           "res": "LOSE",
-          "stake": 13.08,
-          "ret": -13.08,
-          "bank": 1295.12
+          "stake": 23.08,
+          "ret": -23.08,
+          "bank": 2284.76
         },
         {
           "rank": 3,
@@ -188,16 +263,16 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 12.95,
-          "ret": -12.95,
-          "bank": 1282.17
+          "stake": 22.85,
+          "ret": -22.85,
+          "bank": 2261.91
         }
       ]
     }
   ],
   "bank": {
-    "start": 1175.3,
-    "stake": 11.75,
-    "end": 1282.17
+    "start": 2136.93,
+    "stake": 21.37,
+    "end": 2261.91
   }
 }

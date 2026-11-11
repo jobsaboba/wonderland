@@ -1,7 +1,85 @@
 {
   "date": "2026-02-10",
-  "updated": "2026-11-11T05:52:37+0000",
+  "updated": "2026-11-11T08:41:50+0000",
   "races": [
+    {
+      "time": "13:18",
+      "meeting": "Lingfield",
+      "name": "Bet 10 Get 40 With BetMGM Handicap",
+      "class": "6",
+      "distance": "7f 1y",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Ashford Hill",
+          "jockey": "Isobelle Chalmers",
+          "cd": 2,
+          "days": 17,
+          "odds": "13/2",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.72,
+          "ret": -0.72,
+          "bank": 71.19
+        },
+        {
+          "rank": 2,
+          "horse": "Global Warning",
+          "jockey": "S D Bowen",
+          "cd": 1,
+          "days": 17,
+          "odds": "9/2",
+          "mark": -2,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.71,
+          "ret": 0.8,
+          "bank": 71.99
+        }
+      ]
+    },
+    {
+      "time": "13:48",
+      "meeting": "Lingfield",
+      "name": "Midnite, Building The Future Of Betting Handicap",
+      "class": "4",
+      "distance": "5f 6y",
+      "riders": 5,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Diomed Spirit",
+          "jockey": "Rossa Ryan",
+          "cd": 2,
+          "days": 10,
+          "odds": "9/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.72,
+          "ret": -0.72,
+          "bank": 71.27
+        },
+        {
+          "rank": 2,
+          "horse": "Toolatetonegotiate",
+          "jockey": "Millie Wonnacott",
+          "cd": 3,
+          "days": 17,
+          "odds": "9/1",
+          "mark": null,
+          "pos": 3,
+          "res": "LOSE",
+          "stake": 0.71,
+          "ret": -0.71,
+          "bank": 70.56
+        }
+      ]
+    },
     {
       "time": "17:45",
       "meeting": "Newcastle",
@@ -21,9 +99,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.62,
-          "ret": 1.24,
-          "bank": 63.35
+          "stake": 0.71,
+          "ret": 1.42,
+          "bank": 71.98
         },
         {
           "rank": 2,
@@ -35,9 +113,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.63,
-          "ret": 3.15,
-          "bank": 66.5
+          "stake": 0.72,
+          "ret": 3.6,
+          "bank": 75.58
         }
       ]
     },
@@ -60,9 +138,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.67,
-          "ret": 0.5,
-          "bank": 67.0
+          "stake": 0.76,
+          "ret": 0.57,
+          "bank": 76.15
         },
         {
           "rank": 2,
@@ -74,9 +152,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.67,
-          "ret": 2.01,
-          "bank": 69.01
+          "stake": 0.76,
+          "ret": 2.28,
+          "bank": 78.43
         },
         {
           "rank": 3,
@@ -88,9 +166,9 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.69,
-          "ret": -0.69,
-          "bank": 68.32
+          "stake": 0.78,
+          "ret": -0.78,
+          "bank": 77.65
         }
       ]
     },
@@ -113,9 +191,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.68,
-          "ret": 1.02,
-          "bank": 69.34
+          "stake": 0.78,
+          "ret": 1.17,
+          "bank": 78.82
         },
         {
           "rank": 2,
@@ -127,16 +205,16 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.69,
-          "ret": 2.42,
-          "bank": 71.76
+          "stake": 0.79,
+          "ret": 2.77,
+          "bank": 81.59
         }
       ]
     }
   ],
   "bank": {
-    "start": 62.11,
-    "stake": 0.62,
-    "end": 71.76
+    "start": 71.91,
+    "stake": 0.72,
+    "end": 81.59
   }
 }

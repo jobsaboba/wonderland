@@ -1,7 +1,96 @@
 {
   "date": "2026-02-27",
-  "updated": "2026-11-11T05:52:38+0000",
+  "updated": "2026-11-11T08:41:51+0000",
   "races": [
+    {
+      "time": "13:42",
+      "meeting": "Lingfield",
+      "name": "Midnite AWC Apprentice Handicap",
+      "class": "6",
+      "distance": "1m 2f",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Bownder",
+          "jockey": "Olivia Tubb",
+          "cd": 1,
+          "days": 13,
+          "odds": "13/2",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 1.12,
+          "ret": 1.82,
+          "bank": 113.96
+        },
+        {
+          "rank": 2,
+          "horse": "Muy Muy Loco",
+          "jockey": "Mason Paetel",
+          "cd": 2,
+          "days": 20,
+          "odds": "3/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 1.14,
+          "ret": -1.14,
+          "bank": 112.82
+        }
+      ]
+    },
+    {
+      "time": "15:12",
+      "meeting": "Lingfield",
+      "name": "Midnite AWC Sprint Trial Handicap",
+      "class": "2",
+      "distance": "6f 1y",
+      "riders": 7,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "El Bodon",
+          "jockey": "Rossa Ryan",
+          "cd": 1,
+          "days": 16,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 1.13,
+          "ret": -1.13,
+          "bank": 111.69
+        }
+      ]
+    },
+    {
+      "time": "15:45",
+      "meeting": "Lingfield",
+      "name": "Midnite AWC Marathon Trial Handicap (GBBPlus Race)",
+      "class": "2",
+      "distance": "1m 7f 169y",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Roaring Legend",
+          "jockey": "Jason Hart",
+          "cd": 1,
+          "days": 21,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 1.12,
+          "ret": 1.4,
+          "bank": 113.09
+        }
+      ]
+    },
     {
       "time": "17:00",
       "meeting": "Dundalk",
@@ -21,9 +110,9 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.98,
-          "ret": -0.98,
-          "bank": 96.79
+          "stake": 1.13,
+          "ret": -1.13,
+          "bank": 111.96
         }
       ]
     },
@@ -46,9 +135,9 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.97,
-          "ret": -0.97,
-          "bank": 95.82
+          "stake": 1.12,
+          "ret": -1.12,
+          "bank": 110.84
         },
         {
           "rank": 2,
@@ -60,9 +149,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.96,
-          "ret": 0.96,
-          "bank": 96.78
+          "stake": 1.11,
+          "ret": 1.11,
+          "bank": 111.95
         }
       ]
     },
@@ -85,9 +174,9 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.97,
-          "ret": -0.97,
-          "bank": 95.81
+          "stake": 1.12,
+          "ret": -1.12,
+          "bank": 110.83
         }
       ]
     },
@@ -110,9 +199,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.96,
-          "ret": 8.64,
-          "bank": 104.45
+          "stake": 1.11,
+          "ret": 9.99,
+          "bank": 120.82
         },
         {
           "rank": 2,
@@ -124,9 +213,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.04,
-          "ret": 1.43,
-          "bank": 105.88
+          "stake": 1.21,
+          "ret": 1.66,
+          "bank": 122.48
         }
       ]
     },
@@ -149,9 +238,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.06,
-          "ret": 2.12,
-          "bank": 108.0
+          "stake": 1.22,
+          "ret": 2.44,
+          "bank": 124.92
         },
         {
           "rank": 2,
@@ -163,9 +252,9 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 1.08,
-          "ret": -1.08,
-          "bank": 106.92
+          "stake": 1.25,
+          "ret": -1.25,
+          "bank": 123.67
         }
       ]
     },
@@ -188,9 +277,9 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 1.07,
-          "ret": -1.07,
-          "bank": 105.85
+          "stake": 1.24,
+          "ret": -1.24,
+          "bank": 122.43
         },
         {
           "rank": 2,
@@ -202,9 +291,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.06,
-          "ret": 1.06,
-          "bank": 106.91
+          "stake": 1.22,
+          "ret": 1.22,
+          "bank": 123.65
         },
         {
           "rank": 3,
@@ -216,16 +305,16 @@
           "mark": null,
           "pos": 3,
           "res": "LOSE",
-          "stake": 1.07,
-          "ret": -1.07,
-          "bank": 105.84
+          "stake": 1.24,
+          "ret": -1.24,
+          "bank": 122.41
         }
       ]
     }
   ],
   "bank": {
-    "start": 97.77,
-    "stake": 0.98,
-    "end": 105.84
+    "start": 112.14,
+    "stake": 1.12,
+    "end": 122.41
   }
 }

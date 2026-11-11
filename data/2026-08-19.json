@@ -1,10 +1,36 @@
 {
   "date": "2026-08-19",
-  "updated": "2026-11-11T05:52:48+0000",
-  "races": [],
+  "updated": "2026-11-11T08:42:04+0000",
+  "races": [
+    {
+      "time": "19:30",
+      "meeting": "Kempton",
+      "name": "Unibet 40,000+ Live Streamed Events Handicap (Div 3)",
+      "class": "4",
+      "distance": "1m",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Talis Evolvere",
+          "jockey": "S M Levey",
+          "cd": 1,
+          "days": 13,
+          "odds": "7/2",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 18.24,
+          "ret": -18.24,
+          "bank": 1805.64
+        }
+      ]
+    }
+  ],
   "bank": {
-    "start": 10.0,
-    "stake": 0.1,
-    "end": 10.0
+    "start": 1823.88,
+    "stake": 18.24,
+    "end": 1805.64
   }
 }

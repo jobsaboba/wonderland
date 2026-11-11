@@ -1,10 +1,61 @@
 {
   "date": "2026-03-18",
-  "updated": "2026-11-11T05:52:39+0000",
-  "races": [],
+  "updated": "2026-11-11T08:41:53+0000",
+  "races": [
+    {
+      "time": "19:00",
+      "meeting": "Kempton",
+      "name": "Virgin Bet Fives Handicap",
+      "class": "5",
+      "distance": "1m",
+      "riders": 13,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Atmosphere",
+          "jockey": "George Wood",
+          "cd": 1,
+          "days": 28,
+          "odds": "11/2",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 2.54,
+          "ret": 3.49,
+          "bank": 257.33
+        }
+      ]
+    },
+    {
+      "time": "19:30",
+      "meeting": "Kempton",
+      "name": "Virgin Bet Handicap",
+      "class": "5",
+      "distance": "6f",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Al Barez",
+          "jockey": "J Mitchell",
+          "cd": 1,
+          "days": 28,
+          "odds": "17/2",
+          "mark": null,
+          "pos": 3,
+          "res": "LOSE",
+          "stake": 2.57,
+          "ret": -2.57,
+          "bank": 254.76
+        }
+      ]
+    }
+  ],
   "bank": {
-    "start": 10.0,
-    "stake": 0.1,
-    "end": 10.0
+    "start": 253.84,
+    "stake": 2.54,
+    "end": 254.76
   }
 }

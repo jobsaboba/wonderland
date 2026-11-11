@@ -1,7 +1,121 @@
 {
   "date": "2026-03-05",
-  "updated": "2026-11-11T05:52:38+0000",
+  "updated": "2026-11-11T08:41:52+0000",
   "races": [
+    {
+      "time": "13:53",
+      "meeting": "Lingfield",
+      "name": "Always Gamble Responsibly At BetMGM 'Hands And Heels' Apprentice Handicap",
+      "class": "6",
+      "distance": "7f 1y",
+      "riders": 6,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Poetic Force",
+          "jockey": "Myla Coppins",
+          "cd": 2,
+          "days": 20,
+          "odds": "10/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 1.57,
+          "ret": 3.93,
+          "bank": 161.0
+        }
+      ]
+    },
+    {
+      "time": "14:53",
+      "meeting": "Lingfield",
+      "name": "Midnite A Next Generation Betting App Handicap",
+      "class": "5",
+      "distance": "5f 6y",
+      "riders": 5,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Gogo Yubari",
+          "jockey": "Tom Marquand",
+          "cd": 5,
+          "days": 17,
+          "odds": "13/2",
+          "mark": null,
+          "pos": 3,
+          "res": "LOSE",
+          "stake": 1.61,
+          "ret": -1.61,
+          "bank": 159.39
+        },
+        {
+          "rank": 2,
+          "horse": "Mick's Spirit",
+          "jockey": "Darragh Keenan",
+          "cd": 9,
+          "days": 19,
+          "odds": "6/1",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 1.59,
+          "ret": 9.54,
+          "bank": 168.93
+        }
+      ]
+    },
+    {
+      "time": "15:25",
+      "meeting": "Lingfield",
+      "name": "Make The Move To Midnite Handicap",
+      "class": "4",
+      "distance": "5f 6y",
+      "riders": 5,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Toolatetonegotiate",
+          "jockey": "Millie Wonnacott",
+          "cd": 3,
+          "days": 23,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 3,
+          "res": "LOSE",
+          "stake": 1.69,
+          "ret": -1.69,
+          "bank": 167.24
+        }
+      ]
+    },
+    {
+      "time": "16:33",
+      "meeting": "Lingfield",
+      "name": "Daily Profit Boosts At betmgm.co.uk Handicap",
+      "class": "6",
+      "distance": "1m 1y",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "So Chic",
+          "jockey": "Jack Doughty",
+          "cd": 1,
+          "days": 17,
+          "odds": "15/2",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 1.67,
+          "ret": -1.67,
+          "bank": 165.57
+        }
+      ]
+    },
     {
       "time": "16:55",
       "meeting": "Newcastle",
@@ -21,9 +135,48 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 1.14,
-          "ret": -1.14,
-          "bank": 113.01
+          "stake": 1.66,
+          "ret": -1.66,
+          "bank": 163.91
+        }
+      ]
+    },
+    {
+      "time": "17:08",
+      "meeting": "Lingfield",
+      "name": "Join The Midnite Movement Handicap",
+      "class": "6",
+      "distance": "1m 2f",
+      "riders": 5,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Crafter",
+          "jockey": "Billy Loughnane",
+          "cd": 1,
+          "days": 21,
+          "odds": "4/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 1.64,
+          "ret": -1.64,
+          "bank": 162.27
+        },
+        {
+          "rank": 2,
+          "horse": "Masqool",
+          "jockey": "D C Costello",
+          "cd": 3,
+          "days": 21,
+          "odds": "3/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 1.62,
+          "ret": 1.22,
+          "bank": 163.49
         }
       ]
     },
@@ -46,9 +199,9 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 1.13,
-          "ret": -1.13,
-          "bank": 111.88
+          "stake": 1.63,
+          "ret": -1.63,
+          "bank": 161.86
         },
         {
           "rank": 2,
@@ -60,9 +213,9 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 1.12,
-          "ret": -1.12,
-          "bank": 110.76
+          "stake": 1.62,
+          "ret": -1.62,
+          "bank": 160.24
         }
       ]
     },
@@ -85,9 +238,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.11,
-          "ret": 1.67,
-          "bank": 112.43
+          "stake": 1.6,
+          "ret": 2.4,
+          "bank": 162.64
         },
         {
           "rank": 2,
@@ -99,9 +252,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 1.12,
-          "ret": 2.52,
-          "bank": 114.95
+          "stake": 1.63,
+          "ret": 3.67,
+          "bank": 166.31
         },
         {
           "rank": 3,
@@ -113,16 +266,16 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 1.15,
-          "ret": -1.15,
-          "bank": 113.8
+          "stake": 1.66,
+          "ret": -1.66,
+          "bank": 164.65
         }
       ]
     }
   ],
   "bank": {
-    "start": 114.15,
-    "stake": 1.14,
-    "end": 113.8
+    "start": 157.07,
+    "stake": 1.57,
+    "end": 164.65
   }
 }

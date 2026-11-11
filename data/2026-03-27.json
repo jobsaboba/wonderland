@@ -1,7 +1,32 @@
 {
   "date": "2026-03-27",
-  "updated": "2026-11-11T05:52:39+0000",
+  "updated": "2026-11-11T08:41:54+0000",
   "races": [
+    {
+      "time": "15:12",
+      "meeting": "Lingfield",
+      "name": "Daily Profit Boosts At betmgm.co.uk Handicap",
+      "class": "4",
+      "distance": "7f 1y",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Giorgio M",
+          "jockey": "Billy Loughnane",
+          "cd": 1,
+          "days": 28,
+          "odds": "4/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 3.02,
+          "ret": -3.02,
+          "bank": 298.56
+        }
+      ]
+    },
     {
       "time": "16:25",
       "meeting": "Newcastle",
@@ -21,9 +46,62 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 1.82,
-          "ret": -1.82,
-          "bank": 180.29
+          "stake": 2.99,
+          "ret": -2.99,
+          "bank": 295.57
+        }
+      ]
+    },
+    {
+      "time": "16:42",
+      "meeting": "Lingfield",
+      "name": "Always Gamble Responsibly At BetMGM Handicap",
+      "class": "6",
+      "distance": "1m 1y",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Royal Jet",
+          "jockey": "William Carson",
+          "cd": 1,
+          "days": 7,
+          "odds": "17/2",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 2.96,
+          "ret": -2.96,
+          "bank": 292.61
+        },
+        {
+          "rank": 2,
+          "horse": "Secret Road",
+          "jockey": "L Morris",
+          "cd": 1,
+          "days": 22,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 2.93,
+          "ret": -2.93,
+          "bank": 289.68
+        },
+        {
+          "rank": 3,
+          "horse": "Poke The Bear",
+          "jockey": "Tyler Heard",
+          "cd": 2,
+          "days": 27,
+          "odds": "15/2",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 2.9,
+          "ret": -2.9,
+          "bank": 286.78
         }
       ]
     },
@@ -46,9 +124,9 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 1.8,
-          "ret": -1.8,
-          "bank": 178.49
+          "stake": 2.87,
+          "ret": -2.87,
+          "bank": 283.91
         },
         {
           "rank": 2,
@@ -60,9 +138,9 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 1.78,
-          "ret": -1.78,
-          "bank": 176.71
+          "stake": 2.84,
+          "ret": -2.84,
+          "bank": 281.07
         }
       ]
     },
@@ -85,9 +163,9 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 1.77,
-          "ret": -1.77,
-          "bank": 174.94
+          "stake": 2.81,
+          "ret": -2.81,
+          "bank": 278.26
         },
         {
           "rank": 2,
@@ -99,9 +177,9 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 1.75,
-          "ret": -1.75,
-          "bank": 173.19
+          "stake": 2.78,
+          "ret": -2.78,
+          "bank": 275.48
         }
       ]
     },
@@ -124,9 +202,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.73,
-          "ret": 1.95,
-          "bank": 175.14
+          "stake": 2.75,
+          "ret": 3.09,
+          "bank": 278.57
         }
       ]
     },
@@ -149,9 +227,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 1.75,
-          "ret": 1.46,
-          "bank": 176.6
+          "stake": 2.79,
+          "ret": 2.33,
+          "bank": 280.9
         },
         {
           "rank": 2,
@@ -163,9 +241,9 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 1.77,
-          "ret": -1.77,
-          "bank": 174.83
+          "stake": 2.81,
+          "ret": -2.81,
+          "bank": 278.09
         }
       ]
     },
@@ -188,9 +266,9 @@
           "mark": null,
           "pos": 10,
           "res": "LOSE",
-          "stake": 1.75,
-          "ret": -1.75,
-          "bank": 173.08
+          "stake": 2.78,
+          "ret": -2.78,
+          "bank": 275.31
         },
         {
           "rank": 2,
@@ -202,9 +280,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 1.73,
-          "ret": 3.46,
-          "bank": 176.54
+          "stake": 2.75,
+          "ret": 5.5,
+          "bank": 280.81
         },
         {
           "rank": 3,
@@ -216,9 +294,9 @@
           "mark": null,
           "pos": 11,
           "res": "LOSE",
-          "stake": 1.77,
-          "ret": -1.77,
-          "bank": 174.77
+          "stake": 2.81,
+          "ret": -2.81,
+          "bank": 278.0
         }
       ]
     },
@@ -241,9 +319,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 1.75,
-          "ret": 2.19,
-          "bank": 176.96
+          "stake": 2.78,
+          "ret": 3.47,
+          "bank": 281.47
         }
       ]
     },
@@ -266,9 +344,9 @@
           "mark": null,
           "pos": 13,
           "res": "LOSE",
-          "stake": 1.77,
-          "ret": -1.77,
-          "bank": 175.19
+          "stake": 2.81,
+          "ret": -2.81,
+          "bank": 278.66
         },
         {
           "rank": 2,
@@ -280,9 +358,9 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 1.75,
-          "ret": -1.75,
-          "bank": 173.44
+          "stake": 2.79,
+          "ret": -2.79,
+          "bank": 275.87
         }
       ]
     },
@@ -305,9 +383,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 1.73,
-          "ret": 3.68,
-          "bank": 177.12
+          "stake": 2.76,
+          "ret": 5.86,
+          "bank": 281.73
         }
       ]
     },
@@ -330,9 +408,9 @@
           "mark": null,
           "pos": 10,
           "res": "LOSE",
-          "stake": 1.77,
-          "ret": -1.77,
-          "bank": 175.35
+          "stake": 2.82,
+          "ret": -2.82,
+          "bank": 278.91
         }
       ]
     },
@@ -355,9 +433,9 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 1.75,
-          "ret": -1.75,
-          "bank": 173.6
+          "stake": 2.79,
+          "ret": -2.79,
+          "bank": 276.12
         }
       ]
     },
@@ -380,16 +458,16 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 1.74,
-          "ret": -1.74,
-          "bank": 171.86
+          "stake": 2.76,
+          "ret": -2.76,
+          "bank": 273.36
         }
       ]
     }
   ],
   "bank": {
-    "start": 182.11,
-    "stake": 1.82,
-    "end": 171.86
+    "start": 301.58,
+    "stake": 3.02,
+    "end": 273.36
   }
 }

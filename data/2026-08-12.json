@@ -1,10 +1,64 @@
 {
   "date": "2026-08-12",
-  "updated": "2026-11-11T05:52:47+0000",
-  "races": [],
+  "updated": "2026-11-11T08:42:03+0000",
+  "races": [
+    {
+      "time": "18:00",
+      "meeting": "Kempton",
+      "name": "Unibet Support Safer Gambling Handicap (Div 2)",
+      "class": "4",
+      "distance": "7f",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Chalk Mountain",
+          "jockey": "Alfie Redman",
+          "cd": 3,
+          "days": 16,
+          "odds": "4/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 16.87,
+          "ret": -16.87,
+          "bank": 1670.19
+        },
+        {
+          "rank": 2,
+          "horse": "Berry Clever",
+          "jockey": "S De Sousa",
+          "cd": 2,
+          "days": 20,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 16.7,
+          "ret": -16.7,
+          "bank": 1653.49
+        },
+        {
+          "rank": 3,
+          "horse": "Kitaro Kich",
+          "jockey": "Benoit D L Sayette",
+          "cd": 1,
+          "days": 27,
+          "odds": "9/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 16.53,
+          "ret": -16.53,
+          "bank": 1636.96
+        }
+      ]
+    }
+  ],
   "bank": {
-    "start": 10.0,
-    "stake": 0.1,
-    "end": 10.0
+    "start": 1687.06,
+    "stake": 16.87,
+    "end": 1636.96
   }
 }

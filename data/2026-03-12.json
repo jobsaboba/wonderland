@@ -1,7 +1,32 @@
 {
   "date": "2026-03-12",
-  "updated": "2026-11-11T05:52:39+0000",
+  "updated": "2026-11-11T08:41:52+0000",
   "races": [
+    {
+      "time": "16:49",
+      "meeting": "Chelmsford City",
+      "name": "bettingsites.co.uk UK Betting Sites Amateur Jockeys' Handicap",
+      "class": "6",
+      "distance": "1m 2f",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Silkies Sib",
+          "jockey": "Miss Evie Lee",
+          "cd": 1,
+          "days": 9,
+          "odds": "11/2",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 1.97,
+          "ret": -1.97,
+          "bank": 194.92
+        }
+      ]
+    },
     {
       "time": "18:15",
       "meeting": "Newcastle",
@@ -21,9 +46,34 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 1.25,
-          "ret": -1.25,
-          "bank": 123.95
+          "stake": 1.95,
+          "ret": -1.95,
+          "bank": 192.97
+        }
+      ]
+    },
+    {
+      "time": "18:30",
+      "meeting": "Chelmsford City",
+      "name": "tigerbet.co.uk Best Odds Guaranteed Handicap",
+      "class": "6",
+      "distance": "7f",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Oh So Perfect",
+          "jockey": "Alistair Rawlinson",
+          "cd": 1,
+          "days": 28,
+          "odds": "7/2",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 1.93,
+          "ret": 6.75,
+          "bank": 199.72
         }
       ]
     },
@@ -46,9 +96,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 1.24,
-          "ret": 6.2,
-          "bank": 130.15
+          "stake": 2.0,
+          "ret": 10.0,
+          "bank": 209.72
         },
         {
           "rank": 2,
@@ -60,9 +110,9 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 1.3,
-          "ret": -1.3,
-          "bank": 128.85
+          "stake": 2.1,
+          "ret": -2.1,
+          "bank": 207.62
         },
         {
           "rank": 3,
@@ -74,9 +124,9 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 1.29,
-          "ret": -1.29,
-          "bank": 127.56
+          "stake": 2.08,
+          "ret": -2.08,
+          "bank": 205.54
         }
       ]
     },
@@ -99,9 +149,9 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 1.28,
-          "ret": -1.28,
-          "bank": 126.28
+          "stake": 2.06,
+          "ret": -2.06,
+          "bank": 203.48
         },
         {
           "rank": 2,
@@ -113,9 +163,34 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.26,
-          "ret": 1.57,
-          "bank": 127.85
+          "stake": 2.03,
+          "ret": 2.54,
+          "bank": 206.02
+        }
+      ]
+    },
+    {
+      "time": "19:30",
+      "meeting": "Chelmsford City",
+      "name": "tigerbet.co.uk Money Back Specials Handicap (Div 1)",
+      "class": "4",
+      "distance": "1m",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Lexington Jet",
+          "jockey": "Rossa Ryan",
+          "cd": 2,
+          "days": 28,
+          "odds": "6/1",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 2.06,
+          "ret": 12.36,
+          "bank": 218.38
         }
       ]
     },
@@ -138,9 +213,9 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 1.28,
-          "ret": -1.28,
-          "bank": 126.57
+          "stake": 2.18,
+          "ret": -2.18,
+          "bank": 216.2
         },
         {
           "rank": 2,
@@ -152,16 +227,16 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 1.27,
-          "ret": -1.27,
-          "bank": 125.3
+          "stake": 2.16,
+          "ret": -2.16,
+          "bank": 214.04
         }
       ]
     }
   ],
   "bank": {
-    "start": 125.2,
-    "stake": 1.25,
-    "end": 125.3
+    "start": 196.89,
+    "stake": 1.97,
+    "end": 214.04
   }
 }

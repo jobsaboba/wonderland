@@ -1,10 +1,36 @@
 {
   "date": "2026-04-08",
-  "updated": "2026-11-11T05:52:40+0000",
-  "races": [],
+  "updated": "2026-11-11T08:41:54+0000",
+  "races": [
+    {
+      "time": "19:00",
+      "meeting": "Kempton",
+      "name": "Virgin Bet Handicap",
+      "class": "6",
+      "distance": "6f",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Initial Blue",
+          "jockey": "Billy Loughnane",
+          "cd": 1,
+          "days": 13,
+          "odds": "7/2",
+          "mark": -4,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 3.8,
+          "ret": 13.3,
+          "bank": 393.0
+        }
+      ]
+    }
+  ],
   "bank": {
-    "start": 10.0,
-    "stake": 0.1,
-    "end": 10.0
+    "start": 379.7,
+    "stake": 3.8,
+    "end": 393.0
   }
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-04-28",
-  "updated": "2026-11-11T05:52:41+0000",
+  "updated": "2026-11-11T08:41:56+0000",
   "races": [
     {
       "time": "13:20",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 3.46,
-          "ret": 5.62,
-          "bank": 351.56
+          "stake": 6.04,
+          "ret": 9.81,
+          "bank": 613.45
         },
         {
           "rank": 2,
@@ -35,9 +35,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 3.52,
-          "ret": 3.52,
-          "bank": 355.08
+          "stake": 6.13,
+          "ret": 6.13,
+          "bank": 619.58
         },
         {
           "rank": 3,
@@ -49,9 +49,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 3.55,
-          "ret": 21.3,
-          "bank": 376.38
+          "stake": 6.2,
+          "ret": 37.2,
+          "bank": 656.78
         }
       ]
     },
@@ -74,16 +74,41 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 3.76,
-          "ret": -3.76,
-          "bank": 372.62
+          "stake": 6.57,
+          "ret": -6.57,
+          "bank": 650.21
+        }
+      ]
+    },
+    {
+      "time": "18:20",
+      "meeting": "Lingfield",
+      "name": "Sky Sports Racing Virgin 512 Handicap",
+      "class": "5",
+      "distance": "1m 2f",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Joseph",
+          "jockey": "Billy Loughnane",
+          "cd": 1,
+          "days": 10,
+          "odds": "10/3",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 6.5,
+          "ret": 21.67,
+          "bank": 671.88
         }
       ]
     }
   ],
   "bank": {
-    "start": 345.94,
-    "stake": 3.46,
-    "end": 372.62
+    "start": 603.64,
+    "stake": 6.04,
+    "end": 671.88
   }
 }

@@ -1,10 +1,89 @@
 {
   "date": "2026-02-18",
-  "updated": "2026-11-11T05:52:37+0000",
-  "races": [],
+  "updated": "2026-11-11T08:41:51+0000",
+  "races": [
+    {
+      "time": "18:00",
+      "meeting": "Kempton",
+      "name": "Try Unibet's New Smartview Racecards Handicap (Rider Restricted Race)",
+      "class": "5",
+      "distance": "1m",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "King Of Fury",
+          "jockey": "Mark Winn",
+          "cd": 2,
+          "days": 28,
+          "odds": "11/2",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 1.09,
+          "ret": -1.09,
+          "bank": 108.39
+        }
+      ]
+    },
+    {
+      "time": "20:00",
+      "meeting": "Kempton",
+      "name": "Try Unibet's New Improved Acca Boosts Handicap (Rider Restricted Race)",
+      "class": "4",
+      "distance": "6f",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Amazonian Dream",
+          "jockey": "Jonny Peate",
+          "cd": 1,
+          "days": 11,
+          "odds": "10/1",
+          "mark": null,
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 1.08,
+          "ret": -1.08,
+          "bank": 107.31
+        },
+        {
+          "rank": 2,
+          "horse": "Charlie Mason",
+          "jockey": "Gina Mangan",
+          "cd": 1,
+          "days": 11,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 1.07,
+          "ret": -1.07,
+          "bank": 106.24
+        },
+        {
+          "rank": 3,
+          "horse": "Shallow",
+          "jockey": "Callum Hutchinson",
+          "cd": 2,
+          "days": 12,
+          "odds": "11/2",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 1.06,
+          "ret": -1.06,
+          "bank": 105.18
+        }
+      ]
+    }
+  ],
   "bank": {
-    "start": 10.0,
-    "stake": 0.1,
-    "end": 10.0
+    "start": 109.48,
+    "stake": 1.09,
+    "end": 105.18
   }
 }

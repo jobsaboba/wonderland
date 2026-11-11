@@ -1,10 +1,64 @@
 {
   "date": "2026-05-12",
-  "updated": "2026-11-11T05:52:42+0000",
-  "races": [],
+  "updated": "2026-11-11T08:41:57+0000",
+  "races": [
+    {
+      "time": "19:20",
+      "meeting": "Lingfield",
+      "name": "Follow attheraces On Instagram Handicap (GBBPlus Race)",
+      "class": "4",
+      "distance": "1m 4f",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Rogue Impact",
+          "jockey": "L Morris",
+          "cd": 1,
+          "days": 15,
+          "odds": "10/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 7.37,
+          "ret": -7.37,
+          "bank": 729.94
+        },
+        {
+          "rank": 2,
+          "horse": "Yaa Min",
+          "jockey": "Jack Callan",
+          "cd": 1,
+          "days": 19,
+          "odds": "4/1",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 7.3,
+          "ret": 29.2,
+          "bank": 759.14
+        },
+        {
+          "rank": 3,
+          "horse": "Twilight Moon",
+          "jockey": "Rob Hornby",
+          "cd": 2,
+          "days": 22,
+          "odds": "7/2",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 7.59,
+          "ret": -7.59,
+          "bank": 751.55
+        }
+      ]
+    }
+  ],
   "bank": {
-    "start": 10.0,
-    "stake": 0.1,
-    "end": 10.0
+    "start": 737.31,
+    "stake": 7.37,
+    "end": 751.55
   }
 }

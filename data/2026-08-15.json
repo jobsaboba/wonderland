@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "updated": "2026-11-11T05:52:47+0000",
+  "updated": "2026-11-11T08:42:04+0000",
   "races": [
     {
       "time": "13:25",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 9.35,
-          "ret": 32.73,
-          "bank": 967.44
+          "stake": 16.62,
+          "ret": 58.17,
+          "bank": 1719.68
         },
         {
           "rank": 2,
@@ -35,9 +35,9 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 9.67,
-          "ret": -9.67,
-          "bank": 957.77
+          "stake": 17.2,
+          "ret": -17.2,
+          "bank": 1702.48
         },
         {
           "rank": 3,
@@ -49,9 +49,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 9.58,
-          "ret": 9.58,
-          "bank": 967.35
+          "stake": 17.02,
+          "ret": 17.02,
+          "bank": 1719.5
         }
       ]
     },
@@ -74,9 +74,9 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 9.67,
-          "ret": -9.67,
-          "bank": 957.68
+          "stake": 17.2,
+          "ret": -17.2,
+          "bank": 1702.3
         }
       ]
     },
@@ -99,16 +99,80 @@
           "mark": null,
           "pos": 12,
           "res": "LOSE",
-          "stake": 9.58,
-          "ret": -9.58,
-          "bank": 948.1
+          "stake": 17.02,
+          "ret": -17.02,
+          "bank": 1685.28
+        }
+      ]
+    },
+    {
+      "time": "17:46",
+      "meeting": "Lingfield",
+      "name": "Follow attheraces On Instagram Handicap",
+      "class": "5",
+      "distance": "6f 1y",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Hierarchy",
+          "jockey": "William Carver",
+          "cd": 1,
+          "days": 19,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 16.85,
+          "ret": -16.85,
+          "bank": 1668.43
+        },
+        {
+          "rank": 2,
+          "horse": "Far Too Fizzy",
+          "jockey": "Laura Pearson",
+          "cd": 1,
+          "days": 21,
+          "odds": "10/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 16.68,
+          "ret": 41.7,
+          "bank": 1710.13
+        }
+      ]
+    },
+    {
+      "time": "18:16",
+      "meeting": "Lingfield",
+      "name": "Free Bets On attheraces.com Handicap",
+      "class": "6",
+      "distance": "1m 2f",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Monks Mead",
+          "jockey": "L Morris",
+          "cd": 1,
+          "days": 11,
+          "odds": "13/2",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 17.1,
+          "ret": -17.1,
+          "bank": 1693.03
         }
       ]
     }
   ],
   "bank": {
-    "start": 934.71,
-    "stake": 9.35,
-    "end": 948.1
+    "start": 1661.51,
+    "stake": 16.62,
+    "end": 1693.03
   }
 }

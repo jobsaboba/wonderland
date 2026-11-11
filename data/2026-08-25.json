@@ -1,10 +1,36 @@
 {
   "date": "2026-08-25",
-  "updated": "2026-11-11T05:52:48+0000",
-  "races": [],
+  "updated": "2026-11-11T08:42:04+0000",
+  "races": [
+    {
+      "time": "16:02",
+      "meeting": "Lingfield",
+      "name": "Free Tips On attheraces.com Handicap",
+      "class": "6",
+      "distance": "1m 2f",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Backer Bilk",
+          "jockey": "George Wood",
+          "cd": 1,
+          "days": 13,
+          "odds": "10/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 18.71,
+          "ret": -18.71,
+          "bank": 1852.07
+        }
+      ]
+    }
+  ],
   "bank": {
-    "start": 10.0,
-    "stake": 0.1,
-    "end": 10.0
+    "start": 1870.78,
+    "stake": 18.71,
+    "end": 1852.07
   }
 }

@@ -1,10 +1,175 @@
 {
   "date": "2026-01-21",
-  "updated": "2026-11-11T05:52:36+0000",
-  "races": [],
+  "updated": "2026-11-11T08:41:49+0000",
+  "races": [
+    {
+      "time": "14:38",
+      "meeting": "Lingfield",
+      "name": "Midnite, Building The Future Of Betting Handicap",
+      "class": "6",
+      "distance": "5f 6y",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "The Defiant",
+          "jockey": "Jack Dace",
+          "cd": 3,
+          "days": 14,
+          "odds": "13/2",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.29,
+          "ret": -0.29,
+          "bank": 28.66
+        }
+      ]
+    },
+    {
+      "time": "16:08",
+      "meeting": "Lingfield",
+      "name": "Bet 10 Get 40 With BetMGM Handicap",
+      "class": "4",
+      "distance": "7f 1y",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Bell Shot",
+          "jockey": "R Havlin",
+          "cd": 1,
+          "days": 20,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.29,
+          "ret": -0.29,
+          "bank": 28.37
+        }
+      ]
+    },
+    {
+      "time": "18:00",
+      "meeting": "Kempton",
+      "name": "Try Unibet's New Smartview Racecards Handicap",
+      "class": "5",
+      "distance": "1m 7f 218y",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Zoran",
+          "jockey": "Oisin Murphy",
+          "cd": 2,
+          "days": 24,
+          "odds": "10/3",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.28,
+          "ret": -0.28,
+          "bank": 28.09
+        },
+        {
+          "rank": 2,
+          "horse": "Knight Templar",
+          "jockey": "H Crouch",
+          "cd": 1,
+          "days": 25,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.28,
+          "ret": 1.26,
+          "bank": 29.35
+        }
+      ]
+    },
+    {
+      "time": "18:30",
+      "meeting": "Kempton",
+      "name": "Unibet Support Safer Gambling Handicap (Div 1)",
+      "class": "4",
+      "distance": "1m",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Billy Mill",
+          "jockey": "Lewis Edmunds",
+          "cd": 1,
+          "days": 14,
+          "odds": "10/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.29,
+          "ret": -0.29,
+          "bank": 29.06
+        }
+      ]
+    },
+    {
+      "time": "19:00",
+      "meeting": "Kempton",
+      "name": "Unibet Support Safer Gambling Handicap (Div 2)",
+      "class": "4",
+      "distance": "1m",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Port Road",
+          "jockey": "Paddy Bradley",
+          "cd": 2,
+          "days": 14,
+          "odds": "4/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.29,
+          "ret": -0.29,
+          "bank": 28.77
+        }
+      ]
+    },
+    {
+      "time": "19:30",
+      "meeting": "Kempton",
+      "name": "Try Unibet's New Improved Acca Boosts Handicap (GBBPlus Race)",
+      "class": "4",
+      "distance": "1m 2f 219y",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Umbria",
+          "jockey": "H Crouch",
+          "cd": 1,
+          "days": 20,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.29,
+          "ret": 1.45,
+          "bank": 30.22
+        }
+      ]
+    }
+  ],
   "bank": {
-    "start": 10.0,
-    "stake": 0.1,
-    "end": 10.0
+    "start": 28.95,
+    "stake": 0.29,
+    "end": 30.22
   }
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-10-09",
-  "updated": "2026-11-11T05:52:51+0000",
+  "updated": "2026-11-11T08:42:08+0000",
   "races": [
     {
       "time": "17:30",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 22.43,
-          "ret": 74.77,
-          "bank": 2318.08
+          "stake": 35.94,
+          "ret": 119.8,
+          "bank": 3713.73
         },
         {
           "rank": 2,
@@ -35,9 +35,34 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 23.18,
-          "ret": -23.18,
-          "bank": 2294.9
+          "stake": 37.14,
+          "ret": -37.14,
+          "bank": 3676.59
+        }
+      ]
+    },
+    {
+      "time": "18:15",
+      "meeting": "Kempton",
+      "name": "Try Unibet's Superboosts Handicap (Div 2)",
+      "class": "5",
+      "distance": "1m",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Berry Clever",
+          "jockey": "Harry Davies",
+          "cd": 1,
+          "days": 15,
+          "odds": "7/2",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 36.77,
+          "ret": 128.7,
+          "bank": 3805.29
         }
       ]
     },
@@ -60,9 +85,9 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 22.95,
-          "ret": -22.95,
-          "bank": 2271.95
+          "stake": 38.05,
+          "ret": -38.05,
+          "bank": 3767.24
         },
         {
           "rank": 2,
@@ -74,9 +99,9 @@
           "mark": null,
           "pos": 10,
           "res": "LOSE",
-          "stake": 22.72,
-          "ret": -22.72,
-          "bank": 2249.23
+          "stake": 37.67,
+          "ret": -37.67,
+          "bank": 3729.57
         }
       ]
     },
@@ -99,16 +124,16 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 22.49,
-          "ret": -22.49,
-          "bank": 2226.74
+          "stake": 37.3,
+          "ret": -37.3,
+          "bank": 3692.27
         }
       ]
     }
   ],
   "bank": {
-    "start": 2243.31,
-    "stake": 22.43,
-    "end": 2226.74
+    "start": 3593.93,
+    "stake": 35.94,
+    "end": 3692.27
   }
 }

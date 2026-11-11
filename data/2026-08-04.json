@@ -1,10 +1,36 @@
 {
   "date": "2026-08-04",
-  "updated": "2026-11-11T05:52:47+0000",
-  "races": [],
+  "updated": "2026-11-11T08:42:03+0000",
+  "races": [
+    {
+      "time": "17:48",
+      "meeting": "Lingfield",
+      "name": "John Cunliffe OBF 80th Birthday Handicap (AWT)",
+      "class": "6",
+      "distance": "6f 1y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Elvetham",
+          "jockey": "Jack Gilligan",
+          "cd": 1,
+          "days": 5,
+          "odds": "13/2",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 16.33,
+          "ret": 106.14,
+          "bank": 1738.7
+        }
+      ]
+    }
+  ],
   "bank": {
-    "start": 10.0,
-    "stake": 0.1,
-    "end": 10.0
+    "start": 1632.56,
+    "stake": 16.33,
+    "end": 1738.7
   }
 }

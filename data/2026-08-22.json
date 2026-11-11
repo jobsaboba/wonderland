@@ -1,10 +1,50 @@
 {
   "date": "2026-08-22",
-  "updated": "2026-11-11T05:52:48+0000",
-  "races": [],
+  "updated": "2026-11-11T08:42:04+0000",
+  "races": [
+    {
+      "time": "18:45",
+      "meeting": "Lingfield",
+      "name": "Follow AtTheRaces On X Handicap",
+      "class": "6",
+      "distance": "5f 6y",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Roman Spring",
+          "jockey": "K T O'Neill",
+          "cd": 1,
+          "days": 9,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 18.29,
+          "ret": 20.58,
+          "bank": 1849.97
+        },
+        {
+          "rank": 2,
+          "horse": "Recon Mission",
+          "jockey": "L Morris",
+          "cd": 2,
+          "days": 15,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 18.5,
+          "ret": 20.81,
+          "bank": 1870.78
+        }
+      ]
+    }
+  ],
   "bank": {
-    "start": 10.0,
-    "stake": 0.1,
-    "end": 10.0
+    "start": 1829.39,
+    "stake": 18.29,
+    "end": 1870.78
   }
 }

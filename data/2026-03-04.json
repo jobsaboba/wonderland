@@ -1,7 +1,32 @@
 {
   "date": "2026-03-04",
-  "updated": "2026-11-11T05:52:38+0000",
+  "updated": "2026-11-11T08:41:52+0000",
   "races": [
+    {
+      "time": "17:00",
+      "meeting": "Kempton",
+      "name": "Unibet Supporting International Women's Day Apprentice Handicap",
+      "class": "6",
+      "distance": "6f",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Man On A Mission",
+          "jockey": "Liam Wright",
+          "cd": 2,
+          "days": 11,
+          "odds": "11/2",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 1.51,
+          "ret": 2.08,
+          "bank": 153.46
+        }
+      ]
+    },
     {
       "time": "17:07",
       "meeting": "Southwell",
@@ -21,16 +46,80 @@
           "mark": null,
           "pos": 3,
           "res": "LOSE",
-          "stake": 1.15,
-          "ret": -1.15,
-          "bank": 114.15
+          "stake": 1.53,
+          "ret": -1.53,
+          "bank": 151.93
+        }
+      ]
+    },
+    {
+      "time": "18:00",
+      "meeting": "Kempton",
+      "name": "Unibet Proudly Supporting Women In Racing Handicap",
+      "class": "4",
+      "distance": "1m",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Mr Baloo",
+          "jockey": "Joe Leavy",
+          "cd": 1,
+          "days": 20,
+          "odds": "17/2",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 1.52,
+          "ret": -1.52,
+          "bank": 150.41
+        },
+        {
+          "rank": 2,
+          "horse": "Advancing",
+          "jockey": "Hollie Doyle",
+          "cd": 1,
+          "days": 26,
+          "odds": "11/2",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 1.5,
+          "ret": 8.25,
+          "bank": 158.66
+        }
+      ]
+    },
+    {
+      "time": "18:30",
+      "meeting": "Kempton",
+      "name": "Bet 20 Get 20 With Unibet Handicap (Div 1)",
+      "class": "4",
+      "distance": "6f",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Gallant",
+          "jockey": "Tom Marquand",
+          "cd": 1,
+          "days": 20,
+          "odds": "4/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 1.59,
+          "ret": -1.59,
+          "bank": 157.07
         }
       ]
     }
   ],
   "bank": {
-    "start": 115.3,
-    "stake": 1.15,
-    "end": 114.15
+    "start": 151.38,
+    "stake": 1.51,
+    "end": 157.07
   }
 }

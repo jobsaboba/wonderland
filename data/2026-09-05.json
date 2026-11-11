@@ -1,7 +1,85 @@
 {
   "date": "2026-09-05",
-  "updated": "2026-11-11T05:52:49+0000",
+  "updated": "2026-11-11T08:42:05+0000",
   "races": [
+    {
+      "time": "13:20",
+      "meeting": "Kempton",
+      "name": "William Hill London Mile Series Final Handicap",
+      "class": "2",
+      "distance": "1m",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Two Tempting",
+          "jockey": "Rob Hornby",
+          "cd": 3,
+          "days": 14,
+          "odds": "15/2",
+          "mark": null,
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 22.39,
+          "ret": -22.39,
+          "bank": 2216.9
+        },
+        {
+          "rank": 2,
+          "horse": "Popmaster",
+          "jockey": "Billy Loughnane",
+          "cd": 1,
+          "days": 28,
+          "odds": "10/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 22.17,
+          "ret": 55.43,
+          "bank": 2272.33
+        }
+      ]
+    },
+    {
+      "time": "14:55",
+      "meeting": "Kempton",
+      "name": "William Hill Price Boosts Every Day Fillies' Handicap",
+      "class": "4",
+      "distance": "6f",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Powdering",
+          "jockey": "S C Cronin",
+          "cd": 1,
+          "days": 15,
+          "odds": "17/2",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 22.72,
+          "ret": 48.28,
+          "bank": 2320.61
+        },
+        {
+          "rank": 2,
+          "horse": "Shallow",
+          "jockey": "George Wood",
+          "cd": 2,
+          "days": 15,
+          "odds": "9/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 23.21,
+          "ret": -23.21,
+          "bank": 2297.4
+        }
+      ]
+    },
     {
       "time": "18:00",
       "meeting": "Newcastle",
@@ -21,9 +99,9 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 12.82,
-          "ret": -12.82,
-          "bank": 1269.35
+          "stake": 22.97,
+          "ret": -22.97,
+          "bank": 2274.43
         },
         {
           "rank": 2,
@@ -35,9 +113,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 12.69,
-          "ret": 114.21,
-          "bank": 1383.56
+          "stake": 22.74,
+          "ret": 204.66,
+          "bank": 2479.09
         }
       ]
     },
@@ -60,16 +138,16 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 13.84,
-          "ret": 12.11,
-          "bank": 1395.67
+          "stake": 24.79,
+          "ret": 21.69,
+          "bank": 2500.78
         }
       ]
     }
   ],
   "bank": {
-    "start": 1282.17,
-    "stake": 12.82,
-    "end": 1395.67
+    "start": 2239.29,
+    "stake": 22.39,
+    "end": 2500.78
   }
 }

@@ -1,10 +1,86 @@
 {
   "date": "2026-02-26",
-  "updated": "2026-11-11T05:52:38+0000",
-  "races": [],
+  "updated": "2026-11-11T08:41:51+0000",
+  "races": [
+    {
+      "time": "18:00",
+      "meeting": "Chelmsford City",
+      "name": "Cuppa For Dementia 17th March Handicap",
+      "class": "5",
+      "distance": "5f",
+      "riders": 7,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "General Assembly",
+          "jockey": "Hollie Doyle",
+          "cd": 2,
+          "days": 17,
+          "odds": "13/2",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 1.08,
+          "ret": 1.76,
+          "bank": 109.6
+        }
+      ]
+    },
+    {
+      "time": "18:30",
+      "meeting": "Chelmsford City",
+      "name": "UK Garage Raceday 7th March Handicap",
+      "class": "6",
+      "distance": "1m 6f",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Smokey Malone",
+          "jockey": "Dylan Hogan",
+          "cd": 1,
+          "days": 21,
+          "odds": "10/3",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 1.1,
+          "ret": 3.67,
+          "bank": 113.27
+        }
+      ]
+    },
+    {
+      "time": "19:30",
+      "meeting": "Chelmsford City",
+      "name": "Chelmsford Mile Series Qualifier Handicap",
+      "class": "5",
+      "distance": "7f",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Chola Empire",
+          "jockey": "L Morris",
+          "cd": 2,
+          "days": 6,
+          "odds": "17/2",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 1.13,
+          "ret": -1.13,
+          "bank": 112.14
+        }
+      ]
+    }
+  ],
   "bank": {
-    "start": 10.0,
-    "stake": 0.1,
-    "end": 10.0
+    "start": 107.84,
+    "stake": 1.08,
+    "end": 112.14
   }
 }

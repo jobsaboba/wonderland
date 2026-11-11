@@ -1,7 +1,135 @@
 {
   "date": "2026-01-31",
-  "updated": "2026-11-11T05:52:36+0000",
+  "updated": "2026-11-11T08:41:49+0000",
   "races": [
+    {
+      "time": "12:35",
+      "meeting": "Lingfield",
+      "name": "BetMGM Supports Safer Gambling Handicap",
+      "class": "5",
+      "distance": "7f 1y",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Me Tarzan",
+          "jockey": "Harry Vigors",
+          "cd": 1,
+          "days": 17,
+          "odds": "4/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.48,
+          "ret": -0.48,
+          "bank": 47.83
+        }
+      ]
+    },
+    {
+      "time": "15:20",
+      "meeting": "Lingfield",
+      "name": "Midnite Ain't Your Grandad's Bookie Handicap (GBBPlus Race)",
+      "class": "4",
+      "distance": "1m 7f 169y",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Bashful Boy",
+          "jockey": "Jack Dace",
+          "cd": 1,
+          "days": 10,
+          "odds": "9/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.48,
+          "ret": -0.48,
+          "bank": 47.35
+        }
+      ]
+    },
+    {
+      "time": "15:55",
+      "meeting": "Lingfield",
+      "name": "Midnite: Built For 2026 Not 2006 Handicap",
+      "class": "4",
+      "distance": "5f 6y",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Master Of My Fate",
+          "jockey": "Mason Paetel",
+          "cd": 2,
+          "days": 14,
+          "odds": "15/2",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.47,
+          "ret": -0.47,
+          "bank": 46.88
+        },
+        {
+          "rank": 2,
+          "horse": "Diomed Spirit",
+          "jockey": "Rossa Ryan",
+          "cd": 2,
+          "days": 19,
+          "odds": "13/2",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.47,
+          "ret": -0.47,
+          "bank": 46.41
+        },
+        {
+          "rank": 3,
+          "horse": "Michaela's Boy",
+          "jockey": "L Morris",
+          "cd": 2,
+          "days": 19,
+          "odds": "4/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.46,
+          "ret": 0.46,
+          "bank": 46.87
+        }
+      ]
+    },
+    {
+      "time": "16:30",
+      "meeting": "Lingfield",
+      "name": "Win 250,000 With BetMGM's Golden Goals Handicap",
+      "class": "6",
+      "distance": "1m 1y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Dandy Khan",
+          "jockey": "Rossa Ryan",
+          "cd": 1,
+          "days": 21,
+          "odds": "4/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.47,
+          "ret": 0.47,
+          "bank": 47.34
+        }
+      ]
+    },
     {
       "time": "16:55",
       "meeting": "Newcastle",
@@ -21,9 +149,9 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.41,
-          "ret": -0.41,
-          "bank": 40.38
+          "stake": 0.47,
+          "ret": -0.47,
+          "bank": 46.87
         },
         {
           "rank": 2,
@@ -35,9 +163,9 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 0.4,
-          "ret": -0.4,
-          "bank": 39.98
+          "stake": 0.47,
+          "ret": -0.47,
+          "bank": 46.4
         },
         {
           "rank": 3,
@@ -49,9 +177,9 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.4,
-          "ret": -0.4,
-          "bank": 39.58
+          "stake": 0.46,
+          "ret": -0.46,
+          "bank": 45.94
         }
       ]
     },
@@ -74,9 +202,9 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.4,
-          "ret": -0.4,
-          "bank": 39.18
+          "stake": 0.46,
+          "ret": -0.46,
+          "bank": 45.48
         },
         {
           "rank": 2,
@@ -88,9 +216,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.39,
-          "ret": 0.49,
-          "bank": 39.67
+          "stake": 0.45,
+          "ret": 0.56,
+          "bank": 46.04
         }
       ]
     },
@@ -113,9 +241,9 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.4,
-          "ret": -0.4,
-          "bank": 39.27
+          "stake": 0.46,
+          "ret": -0.46,
+          "bank": 45.58
         },
         {
           "rank": 2,
@@ -127,9 +255,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.39,
-          "ret": 0.98,
-          "bank": 40.25
+          "stake": 0.46,
+          "ret": 1.15,
+          "bank": 46.73
         }
       ]
     },
@@ -152,16 +280,16 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.4,
-          "ret": -0.4,
-          "bank": 39.85
+          "stake": 0.47,
+          "ret": -0.47,
+          "bank": 46.26
         }
       ]
     }
   ],
   "bank": {
-    "start": 40.79,
-    "stake": 0.41,
-    "end": 39.85
+    "start": 48.31,
+    "stake": 0.48,
+    "end": 46.26
   }
 }

@@ -1,10 +1,125 @@
 {
   "date": "2026-05-06",
-  "updated": "2026-11-11T05:52:42+0000",
-  "races": [],
+  "updated": "2026-11-11T08:41:56+0000",
+  "races": [
+    {
+      "time": "17:00",
+      "meeting": "Kempton",
+      "name": "Unibet Supports Safer Gambling 'Hands And Heels' Apprentice Handicap",
+      "class": "6",
+      "distance": "1m",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Port Noir",
+          "jockey": "Matthew Slater",
+          "cd": 2,
+          "days": 19,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 6.66,
+          "ret": -6.66,
+          "bank": 659.48
+        },
+        {
+          "rank": 2,
+          "horse": "Aim For The Bull",
+          "jockey": "Alfie Redman",
+          "cd": 1,
+          "days": 25,
+          "odds": "11/2",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 6.59,
+          "ret": -6.59,
+          "bank": 652.89
+        }
+      ]
+    },
+    {
+      "time": "17:30",
+      "meeting": "Kempton",
+      "name": "Bet 20 Get 20 With Unibet Handicap",
+      "class": "5",
+      "distance": "1m",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Chapman's Peak",
+          "jockey": "P J McDonald",
+          "cd": 1,
+          "days": 19,
+          "odds": "15/2",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 6.53,
+          "ret": -6.53,
+          "bank": 646.36
+        }
+      ]
+    },
+    {
+      "time": "19:00",
+      "meeting": "Kempton",
+      "name": "Try Unibet's New Improved Acca Boosts Handicap",
+      "class": "4",
+      "distance": "7f",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Farasi Lane",
+          "jockey": "Hollie Doyle",
+          "cd": 1,
+          "days": 11,
+          "odds": "11/2",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 6.46,
+          "ret": -6.46,
+          "bank": 639.9
+        }
+      ]
+    },
+    {
+      "time": "20:00",
+      "meeting": "Kempton",
+      "name": "Unibet's 3 Uniboosts A Day Handicap",
+      "class": "6",
+      "distance": "6f",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Elvetham",
+          "jockey": "Jack Gilligan",
+          "cd": 1,
+          "days": 6,
+          "odds": "13/2",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 6.4,
+          "ret": 10.4,
+          "bank": 650.3
+        }
+      ]
+    }
+  ],
   "bank": {
-    "start": 10.0,
-    "stake": 0.1,
-    "end": 10.0
+    "start": 666.14,
+    "stake": 6.66,
+    "end": 650.3
   }
 }

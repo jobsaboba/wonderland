@@ -1,7 +1,132 @@
 {
   "date": "2026-04-30",
-  "updated": "2026-11-11T05:52:41+0000",
+  "updated": "2026-11-11T08:41:56+0000",
   "races": [
+    {
+      "time": "13:55",
+      "meeting": "Lingfield",
+      "name": "13th Barry Gurr Memorial Handicap (Div 1)",
+      "class": "6",
+      "distance": "6f 1y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Poetic Jack",
+          "jockey": "Hollie Doyle",
+          "cd": 1,
+          "days": 15,
+          "odds": "10/3",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 6.79,
+          "ret": -6.79,
+          "bank": 671.81
+        }
+      ]
+    },
+    {
+      "time": "15:35",
+      "meeting": "Lingfield",
+      "name": "Free Bets On attheraces.com Fillies' Handicap",
+      "class": "5",
+      "distance": "1m 2f",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Bergamo Gold",
+          "jockey": "David Probert",
+          "cd": 1,
+          "days": 16,
+          "odds": "6/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 6.72,
+          "ret": -6.72,
+          "bank": 665.09
+        }
+      ]
+    },
+    {
+      "time": "16:07",
+      "meeting": "Lingfield",
+      "name": "Newsteam Group Handicap",
+      "class": "6",
+      "distance": "1m 1y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Antiquity",
+          "jockey": "William Carver",
+          "cd": 2,
+          "days": 22,
+          "odds": "7/2",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 6.65,
+          "ret": -6.65,
+          "bank": 658.44
+        }
+      ]
+    },
+    {
+      "time": "16:40",
+      "meeting": "Lingfield",
+      "name": "Sky Sports Racing Virgin 512 Handicap",
+      "class": "5",
+      "distance": "7f 1y",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Bella Bisbee",
+          "jockey": "K T O'Neill",
+          "cd": 1,
+          "days": 16,
+          "odds": "10/3",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 6.58,
+          "ret": -6.58,
+          "bank": 651.86
+        }
+      ]
+    },
+    {
+      "time": "17:10",
+      "meeting": "Lingfield",
+      "name": "Download The At The Races App Handicap",
+      "class": "6",
+      "distance": "1m 4f",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Upepo",
+          "jockey": "Myla Coppins",
+          "cd": 4,
+          "days": 22,
+          "odds": "4/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 6.52,
+          "ret": -6.52,
+          "bank": 645.34
+        }
+      ]
+    },
     {
       "time": "18:00",
       "meeting": "Southwell",
@@ -21,9 +146,9 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 3.76,
-          "ret": -3.76,
-          "bank": 372.59
+          "stake": 6.45,
+          "ret": -6.45,
+          "bank": 638.89
         },
         {
           "rank": 2,
@@ -35,16 +160,41 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 3.73,
-          "ret": -3.73,
-          "bank": 368.86
+          "stake": 6.39,
+          "ret": -6.39,
+          "bank": 632.5
+        }
+      ]
+    },
+    {
+      "time": "18:15",
+      "meeting": "Kempton",
+      "name": "Get Best Odds Guaranteed At Unibet Handicap",
+      "class": "5",
+      "distance": "1m",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Berry Clever",
+          "jockey": "Marco Ghiani",
+          "cd": 1,
+          "days": 24,
+          "odds": "16/5",
+          "mark": -1,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 6.33,
+          "ret": 5.06,
+          "bank": 637.56
         }
       ]
     }
   ],
   "bank": {
-    "start": 376.35,
-    "stake": 3.76,
-    "end": 368.86
+    "start": 678.6,
+    "stake": 6.79,
+    "end": 637.56
   }
 }

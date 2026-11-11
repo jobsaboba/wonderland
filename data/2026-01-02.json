@@ -1,7 +1,71 @@
 {
   "date": "2026-01-02",
-  "updated": "2026-11-11T05:52:35+0000",
+  "updated": "2026-11-11T08:41:47+0000",
   "races": [
+    {
+      "time": "14:12",
+      "meeting": "Chelmsford City",
+      "name": "Chelmsford Mile Series Qualifying Handicap",
+      "class": "5",
+      "distance": "7f",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Chola Empire",
+          "jockey": "Dylan Hogan",
+          "cd": 2,
+          "days": 14,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.12,
+          "ret": -0.12,
+          "bank": 11.7
+        }
+      ]
+    },
+    {
+      "time": "15:12",
+      "meeting": "Chelmsford City",
+      "name": "Chelmsford Mile Series Qualifying Handicap",
+      "class": "6",
+      "distance": "1m",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Rising Force",
+          "jockey": "Dylan Hogan",
+          "cd": 1,
+          "days": 15,
+          "odds": "13/2",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.12,
+          "ret": -0.12,
+          "bank": 11.58
+        },
+        {
+          "rank": 2,
+          "horse": "Gladiadora",
+          "jockey": "H Crouch",
+          "cd": 1,
+          "days": 18,
+          "odds": "18/5",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.12,
+          "ret": -0.12,
+          "bank": 11.46
+        }
+      ]
+    },
     {
       "time": "16:30",
       "meeting": "Wolverhampton",
@@ -21,9 +85,9 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 0.12,
-          "ret": -0.12,
-          "bank": 11.7
+          "stake": 0.11,
+          "ret": -0.11,
+          "bank": 11.35
         }
       ]
     },
@@ -46,9 +110,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.12,
-          "ret": 0.36,
-          "bank": 12.06
+          "stake": 0.11,
+          "ret": 0.33,
+          "bank": 11.68
         }
       ]
     },
@@ -73,7 +137,7 @@
           "res": "PLACE",
           "stake": 0.12,
           "ret": 0.12,
-          "bank": 12.18
+          "bank": 11.8
         },
         {
           "rank": 2,
@@ -87,7 +151,7 @@
           "res": "LOSE",
           "stake": 0.12,
           "ret": -0.12,
-          "bank": 12.06
+          "bank": 11.68
         },
         {
           "rank": 3,
@@ -101,7 +165,7 @@
           "res": "LOSE",
           "stake": 0.12,
           "ret": -0.12,
-          "bank": 11.94
+          "bank": 11.56
         }
       ]
     },
@@ -126,7 +190,7 @@
           "res": "LOSE",
           "stake": 0.12,
           "ret": -0.12,
-          "bank": 11.82
+          "bank": 11.44
         }
       ]
     }
@@ -134,6 +198,6 @@
   "bank": {
     "start": 11.82,
     "stake": 0.12,
-    "end": 11.82
+    "end": 11.44
   }
 }

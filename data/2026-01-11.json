@@ -1,10 +1,36 @@
 {
   "date": "2026-01-11",
-  "updated": "2026-11-11T05:52:35+0000",
-  "races": [],
+  "updated": "2026-11-11T08:41:48+0000",
+  "races": [
+    {
+      "time": "14:12",
+      "meeting": "Chelmsford City",
+      "name": "Betfred Best Odds All Races Handicap",
+      "class": "5",
+      "distance": "6f",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Em Four",
+          "jockey": "C J Whiteley",
+          "cd": 2,
+          "days": 9,
+          "odds": "7/2",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.17,
+          "ret": -0.17,
+          "bank": 16.42
+        }
+      ]
+    }
+  ],
   "bank": {
-    "start": 10.0,
-    "stake": 0.1,
-    "end": 10.0
+    "start": 16.59,
+    "stake": 0.17,
+    "end": 16.42
   }
 }

@@ -1,10 +1,36 @@
 {
   "date": "2026-08-11",
-  "updated": "2026-11-11T05:52:47+0000",
-  "races": [],
+  "updated": "2026-11-11T08:42:03+0000",
+  "races": [
+    {
+      "time": "16:00",
+      "meeting": "Lingfield",
+      "name": "Follow attheraces On Instagram Apprentice Handicap",
+      "class": "6",
+      "distance": "7f 1y",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Jackson Street",
+          "jockey": "S C Cronin",
+          "cd": 1,
+          "days": 10,
+          "odds": "4/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 17.04,
+          "ret": -17.04,
+          "bank": 1687.06
+        }
+      ]
+    }
+  ],
   "bank": {
-    "start": 10.0,
-    "stake": 0.1,
-    "end": 10.0
+    "start": 1704.1,
+    "stake": 17.04,
+    "end": 1687.06
   }
 }

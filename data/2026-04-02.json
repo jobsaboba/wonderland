@@ -1,7 +1,96 @@
 {
   "date": "2026-04-02",
-  "updated": "2026-11-11T05:52:40+0000",
+  "updated": "2026-11-11T08:41:54+0000",
   "races": [
+    {
+      "time": "12:52",
+      "meeting": "Chelmsford City",
+      "name": "CCR Supports Unpaid Carers 4th June Apprentice Handicap",
+      "class": "6",
+      "distance": "6f",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Forever Noah",
+          "jockey": "Warren Fentiman",
+          "cd": 1,
+          "days": 3,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 3.53,
+          "ret": null,
+          "bank": 352.55
+        },
+        {
+          "rank": 2,
+          "horse": "Sir Rodneyredblood",
+          "jockey": "Taylor Fisher",
+          "cd": 4,
+          "days": 26,
+          "odds": "7/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 3.53,
+          "ret": null,
+          "bank": 352.55
+        }
+      ]
+    },
+    {
+      "time": "13:22",
+      "meeting": "Chelmsford City",
+      "name": "Oliver And Elsie Special Handicap",
+      "class": "4",
+      "distance": "5f",
+      "riders": 7,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Almaty Star",
+          "jockey": "J Mitchell",
+          "cd": 1,
+          "days": 24,
+          "odds": "3/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 3.53,
+          "ret": null,
+          "bank": 352.55
+        }
+      ]
+    },
+    {
+      "time": "15:53",
+      "meeting": "Chelmsford City",
+      "name": "Shirley Rose Easter Special Handicap",
+      "class": "6",
+      "distance": "1m 2f",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "He's Our Cracker",
+          "jockey": "George Wood",
+          "cd": 1,
+          "days": 21,
+          "odds": "3/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 3.53,
+          "ret": null,
+          "bank": 352.55
+        }
+      ]
+    },
     {
       "time": "16:48",
       "meeting": "Southwell",
@@ -21,9 +110,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 2.2,
-          "ret": 2.48,
-          "bank": 222.54
+          "stake": 3.53,
+          "ret": 3.97,
+          "bank": 356.52
         }
       ]
     },
@@ -46,9 +135,9 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 2.23,
-          "ret": -2.23,
-          "bank": 220.31
+          "stake": 3.57,
+          "ret": -3.57,
+          "bank": 352.95
         }
       ]
     },
@@ -71,9 +160,9 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 2.2,
-          "ret": -2.2,
-          "bank": 218.11
+          "stake": 3.53,
+          "ret": -3.53,
+          "bank": 349.42
         }
       ]
     },
@@ -96,16 +185,16 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 2.18,
-          "ret": 11.99,
-          "bank": 230.1
+          "stake": 3.49,
+          "ret": 19.2,
+          "bank": 368.62
         }
       ]
     }
   ],
   "bank": {
-    "start": 220.06,
-    "stake": 2.2,
-    "end": 230.1
+    "start": 352.55,
+    "stake": 3.53,
+    "end": 368.62
   }
 }

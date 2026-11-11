@@ -1,7 +1,32 @@
 {
   "date": "2026-09-01",
-  "updated": "2026-11-11T05:52:48+0000",
+  "updated": "2026-11-11T08:42:05+0000",
   "races": [
+    {
+      "time": "16:25",
+      "meeting": "Lingfield",
+      "name": "Racing Partnership Celebrating 10 Years Handicap",
+      "class": "6",
+      "distance": "6f 1y",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Lahina Bay",
+          "jockey": "Taylor Fisher",
+          "cd": 1,
+          "days": 19,
+          "odds": "9/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 19.18,
+          "ret": 43.16,
+          "bank": 1961.46
+        }
+      ]
+    },
     {
       "time": "17:55",
       "meeting": "Wolverhampton",
@@ -21,9 +46,9 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 10.68,
-          "ret": -10.68,
-          "bank": 1057.32
+          "stake": 19.61,
+          "ret": -19.61,
+          "bank": 1941.85
         }
       ]
     },
@@ -46,9 +71,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 10.57,
-          "ret": 10.57,
-          "bank": 1067.89
+          "stake": 19.42,
+          "ret": 19.42,
+          "bank": 1961.27
         },
         {
           "rank": 2,
@@ -60,16 +85,16 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 10.68,
-          "ret": 10.68,
-          "bank": 1078.57
+          "stake": 19.61,
+          "ret": 19.61,
+          "bank": 1980.88
         }
       ]
     }
   ],
   "bank": {
-    "start": 1068.0,
-    "stake": 10.68,
-    "end": 1078.57
+    "start": 1918.3,
+    "stake": 19.18,
+    "end": 1980.88
   }
 }

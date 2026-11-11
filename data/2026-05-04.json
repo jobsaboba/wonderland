@@ -1,10 +1,36 @@
 {
   "date": "2026-05-04",
-  "updated": "2026-11-11T05:52:42+0000",
-  "races": [],
+  "updated": "2026-11-11T08:41:56+0000",
+  "races": [
+    {
+      "time": "15:55",
+      "meeting": "Kempton",
+      "name": "Injured Jockeys Fund Handicap",
+      "class": "5",
+      "distance": "1m 2f 219y",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Dust Cover",
+          "jockey": "Paddy Bradley",
+          "cd": 1,
+          "days": 22,
+          "odds": "7/2",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 6.48,
+          "ret": 5.67,
+          "bank": 653.51
+        }
+      ]
+    }
+  ],
   "bank": {
-    "start": 10.0,
-    "stake": 0.1,
-    "end": 10.0
+    "start": 647.84,
+    "stake": 6.48,
+    "end": 653.51
   }
 }

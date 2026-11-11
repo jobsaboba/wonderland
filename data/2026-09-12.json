@@ -1,10 +1,86 @@
 {
   "date": "2026-09-12",
-  "updated": "2026-11-11T05:52:49+0000",
-  "races": [],
+  "updated": "2026-11-11T08:42:06+0000",
+  "races": [
+    {
+      "time": "13:49",
+      "meeting": "Lingfield",
+      "name": "Happy 60th Jacqueline Handicap",
+      "class": "6",
+      "distance": "1m 1y",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Borderline Madness",
+          "jockey": "Ray Dawson",
+          "cd": 1,
+          "days": 28,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 23.31,
+          "ret": -23.31,
+          "bank": 2307.58
+        }
+      ]
+    },
+    {
+      "time": "15:00",
+      "meeting": "Lingfield",
+      "name": "Free Race Replays On attheraces.com Handicap",
+      "class": "3",
+      "distance": "5f 6y",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Kylian",
+          "jockey": "Edward Greatrex",
+          "cd": 1,
+          "days": 14,
+          "odds": "4/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 23.08,
+          "ret": -23.08,
+          "bank": 2284.5
+        }
+      ]
+    },
+    {
+      "time": "17:17",
+      "meeting": "Lingfield",
+      "name": "Follow AtTheRaces On X Handicap",
+      "class": "6",
+      "distance": "6f 1y",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Mart",
+          "jockey": "Ashley Lewis",
+          "cd": 2,
+          "days": 2,
+          "odds": "4/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 22.84,
+          "ret": -22.84,
+          "bank": 2261.66
+        }
+      ]
+    }
+  ],
   "bank": {
-    "start": 10.0,
-    "stake": 0.1,
-    "end": 10.0
+    "start": 2330.89,
+    "stake": 23.31,
+    "end": 2261.66
   }
 }
