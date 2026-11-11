@@ -1,6 +1,6 @@
 {
   "date": "2026-02-10",
-  "updated": "2026-11-09T06:58:22+0000",
+  "updated": "2026-11-11T05:52:37+0000",
   "races": [
     {
       "time": "17:45",
@@ -21,7 +21,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.47
+          "stake": 0.62,
+          "ret": 1.24,
+          "bank": 63.35
         },
         {
           "rank": 2,
@@ -33,7 +35,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.48
+          "stake": 0.63,
+          "ret": 3.15,
+          "bank": 66.5
         }
       ]
     },
@@ -56,7 +60,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.5
+          "stake": 0.67,
+          "ret": 0.5,
+          "bank": 67.0
         },
         {
           "rank": 2,
@@ -68,7 +74,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.51
+          "stake": 0.67,
+          "ret": 2.01,
+          "bank": 69.01
         },
         {
           "rank": 3,
@@ -80,7 +88,9 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.52
+          "stake": 0.69,
+          "ret": -0.69,
+          "bank": 68.32
         }
       ]
     },
@@ -103,7 +113,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.52
+          "stake": 0.68,
+          "ret": 1.02,
+          "bank": 69.34
         },
         {
           "rank": 2,
@@ -115,14 +127,16 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.53
+          "stake": 0.69,
+          "ret": 2.42,
+          "bank": 71.76
         }
       ]
     }
   ],
   "bank": {
-    "start": 47.04,
-    "stake": 0.47,
-    "end": 54.4
+    "start": 62.11,
+    "stake": 0.62,
+    "end": 71.76
   }
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-01-16",
-  "updated": "2026-11-09T06:58:20+0000",
+  "updated": "2026-11-11T05:52:35+0000",
   "races": [
     {
       "time": "12:30",
@@ -21,7 +21,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.16
+          "stake": 0.18,
+          "ret": 1.8,
+          "bank": 19.41
         },
         {
           "rank": 2,
@@ -33,7 +35,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.18
+          "stake": 0.19,
+          "ret": 0.19,
+          "bank": 19.6
         }
       ]
     },
@@ -56,7 +60,9 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.18
+          "stake": 0.2,
+          "ret": -0.2,
+          "bank": 19.4
         },
         {
           "rank": 2,
@@ -68,7 +74,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.18
+          "stake": 0.19,
+          "ret": 0.33,
+          "bank": 19.73
         },
         {
           "rank": 3,
@@ -80,7 +88,9 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.18
+          "stake": 0.2,
+          "ret": -0.2,
+          "bank": 19.53
         }
       ]
     },
@@ -103,7 +113,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.18
+          "stake": 0.2,
+          "ret": 0.17,
+          "bank": 19.7
         }
       ]
     },
@@ -126,7 +138,34 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.18
+          "stake": 0.2,
+          "ret": -0.2,
+          "bank": 19.5
+        }
+      ]
+    },
+    {
+      "time": "16:15",
+      "meeting": "Dundalk",
+      "name": "Floodlit Fridays At Dundalk Handicap",
+      "class": "",
+      "distance": "6f",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Mehman",
+          "jockey": "J M Sheridan",
+          "cd": 1,
+          "days": 7,
+          "odds": "9/1",
+          "mark": null,
+          "pos": 3,
+          "res": "LOSE",
+          "stake": 0.2,
+          "ret": -0.2,
+          "bank": 19.3
         }
       ]
     },
@@ -149,7 +188,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.18
+          "stake": 0.19,
+          "ret": 0.31,
+          "bank": 19.61
         }
       ]
     },
@@ -172,7 +213,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.18
+          "stake": 0.2,
+          "ret": 0.17,
+          "bank": 19.78
         },
         {
           "rank": 2,
@@ -184,7 +227,34 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.19
+          "stake": 0.2,
+          "ret": -0.2,
+          "bank": 19.58
+        }
+      ]
+    },
+    {
+      "time": "17:15",
+      "meeting": "Dundalk",
+      "name": "View Restaurant At Dundalk Stadium Handicap",
+      "class": "",
+      "distance": "2m",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Numidia",
+          "jockey": "Rory Cleary",
+          "cd": 1,
+          "days": 28,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.2,
+          "ret": -0.2,
+          "bank": 19.38
         }
       ]
     },
@@ -207,7 +277,9 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.18
+          "stake": 0.19,
+          "ret": -0.19,
+          "bank": 19.19
         },
         {
           "rank": 2,
@@ -219,7 +291,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.18
+          "stake": 0.19,
+          "ret": 0.61,
+          "bank": 19.8
         },
         {
           "rank": 3,
@@ -231,7 +305,34 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.19
+          "stake": 0.2,
+          "ret": 0.17,
+          "bank": 19.97
+        }
+      ]
+    },
+    {
+      "time": "18:15",
+      "meeting": "Dundalk",
+      "name": "Book Online At DundalkStadium.com Handicap",
+      "class": "",
+      "distance": "7f",
+      "riders": 15,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Clonmacash",
+          "jockey": "Sam Coen",
+          "cd": 2,
+          "days": 7,
+          "odds": "10/3",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.2,
+          "ret": 0.67,
+          "bank": 20.64
         }
       ]
     },
@@ -254,7 +355,9 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 0.19
+          "stake": 0.21,
+          "ret": -0.21,
+          "bank": 20.43
         },
         {
           "rank": 2,
@@ -266,7 +369,9 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.19
+          "stake": 0.2,
+          "ret": -0.2,
+          "bank": 20.23
         },
         {
           "rank": 3,
@@ -278,7 +383,62 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.19
+          "stake": 0.2,
+          "ret": -0.2,
+          "bank": 20.03
+        }
+      ]
+    },
+    {
+      "time": "18:45",
+      "meeting": "Dundalk",
+      "name": "BAR 1 Betting Download Our New App Handicap",
+      "class": "",
+      "distance": "1m",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Darkdeserthighway",
+          "jockey": "Leigh Roche",
+          "cd": 3,
+          "days": 28,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.2,
+          "ret": 0.4,
+          "bank": 20.43
+        },
+        {
+          "rank": 2,
+          "horse": "Mulgrave",
+          "jockey": "Declan McDonogh",
+          "cd": 6,
+          "days": 28,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.2,
+          "ret": -0.2,
+          "bank": 20.23
+        },
+        {
+          "rank": 3,
+          "horse": "Ocean Manifest",
+          "jockey": "Jack Kearney",
+          "cd": 1,
+          "days": 28,
+          "odds": "10/3",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.2,
+          "ret": 0.67,
+          "bank": 20.9
         }
       ]
     },
@@ -301,14 +461,41 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.18
+          "stake": 0.21,
+          "ret": 0.47,
+          "bank": 21.37
+        }
+      ]
+    },
+    {
+      "time": "19:15",
+      "meeting": "Dundalk",
+      "name": "View Restaurant At Dundalk Stadium Handicap (0-60)",
+      "class": "",
+      "distance": "1m 4f",
+      "riders": 17,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Jawhary",
+          "jockey": "Declan McDonogh",
+          "cd": 1,
+          "days": 28,
+          "odds": "10/3",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.21,
+          "ret": 0.7,
+          "bank": 22.07
         }
       ]
     }
   ],
   "bank": {
-    "start": 16.37,
-    "stake": 0.16,
-    "end": 18.72
+    "start": 17.61,
+    "stake": 0.18,
+    "end": 22.07
   }
 }

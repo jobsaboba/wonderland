@@ -1,10 +1,89 @@
 {
   "date": "2026-05-26",
-  "updated": "2026-11-09T06:58:27+0000",
-  "races": [],
+  "updated": "2026-11-11T05:52:43+0000",
+  "races": [
+    {
+      "time": "17:48",
+      "meeting": "Dundalk",
+      "name": "Put The Fun In Fundraising At Dundalk Handicap",
+      "class": "",
+      "distance": "5f",
+      "riders": 13,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Arctic Steps",
+          "jockey": "Patrick McGettigan",
+          "cd": 1,
+          "days": 17,
+          "odds": "6/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 4.53,
+          "ret": -4.53,
+          "bank": 448.52
+        },
+        {
+          "rank": 2,
+          "horse": "Collective Power",
+          "jockey": "Ben Coen",
+          "cd": 2,
+          "days": 17,
+          "odds": "13/2",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 4.49,
+          "ret": 7.3,
+          "bank": 455.82
+        },
+        {
+          "rank": 3,
+          "horse": "Sovereign Cry",
+          "jockey": "Terry Casey",
+          "cd": 1,
+          "days": 17,
+          "odds": "9/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 4.56,
+          "ret": -4.56,
+          "bank": 451.26
+        }
+      ]
+    },
+    {
+      "time": "18:48",
+      "meeting": "Dundalk",
+      "name": "Family Fun Day Saturday 15th August Handicap (0-60)",
+      "class": "",
+      "distance": "1m 4f",
+      "riders": 15,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Jawhary",
+          "jockey": "Adam Caffrey",
+          "cd": 2,
+          "days": 18,
+          "odds": "6/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 4.51,
+          "ret": -4.51,
+          "bank": 446.75
+        }
+      ]
+    }
+  ],
   "bank": {
-    "start": 10.0,
-    "stake": 0.1,
-    "end": 10.0
+    "start": 453.05,
+    "stake": 4.53,
+    "end": 446.75
   }
 }

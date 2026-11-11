@@ -1,7 +1,60 @@
 {
   "date": "2026-02-13",
-  "updated": "2026-11-09T06:58:22+0000",
+  "updated": "2026-11-11T05:52:37+0000",
   "races": [
+    {
+      "time": "16:28",
+      "meeting": "Dundalk",
+      "name": "Irishinjuredjockeys.com Handicap",
+      "class": "",
+      "distance": "5f",
+      "riders": 13,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Hasiyna",
+          "jockey": "Jessica Maye",
+          "cd": 1,
+          "days": 2,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.76,
+          "ret": -0.76,
+          "bank": 74.92
+        },
+        {
+          "rank": 2,
+          "horse": "Inishmot Prince",
+          "jockey": "James Ryan",
+          "cd": 6,
+          "days": 16,
+          "odds": "11/2",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.75,
+          "ret": -0.75,
+          "bank": 74.17
+        },
+        {
+          "rank": 3,
+          "horse": "Sporting Hero",
+          "jockey": "Elizabeth Gale",
+          "cd": 2,
+          "days": 16,
+          "odds": "11/2",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.74,
+          "ret": 4.07,
+          "bank": 78.24
+        }
+      ]
+    },
     {
       "time": "18:45",
       "meeting": "Wolverhampton",
@@ -21,7 +74,9 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.59
+          "stake": 0.78,
+          "ret": -0.78,
+          "bank": 77.46
         },
         {
           "rank": 2,
@@ -33,7 +88,34 @@
           "mark": null,
           "pos": 3,
           "res": "LOSE",
-          "stake": 0.58
+          "stake": 0.77,
+          "ret": -0.77,
+          "bank": 76.69
+        }
+      ]
+    },
+    {
+      "time": "19:30",
+      "meeting": "Dundalk",
+      "name": "View Restaurant At Dundalk Stadium Handicap",
+      "class": "",
+      "distance": "1m 2f 150y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Unterberg",
+          "jockey": "Rory Mulligan",
+          "cd": 1,
+          "days": 14,
+          "odds": "3/1",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.77,
+          "ret": 2.31,
+          "bank": 79.0
         }
       ]
     },
@@ -56,7 +138,9 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.57
+          "stake": 0.79,
+          "ret": -0.79,
+          "bank": 78.21
         },
         {
           "rank": 2,
@@ -68,14 +152,16 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.57
+          "stake": 0.78,
+          "ret": 0.88,
+          "bank": 79.09
         }
       ]
     }
   ],
   "bank": {
-    "start": 58.57,
-    "stake": 0.59,
-    "end": 57.47
+    "start": 75.68,
+    "stake": 0.76,
+    "end": 79.09
   }
 }

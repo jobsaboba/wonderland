@@ -1,6 +1,6 @@
 {
   "date": "2026-09-17",
-  "updated": "2026-11-09T06:58:33+0000",
+  "updated": "2026-11-11T05:52:49+0000",
   "races": [
     {
       "time": "15:50",
@@ -21,7 +21,9 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 8.16
+          "stake": 14.59,
+          "ret": -14.59,
+          "bank": 1444.42
         },
         {
           "rank": 2,
@@ -33,7 +35,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 8.08
+          "stake": 14.44,
+          "ret": 12.03,
+          "bank": 1456.45
         }
       ]
     },
@@ -56,7 +60,9 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 8.15
+          "stake": 14.56,
+          "ret": -14.56,
+          "bank": 1441.89
         }
       ]
     },
@@ -79,14 +85,16 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 8.06
+          "stake": 14.42,
+          "ret": 16.22,
+          "bank": 1458.11
         }
       ]
     }
   ],
   "bank": {
-    "start": 815.94,
-    "stake": 8.16,
-    "end": 815.43
+    "start": 1459.01,
+    "stake": 14.59,
+    "end": 1458.11
   }
 }

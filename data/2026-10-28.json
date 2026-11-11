@@ -1,10 +1,100 @@
 {
   "date": "2026-10-28",
-  "updated": "2026-11-09T06:58:36+0000",
-  "races": [],
+  "updated": "2026-11-11T05:52:52+0000",
+  "races": [
+    {
+      "time": "14:30",
+      "meeting": "Dundalk",
+      "name": "Halloween Mid-Term Racing At Dundalk Handicap",
+      "class": "",
+      "distance": "1m",
+      "riders": 13,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Moyassr",
+          "jockey": "Cillian Rowan",
+          "cd": 4,
+          "days": 28,
+          "odds": "11/2",
+          "mark": null,
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 23.45,
+          "ret": -23.45,
+          "bank": 2322.03
+        }
+      ]
+    },
+    {
+      "time": "16:00",
+      "meeting": "Dundalk",
+      "name": "Christmas Party Nights At Dundalk Stadium Handicap (0-60) (Div 1)",
+      "class": "",
+      "distance": "7f",
+      "riders": 15,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "The Bear Trap",
+          "jockey": "Sam Coen",
+          "cd": 1,
+          "days": 16,
+          "odds": "6/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 23.22,
+          "ret": -23.22,
+          "bank": 2298.81
+        },
+        {
+          "rank": 2,
+          "horse": "Battleforsupremacy",
+          "jockey": "Patrick McGettigan",
+          "cd": 1,
+          "days": 19,
+          "odds": "7/2",
+          "mark": null,
+          "pos": 11,
+          "res": "LOSE",
+          "stake": 22.99,
+          "ret": -22.99,
+          "bank": 2275.82
+        }
+      ]
+    },
+    {
+      "time": "17:30",
+      "meeting": "Dundalk",
+      "name": "Happy Halloween Handicap",
+      "class": "",
+      "distance": "1m 4f",
+      "riders": 17,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Gallo Dell Cielo",
+          "jockey": "Robyn Donaghue-Leahy",
+          "cd": 2,
+          "days": 13,
+          "odds": "10/3",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 22.76,
+          "ret": 75.87,
+          "bank": 2351.69
+        }
+      ]
+    }
+  ],
   "bank": {
-    "start": 10.0,
-    "stake": 0.1,
-    "end": 10.0
+    "start": 2345.48,
+    "stake": 23.45,
+    "end": 2351.69
   }
 }

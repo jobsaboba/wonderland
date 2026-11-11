@@ -1,10 +1,114 @@
 {
   "date": "2026-10-09",
-  "updated": "2026-11-09T06:58:35+0000",
-  "races": [],
+  "updated": "2026-11-11T05:52:51+0000",
+  "races": [
+    {
+      "time": "17:30",
+      "meeting": "Dundalk",
+      "name": "Irishinjuredjockeys.com Handicap (Div 2)",
+      "class": "",
+      "distance": "7f",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Send Harry",
+          "jockey": "Adam Browne-Souza",
+          "cd": 1,
+          "days": 11,
+          "odds": "10/3",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 22.43,
+          "ret": 74.77,
+          "bank": 2318.08
+        },
+        {
+          "rank": 2,
+          "horse": "Una Matata",
+          "jockey": "Adam Caffrey",
+          "cd": 3,
+          "days": 11,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 23.18,
+          "ret": -23.18,
+          "bank": 2294.9
+        }
+      ]
+    },
+    {
+      "time": "18:30",
+      "meeting": "Dundalk",
+      "name": "View Restaurant At Dundalk Stadium Apprentice Handicap (0-60)",
+      "class": "",
+      "distance": "1m 2f 150y",
+      "riders": 17,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Doctor Grace",
+          "jockey": "Reese Holohan",
+          "cd": 1,
+          "days": 21,
+          "odds": "7/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 22.95,
+          "ret": -22.95,
+          "bank": 2271.95
+        },
+        {
+          "rank": 2,
+          "horse": "Jazz Forever",
+          "jockey": "Jack Kearney",
+          "cd": 1,
+          "days": 21,
+          "odds": "6/1",
+          "mark": null,
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 22.72,
+          "ret": -22.72,
+          "bank": 2249.23
+        }
+      ]
+    },
+    {
+      "time": "19:30",
+      "meeting": "Dundalk",
+      "name": "Christmas Party Nights At Dundalk Handicap",
+      "class": "",
+      "distance": "1m 4f",
+      "riders": 5,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Tribal Star",
+          "jockey": "Adam Caffrey",
+          "cd": 1,
+          "days": 18,
+          "odds": "6/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 22.49,
+          "ret": -22.49,
+          "bank": 2226.74
+        }
+      ]
+    }
+  ],
   "bank": {
-    "start": 10.0,
-    "stake": 0.1,
-    "end": 10.0
+    "start": 2243.31,
+    "stake": 22.43,
+    "end": 2226.74
   }
 }

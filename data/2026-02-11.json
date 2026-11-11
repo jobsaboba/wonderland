@@ -1,7 +1,32 @@
 {
   "date": "2026-02-11",
-  "updated": "2026-11-09T06:58:22+0000",
+  "updated": "2026-11-11T05:52:37+0000",
   "races": [
+    {
+      "time": "14:08",
+      "meeting": "Dundalk",
+      "name": "Put The Fun In Fundraising At Dundalk Handicap (0-60)",
+      "class": "",
+      "distance": "6f",
+      "riders": 15,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Hero Of The Hour",
+          "jockey": "Sadhbh Tormey",
+          "cd": 3,
+          "days": 19,
+          "odds": "7/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.72,
+          "ret": -0.72,
+          "bank": 71.04
+        }
+      ]
+    },
     {
       "time": "14:14",
       "meeting": "Southwell",
@@ -21,7 +46,9 @@
           "mark": null,
           "pos": 3,
           "res": "LOSE",
-          "stake": 0.54
+          "stake": 0.71,
+          "ret": -0.71,
+          "bank": 70.33
         }
       ]
     },
@@ -44,7 +71,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.54
+          "stake": 0.7,
+          "ret": 1.05,
+          "bank": 71.38
         }
       ]
     },
@@ -67,7 +96,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.55
+          "stake": 0.71,
+          "ret": 1.77,
+          "bank": 73.15
         }
       ]
     },
@@ -90,14 +121,41 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.56
+          "stake": 0.73,
+          "ret": 3.29,
+          "bank": 76.44
+        }
+      ]
+    },
+    {
+      "time": "17:12",
+      "meeting": "Dundalk",
+      "name": "View Restaurant At Dundalk Stadium Handicap",
+      "class": "",
+      "distance": "1m 2f 150y",
+      "riders": 6,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Walhaan",
+          "jockey": "Patrick McGettigan",
+          "cd": 4,
+          "days": 14,
+          "odds": "10/3",
+          "mark": null,
+          "pos": 3,
+          "res": "LOSE",
+          "stake": 0.76,
+          "ret": -0.76,
+          "bank": 75.68
         }
       ]
     }
   ],
   "bank": {
-    "start": 54.4,
-    "stake": 0.54,
-    "end": 58.57
+    "start": 71.76,
+    "stake": 0.72,
+    "end": 75.68
   }
 }

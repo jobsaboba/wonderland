@@ -1,6 +1,6 @@
 {
   "date": "2026-10-30",
-  "updated": "2026-11-09T06:58:36+0000",
+  "updated": "2026-11-11T05:52:52+0000",
   "races": [
     {
       "time": "16:15",
@@ -21,7 +21,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 12.76
+          "stake": 23.28,
+          "ret": 77.6,
+          "bank": 2405.77
         }
       ]
     },
@@ -44,7 +46,34 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 13.18
+          "stake": 24.06,
+          "ret": 216.54,
+          "bank": 2622.31
+        }
+      ]
+    },
+    {
+      "time": "18:00",
+      "meeting": "Dundalk",
+      "name": "View Restaurant At Dundalk Handicap (0-60)",
+      "class": "",
+      "distance": "5f",
+      "riders": 17,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Subiaco",
+          "jockey": "Reese Holohan",
+          "cd": 1,
+          "days": 28,
+          "odds": "11/2",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 26.22,
+          "ret": 36.05,
+          "bank": 2658.36
         }
       ]
     },
@@ -67,7 +96,62 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 14.37
+          "stake": 26.58,
+          "ret": 59.8,
+          "bank": 2718.16
+        }
+      ]
+    },
+    {
+      "time": "18:30",
+      "meeting": "Dundalk",
+      "name": "BAR 1 Betting 'Bet 10 Get 50' Handicap",
+      "class": "",
+      "distance": "6f",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Mehman",
+          "jockey": "Chris Hayes",
+          "cd": 1,
+          "days": 7,
+          "odds": "4/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 27.18,
+          "ret": -27.18,
+          "bank": 2690.98
+        },
+        {
+          "rank": 2,
+          "horse": "Eddie G",
+          "jockey": "Gavin Ryan",
+          "cd": 1,
+          "days": 12,
+          "odds": "15/2",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 26.91,
+          "ret": 50.46,
+          "bank": 2741.44
+        },
+        {
+          "rank": 3,
+          "horse": "Bear On The Run",
+          "jockey": "Gary Carroll",
+          "cd": 1,
+          "days": 28,
+          "odds": "7/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 27.41,
+          "ret": -27.41,
+          "bank": 2714.03
         }
       ]
     },
@@ -90,7 +174,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 14.69
+          "stake": 27.14,
+          "ret": 44.1,
+          "bank": 2758.13
         },
         {
           "rank": 2,
@@ -102,7 +188,87 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 14.93
+          "stake": 27.58,
+          "ret": 68.95,
+          "bank": 2827.08
+        }
+      ]
+    },
+    {
+      "time": "19:30",
+      "meeting": "Dundalk",
+      "name": "Happy Halloween Handicap",
+      "class": "",
+      "distance": "1m",
+      "riders": 17,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Son Of Beauty",
+          "jockey": "Reese Holohan",
+          "cd": 1,
+          "days": 12,
+          "odds": "7/1",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 28.27,
+          "ret": 197.89,
+          "bank": 3024.97
+        },
+        {
+          "rank": 2,
+          "horse": "Daler",
+          "jockey": "Gary Carroll",
+          "cd": 1,
+          "days": 21,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 30.25,
+          "ret": 34.03,
+          "bank": 3059.0
+        },
+        {
+          "rank": 3,
+          "horse": "Golddream",
+          "jockey": "Robbie Colgan",
+          "cd": 1,
+          "days": 21,
+          "odds": "7/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 30.59,
+          "ret": -30.59,
+          "bank": 3028.41
+        }
+      ]
+    },
+    {
+      "time": "20:00",
+      "meeting": "Dundalk",
+      "name": "Irishinjuredjockeys.com Handicap (0-60)",
+      "class": "",
+      "distance": "1m",
+      "riders": 17,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Storm Eric",
+          "jockey": "Adam Grant",
+          "cd": 1,
+          "days": 21,
+          "odds": "11/2",
+          "mark": null,
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 30.28,
+          "ret": -30.28,
+          "bank": 2998.13
         }
       ]
     },
@@ -125,7 +291,9 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 15.3
+          "stake": 29.98,
+          "ret": -29.98,
+          "bank": 2968.15
         },
         {
           "rank": 2,
@@ -137,14 +305,16 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 15.15
+          "stake": 29.68,
+          "ret": -29.68,
+          "bank": 2938.47
         }
       ]
     }
   ],
   "bank": {
-    "start": 1275.53,
-    "stake": 12.76,
-    "end": 1499.76
+    "start": 2328.17,
+    "stake": 23.28,
+    "end": 2938.47
   }
 }

@@ -1,10 +1,156 @@
 {
   "date": "2026-04-01",
-  "updated": "2026-11-09T06:58:24+0000",
-  "races": [],
+  "updated": "2026-11-11T05:52:40+0000",
+  "races": [
+    {
+      "time": "16:45",
+      "meeting": "Dundalk",
+      "name": "Put The Fun Into Fundraising At Dundalk Handicap",
+      "class": "",
+      "distance": "6f",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Clonmacash",
+          "jockey": "Sam Coen",
+          "cd": 1,
+          "days": 12,
+          "odds": "9/1",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 1.94,
+          "ret": 17.46,
+          "bank": 211.58
+        },
+        {
+          "rank": 2,
+          "horse": "Collective Power",
+          "jockey": "Ben Coen",
+          "cd": 4,
+          "days": 12,
+          "odds": "11/2",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 2.12,
+          "ret": 2.92,
+          "bank": 214.5
+        },
+        {
+          "rank": 3,
+          "horse": "I'm Spartacus",
+          "jockey": "Adam Caffrey",
+          "cd": 4,
+          "days": 26,
+          "odds": "13/2",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 2.15,
+          "ret": -2.15,
+          "bank": 212.35
+        }
+      ]
+    },
+    {
+      "time": "18:15",
+      "meeting": "Dundalk",
+      "name": "Dundalk Stadium Group Deals Available Apprentice Handicap (0-60)",
+      "class": "",
+      "distance": "1m",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Comfort Line",
+          "jockey": "Gabriella Hill",
+          "cd": 4,
+          "days": 5,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 2.12,
+          "ret": -2.12,
+          "bank": 210.23
+        },
+        {
+          "rank": 2,
+          "horse": "Kitty Bear",
+          "jockey": "Orla Tynan",
+          "cd": 1,
+          "days": 12,
+          "odds": "18/5",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 2.1,
+          "ret": 1.89,
+          "bank": 212.12
+        },
+        {
+          "rank": 3,
+          "horse": "Punk Poet",
+          "jockey": "Keithen Kennedy",
+          "cd": 6,
+          "days": 12,
+          "odds": "9/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 2.12,
+          "ret": -2.12,
+          "bank": 210.0
+        }
+      ]
+    },
+    {
+      "time": "19:15",
+      "meeting": "Dundalk",
+      "name": "View Restaurant Summer Offer Handicap",
+      "class": "",
+      "distance": "1m 4f",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Baila Conmigo",
+          "jockey": "Ben Coen",
+          "cd": 1,
+          "days": 12,
+          "odds": "3/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 2.1,
+          "ret": 1.58,
+          "bank": 211.58
+        },
+        {
+          "rank": 2,
+          "horse": "Sir Callisto",
+          "jockey": "Robbie Colgan",
+          "cd": 1,
+          "days": 19,
+          "odds": "4/1",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 2.12,
+          "ret": 8.48,
+          "bank": 220.06
+        }
+      ]
+    }
+  ],
   "bank": {
-    "start": 10.0,
-    "stake": 0.1,
-    "end": 10.0
+    "start": 194.12,
+    "stake": 1.94,
+    "end": 220.06
   }
 }

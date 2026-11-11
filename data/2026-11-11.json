@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-11",
+  "updated": "2026-11-11T05:52:52+0000",
+  "races": [
+    {
+      "time": "17:32",
+      "meeting": "Dundalk",
+      "name": "Now Racing Every Wednesday At Dundalk Handicap",
+      "class": "",
+      "distance": "1m 2f 150y",
+      "riders": 15,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Eastern Peace",
+          "jockey": "Billy Lee",
+          "cd": 1,
+          "days": 26,
+          "odds": "4/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 27.77,
+          "ret": null,
+          "bank": 2776.89
+        }
+      ]
+    }
+  ],
+  "bank": {
+    "start": 2776.89,
+    "stake": 27.77,
+    "end": 2776.89
+  }
+}

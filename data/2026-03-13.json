@@ -1,6 +1,6 @@
 {
   "date": "2026-03-13",
-  "updated": "2026-11-09T06:58:23+0000",
+  "updated": "2026-11-11T05:52:39+0000",
   "races": [
     {
       "time": "16:25",
@@ -21,7 +21,34 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.85
+          "stake": 1.25,
+          "ret": -1.25,
+          "bank": 124.05
+        }
+      ]
+    },
+    {
+      "time": "17:00",
+      "meeting": "Dundalk",
+      "name": "Irishinjuredjockeys.com Handicap",
+      "class": "",
+      "distance": "5f",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Cuban Grey",
+          "jockey": "Rory Mulligan",
+          "cd": 1,
+          "days": 21,
+          "odds": "6/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 1.24,
+          "ret": -1.24,
+          "bank": 122.81
         }
       ]
     },
@@ -44,7 +71,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.85
+          "stake": 1.23,
+          "ret": 5.54,
+          "bank": 128.35
         }
       ]
     },
@@ -67,7 +96,9 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.88
+          "stake": 1.28,
+          "ret": -1.28,
+          "bank": 127.07
         }
       ]
     },
@@ -90,7 +121,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.88
+          "stake": 1.27,
+          "ret": 2.86,
+          "bank": 129.93
         }
       ]
     },
@@ -113,7 +146,48 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.9
+          "stake": 1.3,
+          "ret": 4.33,
+          "bank": 134.26
+        }
+      ]
+    },
+    {
+      "time": "18:00",
+      "meeting": "Dundalk",
+      "name": "View Restaurant At Dundalk Stadium Handicap (0-60)",
+      "class": "",
+      "distance": "1m 2f 150y",
+      "riders": 17,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Without Love",
+          "jockey": "Patrick McGettigan",
+          "cd": 1,
+          "days": 7,
+          "odds": "10/3",
+          "mark": null,
+          "pos": 12,
+          "res": "LOSE",
+          "stake": 1.34,
+          "ret": -1.34,
+          "bank": 132.92
+        },
+        {
+          "rank": 2,
+          "horse": "Eighty Eight",
+          "jockey": "Shane Foley",
+          "cd": 1,
+          "days": 21,
+          "odds": "10/3",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 1.33,
+          "ret": -1.33,
+          "bank": 131.59
         }
       ]
     },
@@ -136,7 +210,9 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.93
+          "stake": 1.32,
+          "ret": -1.32,
+          "bank": 130.27
         }
       ]
     },
@@ -159,7 +235,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.92
+          "stake": 1.3,
+          "ret": 1.14,
+          "bank": 131.41
         },
         {
           "rank": 2,
@@ -171,7 +249,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.92
+          "stake": 1.31,
+          "ret": 2.95,
+          "bank": 134.36
         }
       ]
     },
@@ -194,7 +274,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.95
+          "stake": 1.34,
+          "ret": 4.69,
+          "bank": 139.05
         },
         {
           "rank": 2,
@@ -206,7 +288,9 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.98
+          "stake": 1.39,
+          "ret": -1.39,
+          "bank": 137.66
         }
       ]
     },
@@ -229,7 +313,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.97
+          "stake": 1.38,
+          "ret": 1.72,
+          "bank": 139.38
         },
         {
           "rank": 2,
@@ -241,14 +327,41 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.98
+          "stake": 1.39,
+          "ret": 10.42,
+          "bank": 149.8
+        }
+      ]
+    },
+    {
+      "time": "20:30",
+      "meeting": "Dundalk",
+      "name": "Happy St Patrick's Weekend Handicap (0-60)",
+      "class": "",
+      "distance": "6f",
+      "riders": 13,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Hero Of The Hour",
+          "jockey": "Sadhbh Tormey",
+          "cd": 3,
+          "days": 14,
+          "odds": "11/2",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 1.5,
+          "ret": -1.5,
+          "bank": 148.3
         }
       ]
     }
   ],
   "bank": {
-    "start": 85.5,
-    "stake": 0.85,
-    "end": 105.42
+    "start": 125.3,
+    "stake": 1.25,
+    "end": 148.3
   }
 }

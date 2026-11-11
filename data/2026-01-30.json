@@ -1,6 +1,6 @@
 {
   "date": "2026-01-30",
-  "updated": "2026-11-09T06:58:21+0000",
+  "updated": "2026-11-11T05:52:36+0000",
   "races": [
     {
       "time": "14:02",
@@ -21,7 +21,9 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.28
+          "stake": 0.38,
+          "ret": -0.38,
+          "bank": 37.17
         }
       ]
     },
@@ -44,7 +46,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.28
+          "stake": 0.37,
+          "ret": 0.93,
+          "bank": 38.1
         },
         {
           "rank": 2,
@@ -56,7 +60,9 @@
           "mark": null,
           "pos": 0,
           "res": null,
-          "stake": 0.28
+          "stake": 0.38,
+          "ret": null,
+          "bank": 38.1
         },
         {
           "rank": 3,
@@ -68,7 +74,9 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.28
+          "stake": 0.38,
+          "ret": -0.38,
+          "bank": 37.72
         }
       ]
     },
@@ -91,7 +99,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.28
+          "stake": 0.38,
+          "ret": 1.27,
+          "bank": 38.99
         }
       ]
     },
@@ -114,7 +124,87 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.29
+          "stake": 0.39,
+          "ret": -0.39,
+          "bank": 38.6
+        }
+      ]
+    },
+    {
+      "time": "17:45",
+      "meeting": "Dundalk",
+      "name": "Dundalk Winter Series Leading Trainer & Jockey Handicap",
+      "class": "",
+      "distance": "1m",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Mulgrave",
+          "jockey": "James Ryan",
+          "cd": 6,
+          "days": 14,
+          "odds": "11/2",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.39,
+          "ret": -0.39,
+          "bank": 38.21
+        },
+        {
+          "rank": 2,
+          "horse": "Daonethatgotaway",
+          "jockey": "Reese Holohan",
+          "cd": 2,
+          "days": 17,
+          "odds": "7/2",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.38,
+          "ret": 0.33,
+          "bank": 38.54
+        },
+        {
+          "rank": 3,
+          "horse": "Johnny's Oasis",
+          "jockey": "Adam Caffrey",
+          "cd": 2,
+          "days": 17,
+          "odds": "9/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 0.39,
+          "ret": -0.39,
+          "bank": 38.15
+        }
+      ]
+    },
+    {
+      "time": "18:45",
+      "meeting": "Dundalk",
+      "name": "Follow Us On X At DundalkStadium Handicap (0-60) (Div 1)",
+      "class": "",
+      "distance": "1m 2f 150y",
+      "riders": 15,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Nibras Rainbow",
+          "jockey": "Jack Kearney",
+          "cd": 1,
+          "days": 7,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.38,
+          "ret": -0.38,
+          "bank": 37.77
         }
       ]
     },
@@ -137,7 +227,34 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.29
+          "stake": 0.38,
+          "ret": -0.38,
+          "bank": 37.39
+        }
+      ]
+    },
+    {
+      "time": "19:15",
+      "meeting": "Dundalk",
+      "name": "Follow Us On X At DundalkStadium Handicap (0-60) (Div 2)",
+      "class": "",
+      "distance": "1m 2f 150y",
+      "riders": 15,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Church Mountain",
+          "jockey": "Darragh O'Sullivan",
+          "cd": 3,
+          "days": 7,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.37,
+          "ret": -0.37,
+          "bank": 37.02
         }
       ]
     },
@@ -160,7 +277,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.28
+          "stake": 0.37,
+          "ret": 2.59,
+          "bank": 39.61
         }
       ]
     },
@@ -183,7 +302,9 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.3
+          "stake": 0.4,
+          "ret": -0.4,
+          "bank": 39.21
         },
         {
           "rank": 2,
@@ -195,7 +316,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.3
+          "stake": 0.39,
+          "ret": 0.68,
+          "bank": 39.89
         },
         {
           "rank": 3,
@@ -207,14 +330,16 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.31
+          "stake": 0.4,
+          "ret": 0.9,
+          "bank": 40.79
         }
       ]
     }
   ],
   "bank": {
-    "start": 27.88,
-    "stake": 0.28,
-    "end": 31.26
+    "start": 37.55,
+    "stake": 0.38,
+    "end": 40.79
   }
 }

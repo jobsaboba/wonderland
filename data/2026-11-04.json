@@ -1,10 +1,61 @@
 {
   "date": "2026-11-04",
-  "updated": "2026-11-09T06:58:36+0000",
-  "races": [],
+  "updated": "2026-11-11T05:52:52+0000",
+  "races": [
+    {
+      "time": "18:45",
+      "meeting": "Dundalk",
+      "name": "Book Your Christmas Party At Dundalk Stadium Handicap (0-60)",
+      "class": "",
+      "distance": "7f",
+      "riders": 16,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Comfort Line",
+          "jockey": "Cillian Rowan",
+          "cd": 2,
+          "days": 12,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 29.23,
+          "ret": -29.23,
+          "bank": 2893.39
+        }
+      ]
+    },
+    {
+      "time": "19:15",
+      "meeting": "Dundalk",
+      "name": "Now Racing Every Wednesday At Dundalk Handicap (0-60)",
+      "class": "",
+      "distance": "1m 2f 150y",
+      "riders": 17,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Thompson Gunner",
+          "jockey": "Jessica O'Gorman",
+          "cd": 1,
+          "days": 26,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 14,
+          "res": "LOSE",
+          "stake": 28.93,
+          "ret": -28.93,
+          "bank": 2864.46
+        }
+      ]
+    }
+  ],
   "bank": {
-    "start": 10.0,
-    "stake": 0.1,
-    "end": 10.0
+    "start": 2922.62,
+    "stake": 29.23,
+    "end": 2864.46
   }
 }

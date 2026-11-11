@@ -1,10 +1,139 @@
 {
   "date": "2026-01-28",
-  "updated": "2026-11-09T06:58:21+0000",
-  "races": [],
+  "updated": "2026-11-11T05:52:36+0000",
+  "races": [
+    {
+      "time": "15:02",
+      "meeting": "Dundalk",
+      "name": "Join Us On Instagram At dundalk_stadium Handicap",
+      "class": "",
+      "distance": "6f",
+      "riders": 15,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Mehman",
+          "jockey": "J M Sheridan",
+          "cd": 1,
+          "days": 12,
+          "odds": "4/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.33,
+          "ret": 0.33,
+          "bank": 33.19
+        },
+        {
+          "rank": 2,
+          "horse": "Inishmot Prince",
+          "jockey": "James Ryan",
+          "cd": 3,
+          "days": 19,
+          "odds": "7/1",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.33,
+          "ret": 2.31,
+          "bank": 35.5
+        },
+        {
+          "rank": 3,
+          "horse": "Sporting Hero",
+          "jockey": "Mel Sheridan",
+          "cd": 3,
+          "days": 19,
+          "odds": "13/2",
+          "mark": null,
+          "pos": 11,
+          "res": "LOSE",
+          "stake": 0.35,
+          "ret": -0.35,
+          "bank": 35.15
+        }
+      ]
+    },
+    {
+      "time": "15:32",
+      "meeting": "Dundalk",
+      "name": "Floodlit Friday Nights At Dundalk Stadium Handicap (0-60)",
+      "class": "",
+      "distance": "7f",
+      "riders": 17,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Winemaker",
+          "jockey": "Declan McDonogh",
+          "cd": 1,
+          "days": 15,
+          "odds": "10/3",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.35,
+          "ret": -0.35,
+          "bank": 34.8
+        }
+      ]
+    },
+    {
+      "time": "16:02",
+      "meeting": "Dundalk",
+      "name": "Dundalk Winter Series Leading Trainer & Jockey Championship Handicap",
+      "class": "",
+      "distance": "7f",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Exquisite Acclaim",
+          "jockey": "Adam Caffrey",
+          "cd": 2,
+          "days": 12,
+          "odds": "6/1",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.35,
+          "ret": 2.1,
+          "bank": 36.9
+        }
+      ]
+    },
+    {
+      "time": "17:37",
+      "meeting": "Dundalk",
+      "name": "Put The Fun In Fundraising At Dundalk Handicap",
+      "class": "",
+      "distance": "1m 2f 150y",
+      "riders": 7,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Trishuli River",
+          "jockey": "Wayne Hassett",
+          "cd": 2,
+          "days": 19,
+          "odds": "7/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.37,
+          "ret": 0.65,
+          "bank": 37.55
+        }
+      ]
+    }
+  ],
   "bank": {
-    "start": 10.0,
-    "stake": 0.1,
-    "end": 10.0
+    "start": 32.86,
+    "stake": 0.33,
+    "end": 37.55
   }
 }

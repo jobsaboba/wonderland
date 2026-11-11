@@ -1,10 +1,167 @@
 {
   "date": "2026-07-12",
-  "updated": "2026-11-09T06:58:30+0000",
-  "races": [],
+  "updated": "2026-11-11T05:52:45+0000",
+  "races": [
+    {
+      "time": "13:00",
+      "meeting": "Dundalk",
+      "name": "Ladies Day At Dundalk Handicap",
+      "class": "",
+      "distance": "5f",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Rosie Frith",
+          "jockey": "Dylan Browne McMonagle",
+          "cd": 1,
+          "days": 10,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 8.24,
+          "ret": -8.24,
+          "bank": 816.14
+        },
+        {
+          "rank": 2,
+          "horse": "Eclairage",
+          "jockey": "James Ryan",
+          "cd": 4,
+          "days": 14,
+          "odds": "7/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 8.16,
+          "ret": 14.28,
+          "bank": 830.42
+        },
+        {
+          "rank": 3,
+          "horse": "Valiant Force",
+          "jockey": "D Egan",
+          "cd": 3,
+          "days": 15,
+          "odds": "13/2",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 8.3,
+          "ret": -8.3,
+          "bank": 822.12
+        }
+      ]
+    },
+    {
+      "time": "13:35",
+      "meeting": "Dundalk",
+      "name": "RACING TV FREE ONE MONTH TRIAL Handicap",
+      "class": "",
+      "distance": "7f",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Gonna Be Golden",
+          "jockey": "Sam Coen",
+          "cd": 1,
+          "days": 23,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 8.22,
+          "ret": -8.22,
+          "bank": 813.9
+        }
+      ]
+    },
+    {
+      "time": "14:45",
+      "meeting": "Dundalk",
+      "name": "QuinnBet Handicap (0-60)",
+      "class": "",
+      "distance": "1m",
+      "riders": 17,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Kitty Bear",
+          "jockey": "Orla Tynan",
+          "cd": 1,
+          "days": 9,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 8.14,
+          "ret": -8.14,
+          "bank": 805.76
+        },
+        {
+          "rank": 2,
+          "horse": "Rockbury Lad",
+          "jockey": "Colin Keane",
+          "cd": 1,
+          "days": 9,
+          "odds": "11/2",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 8.06,
+          "ret": -8.06,
+          "bank": 797.7
+        },
+        {
+          "rank": 3,
+          "horse": "Bella Colombia",
+          "jockey": "Billy Lee",
+          "cd": 1,
+          "days": 11,
+          "odds": "7/2",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 7.98,
+          "ret": 6.98,
+          "bank": 804.68
+        }
+      ]
+    },
+    {
+      "time": "15:20",
+      "meeting": "Dundalk",
+      "name": "Fairways Hotel Dundalk Apprentice Handicap",
+      "class": "",
+      "distance": "1m 4f",
+      "riders": 13,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Celtic Druid",
+          "jockey": "Sadhbh Tormey",
+          "cd": 2,
+          "days": 16,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 8.05,
+          "ret": 9.06,
+          "bank": 813.74
+        }
+      ]
+    }
+  ],
   "bank": {
-    "start": 10.0,
-    "stake": 0.1,
-    "end": 10.0
+    "start": 824.38,
+    "stake": 8.24,
+    "end": 813.74
   }
 }
