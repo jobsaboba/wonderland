@@ -1,7 +1,46 @@
 {
   "date": "2026-02-20",
-  "updated": "2026-11-11T08:41:51+0000",
+  "updated": "2026-11-12T04:52:58+0000",
   "races": [
+    {
+      "time": "15:40",
+      "meeting": "Dundalk",
+      "name": "Racing TV Club Day Handicap",
+      "class": "",
+      "distance": "6f",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Clonmacash",
+          "jockey": "Nicola Burns",
+          "cd": 1,
+          "days": 14,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 1.7,
+          "ret": -1.7,
+          "bank": 168.54
+        },
+        {
+          "rank": 2,
+          "horse": "Dontspoilasale",
+          "jockey": "Reese Holohan",
+          "cd": 3,
+          "days": 14,
+          "odds": "25/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 1.69,
+          "ret": -1.69,
+          "bank": 166.85
+        }
+      ]
+    },
     {
       "time": "16:26",
       "meeting": "Southwell",
@@ -21,9 +60,23 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 1.0,
-          "ret": 8.0,
-          "bank": 108.02
+          "stake": 1.67,
+          "ret": 13.36,
+          "bank": 180.21
+        },
+        {
+          "rank": 2,
+          "horse": "Fools Rush In",
+          "jockey": "J P Sullivan",
+          "cd": 2,
+          "days": 15,
+          "odds": "22/1",
+          "mark": null,
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 1.8,
+          "ret": -1.8,
+          "bank": 178.41
         }
       ]
     },
@@ -46,9 +99,23 @@
           "mark": null,
           "pos": 13,
           "res": "LOSE",
-          "stake": 1.08,
-          "ret": -1.08,
-          "bank": 106.94
+          "stake": 1.78,
+          "ret": -1.78,
+          "bank": 176.63
+        },
+        {
+          "rank": 2,
+          "horse": "Notforalongtime",
+          "jockey": "Rory Mulligan",
+          "cd": 4,
+          "days": 21,
+          "odds": "20/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 1.77,
+          "ret": -1.77,
+          "bank": 174.86
         }
       ]
     },
@@ -63,20 +130,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Bella Bisbee",
-          "jockey": "K T O'Neill",
-          "cd": 1,
-          "days": 14,
-          "odds": "10/1",
-          "mark": null,
-          "pos": 11,
-          "res": "LOSE",
-          "stake": 1.07,
-          "ret": -1.07,
-          "bank": 105.87
-        },
-        {
-          "rank": 2,
           "horse": "Chola Empire",
           "jockey": "L Morris",
           "cd": 3,
@@ -85,12 +138,12 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 1.06,
-          "ret": -1.06,
-          "bank": 104.81
+          "stake": 1.75,
+          "ret": -1.75,
+          "bank": 173.11
         },
         {
-          "rank": 3,
+          "rank": 2,
           "horse": "Federal Envoy",
           "jockey": "Lewis Edmunds",
           "cd": 3,
@@ -99,9 +152,48 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 1.05,
-          "ret": -1.05,
-          "bank": 103.76
+          "stake": 1.73,
+          "ret": -1.73,
+          "bank": 171.38
+        },
+        {
+          "rank": 3,
+          "horse": "Bella Bisbee",
+          "jockey": "K T O'Neill",
+          "cd": 1,
+          "days": 14,
+          "odds": "10/1",
+          "mark": null,
+          "pos": 11,
+          "res": "LOSE",
+          "stake": 1.71,
+          "ret": -1.71,
+          "bank": 169.67
+        }
+      ]
+    },
+    {
+      "time": "17:30",
+      "meeting": "Southwell",
+      "name": "Tipping Tom On SBK Bet Feed Handicap",
+      "class": "5",
+      "distance": "1m 4f 14y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Motazzen",
+          "jockey": "Cieren Fallon",
+          "cd": 1,
+          "days": 18,
+          "odds": "25/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 1.7,
+          "ret": -1.7,
+          "bank": 167.97
         }
       ]
     },
@@ -124,9 +216,23 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 1.04,
-          "ret": -1.04,
-          "bank": 102.72
+          "stake": 1.68,
+          "ret": -1.68,
+          "bank": 166.29
+        },
+        {
+          "rank": 2,
+          "horse": "Exquisite Acclaim",
+          "jockey": "Adam Caffrey",
+          "cd": 3,
+          "days": 23,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 1.66,
+          "ret": -1.66,
+          "bank": 164.63
         }
       ]
     },
@@ -149,9 +255,9 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 1.03,
-          "ret": -1.03,
-          "bank": 101.69
+          "stake": 1.65,
+          "ret": -1.65,
+          "bank": 162.98
         }
       ]
     },
@@ -166,20 +272,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Benavente",
-          "jockey": "Colin Keane",
-          "cd": 2,
-          "days": 7,
-          "odds": "10/1",
-          "mark": null,
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 1.02,
-          "ret": -1.02,
-          "bank": 100.67
-        },
-        {
-          "rank": 2,
           "horse": "Unterberg",
           "jockey": "Rory Mulligan",
           "cd": 2,
@@ -188,9 +280,23 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 1.01,
-          "ret": 3.03,
-          "bank": 103.7
+          "stake": 1.63,
+          "ret": 4.89,
+          "bank": 167.87
+        },
+        {
+          "rank": 2,
+          "horse": "Trishuli River",
+          "jockey": "Wayne Hassett",
+          "cd": 1,
+          "days": 23,
+          "odds": "7/2",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 1.68,
+          "ret": 1.47,
+          "bank": 169.34
         },
         {
           "rank": 3,
@@ -202,9 +308,9 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 1.04,
-          "ret": -1.04,
-          "bank": 102.66
+          "stake": 1.69,
+          "ret": -1.69,
+          "bank": 167.65
         }
       ]
     },
@@ -219,20 +325,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Aberama Gold",
-          "jockey": "Oisin Murphy",
-          "cd": 1,
-          "days": 8,
-          "odds": "15/2",
-          "mark": null,
-          "pos": 9,
-          "res": "LOSE",
-          "stake": 1.03,
-          "ret": -1.03,
-          "bank": 101.63
-        },
-        {
-          "rank": 2,
           "horse": "Betsen",
           "jockey": "Billy Loughnane",
           "cd": 1,
@@ -241,12 +333,12 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 1.02,
-          "ret": 1.66,
-          "bank": 103.29
+          "stake": 1.68,
+          "ret": 2.73,
+          "bank": 170.38
         },
         {
-          "rank": 3,
+          "rank": 2,
           "horse": "Stanley Spencer",
           "jockey": "Jason Watson",
           "cd": 2,
@@ -255,9 +347,23 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 1.03,
-          "ret": -1.03,
-          "bank": 102.26
+          "stake": 1.7,
+          "ret": -1.7,
+          "bank": 168.68
+        },
+        {
+          "rank": 3,
+          "horse": "Aberama Gold",
+          "jockey": "Oisin Murphy",
+          "cd": 1,
+          "days": 8,
+          "odds": "15/2",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 1.69,
+          "ret": -1.69,
+          "bank": 166.99
         }
       ]
     },
@@ -272,20 +378,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Doctor Grace",
-          "jockey": "Reese Holohan",
-          "cd": 1,
-          "days": 21,
-          "odds": "5/1",
-          "mark": null,
-          "pos": 8,
-          "res": "LOSE",
-          "stake": 1.02,
-          "ret": -1.02,
-          "bank": 101.24
-        },
-        {
-          "rank": 2,
           "horse": "Eighty Eight",
           "jockey": "Brandon Wilkie",
           "cd": 1,
@@ -294,9 +386,37 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 1.01,
-          "ret": 0.84,
-          "bank": 102.08
+          "stake": 1.67,
+          "ret": 1.39,
+          "bank": 168.38
+        },
+        {
+          "rank": 2,
+          "horse": "Doctor Grace",
+          "jockey": "Reese Holohan",
+          "cd": 1,
+          "days": 21,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 1.68,
+          "ret": -1.68,
+          "bank": 166.7
+        },
+        {
+          "rank": 3,
+          "horse": "Hasten Slowly",
+          "jockey": "Nicola Burns",
+          "cd": 1,
+          "days": 28,
+          "odds": "33/1",
+          "mark": null,
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 1.67,
+          "ret": -1.67,
+          "bank": 165.03
         }
       ]
     },
@@ -319,9 +439,9 @@
           "mark": null,
           "pos": 11,
           "res": "LOSE",
-          "stake": 1.02,
-          "ret": -1.02,
-          "bank": 101.06
+          "stake": 1.65,
+          "ret": -1.65,
+          "bank": 163.38
         }
       ]
     },
@@ -336,20 +456,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Master Of My Fate",
-          "jockey": "Jason Hart",
-          "cd": 2,
-          "days": 20,
-          "odds": "8/1",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 1.01,
-          "ret": 8.08,
-          "bank": 109.14
-        },
-        {
-          "rank": 2,
           "horse": "Sam's Hope",
           "jockey": "Oisin Murphy",
           "cd": 3,
@@ -358,9 +464,23 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 1.09,
-          "ret": -1.09,
-          "bank": 108.05
+          "stake": 1.63,
+          "ret": -1.63,
+          "bank": 161.75
+        },
+        {
+          "rank": 2,
+          "horse": "Master Of My Fate",
+          "jockey": "Jason Hart",
+          "cd": 2,
+          "days": 20,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 1.62,
+          "ret": 12.96,
+          "bank": 174.71
         }
       ]
     },
@@ -383,16 +503,44 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 1.08,
-          "ret": 3.78,
-          "bank": 111.83
+          "stake": 1.75,
+          "ret": 6.12,
+          "bank": 180.83
+        },
+        {
+          "rank": 2,
+          "horse": "Eligible",
+          "jockey": "Joanna Mason",
+          "cd": 5,
+          "days": 28,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 1.81,
+          "ret": -1.81,
+          "bank": 179.02
+        },
+        {
+          "rank": 3,
+          "horse": "Bravo Zulu",
+          "jockey": "J Mitchell",
+          "cd": 2,
+          "days": 10,
+          "odds": "25/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 1.79,
+          "ret": -1.79,
+          "bank": 177.23
         }
       ]
     }
   ],
   "bank": {
-    "start": 100.02,
-    "stake": 1.0,
-    "end": 111.83
+    "start": 170.24,
+    "stake": 1.7,
+    "end": 177.23
   }
 }

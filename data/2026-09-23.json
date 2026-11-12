@@ -1,6 +1,6 @@
 {
   "date": "2026-09-23",
-  "updated": "2026-11-11T08:42:06+0000",
+  "updated": "2026-11-12T04:53:17+0000",
   "races": [
     {
       "time": "16:30",
@@ -21,9 +21,34 @@
           "mark": -2,
           "pos": 5,
           "res": "LOSE",
-          "stake": 24.95,
-          "ret": -24.95,
-          "bank": 2469.96
+          "stake": 45.79,
+          "ret": -45.79,
+          "bank": 4533.13
+        }
+      ]
+    },
+    {
+      "time": "17:30",
+      "meeting": "Kempton",
+      "name": "Industry Leading In-Play Markets At Unibet Handicap",
+      "class": "6",
+      "distance": "6f",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Bill Plumb",
+          "jockey": "Marco Ghiani",
+          "cd": 1,
+          "days": 6,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 45.33,
+          "ret": -45.33,
+          "bank": 4487.8
         }
       ]
     },
@@ -46,9 +71,9 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 24.7,
-          "ret": -24.7,
-          "bank": 2445.26
+          "stake": 44.88,
+          "ret": -44.88,
+          "bank": 4442.92
         },
         {
           "rank": 2,
@@ -60,9 +85,9 @@
           "mark": null,
           "pos": 13,
           "res": "LOSE",
-          "stake": 24.45,
-          "ret": -24.45,
-          "bank": 2420.81
+          "stake": 44.43,
+          "ret": -44.43,
+          "bank": 4398.49
         }
       ]
     },
@@ -85,16 +110,55 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 24.21,
-          "ret": 27.24,
-          "bank": 2448.05
+          "stake": 43.98,
+          "ret": 49.48,
+          "bank": 4447.97
+        }
+      ]
+    },
+    {
+      "time": "19:30",
+      "meeting": "Kempton",
+      "name": "Unibet 40,000+ Live Streamed Events Handicap",
+      "class": "6",
+      "distance": "1m 2f 219y",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "The Bay Warrior",
+          "jockey": "Rose Dawes",
+          "cd": 1,
+          "days": 20,
+          "odds": "18/1",
+          "mark": null,
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 44.48,
+          "ret": -44.48,
+          "bank": 4403.49
+        },
+        {
+          "rank": 2,
+          "horse": "Uzincso",
+          "jockey": "Ray Dawson",
+          "cd": 1,
+          "days": 14,
+          "odds": "28/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 44.03,
+          "ret": -44.03,
+          "bank": 4359.46
         }
       ]
     }
   ],
   "bank": {
-    "start": 2494.91,
-    "stake": 24.95,
-    "end": 2448.05
+    "start": 4578.92,
+    "stake": 45.79,
+    "end": 4359.46
   }
 }

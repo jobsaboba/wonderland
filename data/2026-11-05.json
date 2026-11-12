@@ -1,6 +1,6 @@
 {
   "date": "2026-11-05",
-  "updated": "2026-11-11T08:42:10+0000",
+  "updated": "2026-11-12T04:53:20+0000",
   "races": [
     {
       "time": "14:20",
@@ -21,9 +21,9 @@
           "mark": -2,
           "pos": 7,
           "res": "LOSE",
-          "stake": 44.76,
-          "ret": -44.76,
-          "bank": 4431.6
+          "stake": 65.61,
+          "ret": -65.61,
+          "bank": 6495.56
         }
       ]
     },
@@ -46,9 +46,23 @@
           "mark": null,
           "pos": 11,
           "res": "LOSE",
-          "stake": 44.32,
-          "ret": -44.32,
-          "bank": 4387.28
+          "stake": 64.96,
+          "ret": -64.96,
+          "bank": 6430.6
+        },
+        {
+          "rank": 2,
+          "horse": "Alessia Fernanda",
+          "jockey": "C J Whiteley",
+          "cd": 1,
+          "days": 13,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 12,
+          "res": "LOSE",
+          "stake": 64.31,
+          "ret": -64.31,
+          "bank": 6366.29
         }
       ]
     },
@@ -63,20 +77,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Far Too Fizzy",
-          "jockey": "Rossa Ryan",
-          "cd": 1,
-          "days": 23,
-          "odds": "9/2",
-          "mark": null,
-          "pos": 9,
-          "res": "LOSE",
-          "stake": 43.87,
-          "ret": -43.87,
-          "bank": 4343.41
-        },
-        {
-          "rank": 2,
           "horse": "Dark Side Thunder",
           "jockey": "George Wood",
           "cd": 1,
@@ -85,9 +85,23 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 43.43,
-          "ret": 173.72,
-          "bank": 4517.13
+          "stake": 63.66,
+          "ret": 254.64,
+          "bank": 6620.93
+        },
+        {
+          "rank": 2,
+          "horse": "Far Too Fizzy",
+          "jockey": "Rossa Ryan",
+          "cd": 1,
+          "days": 23,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 66.21,
+          "ret": -66.21,
+          "bank": 6554.72
         }
       ]
     },
@@ -102,20 +116,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Stanley Spencer",
-          "jockey": "O J Orr",
-          "cd": 2,
-          "days": 14,
-          "odds": "10/1",
-          "mark": null,
-          "pos": 6,
-          "res": "LOSE",
-          "stake": 45.17,
-          "ret": -45.17,
-          "bank": 4471.96
-        },
-        {
-          "rank": 2,
           "horse": "Ormolulu",
           "jockey": "C J Whiteley",
           "cd": 5,
@@ -124,16 +124,30 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 44.72,
-          "ret": 89.44,
-          "bank": 4561.4
+          "stake": 65.55,
+          "ret": 131.1,
+          "bank": 6685.82
+        },
+        {
+          "rank": 2,
+          "horse": "Stanley Spencer",
+          "jockey": "O J Orr",
+          "cd": 2,
+          "days": 14,
+          "odds": "10/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 66.86,
+          "ret": -66.86,
+          "bank": 6618.96
         }
       ]
     }
   ],
   "bank": {
-    "start": 4476.36,
-    "stake": 44.76,
-    "end": 4561.4
+    "start": 6561.17,
+    "stake": 65.61,
+    "end": 6618.96
   }
 }

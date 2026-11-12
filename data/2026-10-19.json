@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated": "2026-11-11T08:42:08+0000",
+  "updated": "2026-11-12T04:53:19+0000",
   "races": [
     {
       "time": "16:00",
@@ -21,9 +21,23 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 36.5,
-          "ret": 91.25,
-          "bank": 3741.34
+          "stake": 56.99,
+          "ret": 142.47,
+          "bank": 5841.49
+        },
+        {
+          "rank": 2,
+          "horse": "Camera Shy",
+          "jockey": "Rhys Elliott",
+          "cd": 1,
+          "days": 14,
+          "odds": "18/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 58.41,
+          "ret": -58.41,
+          "bank": 5783.08
         }
       ]
     },
@@ -46,9 +60,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 37.41,
-          "ret": 37.41,
-          "bank": 3778.75
+          "stake": 57.83,
+          "ret": 57.83,
+          "bank": 5840.91
         }
       ]
     },
@@ -63,20 +77,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Prince Of Pillo",
-          "jockey": "J Garritty",
-          "cd": 1,
-          "days": 11,
-          "odds": "7/1",
-          "mark": null,
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 37.79,
-          "ret": 66.13,
-          "bank": 3844.88
-        },
-        {
-          "rank": 2,
           "horse": "Jenever",
           "jockey": "George Wood",
           "cd": 1,
@@ -85,9 +85,37 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 38.45,
-          "ret": 32.04,
-          "bank": 3876.92
+          "stake": 58.41,
+          "ret": 48.67,
+          "bank": 5889.58
+        },
+        {
+          "rank": 2,
+          "horse": "Prince Of Pillo",
+          "jockey": "J Garritty",
+          "cd": 1,
+          "days": 11,
+          "odds": "7/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 58.9,
+          "ret": 103.08,
+          "bank": 5992.66
+        },
+        {
+          "rank": 3,
+          "horse": "Daytona Lady",
+          "jockey": "Jason Hart",
+          "cd": 2,
+          "days": 13,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 59.93,
+          "ret": -59.93,
+          "bank": 5932.73
         }
       ]
     },
@@ -110,9 +138,9 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 38.77,
-          "ret": -38.77,
-          "bank": 3838.15
+          "stake": 59.33,
+          "ret": -59.33,
+          "bank": 5873.4
         },
         {
           "rank": 2,
@@ -124,9 +152,76 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 38.38,
-          "ret": -38.38,
-          "bank": 3799.77
+          "stake": 58.73,
+          "ret": -58.73,
+          "bank": 5814.67
+        },
+        {
+          "rank": 3,
+          "horse": "Jax Edge",
+          "jockey": "Gina Mangan",
+          "cd": 2,
+          "days": 20,
+          "odds": "28/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 58.15,
+          "ret": -58.15,
+          "bank": 5756.52
+        }
+      ]
+    },
+    {
+      "time": "17:45",
+      "meeting": "Wolverhampton",
+      "name": "Cavani Tailored Champion Handicap",
+      "class": "6",
+      "distance": "6f 20y",
+      "riders": 13,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Em Jay Kay",
+          "jockey": "Grace McEntee",
+          "cd": 1,
+          "days": 7,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 11,
+          "res": "LOSE",
+          "stake": 57.57,
+          "ret": -57.57,
+          "bank": 5698.95
+        },
+        {
+          "rank": 2,
+          "horse": "Macarone",
+          "jockey": "Ben Ffrench-Davis",
+          "cd": 2,
+          "days": 22,
+          "odds": "11/1",
+          "mark": -3,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 56.99,
+          "ret": 626.89,
+          "bank": 6325.84
+        },
+        {
+          "rank": 3,
+          "horse": "Candy Warhol",
+          "jockey": "Tyler Heard",
+          "cd": 1,
+          "days": 13,
+          "odds": "18/1",
+          "mark": null,
+          "pos": 12,
+          "res": "LOSE",
+          "stake": 63.26,
+          "ret": -63.26,
+          "bank": 6262.58
         }
       ]
     },
@@ -149,9 +244,9 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 38.0,
-          "ret": -38.0,
-          "bank": 3761.77
+          "stake": 62.63,
+          "ret": -62.63,
+          "bank": 6199.95
         }
       ]
     },
@@ -174,9 +269,48 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 37.62,
-          "ret": -37.62,
-          "bank": 3724.15
+          "stake": 62.0,
+          "ret": -62.0,
+          "bank": 6137.95
+        },
+        {
+          "rank": 2,
+          "horse": "Little Miss India",
+          "jockey": "Ashley Lewis",
+          "cd": 1,
+          "days": 14,
+          "odds": "18/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 61.38,
+          "ret": -61.38,
+          "bank": 6076.57
+        }
+      ]
+    },
+    {
+      "time": "18:30",
+      "meeting": "Southwell",
+      "name": "bettingsites.co.uk New Betting Sites Handicap",
+      "class": "6",
+      "distance": "1m 13y",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Starakova",
+          "jockey": "Edward Greatrex",
+          "cd": 1,
+          "days": 25,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 60.77,
+          "ret": -60.77,
+          "bank": 6015.8
         }
       ]
     },
@@ -199,26 +333,12 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 37.24,
-          "ret": 27.93,
-          "bank": 3752.08
+          "stake": 60.16,
+          "ret": 45.12,
+          "bank": 6060.92
         },
         {
           "rank": 2,
-          "horse": "General Assembly",
-          "jockey": "Marco Ghiani",
-          "cd": 1,
-          "days": 16,
-          "odds": "8/1",
-          "mark": null,
-          "pos": 6,
-          "res": "LOSE",
-          "stake": 37.52,
-          "ret": -37.52,
-          "bank": 3714.56
-        },
-        {
-          "rank": 3,
           "horse": "Blue Force",
           "jockey": "Harry Russell",
           "cd": 1,
@@ -227,9 +347,23 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 37.15,
-          "ret": -37.15,
-          "bank": 3677.41
+          "stake": 60.61,
+          "ret": -60.61,
+          "bank": 6000.31
+        },
+        {
+          "rank": 3,
+          "horse": "General Assembly",
+          "jockey": "Marco Ghiani",
+          "cd": 1,
+          "days": 16,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 60.0,
+          "ret": -60.0,
+          "bank": 5940.31
         }
       ]
     },
@@ -252,16 +386,16 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 36.77,
-          "ret": 45.96,
-          "bank": 3723.37
+          "stake": 59.4,
+          "ret": 74.25,
+          "bank": 6014.56
         }
       ]
     }
   ],
   "bank": {
-    "start": 3650.09,
-    "stake": 36.5,
-    "end": 3723.37
+    "start": 5699.02,
+    "stake": 56.99,
+    "end": 6014.56
   }
 }

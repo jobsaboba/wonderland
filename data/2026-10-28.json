@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated": "2026-11-11T08:42:09+0000",
+  "updated": "2026-11-12T04:53:20+0000",
   "races": [
     {
       "time": "14:30",
@@ -21,9 +21,23 @@
           "mark": null,
           "pos": 10,
           "res": "LOSE",
-          "stake": 36.99,
-          "ret": -36.99,
-          "bank": 3661.57
+          "stake": 63.74,
+          "ret": -63.74,
+          "bank": 6310.27
+        },
+        {
+          "rank": 2,
+          "horse": "Bella Colombia",
+          "jockey": "Sam Coen",
+          "cd": 1,
+          "days": 10,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 63.1,
+          "ret": -63.1,
+          "bank": 6247.17
         }
       ]
     },
@@ -38,20 +52,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "The Bear Trap",
-          "jockey": "Sam Coen",
-          "cd": 1,
-          "days": 16,
-          "odds": "6/1",
-          "mark": null,
-          "pos": 7,
-          "res": "LOSE",
-          "stake": 36.62,
-          "ret": -36.62,
-          "bank": 3624.95
-        },
-        {
-          "rank": 2,
           "horse": "Battleforsupremacy",
           "jockey": "Patrick McGettigan",
           "cd": 1,
@@ -60,9 +60,23 @@
           "mark": null,
           "pos": 11,
           "res": "LOSE",
-          "stake": 36.25,
-          "ret": -36.25,
-          "bank": 3588.7
+          "stake": 62.47,
+          "ret": -62.47,
+          "bank": 6184.7
+        },
+        {
+          "rank": 2,
+          "horse": "The Bear Trap",
+          "jockey": "Sam Coen",
+          "cd": 1,
+          "days": 16,
+          "odds": "6/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 61.85,
+          "ret": -61.85,
+          "bank": 6122.85
         }
       ]
     },
@@ -85,9 +99,34 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 35.89,
-          "ret": -35.89,
-          "bank": 3552.81
+          "stake": 61.23,
+          "ret": -61.23,
+          "bank": 6061.62
+        }
+      ]
+    },
+    {
+      "time": "16:30",
+      "meeting": "Dundalk",
+      "name": "Christmas Party Nights At Dundalk Stadium Handicap (0-60) (Div 2)",
+      "class": "",
+      "distance": "7f",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Jazzy Dancer",
+          "jockey": "Rory Mulligan",
+          "cd": 1,
+          "days": 12,
+          "odds": "25/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 60.62,
+          "ret": 378.88,
+          "bank": 6440.5
         }
       ]
     },
@@ -110,9 +149,23 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 35.53,
-          "ret": 118.43,
-          "bank": 3671.24
+          "stake": 64.41,
+          "ret": 214.7,
+          "bank": 6655.2
+        },
+        {
+          "rank": 2,
+          "horse": "Celtic Druid",
+          "jockey": "Sadhbh Tormey",
+          "cd": 2,
+          "days": 12,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 13,
+          "res": "LOSE",
+          "stake": 66.55,
+          "ret": -66.55,
+          "bank": 6588.65
         }
       ]
     },
@@ -135,16 +188,16 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 36.71,
-          "ret": 41.3,
-          "bank": 3712.54
+          "stake": 65.89,
+          "ret": 74.13,
+          "bank": 6662.78
         }
       ]
     }
   ],
   "bank": {
-    "start": 3698.56,
-    "stake": 36.99,
-    "end": 3712.54
+    "start": 6374.01,
+    "stake": 63.74,
+    "end": 6662.78
   }
 }

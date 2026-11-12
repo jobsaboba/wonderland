@@ -1,6 +1,6 @@
 {
   "date": "2026-09-29",
-  "updated": "2026-11-11T08:42:07+0000",
+  "updated": "2026-11-12T04:53:17+0000",
   "races": [
     {
       "time": "15:30",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 26.16,
-          "ret": 21.8,
-          "bank": 2638.19
+          "stake": 45.22,
+          "ret": 37.68,
+          "bank": 4560.05
         },
         {
           "rank": 2,
@@ -35,9 +35,48 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 26.38,
-          "ret": 36.27,
-          "bank": 2674.46
+          "stake": 45.6,
+          "ret": 62.7,
+          "bank": 4622.75
+        },
+        {
+          "rank": 3,
+          "horse": "Magic Runner",
+          "jockey": "J P Sullivan",
+          "cd": 2,
+          "days": 14,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 46.23,
+          "ret": -46.23,
+          "bank": 4576.52
+        }
+      ]
+    },
+    {
+      "time": "18:00",
+      "meeting": "Wolverhampton",
+      "name": "Race & Rest - Wolverhampton Holiday Inn Handicap",
+      "class": "6",
+      "distance": "6f 20y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Von Krolock",
+          "jockey": "Christian Howarth",
+          "cd": 1,
+          "days": 12,
+          "odds": "25/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 45.77,
+          "ret": -45.77,
+          "bank": 4530.75
         }
       ]
     },
@@ -60,9 +99,9 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 26.74,
-          "ret": -26.74,
-          "bank": 2647.72
+          "stake": 45.31,
+          "ret": -45.31,
+          "bank": 4485.44
         }
       ]
     },
@@ -85,16 +124,16 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 26.48,
-          "ret": -26.48,
-          "bank": 2621.24
+          "stake": 44.85,
+          "ret": -44.85,
+          "bank": 4440.59
         }
       ]
     }
   ],
   "bank": {
-    "start": 2616.39,
-    "stake": 26.16,
-    "end": 2621.24
+    "start": 4522.37,
+    "stake": 45.22,
+    "end": 4440.59
   }
 }

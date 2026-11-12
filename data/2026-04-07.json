@@ -1,6 +1,6 @@
 {
   "date": "2026-04-07",
-  "updated": "2026-11-11T08:41:54+0000",
+  "updated": "2026-11-12T04:53:02+0000",
   "races": [
     {
       "time": "18:00",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 3.91,
-          "ret": -3.91,
-          "bank": 387.41
+          "stake": 5.74,
+          "ret": -5.74,
+          "bank": 567.92
         }
       ]
     },
@@ -46,9 +46,9 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 3.87,
-          "ret": -3.87,
-          "bank": 383.54
+          "stake": 5.68,
+          "ret": -5.68,
+          "bank": 562.24
         },
         {
           "rank": 2,
@@ -60,16 +60,30 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 3.84,
-          "ret": -3.84,
-          "bank": 379.7
+          "stake": 5.62,
+          "ret": -5.62,
+          "bank": 556.62
+        },
+        {
+          "rank": 3,
+          "horse": "Saisons D'Or",
+          "jockey": "J Garritty",
+          "cd": 2,
+          "days": 26,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 5.57,
+          "ret": -5.57,
+          "bank": 551.05
         }
       ]
     }
   ],
   "bank": {
-    "start": 391.32,
-    "stake": 3.91,
-    "end": 379.7
+    "start": 573.66,
+    "stake": 5.74,
+    "end": 551.05
   }
 }

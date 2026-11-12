@@ -1,7 +1,32 @@
 {
   "date": "2026-04-08",
-  "updated": "2026-11-11T08:41:54+0000",
+  "updated": "2026-11-12T04:53:02+0000",
   "races": [
+    {
+      "time": "17:30",
+      "meeting": "Kempton",
+      "name": "Virgin Bet Daily Price Boosts Handicap",
+      "class": "5",
+      "distance": "7f",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "King Of Ithaca",
+          "jockey": "Rob Hornby",
+          "cd": 1,
+          "days": 26,
+          "odds": "33/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 5.51,
+          "ret": -5.51,
+          "bank": 545.54
+        }
+      ]
+    },
     {
       "time": "19:00",
       "meeting": "Kempton",
@@ -21,16 +46,55 @@
           "mark": -4,
           "pos": 1,
           "res": "WIN",
-          "stake": 3.8,
-          "ret": 13.3,
-          "bank": 393.0
+          "stake": 5.46,
+          "ret": 19.11,
+          "bank": 564.65
+        }
+      ]
+    },
+    {
+      "time": "19:30",
+      "meeting": "Kempton",
+      "name": "Virgin Bet Supports Safe Gambling Handicap",
+      "class": "6",
+      "distance": "1m 3f 219y",
+      "riders": 13,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Fravanco",
+          "jockey": "R Havlin",
+          "cd": 1,
+          "days": 16,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 5.65,
+          "ret": -5.65,
+          "bank": 559.0
+        },
+        {
+          "rank": 2,
+          "horse": "Maywedance",
+          "jockey": "William Carson",
+          "cd": 1,
+          "days": 16,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 5.59,
+          "ret": -5.59,
+          "bank": 553.41
         }
       ]
     }
   ],
   "bank": {
-    "start": 379.7,
-    "stake": 3.8,
-    "end": 393.0
+    "start": 551.05,
+    "stake": 5.51,
+    "end": 553.41
   }
 }

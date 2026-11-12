@@ -1,6 +1,6 @@
 {
   "date": "2026-02-24",
-  "updated": "2026-11-11T08:41:51+0000",
+  "updated": "2026-11-12T04:52:58+0000",
   "races": [
     {
       "time": "14:42",
@@ -21,9 +21,23 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 1.18,
-          "ret": -1.18,
-          "bank": 116.62
+          "stake": 1.78,
+          "ret": -1.78,
+          "bank": 175.76
+        },
+        {
+          "rank": 2,
+          "horse": "Wee Mary",
+          "jockey": "Lauren Young",
+          "cd": 1,
+          "days": 22,
+          "odds": "28/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 1.76,
+          "ret": -1.76,
+          "bank": 174.0
         }
       ]
     },
@@ -38,20 +52,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Dandy Magic",
-          "jockey": "Lauren Young",
-          "cd": 2,
-          "days": 5,
-          "odds": "11/2",
-          "mark": null,
-          "pos": 10,
-          "res": "LOSE",
-          "stake": 1.17,
-          "ret": -1.17,
-          "bank": 115.45
-        },
-        {
-          "rank": 2,
           "horse": "True Promise",
           "jockey": "Callum Rodriguez",
           "cd": 1,
@@ -60,23 +60,37 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 1.15,
-          "ret": -1.15,
-          "bank": 114.3
+          "stake": 1.74,
+          "ret": -1.74,
+          "bank": 172.26
+        },
+        {
+          "rank": 2,
+          "horse": "Dandy Magic",
+          "jockey": "Lauren Young",
+          "cd": 2,
+          "days": 5,
+          "odds": "11/2",
+          "mark": null,
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 1.72,
+          "ret": -1.72,
+          "bank": 170.54
         },
         {
           "rank": 3,
-          "horse": "Novak",
-          "jockey": "Mohammed Tabti",
-          "cd": 1,
-          "days": 9,
-          "odds": "10/1",
+          "horse": "The Green Man",
+          "jockey": "Alistair Rawlinson",
+          "cd": 2,
+          "days": 24,
+          "odds": "7/1",
           "mark": null,
-          "pos": 4,
+          "pos": 6,
           "res": "LOSE",
-          "stake": 1.14,
-          "ret": -1.14,
-          "bank": 113.16
+          "stake": 1.71,
+          "ret": -1.71,
+          "bank": 168.83
         }
       ]
     },
@@ -91,20 +105,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Hale End",
-          "jockey": "Daniel Muscutt",
-          "cd": 1,
-          "days": 25,
-          "odds": "17/2",
-          "mark": null,
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 1.13,
-          "ret": -1.13,
-          "bank": 112.03
-        },
-        {
-          "rank": 2,
           "horse": "Panama Black",
           "jockey": "Joe Leavy",
           "cd": 1,
@@ -113,9 +113,73 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 1.12,
-          "ret": -1.12,
-          "bank": 110.91
+          "stake": 1.69,
+          "ret": -1.69,
+          "bank": 167.14
+        },
+        {
+          "rank": 2,
+          "horse": "Hale End",
+          "jockey": "Daniel Muscutt",
+          "cd": 1,
+          "days": 25,
+          "odds": "17/2",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 1.67,
+          "ret": -1.67,
+          "bank": 165.47
+        }
+      ]
+    },
+    {
+      "time": "17:30",
+      "meeting": "Southwell",
+      "name": "Midnite Are Upping The Betting Game Handicap (Div 1)",
+      "class": "6",
+      "distance": "6f 16y",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Walking On Clouds",
+          "jockey": "Joey Haynes",
+          "cd": 3,
+          "days": 13,
+          "odds": "28/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 1.65,
+          "ret": -1.65,
+          "bank": 163.82
+        }
+      ]
+    },
+    {
+      "time": "17:42",
+      "meeting": "Newcastle",
+      "name": "Win 250,000 With BetMGM's Golden Goals Handicap",
+      "class": "6",
+      "distance": "1m 5y",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Wyvern",
+          "jockey": "C Horgan",
+          "cd": 2,
+          "days": 5,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 1.64,
+          "ret": -1.64,
+          "bank": 162.18
         }
       ]
     },
@@ -130,20 +194,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Piperstown",
-          "jockey": "Oliver Stammers",
-          "cd": 1,
-          "days": 15,
-          "odds": "6/1",
-          "mark": -1,
-          "pos": 5,
-          "res": "LOSE",
-          "stake": 1.11,
-          "ret": -1.11,
-          "bank": 109.8
-        },
-        {
-          "rank": 2,
           "horse": "Up The Monk",
           "jockey": "Harry Davies",
           "cd": 1,
@@ -152,9 +202,37 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 1.1,
-          "ret": -1.1,
-          "bank": 108.7
+          "stake": 1.62,
+          "ret": -1.62,
+          "bank": 160.56
+        },
+        {
+          "rank": 2,
+          "horse": "Piperstown",
+          "jockey": "Oliver Stammers",
+          "cd": 1,
+          "days": 15,
+          "odds": "6/1",
+          "mark": -1,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 1.61,
+          "ret": -1.61,
+          "bank": 158.95
+        },
+        {
+          "rank": 3,
+          "horse": "Glendown",
+          "jockey": "D Fentiman",
+          "cd": 1,
+          "days": 19,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 1.59,
+          "ret": -1.59,
+          "bank": 157.36
         }
       ]
     },
@@ -177,16 +255,16 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 1.09,
-          "ret": -1.09,
-          "bank": 107.61
+          "stake": 1.57,
+          "ret": -1.57,
+          "bank": 155.79
         }
       ]
     }
   ],
   "bank": {
-    "start": 117.8,
-    "stake": 1.18,
-    "end": 107.61
+    "start": 177.54,
+    "stake": 1.78,
+    "end": 155.79
   }
 }

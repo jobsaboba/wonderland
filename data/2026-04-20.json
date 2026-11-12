@@ -1,6 +1,6 @@
 {
   "date": "2026-04-20",
-  "updated": "2026-11-11T08:41:55+0000",
+  "updated": "2026-11-12T04:53:03+0000",
   "races": [
     {
       "time": "13:21",
@@ -21,9 +21,23 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 4.91,
-          "ret": -4.91,
-          "bank": 485.83
+          "stake": 6.55,
+          "ret": -6.55,
+          "bank": 648.59
+        },
+        {
+          "rank": 2,
+          "horse": "King of The Dance",
+          "jockey": "Miss Jessica Llewellyn",
+          "cd": 1,
+          "days": 26,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 6.49,
+          "ret": -6.49,
+          "bank": 642.1
         }
       ]
     },
@@ -46,9 +60,23 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 4.86,
-          "ret": 9.11,
-          "bank": 494.94
+          "stake": 6.42,
+          "ret": 12.04,
+          "bank": 654.14
+        },
+        {
+          "rank": 2,
+          "horse": "Indy's Angel",
+          "jockey": "Rhys Elliott",
+          "cd": 1,
+          "days": 12,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 6.54,
+          "ret": -6.54,
+          "bank": 647.6
         }
       ]
     },
@@ -71,9 +99,9 @@
           "mark": null,
           "pos": 3,
           "res": "LOSE",
-          "stake": 4.95,
-          "ret": -4.95,
-          "bank": 489.99
+          "stake": 6.48,
+          "ret": -6.48,
+          "bank": 641.12
         }
       ]
     },
@@ -96,9 +124,9 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 4.9,
-          "ret": -4.9,
-          "bank": 485.09
+          "stake": 6.41,
+          "ret": -6.41,
+          "bank": 634.71
         },
         {
           "rank": 2,
@@ -110,9 +138,9 @@
           "mark": -7,
           "pos": 1,
           "res": "WIN",
-          "stake": 4.85,
-          "ret": 21.82,
-          "bank": 506.91
+          "stake": 6.35,
+          "ret": 28.57,
+          "bank": 663.28
         },
         {
           "rank": 3,
@@ -124,9 +152,9 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 5.07,
-          "ret": -5.07,
-          "bank": 501.84
+          "stake": 6.63,
+          "ret": -6.63,
+          "bank": 656.65
         }
       ]
     },
@@ -149,16 +177,30 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 5.02,
-          "ret": -5.02,
-          "bank": 496.82
+          "stake": 6.57,
+          "ret": -6.57,
+          "bank": 650.08
+        },
+        {
+          "rank": 2,
+          "horse": "Wheres The Crumpet",
+          "jockey": "Warren Fentiman",
+          "cd": 1,
+          "days": 12,
+          "odds": "28/1",
+          "mark": null,
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 6.5,
+          "ret": -6.5,
+          "bank": 643.58
         }
       ]
     }
   ],
   "bank": {
-    "start": 490.74,
-    "stake": 4.91,
-    "end": 496.82
+    "start": 655.14,
+    "stake": 6.55,
+    "end": 643.58
   }
 }

@@ -1,7 +1,32 @@
 {
   "date": "2026-09-07",
-  "updated": "2026-11-11T08:42:05+0000",
+  "updated": "2026-11-12T04:53:15+0000",
   "races": [
+    {
+      "time": "18:30",
+      "meeting": "Wolverhampton",
+      "name": "Cavani Signature Style Handicap",
+      "class": "6",
+      "distance": "1m 1f 104y",
+      "riders": 13,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Zipwire",
+          "jockey": "Taylor Fisher",
+          "cd": 2,
+          "days": 17,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 48.74,
+          "ret": -48.74,
+          "bank": 4824.98
+        }
+      ]
+    },
     {
       "time": "19:00",
       "meeting": "Wolverhampton",
@@ -21,9 +46,9 @@
           "mark": null,
           "pos": 12,
           "res": "LOSE",
-          "stake": 25.01,
-          "ret": -25.01,
-          "bank": 2475.77
+          "stake": 48.25,
+          "ret": -48.25,
+          "bank": 4776.73
         }
       ]
     },
@@ -46,16 +71,16 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 24.76,
-          "ret": -24.76,
-          "bank": 2451.01
+          "stake": 47.77,
+          "ret": -47.77,
+          "bank": 4728.96
         }
       ]
     }
   ],
   "bank": {
-    "start": 2500.78,
-    "stake": 25.01,
-    "end": 2451.01
+    "start": 4873.72,
+    "stake": 48.74,
+    "end": 4728.96
   }
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-09-25",
-  "updated": "2026-11-11T08:42:07+0000",
+  "updated": "2026-11-12T04:53:17+0000",
   "races": [
     {
       "time": "15:35",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 24.44,
-          "ret": -24.44,
-          "bank": 2419.33
+          "stake": 41.8,
+          "ret": -41.8,
+          "bank": 4138.55
         }
       ]
     },
@@ -46,9 +46,23 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 24.19,
-          "ret": 33.26,
-          "bank": 2452.59
+          "stake": 41.39,
+          "ret": 56.91,
+          "bank": 4195.46
+        },
+        {
+          "rank": 2,
+          "horse": "Falaise Blanc",
+          "jockey": "Greg Fairley",
+          "cd": 1,
+          "days": 23,
+          "odds": "33/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 41.95,
+          "ret": -41.95,
+          "bank": 4153.51
         }
       ]
     },
@@ -71,9 +85,37 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 24.53,
-          "ret": 42.93,
-          "bank": 2495.52
+          "stake": 41.54,
+          "ret": 72.69,
+          "bank": 4226.2
+        },
+        {
+          "rank": 2,
+          "horse": "Leveraging",
+          "jockey": "J Cleary",
+          "cd": 1,
+          "days": 16,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 42.26,
+          "ret": -42.26,
+          "bank": 4183.94
+        },
+        {
+          "rank": 3,
+          "horse": "Kc Bear",
+          "jockey": "Nicola Burns",
+          "cd": 1,
+          "days": 7,
+          "odds": "28/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 41.84,
+          "ret": -41.84,
+          "bank": 4142.1
         }
       ]
     },
@@ -96,9 +138,23 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 24.96,
-          "ret": 24.96,
-          "bank": 2520.48
+          "stake": 41.42,
+          "ret": 41.42,
+          "bank": 4183.52
+        },
+        {
+          "rank": 2,
+          "horse": "Shatin Venture",
+          "jockey": "Jack Callan",
+          "cd": 1,
+          "days": 23,
+          "odds": "25/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 41.84,
+          "ret": 261.5,
+          "bank": 4445.02
         }
       ]
     },
@@ -121,9 +177,9 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 25.2,
-          "ret": -25.2,
-          "bank": 2495.28
+          "stake": 44.45,
+          "ret": -44.45,
+          "bank": 4400.57
         },
         {
           "rank": 2,
@@ -135,9 +191,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 24.95,
-          "ret": 24.95,
-          "bank": 2520.23
+          "stake": 44.01,
+          "ret": 44.01,
+          "bank": 4444.58
         }
       ]
     },
@@ -160,9 +216,9 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 25.2,
-          "ret": -25.2,
-          "bank": 2495.03
+          "stake": 44.45,
+          "ret": -44.45,
+          "bank": 4400.13
         }
       ]
     },
@@ -185,9 +241,23 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 24.95,
-          "ret": -24.95,
-          "bank": 2470.08
+          "stake": 44.0,
+          "ret": -44.0,
+          "bank": 4356.13
+        },
+        {
+          "rank": 2,
+          "horse": "Havana Prince",
+          "jockey": "D Nolan",
+          "cd": 1,
+          "days": 23,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 43.56,
+          "ret": -43.56,
+          "bank": 4312.57
         }
       ]
     },
@@ -210,9 +280,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 24.7,
-          "ret": 111.15,
-          "bank": 2581.23
+          "stake": 43.13,
+          "ret": 194.09,
+          "bank": 4506.66
         }
       ]
     },
@@ -235,16 +305,16 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 25.81,
-          "ret": 32.26,
-          "bank": 2613.49
+          "stake": 45.07,
+          "ret": 56.34,
+          "bank": 4563.0
         }
       ]
     }
   ],
   "bank": {
-    "start": 2443.77,
-    "stake": 24.44,
-    "end": 2613.49
+    "start": 4180.35,
+    "stake": 41.8,
+    "end": 4563.0
   }
 }

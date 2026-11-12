@@ -1,6 +1,6 @@
 {
   "date": "2026-05-06",
-  "updated": "2026-11-11T08:41:56+0000",
+  "updated": "2026-11-12T04:53:04+0000",
   "races": [
     {
       "time": "17:00",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 6.66,
-          "ret": -6.66,
-          "bank": 659.48
+          "stake": 7.76,
+          "ret": -7.76,
+          "bank": 768.59
         },
         {
           "rank": 2,
@@ -35,9 +35,9 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 6.59,
-          "ret": -6.59,
-          "bank": 652.89
+          "stake": 7.69,
+          "ret": -7.69,
+          "bank": 760.9
         }
       ]
     },
@@ -60,9 +60,9 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 6.53,
-          "ret": -6.53,
-          "bank": 646.36
+          "stake": 7.61,
+          "ret": -7.61,
+          "bank": 753.29
         }
       ]
     },
@@ -85,9 +85,37 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 6.46,
-          "ret": -6.46,
-          "bank": 639.9
+          "stake": 7.53,
+          "ret": -7.53,
+          "bank": 745.76
+        },
+        {
+          "rank": 2,
+          "horse": "Kit Gabriel",
+          "jockey": "Tyler Heard",
+          "cd": 1,
+          "days": 6,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 7.46,
+          "ret": 20.52,
+          "bank": 766.28
+        },
+        {
+          "rank": 3,
+          "horse": "Mr Baloo",
+          "jockey": "Joe Leavy",
+          "cd": 1,
+          "days": 8,
+          "odds": "18/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 7.66,
+          "ret": -7.66,
+          "bank": 758.62
         }
       ]
     },
@@ -110,16 +138,30 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 6.4,
-          "ret": 10.4,
-          "bank": 650.3
+          "stake": 7.59,
+          "ret": 12.33,
+          "bank": 770.95
+        },
+        {
+          "rank": 2,
+          "horse": "Man On A Mission",
+          "jockey": "Liam Wright",
+          "cd": 2,
+          "days": 8,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 7.71,
+          "ret": -7.71,
+          "bank": 763.24
         }
       ]
     }
   ],
   "bank": {
-    "start": 666.14,
-    "stake": 6.66,
-    "end": 650.3
+    "start": 776.35,
+    "stake": 7.76,
+    "end": 763.24
   }
 }

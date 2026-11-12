@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "updated": "2026-11-11T08:42:03+0000",
+  "updated": "2026-11-12T04:53:12+0000",
   "races": [
     {
       "time": "13:35",
@@ -21,9 +21,48 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 15.3,
-          "ret": -15.3,
-          "bank": 1514.3
+          "stake": 25.75,
+          "ret": -25.75,
+          "bank": 2549.26
+        },
+        {
+          "rank": 2,
+          "horse": "Espanita",
+          "jockey": "Oliver Stammers",
+          "cd": 1,
+          "days": 25,
+          "odds": "20/1",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 25.49,
+          "ret": 509.8,
+          "bank": 3059.06
+        }
+      ]
+    },
+    {
+      "time": "14:10",
+      "meeting": "Wolverhampton",
+      "name": "Call 01902 390016 To Name A Race Fillies' Handicap",
+      "class": "4",
+      "distance": "7f 36y",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Bella Bisbee",
+          "jockey": "Christian Howarth",
+          "cd": 1,
+          "days": 9,
+          "odds": "18/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 30.59,
+          "ret": -30.59,
+          "bank": 3028.47
         }
       ]
     },
@@ -46,9 +85,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 15.14,
-          "ret": 121.12,
-          "bank": 1635.42
+          "stake": 30.28,
+          "ret": 242.24,
+          "bank": 3270.71
         }
       ]
     },
@@ -71,9 +110,9 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 16.35,
-          "ret": -16.35,
-          "bank": 1619.07
+          "stake": 32.71,
+          "ret": -32.71,
+          "bank": 3238.0
         }
       ]
     },
@@ -96,16 +135,30 @@
           "mark": -2,
           "pos": 2,
           "res": "PLACE",
-          "stake": 16.19,
-          "ret": 13.49,
-          "bank": 1632.56
+          "stake": 32.38,
+          "ret": 26.98,
+          "bank": 3264.98
+        },
+        {
+          "rank": 2,
+          "horse": "Saisons D'Or",
+          "jockey": "J Garritty",
+          "cd": 3,
+          "days": 23,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 32.65,
+          "ret": -32.65,
+          "bank": 3232.33
         }
       ]
     }
   ],
   "bank": {
-    "start": 1529.6,
-    "stake": 15.3,
-    "end": 1632.56
+    "start": 2575.01,
+    "stake": 25.75,
+    "end": 3232.33
   }
 }

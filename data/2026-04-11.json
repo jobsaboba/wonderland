@@ -1,6 +1,6 @@
 {
   "date": "2026-04-11",
-  "updated": "2026-11-11T08:41:55+0000",
+  "updated": "2026-11-12T04:53:02+0000",
   "races": [
     {
       "time": "16:15",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 4.59,
-          "ret": -4.59,
-          "bank": 454.65
+          "stake": 6.21,
+          "ret": -6.21,
+          "bank": 614.98
         },
         {
           "rank": 2,
@@ -35,9 +35,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 4.55,
-          "ret": 5.12,
-          "bank": 459.77
+          "stake": 6.15,
+          "ret": 6.92,
+          "bank": 621.9
         }
       ]
     },
@@ -60,9 +60,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 4.6,
-          "ret": 10.35,
-          "bank": 470.12
+          "stake": 6.22,
+          "ret": 13.99,
+          "bank": 635.89
         },
         {
           "rank": 2,
@@ -74,9 +74,48 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 4.7,
-          "ret": -4.7,
-          "bank": 465.42
+          "stake": 6.36,
+          "ret": -6.36,
+          "bank": 629.53
+        },
+        {
+          "rank": 3,
+          "horse": "Aim For The Bull",
+          "jockey": "Callum Shepherd",
+          "cd": 1,
+          "days": 17,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 6.3,
+          "ret": -6.3,
+          "bank": 623.23
+        }
+      ]
+    },
+    {
+      "time": "18:15",
+      "meeting": "Southwell",
+      "name": "Conference & Events At Southwell Racecourse Handicap (Div 2)",
+      "class": "6",
+      "distance": "7f 14y",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Autumn Angel",
+          "jockey": "Rossa Ryan",
+          "cd": 1,
+          "days": 18,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 6.23,
+          "ret": 17.13,
+          "bank": 640.36
         }
       ]
     },
@@ -91,20 +130,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "He's An Angel",
-          "jockey": "William Pyle",
-          "cd": 1,
-          "days": 17,
-          "odds": "5/1",
-          "mark": null,
-          "pos": 8,
-          "res": "LOSE",
-          "stake": 4.65,
-          "ret": -4.65,
-          "bank": 460.77
-        },
-        {
-          "rank": 2,
           "horse": "Piperstown",
           "jockey": "Oliver Stammers",
           "cd": 1,
@@ -113,16 +138,30 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 4.61,
-          "ret": 18.44,
-          "bank": 479.21
+          "stake": 6.4,
+          "ret": 25.6,
+          "bank": 665.96
+        },
+        {
+          "rank": 2,
+          "horse": "He's An Angel",
+          "jockey": "William Pyle",
+          "cd": 1,
+          "days": 17,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 6.66,
+          "ret": -6.66,
+          "bank": 659.3
         }
       ]
     }
   ],
   "bank": {
-    "start": 459.24,
-    "stake": 4.59,
-    "end": 479.21
+    "start": 621.19,
+    "stake": 6.21,
+    "end": 659.3
   }
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "updated": "2026-11-11T08:42:04+0000",
+  "updated": "2026-11-12T04:53:13+0000",
   "races": [
     {
       "time": "13:25",
@@ -21,26 +21,12 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 16.62,
-          "ret": 58.17,
-          "bank": 1719.68
+          "stake": 33.67,
+          "ret": 117.84,
+          "bank": 3485.21
         },
         {
           "rank": 2,
-          "horse": "Allsortz",
-          "jockey": "Luke McAteer",
-          "cd": 1,
-          "days": 22,
-          "odds": "17/2",
-          "mark": null,
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 17.2,
-          "ret": -17.2,
-          "bank": 1702.48
-        },
-        {
-          "rank": 3,
           "horse": "Sir Les Patterson",
           "jockey": "Paddy Harnett",
           "cd": 2,
@@ -49,9 +35,23 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 17.02,
-          "ret": 17.02,
-          "bank": 1719.5
+          "stake": 34.85,
+          "ret": 34.85,
+          "bank": 3520.06
+        },
+        {
+          "rank": 3,
+          "horse": "Allsortz",
+          "jockey": "Luke McAteer",
+          "cd": 1,
+          "days": 22,
+          "odds": "17/2",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 35.2,
+          "ret": -35.2,
+          "bank": 3484.86
         }
       ]
     },
@@ -74,9 +74,23 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 17.2,
-          "ret": -17.2,
-          "bank": 1702.3
+          "stake": 34.85,
+          "ret": -34.85,
+          "bank": 3450.01
+        },
+        {
+          "rank": 2,
+          "horse": "Master Garvey",
+          "jockey": "Declan McDonogh",
+          "cd": 1,
+          "days": 9,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 34.5,
+          "ret": -34.5,
+          "bank": 3415.51
         }
       ]
     },
@@ -99,9 +113,37 @@
           "mark": null,
           "pos": 12,
           "res": "LOSE",
-          "stake": 17.02,
-          "ret": -17.02,
-          "bank": 1685.28
+          "stake": 34.16,
+          "ret": -34.16,
+          "bank": 3381.35
+        },
+        {
+          "rank": 2,
+          "horse": "Cala Bonita",
+          "jockey": "Wesley Joyce",
+          "cd": 2,
+          "days": 16,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 33.81,
+          "ret": -33.81,
+          "bank": 3347.54
+        },
+        {
+          "rank": 3,
+          "horse": "Genoah",
+          "jockey": "Leigh Roche",
+          "cd": 3,
+          "days": 12,
+          "odds": "20/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 33.48,
+          "ret": -33.48,
+          "bank": 3314.06
         }
       ]
     },
@@ -124,9 +166,9 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 16.85,
-          "ret": -16.85,
-          "bank": 1668.43
+          "stake": 33.14,
+          "ret": -33.14,
+          "bank": 3280.92
         },
         {
           "rank": 2,
@@ -138,9 +180,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 16.68,
-          "ret": 41.7,
-          "bank": 1710.13
+          "stake": 32.81,
+          "ret": 82.03,
+          "bank": 3362.95
         }
       ]
     },
@@ -163,16 +205,16 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 17.1,
-          "ret": -17.1,
-          "bank": 1693.03
+          "stake": 33.63,
+          "ret": -33.63,
+          "bank": 3329.32
         }
       ]
     }
   ],
   "bank": {
-    "start": 1661.51,
-    "stake": 16.62,
-    "end": 1693.03
+    "start": 3367.37,
+    "stake": 33.67,
+    "end": 3329.32
   }
 }

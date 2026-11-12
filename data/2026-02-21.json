@@ -1,6 +1,6 @@
 {
   "date": "2026-02-21",
-  "updated": "2026-11-11T08:41:51+0000",
+  "updated": "2026-11-12T04:52:58+0000",
   "races": [
     {
       "time": "16:27",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.12,
-          "ret": 1.4,
-          "bank": 113.23
+          "stake": 1.77,
+          "ret": 2.21,
+          "bank": 179.44
         }
       ]
     },
@@ -46,9 +46,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.13,
-          "ret": 1.55,
-          "bank": 114.78
+          "stake": 1.79,
+          "ret": 2.46,
+          "bank": 181.9
         }
       ]
     },
@@ -63,20 +63,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Fidelius",
-          "jockey": "Jack Callan",
-          "cd": 2,
-          "days": 11,
-          "odds": "11/2",
-          "mark": null,
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 1.15,
-          "ret": 1.58,
-          "bank": 116.36
-        },
-        {
-          "rank": 2,
           "horse": "Michaela's Boy",
           "jockey": "Jason Hart",
           "cd": 1,
@@ -85,9 +71,23 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 1.16,
-          "ret": -1.16,
-          "bank": 115.2
+          "stake": 1.82,
+          "ret": -1.82,
+          "bank": 180.08
+        },
+        {
+          "rank": 2,
+          "horse": "Fidelius",
+          "jockey": "Jack Callan",
+          "cd": 2,
+          "days": 11,
+          "odds": "11/2",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 1.8,
+          "ret": 2.48,
+          "bank": 182.56
         },
         {
           "rank": 3,
@@ -99,16 +99,105 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 1.15,
-          "ret": -1.15,
-          "bank": 114.05
+          "stake": 1.83,
+          "ret": -1.83,
+          "bank": 180.73
+        }
+      ]
+    },
+    {
+      "time": "19:00",
+      "meeting": "Chelmsford City",
+      "name": "Saturday Night Lights Handicap",
+      "class": "6",
+      "distance": "6f",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Sir Rodneyredblood",
+          "jockey": "Harry Davies",
+          "cd": 4,
+          "days": 11,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 1.81,
+          "ret": -1.81,
+          "bank": 178.92
+        }
+      ]
+    },
+    {
+      "time": "20:00",
+      "meeting": "Chelmsford City",
+      "name": "Dance Through The Decades Handicap",
+      "class": "6",
+      "distance": "7f",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Adelaide Bay",
+          "jockey": "S Donohoe",
+          "cd": 2,
+          "days": 26,
+          "odds": "25/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 1.79,
+          "ret": -1.79,
+          "bank": 177.13
+        },
+        {
+          "rank": 2,
+          "horse": "Edergole's Gift",
+          "jockey": "Darragh Keenan",
+          "cd": 1,
+          "days": 23,
+          "odds": "33/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 1.77,
+          "ret": -1.77,
+          "bank": 175.36
+        }
+      ]
+    },
+    {
+      "time": "20:30",
+      "meeting": "Chelmsford City",
+      "name": "Chelmsford Mile Series Qualifier Handicap",
+      "class": "6",
+      "distance": "1m",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Shades Of May",
+          "jockey": "Oliver Hoodless",
+          "cd": 1,
+          "days": 9,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 1.75,
+          "ret": -1.75,
+          "bank": 173.61
         }
       ]
     }
   ],
   "bank": {
-    "start": 111.83,
-    "stake": 1.12,
-    "end": 114.05
+    "start": 177.23,
+    "stake": 1.77,
+    "end": 173.61
   }
 }

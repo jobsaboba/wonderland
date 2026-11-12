@@ -1,6 +1,6 @@
 {
   "date": "2026-03-31",
-  "updated": "2026-11-11T08:41:54+0000",
+  "updated": "2026-11-12T04:53:01+0000",
   "races": [
     {
       "time": "17:30",
@@ -21,26 +21,12 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 3.18,
-          "ret": -3.18,
-          "bank": 314.96
+          "stake": 4.23,
+          "ret": -4.23,
+          "bank": 418.5
         },
         {
           "rank": 2,
-          "horse": "Al Muqdad",
-          "jockey": "Jason Watson",
-          "cd": 1,
-          "days": 10,
-          "odds": "10/1",
-          "mark": null,
-          "pos": 6,
-          "res": "LOSE",
-          "stake": 3.15,
-          "ret": -3.15,
-          "bank": 311.81
-        },
-        {
-          "rank": 3,
           "horse": "Habrdi",
           "jockey": "J P Sullivan",
           "cd": 2,
@@ -49,9 +35,48 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 3.12,
-          "ret": -3.12,
-          "bank": 308.69
+          "stake": 4.19,
+          "ret": -4.19,
+          "bank": 414.31
+        },
+        {
+          "rank": 3,
+          "horse": "Al Muqdad",
+          "jockey": "Jason Watson",
+          "cd": 1,
+          "days": 10,
+          "odds": "10/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 4.14,
+          "ret": -4.14,
+          "bank": 410.17
+        }
+      ]
+    },
+    {
+      "time": "18:00",
+      "meeting": "Wolverhampton",
+      "name": "Midnite Are Upping The Betting Game Selling Handicap",
+      "class": "6",
+      "distance": "1m 1f 104y",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Marinakis",
+          "jockey": "Ryan Kavanagh",
+          "cd": 1,
+          "days": 14,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 4.1,
+          "ret": -4.1,
+          "bank": 406.07
         }
       ]
     },
@@ -74,16 +99,16 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 3.09,
-          "ret": -3.09,
-          "bank": 305.6
+          "stake": 4.06,
+          "ret": -4.06,
+          "bank": 402.01
         }
       ]
     }
   ],
   "bank": {
-    "start": 318.14,
-    "stake": 3.18,
-    "end": 305.6
+    "start": 422.73,
+    "stake": 4.23,
+    "end": 402.01
   }
 }

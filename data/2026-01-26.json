@@ -1,6 +1,6 @@
 {
   "date": "2026-01-26",
-  "updated": "2026-11-11T08:41:49+0000",
+  "updated": "2026-11-12T04:52:56+0000",
   "races": [
     {
       "time": "15:55",
@@ -13,20 +13,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "East Tyrone",
-          "jockey": "Cam Hardie",
-          "cd": 1,
-          "days": 9,
-          "odds": "8/1",
-          "mark": null,
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 0.32,
-          "ret": 0.64,
-          "bank": 32.69
-        },
-        {
-          "rank": 2,
           "horse": "He's An Angel",
           "jockey": "Oliver Stammers",
           "cd": 1,
@@ -35,9 +21,37 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.33,
-          "ret": 0.99,
-          "bank": 33.68
+          "stake": 0.49,
+          "ret": 1.47,
+          "bank": 50.01
+        },
+        {
+          "rank": 2,
+          "horse": "East Tyrone",
+          "jockey": "Cam Hardie",
+          "cd": 1,
+          "days": 9,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.5,
+          "ret": 1.0,
+          "bank": 51.01
+        },
+        {
+          "rank": 3,
+          "horse": "Tommytwohoots",
+          "jockey": "Lewis Edmunds",
+          "cd": 2,
+          "days": 10,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.51,
+          "ret": -0.51,
+          "bank": 50.5
         }
       ]
     },
@@ -52,20 +66,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Sisters In The Sky",
-          "jockey": "Finley Marsh",
-          "cd": 2,
-          "days": 3,
-          "odds": "13/2",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.34,
-          "ret": 2.21,
-          "bank": 35.89
-        },
-        {
-          "rank": 2,
           "horse": "Porfin",
           "jockey": "Connor Planas",
           "cd": 1,
@@ -74,9 +74,37 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.36,
-          "ret": 0.4,
-          "bank": 36.29
+          "stake": 0.51,
+          "ret": 0.57,
+          "bank": 51.07
+        },
+        {
+          "rank": 2,
+          "horse": "Sisters In The Sky",
+          "jockey": "Finley Marsh",
+          "cd": 2,
+          "days": 3,
+          "odds": "13/2",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.51,
+          "ret": 3.31,
+          "bank": 54.38
+        },
+        {
+          "rank": 3,
+          "horse": "Lady Bouquet",
+          "jockey": "Aiden Brookes",
+          "cd": 1,
+          "days": 20,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 0.54,
+          "ret": -0.54,
+          "bank": 53.84
         }
       ]
     },
@@ -99,9 +127,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.36,
-          "ret": 1.44,
-          "bank": 37.73
+          "stake": 0.54,
+          "ret": 2.16,
+          "bank": 56.0
         }
       ]
     },
@@ -124,9 +152,23 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.38,
-          "ret": -0.38,
-          "bank": 37.35
+          "stake": 0.56,
+          "ret": -0.56,
+          "bank": 55.44
+        },
+        {
+          "rank": 2,
+          "horse": "Harbour Vision",
+          "jockey": "K T O'Neill",
+          "cd": 3,
+          "days": 14,
+          "odds": "20/1",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.55,
+          "ret": 11.0,
+          "bank": 66.44
         }
       ]
     },
@@ -149,9 +191,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.37,
-          "ret": 0.6,
-          "bank": 37.95
+          "stake": 0.66,
+          "ret": 1.07,
+          "bank": 67.51
         },
         {
           "rank": 2,
@@ -163,9 +205,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.38,
-          "ret": 0.76,
-          "bank": 38.71
+          "stake": 0.68,
+          "ret": 1.36,
+          "bank": 68.87
         }
       ]
     },
@@ -188,16 +230,16 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.39,
-          "ret": -0.39,
-          "bank": 38.32
+          "stake": 0.69,
+          "ret": -0.69,
+          "bank": 68.18
         }
       ]
     }
   ],
   "bank": {
-    "start": 32.05,
-    "stake": 0.32,
-    "end": 38.32
+    "start": 48.54,
+    "stake": 0.49,
+    "end": 68.18
   }
 }

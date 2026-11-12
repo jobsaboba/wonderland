@@ -1,6 +1,6 @@
 {
   "date": "2026-04-10",
-  "updated": "2026-11-11T08:41:55+0000",
+  "updated": "2026-11-12T04:53:02+0000",
   "races": [
     {
       "time": "16:42",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 4.22,
-          "ret": 3.52,
-          "bank": 425.71
+          "stake": 5.83,
+          "ret": 4.86,
+          "bank": 587.53
         }
       ]
     },
@@ -46,9 +46,23 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 4.26,
-          "ret": 3.19,
-          "bank": 428.9
+          "stake": 5.88,
+          "ret": 4.41,
+          "bank": 591.94
+        },
+        {
+          "rank": 2,
+          "horse": "Addarella",
+          "jockey": "K T O'Neill",
+          "cd": 2,
+          "days": 21,
+          "odds": "18/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 5.92,
+          "ret": -5.92,
+          "bank": 586.02
         }
       ]
     },
@@ -63,20 +77,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Ferrari Desert",
-          "jockey": "Joseph Harnett",
-          "cd": 1,
-          "days": 13,
-          "odds": "8/1",
-          "mark": null,
-          "pos": 7,
-          "res": "LOSE",
-          "stake": 4.29,
-          "ret": -4.29,
-          "bank": 424.61
-        },
-        {
-          "rank": 2,
           "horse": "Methgal",
           "jockey": "Conor Cusack",
           "cd": 1,
@@ -85,9 +85,23 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 4.25,
-          "ret": 3.72,
-          "bank": 428.33
+          "stake": 5.86,
+          "ret": 5.13,
+          "bank": 591.15
+        },
+        {
+          "rank": 2,
+          "horse": "Ferrari Desert",
+          "jockey": "Joseph Harnett",
+          "cd": 1,
+          "days": 13,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 5.91,
+          "ret": -5.91,
+          "bank": 585.24
         }
       ]
     },
@@ -110,9 +124,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 4.28,
-          "ret": 9.63,
-          "bank": 437.96
+          "stake": 5.85,
+          "ret": 13.16,
+          "bank": 598.4
         }
       ]
     },
@@ -127,20 +141,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Amelia's Joy",
-          "jockey": "S M Levey",
-          "cd": 1,
-          "days": 13,
-          "odds": "7/1",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 4.38,
-          "ret": 30.66,
-          "bank": 468.62
-        },
-        {
-          "rank": 2,
           "horse": "Split Elevens",
           "jockey": "David Probert",
           "cd": 3,
@@ -149,9 +149,37 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 4.69,
-          "ret": -4.69,
-          "bank": 463.93
+          "stake": 5.98,
+          "ret": -5.98,
+          "bank": 592.42
+        },
+        {
+          "rank": 2,
+          "horse": "Amelia's Joy",
+          "jockey": "S M Levey",
+          "cd": 1,
+          "days": 13,
+          "odds": "7/1",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 5.92,
+          "ret": 41.44,
+          "bank": 633.86
+        },
+        {
+          "rank": 3,
+          "horse": "Dayman",
+          "jockey": "Rob Hornby",
+          "cd": 1,
+          "days": 28,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 6.34,
+          "ret": -6.34,
+          "bank": 627.52
         }
       ]
     },
@@ -166,20 +194,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Sarmiento Power",
-          "jockey": "Robert Whearty",
-          "cd": 1,
-          "days": 9,
-          "odds": "7/1",
-          "mark": null,
-          "pos": 10,
-          "res": "LOSE",
-          "stake": 4.64,
-          "ret": -4.64,
-          "bank": 459.29
-        },
-        {
-          "rank": 2,
           "horse": "Jawhary",
           "jockey": "Adam Caffrey",
           "cd": 2,
@@ -188,9 +202,23 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 4.59,
-          "ret": 4.59,
-          "bank": 463.88
+          "stake": 6.28,
+          "ret": 6.28,
+          "bank": 633.8
+        },
+        {
+          "rank": 2,
+          "horse": "Sarmiento Power",
+          "jockey": "Robert Whearty",
+          "cd": 1,
+          "days": 9,
+          "odds": "7/1",
+          "mark": null,
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 6.34,
+          "ret": -6.34,
+          "bank": 627.46
         }
       ]
     },
@@ -213,16 +241,16 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 4.64,
-          "ret": -4.64,
-          "bank": 459.24
+          "stake": 6.27,
+          "ret": -6.27,
+          "bank": 621.19
         }
       ]
     }
   ],
   "bank": {
-    "start": 422.19,
-    "stake": 4.22,
-    "end": 459.24
+    "start": 582.67,
+    "stake": 5.83,
+    "end": 621.19
   }
 }

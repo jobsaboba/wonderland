@@ -1,6 +1,6 @@
 {
   "date": "2026-01-14",
-  "updated": "2026-11-11T08:41:48+0000",
+  "updated": "2026-11-12T04:52:55+0000",
   "races": [
     {
       "time": "14:30",
@@ -21,9 +21,23 @@
           "mark": -3,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.18,
-          "ret": 0.63,
-          "bank": 18.45
+          "stake": 0.15,
+          "ret": 0.53,
+          "bank": 15.39
+        },
+        {
+          "rank": 2,
+          "horse": "Alafdhal",
+          "jockey": "L Morris",
+          "cd": 1,
+          "days": 15,
+          "odds": "22/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.15,
+          "ret": -0.15,
+          "bank": 15.24
         }
       ]
     },
@@ -46,9 +60,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.18,
-          "ret": 0.14,
-          "bank": 18.59
+          "stake": 0.15,
+          "ret": 0.11,
+          "bank": 15.35
         }
       ]
     },
@@ -63,20 +77,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "How Impressive",
-          "jockey": "Jason Watson",
-          "cd": 1,
-          "days": 10,
-          "odds": "7/2",
-          "mark": null,
-          "pos": 7,
-          "res": "LOSE",
-          "stake": 0.19,
-          "ret": -0.19,
-          "bank": 18.4
-        },
-        {
-          "rank": 2,
           "horse": "Tadreeb",
           "jockey": "Oliver Searle",
           "cd": 5,
@@ -85,9 +85,23 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.18,
-          "ret": 0.15,
-          "bank": 18.55
+          "stake": 0.15,
+          "ret": 0.12,
+          "bank": 15.47
+        },
+        {
+          "rank": 2,
+          "horse": "How Impressive",
+          "jockey": "Jason Watson",
+          "cd": 1,
+          "days": 10,
+          "odds": "7/2",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.15,
+          "ret": -0.15,
+          "bank": 15.32
         },
         {
           "rank": 3,
@@ -99,16 +113,66 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.19,
-          "ret": -0.19,
-          "bank": 18.36
+          "stake": 0.15,
+          "ret": -0.15,
+          "bank": 15.17
+        }
+      ]
+    },
+    {
+      "time": "18:00",
+      "meeting": "Kempton",
+      "name": "Get Daily Price Boosts At Unibet Handicap",
+      "class": "6",
+      "distance": "1m",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Adace",
+          "jockey": "J F Egan",
+          "cd": 1,
+          "days": 12,
+          "odds": "22/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 0.15,
+          "ret": -0.15,
+          "bank": 15.02
+        }
+      ]
+    },
+    {
+      "time": "20:00",
+      "meeting": "Kempton",
+      "name": "Unibet Supports Safer Gambling Handicap",
+      "class": "4",
+      "distance": "6f",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Media Shooter",
+          "jockey": "S D Bowen",
+          "cd": 2,
+          "days": 15,
+          "odds": "22/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.15,
+          "ret": -0.15,
+          "bank": 14.87
         }
       ]
     }
   ],
   "bank": {
-    "start": 17.82,
-    "stake": 0.18,
-    "end": 18.36
+    "start": 14.86,
+    "stake": 0.15,
+    "end": 14.87
   }
 }

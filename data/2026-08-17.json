@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "updated": "2026-11-11T08:42:04+0000",
+  "updated": "2026-11-12T04:53:13+0000",
   "races": [
     {
       "time": "16:10",
@@ -13,34 +13,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Dream Illusion",
-          "jockey": "Dylan Hogan",
-          "cd": 1,
-          "days": 11,
-          "odds": "13/2",
-          "mark": null,
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 17.78,
-          "ret": 28.89,
-          "bank": 1806.57
-        },
-        {
-          "rank": 2,
-          "horse": "Espanita",
-          "jockey": "Oliver Stammers",
-          "cd": 2,
-          "days": 17,
-          "odds": "15/2",
-          "mark": null,
-          "pos": 6,
-          "res": "LOSE",
-          "stake": 18.07,
-          "ret": -18.07,
-          "bank": 1788.5
-        },
-        {
-          "rank": 3,
           "horse": "Amelia's Joy",
           "jockey": "David Probert",
           "cd": 2,
@@ -49,9 +21,37 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 17.89,
-          "ret": -17.89,
-          "bank": 1770.61
+          "stake": 35.29,
+          "ret": -35.29,
+          "bank": 3493.72
+        },
+        {
+          "rank": 2,
+          "horse": "Dream Illusion",
+          "jockey": "Dylan Hogan",
+          "cd": 1,
+          "days": 11,
+          "odds": "13/2",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 34.94,
+          "ret": 56.78,
+          "bank": 3550.5
+        },
+        {
+          "rank": 3,
+          "horse": "Espanita",
+          "jockey": "Oliver Stammers",
+          "cd": 2,
+          "days": 17,
+          "odds": "15/2",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 35.51,
+          "ret": -35.51,
+          "bank": 3514.99
         }
       ]
     },
@@ -74,9 +74,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 17.71,
-          "ret": 13.28,
-          "bank": 1783.89
+          "stake": 35.15,
+          "ret": 26.36,
+          "bank": 3541.35
         }
       ]
     },
@@ -99,16 +99,16 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 17.84,
-          "ret": -17.84,
-          "bank": 1766.05
+          "stake": 35.41,
+          "ret": -35.41,
+          "bank": 3505.94
         }
       ]
     }
   ],
   "bank": {
-    "start": 1777.68,
-    "stake": 17.78,
-    "end": 1766.05
+    "start": 3529.01,
+    "stake": 35.29,
+    "end": 3505.94
   }
 }

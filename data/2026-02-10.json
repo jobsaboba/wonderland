@@ -1,6 +1,6 @@
 {
   "date": "2026-02-10",
-  "updated": "2026-11-11T08:41:50+0000",
+  "updated": "2026-11-12T04:52:57+0000",
   "races": [
     {
       "time": "13:18",
@@ -13,20 +13,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Ashford Hill",
-          "jockey": "Isobelle Chalmers",
-          "cd": 2,
-          "days": 17,
-          "odds": "13/2",
-          "mark": null,
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 0.72,
-          "ret": -0.72,
-          "bank": 71.19
-        },
-        {
-          "rank": 2,
           "horse": "Global Warning",
           "jockey": "S D Bowen",
           "cd": 1,
@@ -35,9 +21,23 @@
           "mark": -2,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.71,
-          "ret": 0.8,
-          "bank": 71.99
+          "stake": 1.37,
+          "ret": 1.54,
+          "bank": 138.66
+        },
+        {
+          "rank": 2,
+          "horse": "Ashford Hill",
+          "jockey": "Isobelle Chalmers",
+          "cd": 2,
+          "days": 17,
+          "odds": "13/2",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 1.39,
+          "ret": -1.39,
+          "bank": 137.27
         }
       ]
     },
@@ -60,9 +60,9 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.72,
-          "ret": -0.72,
-          "bank": 71.27
+          "stake": 1.37,
+          "ret": -1.37,
+          "bank": 135.9
         },
         {
           "rank": 2,
@@ -74,9 +74,73 @@
           "mark": null,
           "pos": 3,
           "res": "LOSE",
-          "stake": 0.71,
-          "ret": -0.71,
-          "bank": 70.56
+          "stake": 1.36,
+          "ret": -1.36,
+          "bank": 134.54
+        }
+      ]
+    },
+    {
+      "time": "15:18",
+      "meeting": "Lingfield",
+      "name": "Create Your Bet Builders At Midnite Handicap",
+      "class": "6",
+      "distance": "6f 1y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Harry Brown",
+          "jockey": "T P Queally",
+          "cd": 4,
+          "days": 24,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 1.35,
+          "ret": -1.35,
+          "bank": 133.19
+        },
+        {
+          "rank": 2,
+          "horse": "Coolagh Magic",
+          "jockey": "William Carson",
+          "cd": 2,
+          "days": 12,
+          "odds": "22/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 1.33,
+          "ret": -1.33,
+          "bank": 131.86
+        }
+      ]
+    },
+    {
+      "time": "16:18",
+      "meeting": "Lingfield",
+      "name": "Make The Move To Midnite Handicap",
+      "class": "6",
+      "distance": "1m 4f",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Gearing's Point",
+          "jockey": "George Bass",
+          "cd": 1,
+          "days": 24,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 1.32,
+          "ret": 3.96,
+          "bank": 135.82
         }
       ]
     },
@@ -91,20 +155,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Container Express",
-          "jockey": "Aiden Brookes",
-          "cd": 1,
-          "days": 10,
-          "odds": "8/1",
-          "mark": null,
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 0.71,
-          "ret": 1.42,
-          "bank": 71.98
-        },
-        {
-          "rank": 2,
           "horse": "The Tunguska Event",
           "jockey": "Jason Hart",
           "cd": 1,
@@ -113,9 +163,23 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.72,
-          "ret": 3.6,
-          "bank": 75.58
+          "stake": 1.36,
+          "ret": 6.8,
+          "bank": 142.62
+        },
+        {
+          "rank": 2,
+          "horse": "Container Express",
+          "jockey": "Aiden Brookes",
+          "cd": 1,
+          "days": 10,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 1.43,
+          "ret": 2.86,
+          "bank": 145.48
         }
       ]
     },
@@ -138,9 +202,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.76,
-          "ret": 0.57,
-          "bank": 76.15
+          "stake": 1.45,
+          "ret": 1.09,
+          "bank": 146.57
         },
         {
           "rank": 2,
@@ -152,9 +216,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.76,
-          "ret": 2.28,
-          "bank": 78.43
+          "stake": 1.47,
+          "ret": 4.41,
+          "bank": 150.98
         },
         {
           "rank": 3,
@@ -166,9 +230,9 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.78,
-          "ret": -0.78,
-          "bank": 77.65
+          "stake": 1.51,
+          "ret": -1.51,
+          "bank": 149.47
         }
       ]
     },
@@ -183,20 +247,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Judgment Call",
-          "jockey": "Kaiya Fraser",
-          "cd": 1,
-          "days": 4,
-          "odds": "6/1",
-          "mark": null,
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 0.78,
-          "ret": 1.17,
-          "bank": 78.82
-        },
-        {
-          "rank": 2,
           "horse": "Spartan Fighter",
           "jockey": "Cam Hardie",
           "cd": 9,
@@ -205,16 +255,44 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.79,
-          "ret": 2.77,
-          "bank": 81.59
+          "stake": 1.49,
+          "ret": 5.21,
+          "bank": 154.68
+        },
+        {
+          "rank": 2,
+          "horse": "Judgment Call",
+          "jockey": "Kaiya Fraser",
+          "cd": 1,
+          "days": 4,
+          "odds": "6/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 1.55,
+          "ret": 2.33,
+          "bank": 157.01
+        },
+        {
+          "rank": 3,
+          "horse": "Captain Vallo",
+          "jockey": "S H James",
+          "cd": 3,
+          "days": 6,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 1.57,
+          "ret": -1.57,
+          "bank": 155.44
         }
       ]
     }
   ],
   "bank": {
-    "start": 71.91,
-    "stake": 0.72,
-    "end": 81.59
+    "start": 137.12,
+    "stake": 1.37,
+    "end": 155.44
   }
 }

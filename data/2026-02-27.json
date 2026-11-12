@@ -1,6 +1,6 @@
 {
   "date": "2026-02-27",
-  "updated": "2026-11-11T08:41:51+0000",
+  "updated": "2026-11-12T04:52:58+0000",
   "races": [
     {
       "time": "13:42",
@@ -13,20 +13,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Bownder",
-          "jockey": "Olivia Tubb",
-          "cd": 1,
-          "days": 13,
-          "odds": "13/2",
-          "mark": null,
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 1.12,
-          "ret": 1.82,
-          "bank": 113.96
-        },
-        {
-          "rank": 2,
           "horse": "Muy Muy Loco",
           "jockey": "Mason Paetel",
           "cd": 2,
@@ -35,9 +21,48 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 1.14,
-          "ret": -1.14,
-          "bank": 112.82
+          "stake": 1.57,
+          "ret": -1.57,
+          "bank": 155.89
+        },
+        {
+          "rank": 2,
+          "horse": "Bownder",
+          "jockey": "Olivia Tubb",
+          "cd": 1,
+          "days": 13,
+          "odds": "13/2",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 1.56,
+          "ret": 2.54,
+          "bank": 158.43
+        }
+      ]
+    },
+    {
+      "time": "14:42",
+      "meeting": "Lingfield",
+      "name": "BetMGM AWC Fillies And Mares Trial Handicap",
+      "class": "2",
+      "distance": "7f 1y",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Brazilian Rose",
+          "jockey": "Paddy Bradley",
+          "cd": 1,
+          "days": 13,
+          "odds": "18/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 1.58,
+          "ret": -1.58,
+          "bank": 156.85
         }
       ]
     },
@@ -60,9 +85,9 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 1.13,
-          "ret": -1.13,
-          "bank": 111.69
+          "stake": 1.57,
+          "ret": -1.57,
+          "bank": 155.28
         }
       ]
     },
@@ -85,9 +110,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.12,
-          "ret": 1.4,
-          "bank": 113.09
+          "stake": 1.55,
+          "ret": 1.94,
+          "bank": 157.22
         }
       ]
     },
@@ -110,9 +135,9 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 1.13,
-          "ret": -1.13,
-          "bank": 111.96
+          "stake": 1.57,
+          "ret": -1.57,
+          "bank": 155.65
         }
       ]
     },
@@ -135,9 +160,9 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 1.12,
-          "ret": -1.12,
-          "bank": 110.84
+          "stake": 1.56,
+          "ret": -1.56,
+          "bank": 154.09
         },
         {
           "rank": 2,
@@ -149,9 +174,23 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.11,
-          "ret": 1.11,
-          "bank": 111.95
+          "stake": 1.54,
+          "ret": 1.54,
+          "bank": 155.63
+        },
+        {
+          "rank": 3,
+          "horse": "Pessoa",
+          "jockey": "Finley Marsh",
+          "cd": 2,
+          "days": 18,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 1.56,
+          "ret": 18.72,
+          "bank": 174.35
         }
       ]
     },
@@ -174,9 +213,9 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 1.12,
-          "ret": -1.12,
-          "bank": 110.83
+          "stake": 1.74,
+          "ret": -1.74,
+          "bank": 172.61
         }
       ]
     },
@@ -191,20 +230,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Grabajabba",
-          "jockey": "Alistair Rawlinson",
-          "cd": 1,
-          "days": 3,
-          "odds": "9/1",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 1.11,
-          "ret": 9.99,
-          "bank": 120.82
-        },
-        {
-          "rank": 2,
           "horse": "Beattie Is Back",
           "jockey": "J Garritty",
           "cd": 1,
@@ -213,9 +238,37 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.21,
-          "ret": 1.66,
-          "bank": 122.48
+          "stake": 1.73,
+          "ret": 2.38,
+          "bank": 174.99
+        },
+        {
+          "rank": 2,
+          "horse": "Grabajabba",
+          "jockey": "Alistair Rawlinson",
+          "cd": 1,
+          "days": 3,
+          "odds": "9/1",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 1.75,
+          "ret": 15.75,
+          "bank": 190.74
+        },
+        {
+          "rank": 3,
+          "horse": "Giorgio M",
+          "jockey": "Hollie Doyle",
+          "cd": 1,
+          "days": 20,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 1.91,
+          "ret": -1.91,
+          "bank": 188.83
         }
       ]
     },
@@ -230,20 +283,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Benavente",
-          "jockey": "Julian Pietropaolo",
-          "cd": 2,
-          "days": 7,
-          "odds": "8/1",
-          "mark": null,
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 1.22,
-          "ret": 2.44,
-          "bank": 124.92
-        },
-        {
-          "rank": 2,
           "horse": "Baila Conmigo",
           "jockey": "Jack Kearney",
           "cd": 1,
@@ -252,9 +291,37 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 1.25,
-          "ret": -1.25,
-          "bank": 123.67
+          "stake": 1.89,
+          "ret": -1.89,
+          "bank": 186.94
+        },
+        {
+          "rank": 2,
+          "horse": "Benavente",
+          "jockey": "Julian Pietropaolo",
+          "cd": 2,
+          "days": 7,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 1.87,
+          "ret": 3.74,
+          "bank": 190.68
+        },
+        {
+          "rank": 3,
+          "horse": "Church Mountain",
+          "jockey": "Leigh Roche",
+          "cd": 1,
+          "days": 21,
+          "odds": "18/1",
+          "mark": null,
+          "pos": 13,
+          "res": "LOSE",
+          "stake": 1.91,
+          "ret": -1.91,
+          "bank": 188.77
         }
       ]
     },
@@ -269,20 +336,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Gustav Graves",
-          "jockey": "Joanna Mason",
-          "cd": 7,
-          "days": 14,
-          "odds": "10/1",
-          "mark": null,
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 1.24,
-          "ret": -1.24,
-          "bank": 122.43
-        },
-        {
-          "rank": 2,
           "horse": "Hint Of Humour",
           "jockey": "William Carson",
           "cd": 2,
@@ -291,12 +344,12 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.22,
-          "ret": 1.22,
-          "bank": 123.65
+          "stake": 1.89,
+          "ret": 1.89,
+          "bank": 190.66
         },
         {
-          "rank": 3,
+          "rank": 2,
           "horse": "Phoenix Beach",
           "jockey": "Jonny Peate",
           "cd": 4,
@@ -305,16 +358,55 @@
           "mark": null,
           "pos": 3,
           "res": "LOSE",
-          "stake": 1.24,
-          "ret": -1.24,
-          "bank": 122.41
+          "stake": 1.91,
+          "ret": -1.91,
+          "bank": 188.75
+        },
+        {
+          "rank": 3,
+          "horse": "Gustav Graves",
+          "jockey": "Joanna Mason",
+          "cd": 7,
+          "days": 14,
+          "odds": "10/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 1.89,
+          "ret": -1.89,
+          "bank": 186.86
+        }
+      ]
+    },
+    {
+      "time": "19:45",
+      "meeting": "Wolverhampton",
+      "name": "Make The Move To Midnite Handicap (GBBPlus Race)",
+      "class": "4",
+      "distance": "1m 4f 51y",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Intinso",
+          "jockey": "Joanna Mason",
+          "cd": 1,
+          "days": 27,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 1.87,
+          "ret": -1.87,
+          "bank": 184.99
         }
       ]
     }
   ],
   "bank": {
-    "start": 112.14,
-    "stake": 1.12,
-    "end": 122.41
+    "start": 157.46,
+    "stake": 1.57,
+    "end": 184.99
   }
 }

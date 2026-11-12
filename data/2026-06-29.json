@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "updated": "2026-11-11T08:42:00+0000",
+  "updated": "2026-11-12T04:53:09+0000",
   "races": [
     {
       "time": "17:45",
@@ -13,20 +13,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Tronido",
-          "jockey": "Paddy Bradley",
-          "cd": 1,
-          "days": 22,
-          "odds": "9/1",
-          "mark": null,
-          "pos": 11,
-          "res": "LOSE",
-          "stake": 13.54,
-          "ret": -13.54,
-          "bank": 1340.89
-        },
-        {
-          "rank": 2,
           "horse": "Searchingtheblues",
           "jockey": "Rose Dawes",
           "cd": 1,
@@ -35,16 +21,55 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 13.41,
-          "ret": 28.5,
-          "bank": 1369.39
+          "stake": 22.03,
+          "ret": 46.81,
+          "bank": 2249.56
+        },
+        {
+          "rank": 2,
+          "horse": "Tronido",
+          "jockey": "Paddy Bradley",
+          "cd": 1,
+          "days": 22,
+          "odds": "9/1",
+          "mark": null,
+          "pos": 11,
+          "res": "LOSE",
+          "stake": 22.5,
+          "ret": -22.5,
+          "bank": 2227.06
+        }
+      ]
+    },
+    {
+      "time": "19:15",
+      "meeting": "Kempton",
+      "name": "Try Unibet's New Improved Acca Boosts Handicap (GBBPlus Race)",
+      "class": "4",
+      "distance": "1m 2f 219y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Crystal Mariner",
+          "jockey": "William Carver",
+          "cd": 2,
+          "days": 21,
+          "odds": "33/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 22.27,
+          "ret": -22.27,
+          "bank": 2204.79
         }
       ]
     }
   ],
   "bank": {
-    "start": 1354.43,
-    "stake": 13.54,
-    "end": 1369.39
+    "start": 2202.75,
+    "stake": 22.03,
+    "end": 2204.79
   }
 }

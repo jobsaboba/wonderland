@@ -1,6 +1,6 @@
 {
   "date": "2026-04-29",
-  "updated": "2026-11-11T08:41:56+0000",
+  "updated": "2026-11-12T04:53:04+0000",
   "races": [
     {
       "time": "15:05",
@@ -21,16 +21,66 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 6.72,
-          "ret": 6.72,
-          "bank": 678.6
+          "stake": 7.88,
+          "ret": 7.88,
+          "bank": 796.25
+        }
+      ]
+    },
+    {
+      "time": "15:40",
+      "meeting": "Southwell",
+      "name": "Dog Friendly Raceday Tues 2nd June Handicap (Div 1)",
+      "class": "6",
+      "distance": "1m 13y",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Pink Socks",
+          "jockey": "Paddy Bradley",
+          "cd": 1,
+          "days": 18,
+          "odds": "25/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 7.96,
+          "ret": -7.96,
+          "bank": 788.29
+        }
+      ]
+    },
+    {
+      "time": "16:15",
+      "meeting": "Southwell",
+      "name": "Dog Friendly Raceday Tues 2nd June Handicap (Div 2)",
+      "class": "6",
+      "distance": "1m 13y",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Back From Dubai",
+          "jockey": "Alistair Rawlinson",
+          "cd": 3,
+          "days": 11,
+          "odds": "22/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 7.88,
+          "ret": 43.34,
+          "bank": 831.63
         }
       ]
     }
   ],
   "bank": {
-    "start": 671.88,
-    "stake": 6.72,
-    "end": 678.6
+    "start": 788.37,
+    "stake": 7.88,
+    "end": 831.63
   }
 }

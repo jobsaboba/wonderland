@@ -1,6 +1,6 @@
 {
   "date": "2026-02-25",
-  "updated": "2026-11-11T08:41:51+0000",
+  "updated": "2026-11-12T04:52:58+0000",
   "races": [
     {
       "time": "14:42",
@@ -13,20 +13,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "The Defiant",
-          "jockey": "Jack Dace",
-          "cd": 3,
-          "days": 13,
-          "odds": "9/1",
-          "mark": null,
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 1.08,
-          "ret": 2.43,
-          "bank": 110.04
-        },
-        {
-          "rank": 2,
           "horse": "Coolagh Magic",
           "jockey": "William Carson",
           "cd": 2,
@@ -35,9 +21,23 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 1.1,
-          "ret": -1.1,
-          "bank": 108.94
+          "stake": 1.56,
+          "ret": -1.56,
+          "bank": 154.23
+        },
+        {
+          "rank": 2,
+          "horse": "The Defiant",
+          "jockey": "Jack Dace",
+          "cd": 3,
+          "days": 13,
+          "odds": "9/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 1.54,
+          "ret": 3.46,
+          "bank": 157.69
         }
       ]
     },
@@ -60,9 +60,34 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 1.09,
-          "ret": -1.09,
-          "bank": 107.85
+          "stake": 1.58,
+          "ret": -1.58,
+          "bank": 156.11
+        }
+      ]
+    },
+    {
+      "time": "16:42",
+      "meeting": "Lingfield",
+      "name": "Join The Midnite Movement Handicap",
+      "class": "6",
+      "distance": "6f 1y",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Harry Brown",
+          "jockey": "Rob Hornby",
+          "cd": 4,
+          "days": 15,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 1.56,
+          "ret": -1.56,
+          "bank": 154.55
         }
       ]
     },
@@ -85,9 +110,9 @@
           "mark": null,
           "pos": 12,
           "res": "LOSE",
-          "stake": 1.08,
-          "ret": -1.08,
-          "bank": 106.77
+          "stake": 1.55,
+          "ret": -1.55,
+          "bank": 153.0
         }
       ]
     },
@@ -110,16 +135,30 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.07,
-          "ret": 1.07,
-          "bank": 107.84
+          "stake": 1.53,
+          "ret": 1.53,
+          "bank": 154.53
+        },
+        {
+          "rank": 2,
+          "horse": "Distant Rumble",
+          "jockey": "Cieren Fallon",
+          "cd": 1,
+          "days": 11,
+          "odds": "20/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 1.55,
+          "ret": -1.55,
+          "bank": 152.98
         }
       ]
     }
   ],
   "bank": {
-    "start": 107.61,
-    "stake": 1.08,
-    "end": 107.84
+    "start": 155.79,
+    "stake": 1.56,
+    "end": 152.98
   }
 }

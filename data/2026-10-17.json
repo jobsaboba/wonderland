@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updated": "2026-11-11T08:42:08+0000",
+  "updated": "2026-11-12T04:53:19+0000",
   "races": [
     {
       "time": "15:23",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 34.71,
-          "ret": 121.48,
-          "bank": 3592.96
+          "stake": 55.3,
+          "ret": 193.55,
+          "bank": 5723.69
         },
         {
           "rank": 2,
@@ -35,9 +35,9 @@
           "mark": null,
           "pos": 11,
           "res": "LOSE",
-          "stake": 35.93,
-          "ret": -35.93,
-          "bank": 3557.03
+          "stake": 57.24,
+          "ret": -57.24,
+          "bank": 5666.45
         },
         {
           "rank": 3,
@@ -49,9 +49,9 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 35.57,
-          "ret": -35.57,
-          "bank": 3521.46
+          "stake": 56.66,
+          "ret": -56.66,
+          "bank": 5609.79
         }
       ]
     },
@@ -74,9 +74,23 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 35.21,
-          "ret": 88.03,
-          "bank": 3609.49
+          "stake": 56.1,
+          "ret": 140.25,
+          "bank": 5750.04
+        },
+        {
+          "rank": 2,
+          "horse": "King Of York",
+          "jockey": "Christian Howarth",
+          "cd": 5,
+          "days": 9,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 57.5,
+          "ret": -57.5,
+          "bank": 5692.54
         }
       ]
     },
@@ -99,16 +113,30 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 36.09,
-          "ret": 40.6,
-          "bank": 3650.09
+          "stake": 56.93,
+          "ret": 64.05,
+          "bank": 5756.59
+        },
+        {
+          "rank": 2,
+          "horse": "King Sharja",
+          "jockey": "J P Sullivan",
+          "cd": 1,
+          "days": 15,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 57.57,
+          "ret": -57.57,
+          "bank": 5699.02
         }
       ]
     }
   ],
   "bank": {
-    "start": 3471.48,
-    "stake": 34.71,
-    "end": 3650.09
+    "start": 5530.14,
+    "stake": 55.3,
+    "end": 5699.02
   }
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-02-16",
-  "updated": "2026-11-11T08:41:51+0000",
+  "updated": "2026-11-12T04:52:57+0000",
   "races": [
     {
       "time": "17:00",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.99,
-          "ret": 0.74,
-          "bank": 99.36
+          "stake": 1.75,
+          "ret": 1.31,
+          "bank": 176.13
         },
         {
           "rank": 2,
@@ -35,9 +35,34 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.99,
-          "ret": -0.99,
-          "bank": 98.37
+          "stake": 1.76,
+          "ret": -1.76,
+          "bank": 174.37
+        }
+      ]
+    },
+    {
+      "time": "17:30",
+      "meeting": "Wolverhampton",
+      "name": "Bet 10 Get 40 With BetMGM Handicap (Rider Restricted Race)",
+      "class": "6",
+      "distance": "7f 36y",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "So Chic",
+          "jockey": "Liam Wright",
+          "cd": 2,
+          "days": 23,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 1.74,
+          "ret": -1.74,
+          "bank": 172.63
         }
       ]
     },
@@ -52,17 +77,17 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Hierarchy",
-          "jockey": "C J Whiteley",
-          "cd": 1,
-          "days": 9,
-          "odds": "7/1",
+          "horse": "Papa Cocktail",
+          "jockey": "O McSweeney",
+          "cd": 2,
+          "days": 17,
+          "odds": "4/1",
           "mark": null,
-          "pos": 8,
-          "res": "LOSE",
-          "stake": 0.98,
-          "ret": -0.98,
-          "bank": 97.39
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 1.73,
+          "ret": 1.73,
+          "bank": 174.36
         },
         {
           "rank": 2,
@@ -74,23 +99,23 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.97,
-          "ret": 1.21,
-          "bank": 98.6
+          "stake": 1.74,
+          "ret": 2.17,
+          "bank": 176.53
         },
         {
           "rank": 3,
-          "horse": "Papa Cocktail",
-          "jockey": "O McSweeney",
-          "cd": 2,
-          "days": 17,
-          "odds": "4/1",
+          "horse": "Hierarchy",
+          "jockey": "C J Whiteley",
+          "cd": 1,
+          "days": 9,
+          "odds": "7/1",
           "mark": null,
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 0.99,
-          "ret": 0.99,
-          "bank": 99.59
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 1.77,
+          "ret": -1.77,
+          "bank": 174.76
         }
       ]
     },
@@ -113,9 +138,9 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 1.0,
-          "ret": -1.0,
-          "bank": 98.59
+          "stake": 1.75,
+          "ret": -1.75,
+          "bank": 173.01
         }
       ]
     },
@@ -130,20 +155,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Samra Star",
-          "jockey": "Rhys Clutterbuck",
-          "cd": 1,
-          "days": 11,
-          "odds": "8/1",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.99,
-          "ret": 7.92,
-          "bank": 106.51
-        },
-        {
-          "rank": 2,
           "horse": "Magic Runner",
           "jockey": "Taryn Langley",
           "cd": 2,
@@ -152,12 +163,12 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 1.07,
-          "ret": -1.07,
-          "bank": 105.44
+          "stake": 1.73,
+          "ret": -1.73,
+          "bank": 171.28
         },
         {
-          "rank": 3,
+          "rank": 2,
           "horse": "Renesmee",
           "jockey": "K S McHugh",
           "cd": 1,
@@ -166,16 +177,30 @@
           "mark": null,
           "pos": 3,
           "res": "LOSE",
-          "stake": 1.05,
-          "ret": -1.05,
-          "bank": 104.39
+          "stake": 1.71,
+          "ret": -1.71,
+          "bank": 169.57
+        },
+        {
+          "rank": 3,
+          "horse": "Samra Star",
+          "jockey": "Rhys Clutterbuck",
+          "cd": 1,
+          "days": 11,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 1.7,
+          "ret": 13.6,
+          "bank": 183.17
         }
       ]
     }
   ],
   "bank": {
-    "start": 98.62,
-    "stake": 0.99,
-    "end": 104.39
+    "start": 174.82,
+    "stake": 1.75,
+    "end": 183.17
   }
 }

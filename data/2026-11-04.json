@@ -1,6 +1,6 @@
 {
   "date": "2026-11-04",
-  "updated": "2026-11-11T08:42:10+0000",
+  "updated": "2026-11-12T04:53:20+0000",
   "races": [
     {
       "time": "14:25",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 46.14,
-          "ret": -46.14,
-          "bank": 4567.71
+          "stake": 66.38,
+          "ret": -66.38,
+          "bank": 6571.41
         },
         {
           "rank": 2,
@@ -35,9 +35,9 @@
           "mark": null,
           "pos": 10,
           "res": "LOSE",
-          "stake": 45.68,
-          "ret": -45.68,
-          "bank": 4522.03
+          "stake": 65.71,
+          "ret": -65.71,
+          "bank": 6505.7
         }
       ]
     },
@@ -60,9 +60,48 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 45.22,
-          "ret": 45.22,
-          "bank": 4567.25
+          "stake": 65.06,
+          "ret": 65.06,
+          "bank": 6570.76
+        },
+        {
+          "rank": 2,
+          "horse": "Port Erin",
+          "jockey": "David Probert",
+          "cd": 2,
+          "days": 26,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 65.71,
+          "ret": -65.71,
+          "bank": 6505.05
+        }
+      ]
+    },
+    {
+      "time": "18:00",
+      "meeting": "Kempton",
+      "name": "Unibet 3 Uniboosts A Day Handicap",
+      "class": "5",
+      "distance": "6f",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Early Release",
+          "jockey": "Charles Bishop",
+          "cd": 2,
+          "days": 12,
+          "odds": "20/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 65.05,
+          "ret": 325.25,
+          "bank": 6830.3
         }
       ]
     },
@@ -85,9 +124,37 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 45.67,
-          "ret": -45.67,
-          "bank": 4521.58
+          "stake": 68.3,
+          "ret": -68.3,
+          "bank": 6762.0
+        },
+        {
+          "rank": 2,
+          "horse": "Dandyville",
+          "jockey": "Rory Mulligan",
+          "cd": 1,
+          "days": 12,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 11,
+          "res": "LOSE",
+          "stake": 67.62,
+          "ret": -67.62,
+          "bank": 6694.38
+        },
+        {
+          "rank": 3,
+          "horse": "Hastily",
+          "jockey": "Siobhan Rutledge",
+          "cd": 1,
+          "days": 12,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 66.94,
+          "ret": -66.94,
+          "bank": 6627.44
         }
       ]
     },
@@ -110,16 +177,16 @@
           "mark": null,
           "pos": 14,
           "res": "LOSE",
-          "stake": 45.22,
-          "ret": -45.22,
-          "bank": 4476.36
+          "stake": 66.27,
+          "ret": -66.27,
+          "bank": 6561.17
         }
       ]
     }
   ],
   "bank": {
-    "start": 4613.85,
-    "stake": 46.14,
-    "end": 4476.36
+    "start": 6637.79,
+    "stake": 66.38,
+    "end": 6561.17
   }
 }

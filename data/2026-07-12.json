@@ -1,6 +1,6 @@
 {
   "date": "2026-07-12",
-  "updated": "2026-11-11T08:42:01+0000",
+  "updated": "2026-11-12T04:53:10+0000",
   "races": [
     {
       "time": "13:00",
@@ -21,26 +21,12 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 14.11,
-          "ret": -14.11,
-          "bank": 1397.17
+          "stake": 23.37,
+          "ret": -23.37,
+          "bank": 2313.55
         },
         {
           "rank": 2,
-          "horse": "Eclairage",
-          "jockey": "James Ryan",
-          "cd": 4,
-          "days": 14,
-          "odds": "7/1",
-          "mark": null,
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 13.97,
-          "ret": 24.45,
-          "bank": 1421.62
-        },
-        {
-          "rank": 3,
           "horse": "Valiant Force",
           "jockey": "D Egan",
           "cd": 3,
@@ -49,9 +35,23 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 14.22,
-          "ret": -14.22,
-          "bank": 1407.4
+          "stake": 23.14,
+          "ret": -23.14,
+          "bank": 2290.41
+        },
+        {
+          "rank": 3,
+          "horse": "Eclairage",
+          "jockey": "James Ryan",
+          "cd": 4,
+          "days": 14,
+          "odds": "7/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 22.9,
+          "ret": 40.07,
+          "bank": 2330.48
         }
       ]
     },
@@ -74,9 +74,9 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 14.07,
-          "ret": -14.07,
-          "bank": 1393.33
+          "stake": 23.3,
+          "ret": -23.3,
+          "bank": 2307.18
         }
       ]
     },
@@ -91,17 +91,17 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Kitty Bear",
-          "jockey": "Orla Tynan",
+          "horse": "Bella Colombia",
+          "jockey": "Billy Lee",
           "cd": 1,
-          "days": 9,
-          "odds": "8/1",
+          "days": 11,
+          "odds": "7/2",
           "mark": null,
-          "pos": 8,
-          "res": "LOSE",
-          "stake": 13.93,
-          "ret": -13.93,
-          "bank": 1379.4
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 23.07,
+          "ret": 20.19,
+          "bank": 2327.37
         },
         {
           "rank": 2,
@@ -113,23 +113,23 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 13.79,
-          "ret": -13.79,
-          "bank": 1365.61
+          "stake": 23.27,
+          "ret": -23.27,
+          "bank": 2304.1
         },
         {
           "rank": 3,
-          "horse": "Bella Colombia",
-          "jockey": "Billy Lee",
+          "horse": "Famous Enough",
+          "jockey": "Luke McAteer",
           "cd": 1,
           "days": 11,
-          "odds": "7/2",
+          "odds": "13/2",
           "mark": null,
-          "pos": 3,
+          "pos": 2,
           "res": "PLACE",
-          "stake": 13.66,
-          "ret": 11.95,
-          "bank": 1377.56
+          "stake": 23.04,
+          "ret": 37.44,
+          "bank": 2341.54
         }
       ]
     },
@@ -152,16 +152,16 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 13.78,
-          "ret": 15.5,
-          "bank": 1393.06
+          "stake": 23.42,
+          "ret": 26.35,
+          "bank": 2367.89
         }
       ]
     }
   ],
   "bank": {
-    "start": 1411.28,
-    "stake": 14.11,
-    "end": 1393.06
+    "start": 2336.92,
+    "stake": 23.37,
+    "end": 2367.89
   }
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-02-15",
-  "updated": "2026-11-11T08:41:51+0000",
+  "updated": "2026-11-12T04:52:57+0000",
   "races": [
     {
       "time": "14:12",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 3,
           "res": "LOSE",
-          "stake": 0.95,
-          "ret": -0.95,
-          "bank": 94.52
+          "stake": 1.74,
+          "ret": -1.74,
+          "bank": 172.62
         }
       ]
     },
@@ -38,34 +38,20 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Tasever",
-          "jockey": "C Horgan",
+          "horse": "Front Gunner",
+          "jockey": "C J Whiteley",
           "cd": 2,
-          "days": 5,
-          "odds": "7/2",
+          "days": 9,
+          "odds": "3/1",
           "mark": null,
-          "pos": 6,
+          "pos": 7,
           "res": "LOSE",
-          "stake": 0.95,
-          "ret": -0.95,
-          "bank": 93.57
+          "stake": 1.73,
+          "ret": -1.73,
+          "bank": 170.89
         },
         {
           "rank": 2,
-          "horse": "Bobby Joe Leg",
-          "jockey": "Taryn Langley",
-          "cd": 10,
-          "days": 9,
-          "odds": "8/1",
-          "mark": null,
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 0.94,
-          "ret": 1.88,
-          "bank": 95.45
-        },
-        {
-          "rank": 3,
           "horse": "Flowstate",
           "jockey": "Mark Winn",
           "cd": 2,
@@ -74,16 +60,30 @@
           "mark": -4,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.95,
-          "ret": 3.17,
-          "bank": 98.62
+          "stake": 1.71,
+          "ret": 5.7,
+          "bank": 176.59
+        },
+        {
+          "rank": 3,
+          "horse": "Tasever",
+          "jockey": "C Horgan",
+          "cd": 2,
+          "days": 5,
+          "odds": "7/2",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 1.77,
+          "ret": -1.77,
+          "bank": 174.82
         }
       ]
     }
   ],
   "bank": {
-    "start": 95.47,
-    "stake": 0.95,
-    "end": 98.62
+    "start": 174.36,
+    "stake": 1.74,
+    "end": 174.82
   }
 }

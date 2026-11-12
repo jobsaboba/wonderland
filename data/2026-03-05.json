@@ -1,6 +1,6 @@
 {
   "date": "2026-03-05",
-  "updated": "2026-11-11T08:41:52+0000",
+  "updated": "2026-11-12T04:52:59+0000",
   "races": [
     {
       "time": "13:53",
@@ -21,9 +21,23 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.57,
-          "ret": 3.93,
-          "bank": 161.0
+          "stake": 2.31,
+          "ret": 5.78,
+          "bank": 237.01
+        },
+        {
+          "rank": 2,
+          "horse": "Dandy Khan",
+          "jockey": "Alfie Redman",
+          "cd": 4,
+          "days": 5,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 2.37,
+          "ret": -2.37,
+          "bank": 234.64
         }
       ]
     },
@@ -38,20 +52,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Gogo Yubari",
-          "jockey": "Tom Marquand",
-          "cd": 5,
-          "days": 17,
-          "odds": "13/2",
-          "mark": null,
-          "pos": 3,
-          "res": "LOSE",
-          "stake": 1.61,
-          "ret": -1.61,
-          "bank": 159.39
-        },
-        {
-          "rank": 2,
           "horse": "Mick's Spirit",
           "jockey": "Darragh Keenan",
           "cd": 9,
@@ -60,9 +60,23 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 1.59,
-          "ret": 9.54,
-          "bank": 168.93
+          "stake": 2.35,
+          "ret": 14.1,
+          "bank": 248.74
+        },
+        {
+          "rank": 2,
+          "horse": "Gogo Yubari",
+          "jockey": "Tom Marquand",
+          "cd": 5,
+          "days": 17,
+          "odds": "13/2",
+          "mark": null,
+          "pos": 3,
+          "res": "LOSE",
+          "stake": 2.49,
+          "ret": -2.49,
+          "bank": 246.25
         }
       ]
     },
@@ -85,9 +99,9 @@
           "mark": null,
           "pos": 3,
           "res": "LOSE",
-          "stake": 1.69,
-          "ret": -1.69,
-          "bank": 167.24
+          "stake": 2.46,
+          "ret": -2.46,
+          "bank": 243.79
         }
       ]
     },
@@ -110,9 +124,9 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 1.67,
-          "ret": -1.67,
-          "bank": 165.57
+          "stake": 2.44,
+          "ret": -2.44,
+          "bank": 241.35
         }
       ]
     },
@@ -135,9 +149,9 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 1.66,
-          "ret": -1.66,
-          "bank": 163.91
+          "stake": 2.41,
+          "ret": -2.41,
+          "bank": 238.94
         }
       ]
     },
@@ -152,20 +166,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Crafter",
-          "jockey": "Billy Loughnane",
-          "cd": 1,
-          "days": 21,
-          "odds": "4/1",
-          "mark": null,
-          "pos": 5,
-          "res": "LOSE",
-          "stake": 1.64,
-          "ret": -1.64,
-          "bank": 162.27
-        },
-        {
-          "rank": 2,
           "horse": "Masqool",
           "jockey": "D C Costello",
           "cd": 3,
@@ -174,9 +174,23 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.62,
-          "ret": 1.22,
-          "bank": 163.49
+          "stake": 2.39,
+          "ret": 1.79,
+          "bank": 240.73
+        },
+        {
+          "rank": 2,
+          "horse": "Crafter",
+          "jockey": "Billy Loughnane",
+          "cd": 1,
+          "days": 21,
+          "odds": "4/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 2.41,
+          "ret": -2.41,
+          "bank": 238.32
         }
       ]
     },
@@ -199,9 +213,9 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 1.63,
-          "ret": -1.63,
-          "bank": 161.86
+          "stake": 2.38,
+          "ret": -2.38,
+          "bank": 235.94
         },
         {
           "rank": 2,
@@ -213,9 +227,9 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 1.62,
-          "ret": -1.62,
-          "bank": 160.24
+          "stake": 2.36,
+          "ret": -2.36,
+          "bank": 233.58
         }
       ]
     },
@@ -230,34 +244,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Our Absent Friends",
-          "jockey": "Jason Hart",
-          "cd": 3,
-          "days": 14,
-          "odds": "6/1",
-          "mark": null,
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 1.6,
-          "ret": 2.4,
-          "bank": 162.64
-        },
-        {
-          "rank": 2,
-          "horse": "Water Of Leith",
-          "jockey": "Lauren Young",
-          "cd": 1,
-          "days": 16,
-          "odds": "9/1",
-          "mark": null,
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 1.63,
-          "ret": 3.67,
-          "bank": 166.31
-        },
-        {
-          "rank": 3,
           "horse": "Lion's House",
           "jockey": "Kaiya Fraser",
           "cd": 1,
@@ -266,16 +252,44 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 1.66,
-          "ret": -1.66,
-          "bank": 164.65
+          "stake": 2.34,
+          "ret": -2.34,
+          "bank": 231.24
+        },
+        {
+          "rank": 2,
+          "horse": "Our Absent Friends",
+          "jockey": "Jason Hart",
+          "cd": 3,
+          "days": 14,
+          "odds": "6/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 2.31,
+          "ret": 3.46,
+          "bank": 234.7
+        },
+        {
+          "rank": 3,
+          "horse": "Water Of Leith",
+          "jockey": "Lauren Young",
+          "cd": 1,
+          "days": 16,
+          "odds": "9/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 2.35,
+          "ret": 5.29,
+          "bank": 239.99
         }
       ]
     }
   ],
   "bank": {
-    "start": 157.07,
-    "stake": 1.57,
-    "end": 164.65
+    "start": 231.23,
+    "stake": 2.31,
+    "end": 239.99
   }
 }

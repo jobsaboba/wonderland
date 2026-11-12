@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated": "2026-11-11T08:42:08+0000",
+  "updated": "2026-11-12T04:53:19+0000",
   "races": [
     {
       "time": "15:57",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 37.23,
-          "ret": 27.92,
-          "bank": 3751.29
+          "stake": 60.15,
+          "ret": 45.11,
+          "bank": 6059.67
         }
       ]
     },
@@ -46,9 +46,23 @@
           "mark": null,
           "pos": 12,
           "res": "LOSE",
-          "stake": 37.51,
-          "ret": -37.51,
-          "bank": 3713.78
+          "stake": 60.6,
+          "ret": -60.6,
+          "bank": 5999.07
+        },
+        {
+          "rank": 2,
+          "horse": "Blufferonthebus",
+          "jockey": "D Allan",
+          "cd": 1,
+          "days": 12,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 13,
+          "res": "LOSE",
+          "stake": 59.99,
+          "ret": -59.99,
+          "bank": 5939.08
         }
       ]
     },
@@ -71,9 +85,23 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 37.14,
-          "ret": 69.64,
-          "bank": 3783.42
+          "stake": 59.39,
+          "ret": 111.36,
+          "bank": 6050.44
+        },
+        {
+          "rank": 2,
+          "horse": "Tasever",
+          "jockey": "D Nolan",
+          "cd": 4,
+          "days": 25,
+          "odds": "18/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 60.5,
+          "ret": -60.5,
+          "bank": 5989.94
         }
       ]
     },
@@ -96,9 +124,9 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 37.83,
-          "ret": -37.83,
-          "bank": 3745.59
+          "stake": 59.9,
+          "ret": -59.9,
+          "bank": 5930.04
         }
       ]
     },
@@ -121,9 +149,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 37.46,
-          "ret": 37.46,
-          "bank": 3783.05
+          "stake": 59.3,
+          "ret": 59.3,
+          "bank": 5989.34
         }
       ]
     },
@@ -138,20 +166,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Pit Boss",
-          "jockey": "C Horgan",
-          "cd": 2,
-          "days": 8,
-          "odds": "8/1",
-          "mark": null,
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 37.83,
-          "ret": 75.66,
-          "bank": 3858.71
-        },
-        {
-          "rank": 2,
           "horse": "Mayo County",
           "jockey": "Tom Kiely-Marshall",
           "cd": 1,
@@ -160,16 +174,44 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 38.59,
-          "ret": -38.59,
-          "bank": 3820.12
+          "stake": 59.89,
+          "ret": -59.89,
+          "bank": 5929.45
+        },
+        {
+          "rank": 2,
+          "horse": "Pit Boss",
+          "jockey": "C Horgan",
+          "cd": 2,
+          "days": 8,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 59.29,
+          "ret": 118.58,
+          "bank": 6048.03
+        },
+        {
+          "rank": 3,
+          "horse": "Lord Abama",
+          "jockey": "Jack Callan",
+          "cd": 2,
+          "days": 25,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 60.48,
+          "ret": 665.28,
+          "bank": 6713.31
         }
       ]
     }
   ],
   "bank": {
-    "start": 3723.37,
-    "stake": 37.23,
-    "end": 3820.12
+    "start": 6014.56,
+    "stake": 60.15,
+    "end": 6713.31
   }
 }

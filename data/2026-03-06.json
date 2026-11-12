@@ -1,6 +1,6 @@
 {
   "date": "2026-03-06",
-  "updated": "2026-11-11T08:41:52+0000",
+  "updated": "2026-11-12T04:52:59+0000",
   "races": [
     {
       "time": "17:12",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 13,
           "res": "LOSE",
-          "stake": 1.65,
-          "ret": -1.65,
-          "bank": 163.0
+          "stake": 2.4,
+          "ret": -2.4,
+          "bank": 237.59
         },
         {
           "rank": 2,
@@ -35,9 +35,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 1.63,
-          "ret": 13.04,
-          "bank": 176.04
+          "stake": 2.38,
+          "ret": 19.04,
+          "bank": 256.63
         },
         {
           "rank": 3,
@@ -49,9 +49,9 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 1.76,
-          "ret": -1.76,
-          "bank": 174.28
+          "stake": 2.57,
+          "ret": -2.57,
+          "bank": 254.06
         }
       ]
     },
@@ -66,20 +66,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Francesi",
-          "jockey": "Myla Coppins",
-          "cd": 3,
-          "days": 4,
-          "odds": "7/1",
-          "mark": null,
-          "pos": 7,
-          "res": "LOSE",
-          "stake": 1.74,
-          "ret": -1.74,
-          "bank": 172.54
-        },
-        {
-          "rank": 2,
           "horse": "Callianassa",
           "jockey": "Ben Robinson",
           "cd": 3,
@@ -88,9 +74,37 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 1.73,
-          "ret": -1.73,
-          "bank": 170.81
+          "stake": 2.54,
+          "ret": -2.54,
+          "bank": 251.52
+        },
+        {
+          "rank": 2,
+          "horse": "Francesi",
+          "jockey": "Myla Coppins",
+          "cd": 3,
+          "days": 4,
+          "odds": "7/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 2.52,
+          "ret": -2.52,
+          "bank": 249.0
+        },
+        {
+          "rank": 3,
+          "horse": "Flying Fletcher",
+          "jockey": "Shane Gray",
+          "cd": 1,
+          "days": 20,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 2.49,
+          "ret": 8.71,
+          "bank": 257.71
         }
       ]
     },
@@ -113,26 +127,12 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 1.71,
-          "ret": -1.71,
-          "bank": 169.1
+          "stake": 2.58,
+          "ret": -2.58,
+          "bank": 255.13
         },
         {
           "rank": 2,
-          "horse": "Inishmot Prince",
-          "jockey": "James Ryan",
-          "cd": 4,
-          "days": 21,
-          "odds": "7/1",
-          "mark": null,
-          "pos": 5,
-          "res": "LOSE",
-          "stake": 1.69,
-          "ret": -1.69,
-          "bank": 167.41
-        },
-        {
-          "rank": 3,
           "horse": "I'm Spartacus",
           "jockey": "Adam Caffrey",
           "cd": 3,
@@ -141,9 +141,23 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 1.67,
-          "ret": 8.35,
-          "bank": 175.76
+          "stake": 2.55,
+          "ret": 12.75,
+          "bank": 267.88
+        },
+        {
+          "rank": 3,
+          "horse": "Inishmot Prince",
+          "jockey": "James Ryan",
+          "cd": 4,
+          "days": 21,
+          "odds": "7/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 2.68,
+          "ret": -2.68,
+          "bank": 265.2
         }
       ]
     },
@@ -166,9 +180,23 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 1.76,
-          "ret": -1.76,
-          "bank": 174.0
+          "stake": 2.65,
+          "ret": -2.65,
+          "bank": 262.55
+        },
+        {
+          "rank": 2,
+          "horse": "Bobby Joe Leg",
+          "jockey": "J P Sullivan",
+          "cd": 10,
+          "days": 19,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 2.63,
+          "ret": -2.63,
+          "bank": 259.92
         }
       ]
     },
@@ -191,9 +219,9 @@
           "mark": null,
           "pos": 3,
           "res": "LOSE",
-          "stake": 1.74,
-          "ret": -1.74,
-          "bank": 172.26
+          "stake": 2.6,
+          "ret": -2.6,
+          "bank": 257.32
         }
       ]
     },
@@ -216,9 +244,34 @@
           "mark": null,
           "pos": 3,
           "res": "LOSE",
-          "stake": 1.72,
-          "ret": -1.72,
-          "bank": 170.54
+          "stake": 2.57,
+          "ret": -2.57,
+          "bank": 254.75
+        }
+      ]
+    },
+    {
+      "time": "19:45",
+      "meeting": "Dundalk",
+      "name": "Dundalk Winter Series Leading Trainer & Jockey Championship Handicap (0-60)",
+      "class": "",
+      "distance": "1m",
+      "riders": 17,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Punk Poet",
+          "jockey": "Declan McDonogh",
+          "cd": 6,
+          "days": 28,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 2.55,
+          "ret": -2.55,
+          "bank": 252.2
         }
       ]
     },
@@ -233,20 +286,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Jkr Cobbler",
-          "jockey": "Aiden Brookes",
-          "cd": 1,
-          "days": 10,
-          "odds": "11/2",
-          "mark": null,
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 1.71,
-          "ret": -1.71,
-          "bank": 168.83
-        },
-        {
-          "rank": 2,
           "horse": "Pit Boss",
           "jockey": "C Horgan",
           "cd": 1,
@@ -255,9 +294,37 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 1.69,
-          "ret": 1.48,
-          "bank": 170.31
+          "stake": 2.52,
+          "ret": 2.21,
+          "bank": 254.41
+        },
+        {
+          "rank": 2,
+          "horse": "Jkr Cobbler",
+          "jockey": "Aiden Brookes",
+          "cd": 1,
+          "days": 10,
+          "odds": "11/2",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 2.54,
+          "ret": -2.54,
+          "bank": 251.87
+        },
+        {
+          "rank": 3,
+          "horse": "Nazca",
+          "jockey": "Mason Paetel",
+          "cd": 3,
+          "days": 15,
+          "odds": "28/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 2.52,
+          "ret": -2.52,
+          "bank": 249.35
         }
       ]
     },
@@ -272,20 +339,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "He's An Angel",
-          "jockey": "Donovan Goucher",
-          "cd": 1,
-          "days": 18,
-          "odds": "9/2",
-          "mark": null,
-          "pos": 5,
-          "res": "LOSE",
-          "stake": 1.7,
-          "ret": -1.7,
-          "bank": 168.61
-        },
-        {
-          "rank": 2,
           "horse": "Teardrops",
           "jockey": "Jack Callan",
           "cd": 3,
@@ -294,9 +347,23 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.69,
-          "ret": 1.48,
-          "bank": 170.09
+          "stake": 2.49,
+          "ret": 2.18,
+          "bank": 251.53
+        },
+        {
+          "rank": 2,
+          "horse": "He's An Angel",
+          "jockey": "Donovan Goucher",
+          "cd": 1,
+          "days": 18,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 2.52,
+          "ret": -2.52,
+          "bank": 249.01
         },
         {
           "rank": 3,
@@ -308,16 +375,16 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 1.7,
-          "ret": -1.7,
-          "bank": 168.39
+          "stake": 2.49,
+          "ret": -2.49,
+          "bank": 246.52
         }
       ]
     }
   ],
   "bank": {
-    "start": 164.65,
-    "stake": 1.65,
-    "end": 168.39
+    "start": 239.99,
+    "stake": 2.4,
+    "end": 246.52
   }
 }

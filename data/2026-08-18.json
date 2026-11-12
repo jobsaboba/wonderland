@@ -1,7 +1,57 @@
 {
   "date": "2026-08-18",
-  "updated": "2026-11-11T08:42:04+0000",
+  "updated": "2026-11-12T04:53:13+0000",
   "races": [
+    {
+      "time": "13:30",
+      "meeting": "Lingfield",
+      "name": "Follow attheraces On Instagram Amateur Jockeys' Handicap",
+      "class": "5",
+      "distance": "1m 7f 169y",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Further Measure",
+          "jockey": "Miss Charlotte Owen",
+          "cd": 1,
+          "days": 22,
+          "odds": "18/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 35.06,
+          "ret": -35.06,
+          "bank": 3470.88
+        }
+      ]
+    },
+    {
+      "time": "17:22",
+      "meeting": "Lingfield",
+      "name": "Download The At The Races App Handicap (Div 2)",
+      "class": "6",
+      "distance": "6f 1y",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Twilight Madness",
+          "jockey": "William Carver",
+          "cd": 2,
+          "days": 14,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 34.71,
+          "ret": -34.71,
+          "bank": 3436.17
+        }
+      ]
+    },
     {
       "time": "18:00",
       "meeting": "Wolverhampton",
@@ -21,9 +71,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 17.66,
-          "ret": 22.07,
-          "bank": 1788.12
+          "stake": 34.36,
+          "ret": 42.95,
+          "bank": 3479.12
         }
       ]
     },
@@ -46,16 +96,16 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 17.88,
-          "ret": 35.76,
-          "bank": 1823.88
+          "stake": 34.79,
+          "ret": 69.58,
+          "bank": 3548.7
         }
       ]
     }
   ],
   "bank": {
-    "start": 1766.05,
-    "stake": 17.66,
-    "end": 1823.88
+    "start": 3505.94,
+    "stake": 35.06,
+    "end": 3548.7
   }
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-08-31",
-  "updated": "2026-11-11T08:42:05+0000",
+  "updated": "2026-11-12T04:53:15+0000",
   "races": [
     {
       "time": "13:07",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 19.93,
-          "ret": -19.93,
-          "bank": 1972.78
+          "stake": 37.78,
+          "ret": -37.78,
+          "bank": 3740.34
         }
       ]
     },
@@ -46,9 +46,9 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 19.73,
-          "ret": -19.73,
-          "bank": 1953.05
+          "stake": 37.4,
+          "ret": -37.4,
+          "bank": 3702.94
         },
         {
           "rank": 2,
@@ -60,9 +60,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 19.53,
-          "ret": 43.94,
-          "bank": 1996.99
+          "stake": 37.03,
+          "ret": 83.32,
+          "bank": 3786.26
         }
       ]
     },
@@ -77,20 +77,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Bajan Bandit",
-          "jockey": "Paddy Bradley",
-          "cd": 1,
-          "days": 11,
-          "odds": "13/2",
-          "mark": null,
-          "pos": 12,
-          "res": "LOSE",
-          "stake": 19.97,
-          "ret": -19.97,
-          "bank": 1977.02
-        },
-        {
-          "rank": 2,
           "horse": "Avatar Jet",
           "jockey": "Zak Wheatley",
           "cd": 1,
@@ -99,12 +85,12 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 19.77,
-          "ret": -19.77,
-          "bank": 1957.25
+          "stake": 37.86,
+          "ret": -37.86,
+          "bank": 3748.4
         },
         {
-          "rank": 3,
+          "rank": 2,
           "horse": "Just Typical",
           "jockey": "Billy Loughnane",
           "cd": 1,
@@ -113,9 +99,23 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 19.57,
-          "ret": -19.57,
-          "bank": 1937.68
+          "stake": 37.48,
+          "ret": -37.48,
+          "bank": 3710.92
+        },
+        {
+          "rank": 3,
+          "horse": "Bajan Bandit",
+          "jockey": "Paddy Bradley",
+          "cd": 1,
+          "days": 11,
+          "odds": "13/2",
+          "mark": null,
+          "pos": 12,
+          "res": "LOSE",
+          "stake": 37.11,
+          "ret": -37.11,
+          "bank": 3673.81
         }
       ]
     },
@@ -138,16 +138,44 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 19.38,
-          "ret": -19.38,
-          "bank": 1918.3
+          "stake": 36.74,
+          "ret": -36.74,
+          "bank": 3637.07
+        },
+        {
+          "rank": 2,
+          "horse": "Hectic",
+          "jockey": "J Garritty",
+          "cd": 1,
+          "days": 14,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 36.37,
+          "ret": 100.02,
+          "bank": 3737.09
+        },
+        {
+          "rank": 3,
+          "horse": "Hierarchy",
+          "jockey": "William Carver",
+          "cd": 2,
+          "days": 16,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 12,
+          "res": "LOSE",
+          "stake": 37.37,
+          "ret": -37.37,
+          "bank": 3699.72
         }
       ]
     }
   ],
   "bank": {
-    "start": 1992.71,
-    "stake": 19.93,
-    "end": 1918.3
+    "start": 3778.12,
+    "stake": 37.78,
+    "end": 3699.72
   }
 }

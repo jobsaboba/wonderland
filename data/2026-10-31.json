@@ -1,6 +1,6 @@
 {
   "date": "2026-10-31",
-  "updated": "2026-11-11T08:42:09+0000",
+  "updated": "2026-11-12T04:53:20+0000",
   "races": [
     {
       "time": "16:00",
@@ -21,16 +21,55 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 46.39,
-          "ret": -46.39,
-          "bank": 4592.47
+          "stake": 73.06,
+          "ret": -73.06,
+          "bank": 7232.53
+        },
+        {
+          "rank": 2,
+          "horse": "Dumfries",
+          "jockey": "J P Sullivan",
+          "cd": 1,
+          "days": 7,
+          "odds": "18/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 72.33,
+          "ret": -72.33,
+          "bank": 7160.2
+        }
+      ]
+    },
+    {
+      "time": "16:35",
+      "meeting": "Southwell",
+      "name": "ARC All Weather Bonus Is Back Handicap (Div 2)",
+      "class": "6",
+      "distance": "1m 13y",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Hear The Drums",
+          "jockey": "Warren Fentiman",
+          "cd": 1,
+          "days": 23,
+          "odds": "18/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 71.6,
+          "ret": -71.6,
+          "bank": 7088.6
         }
       ]
     }
   ],
   "bank": {
-    "start": 4638.86,
-    "stake": 46.39,
-    "end": 4592.47
+    "start": 7305.59,
+    "stake": 73.06,
+    "end": 7088.6
   }
 }

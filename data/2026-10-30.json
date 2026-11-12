@@ -1,6 +1,6 @@
 {
   "date": "2026-10-30",
-  "updated": "2026-11-11T08:42:09+0000",
+  "updated": "2026-11-12T04:53:20+0000",
   "races": [
     {
       "time": "16:15",
@@ -21,9 +21,23 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 36.75,
-          "ret": 122.5,
-          "bank": 3797.91
+          "stake": 62.1,
+          "ret": 207.0,
+          "bank": 6417.15
+        },
+        {
+          "rank": 2,
+          "horse": "Urban Road",
+          "jockey": "T Eaves",
+          "cd": 3,
+          "days": 14,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 64.17,
+          "ret": -64.17,
+          "bank": 6352.98
         }
       ]
     },
@@ -46,9 +60,23 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 37.98,
-          "ret": 341.82,
-          "bank": 4139.73
+          "stake": 63.53,
+          "ret": 571.77,
+          "bank": 6924.75
+        },
+        {
+          "rank": 2,
+          "horse": "Liquid Cooled",
+          "jockey": "A Mullen",
+          "cd": 1,
+          "days": 10,
+          "odds": "18/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 69.25,
+          "ret": -69.25,
+          "bank": 6855.5
         }
       ]
     },
@@ -71,9 +99,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 41.4,
-          "ret": 56.92,
-          "bank": 4196.65
+          "stake": 68.56,
+          "ret": 94.27,
+          "bank": 6949.77
         }
       ]
     },
@@ -96,9 +124,37 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 41.97,
-          "ret": 94.43,
-          "bank": 4291.08
+          "stake": 69.5,
+          "ret": 156.38,
+          "bank": 7106.15
+        },
+        {
+          "rank": 2,
+          "horse": "Juan Les Pins",
+          "jockey": "Joanna Mason",
+          "cd": 1,
+          "days": 18,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 71.06,
+          "ret": -71.06,
+          "bank": 7035.09
+        },
+        {
+          "rank": 3,
+          "horse": "Paddy's Day",
+          "jockey": "Alex Jary",
+          "cd": 7,
+          "days": 14,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 70.35,
+          "ret": -70.35,
+          "bank": 6964.74
         }
       ]
     },
@@ -121,26 +177,12 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 42.91,
-          "ret": -42.91,
-          "bank": 4248.17
+          "stake": 69.65,
+          "ret": -69.65,
+          "bank": 6895.09
         },
         {
           "rank": 2,
-          "horse": "Eddie G",
-          "jockey": "Gavin Ryan",
-          "cd": 1,
-          "days": 12,
-          "odds": "15/2",
-          "mark": null,
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 42.48,
-          "ret": 79.65,
-          "bank": 4327.82
-        },
-        {
-          "rank": 3,
           "horse": "Bear On The Run",
           "jockey": "Gary Carroll",
           "cd": 1,
@@ -149,9 +191,23 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 43.28,
-          "ret": -43.28,
-          "bank": 4284.54
+          "stake": 68.95,
+          "ret": -68.95,
+          "bank": 6826.14
+        },
+        {
+          "rank": 3,
+          "horse": "Eddie G",
+          "jockey": "Gavin Ryan",
+          "cd": 1,
+          "days": 12,
+          "odds": "15/2",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 68.26,
+          "ret": 127.99,
+          "bank": 6954.13
         }
       ]
     },
@@ -174,9 +230,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 42.85,
-          "ret": 69.63,
-          "bank": 4354.17
+          "stake": 69.54,
+          "ret": 113.0,
+          "bank": 7067.13
         },
         {
           "rank": 2,
@@ -188,9 +244,34 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 43.54,
-          "ret": 108.85,
-          "bank": 4463.02
+          "stake": 70.67,
+          "ret": 176.68,
+          "bank": 7243.81
+        }
+      ]
+    },
+    {
+      "time": "19:15",
+      "meeting": "Newcastle",
+      "name": "Make The Move To Midnite Handicap",
+      "class": "5",
+      "distance": "6f",
+      "riders": 13,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "The Green Man",
+          "jockey": "K Stott",
+          "cd": 2,
+          "days": 18,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 72.44,
+          "ret": -72.44,
+          "bank": 7171.37
         }
       ]
     },
@@ -205,20 +286,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Son Of Beauty",
-          "jockey": "Reese Holohan",
-          "cd": 1,
-          "days": 12,
-          "odds": "7/1",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 44.63,
-          "ret": 312.41,
-          "bank": 4775.43
-        },
-        {
-          "rank": 2,
           "horse": "Daler",
           "jockey": "Gary Carroll",
           "cd": 1,
@@ -227,9 +294,23 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 47.75,
-          "ret": 53.72,
-          "bank": 4829.15
+          "stake": 71.71,
+          "ret": 80.67,
+          "bank": 7252.04
+        },
+        {
+          "rank": 2,
+          "horse": "Son Of Beauty",
+          "jockey": "Reese Holohan",
+          "cd": 1,
+          "days": 12,
+          "odds": "7/1",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 72.52,
+          "ret": 507.64,
+          "bank": 7759.68
         },
         {
           "rank": 3,
@@ -241,9 +322,9 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 48.29,
-          "ret": -48.29,
-          "bank": 4780.86
+          "stake": 77.6,
+          "ret": -77.6,
+          "bank": 7682.08
         }
       ]
     },
@@ -266,9 +347,9 @@
           "mark": null,
           "pos": 10,
           "res": "LOSE",
-          "stake": 47.81,
-          "ret": -47.81,
-          "bank": 4733.05
+          "stake": 76.82,
+          "ret": -76.82,
+          "bank": 7605.26
         }
       ]
     },
@@ -283,20 +364,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Starliner",
-          "jockey": "William Pyle",
-          "cd": 1,
-          "days": 10,
-          "odds": "9/2",
-          "mark": null,
-          "pos": 5,
-          "res": "LOSE",
-          "stake": 47.33,
-          "ret": -47.33,
-          "bank": 4685.72
-        },
-        {
-          "rank": 2,
           "horse": "Ey Up He's A Star",
           "jockey": "K Stott",
           "cd": 1,
@@ -305,16 +372,69 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 46.86,
-          "ret": -46.86,
-          "bank": 4638.86
+          "stake": 76.05,
+          "ret": -76.05,
+          "bank": 7529.21
+        },
+        {
+          "rank": 2,
+          "horse": "Starliner",
+          "jockey": "William Pyle",
+          "cd": 1,
+          "days": 10,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 75.29,
+          "ret": -75.29,
+          "bank": 7453.92
+        },
+        {
+          "rank": 3,
+          "horse": "Pallas Lord",
+          "jockey": "Jason Hart",
+          "cd": 5,
+          "days": 18,
+          "odds": "18/1",
+          "mark": null,
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 74.54,
+          "ret": -74.54,
+          "bank": 7379.38
+        }
+      ]
+    },
+    {
+      "time": "20:30",
+      "meeting": "Dundalk",
+      "name": "Book Your Christmas Party At Dundalk Stadium Handicap",
+      "class": "",
+      "distance": "1m 4f",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Unterberg",
+          "jockey": "Rory Mulligan",
+          "cd": 4,
+          "days": 15,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 73.79,
+          "ret": -73.79,
+          "bank": 7305.59
         }
       ]
     }
   ],
   "bank": {
-    "start": 3675.41,
-    "stake": 36.75,
-    "end": 4638.86
+    "start": 6210.15,
+    "stake": 62.1,
+    "end": 7305.59
   }
 }

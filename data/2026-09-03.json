@@ -1,6 +1,6 @@
 {
   "date": "2026-09-03",
-  "updated": "2026-11-11T08:42:05+0000",
+  "updated": "2026-11-12T04:53:15+0000",
   "races": [
     {
       "time": "14:24",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 2,
           "res": "LOSE",
-          "stake": 21.37,
-          "ret": -21.37,
-          "bank": 2115.56
+          "stake": 40.8,
+          "ret": -40.8,
+          "bank": 4039.36
         }
       ]
     },
@@ -46,9 +46,9 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 21.16,
-          "ret": -21.16,
-          "bank": 2094.4
+          "stake": 40.39,
+          "ret": -40.39,
+          "bank": 3998.97
         }
       ]
     },
@@ -71,9 +71,9 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 20.94,
-          "ret": -20.94,
-          "bank": 2073.46
+          "stake": 39.99,
+          "ret": -39.99,
+          "bank": 3958.98
         },
         {
           "rank": 2,
@@ -85,9 +85,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 20.73,
-          "ret": 51.83,
-          "bank": 2125.29
+          "stake": 39.59,
+          "ret": 98.98,
+          "bank": 4057.96
         }
       ]
     },
@@ -110,9 +110,9 @@
           "mark": null,
           "pos": 3,
           "res": "LOSE",
-          "stake": 21.25,
-          "ret": -21.25,
-          "bank": 2104.04
+          "stake": 40.58,
+          "ret": -40.58,
+          "bank": 4017.38
         }
       ]
     },
@@ -135,9 +135,9 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 21.04,
-          "ret": -21.04,
-          "bank": 2083.0
+          "stake": 40.17,
+          "ret": -40.17,
+          "bank": 3977.21
         }
       ]
     },
@@ -160,9 +160,48 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 20.83,
-          "ret": 20.83,
-          "bank": 2103.83
+          "stake": 39.77,
+          "ret": 39.77,
+          "bank": 4016.98
+        }
+      ]
+    },
+    {
+      "time": "17:15",
+      "meeting": "Newcastle",
+      "name": "Follow AtTheRaces On X Handicap",
+      "class": "6",
+      "distance": "5f",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Muker",
+          "jockey": "Alex Jary",
+          "cd": 1,
+          "days": 17,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 40.17,
+          "ret": -40.17,
+          "bank": 3976.81
+        },
+        {
+          "rank": 2,
+          "horse": "Hurt You Never",
+          "jockey": "Jack Nicholls",
+          "cd": 1,
+          "days": 23,
+          "odds": "22/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 39.77,
+          "ret": -39.77,
+          "bank": 3937.04
         }
       ]
     },
@@ -185,9 +224,59 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 21.04,
-          "ret": -21.04,
-          "bank": 2082.79
+          "stake": 39.37,
+          "ret": -39.37,
+          "bank": 3897.67
+        }
+      ]
+    },
+    {
+      "time": "17:40",
+      "meeting": "Southwell",
+      "name": "bettingsites.co.uk Fillies' Handicap",
+      "class": "4",
+      "distance": "1m 14y",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Alessia Fernanda",
+          "jockey": "Zak Wheatley",
+          "cd": 1,
+          "days": 20,
+          "odds": "18/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 38.98,
+          "ret": -38.98,
+          "bank": 3858.69
+        }
+      ]
+    },
+    {
+      "time": "18:00",
+      "meeting": "Lingfield",
+      "name": "Air Ambulance Charity Kent Surrey Sussex Handicap",
+      "class": "6",
+      "distance": "1m 2f",
+      "riders": 7,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Muy Muy Loco",
+          "jockey": "Tyler Heard",
+          "cd": 2,
+          "days": 14,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 38.59,
+          "ret": -38.59,
+          "bank": 3820.1
         }
       ]
     },
@@ -210,9 +299,23 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 20.83,
-          "ret": 44.26,
-          "bank": 2127.05
+          "stake": 38.2,
+          "ret": 81.18,
+          "bank": 3901.28
+        },
+        {
+          "rank": 2,
+          "horse": "Roaring Ralph",
+          "jockey": "Joanna Mason",
+          "cd": 3,
+          "days": 20,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 39.01,
+          "ret": -39.01,
+          "bank": 3862.27
         }
       ]
     },
@@ -235,9 +338,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 21.27,
-          "ret": 180.79,
-          "bank": 2307.84
+          "stake": 38.62,
+          "ret": 328.27,
+          "bank": 4190.54
         },
         {
           "rank": 2,
@@ -249,9 +352,9 @@
           "mark": null,
           "pos": 10,
           "res": "LOSE",
-          "stake": 23.08,
-          "ret": -23.08,
-          "bank": 2284.76
+          "stake": 41.91,
+          "ret": -41.91,
+          "bank": 4148.63
         },
         {
           "rank": 3,
@@ -263,16 +366,16 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 22.85,
-          "ret": -22.85,
-          "bank": 2261.91
+          "stake": 41.49,
+          "ret": -41.49,
+          "bank": 4107.14
         }
       ]
     }
   ],
   "bank": {
-    "start": 2136.93,
-    "stake": 21.37,
-    "end": 2261.91
+    "start": 4080.16,
+    "stake": 40.8,
+    "end": 4107.14
   }
 }

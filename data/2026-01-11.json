@@ -1,6 +1,6 @@
 {
   "date": "2026-01-11",
-  "updated": "2026-11-11T08:41:48+0000",
+  "updated": "2026-11-12T04:52:54+0000",
   "races": [
     {
       "time": "14:12",
@@ -21,16 +21,41 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.17,
-          "ret": -0.17,
-          "bank": 16.42
+          "stake": 0.15,
+          "ret": -0.15,
+          "bank": 14.36
+        }
+      ]
+    },
+    {
+      "time": "15:42",
+      "meeting": "Chelmsford City",
+      "name": "Betfred Goals Galore Handicap",
+      "class": "4",
+      "distance": "7f",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Rochelle",
+          "jockey": "J F Egan",
+          "cd": 1,
+          "days": 10,
+          "odds": "28/1",
+          "mark": null,
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 0.14,
+          "ret": -0.14,
+          "bank": 14.22
         }
       ]
     }
   ],
   "bank": {
-    "start": 16.59,
-    "stake": 0.17,
-    "end": 16.42
+    "start": 14.51,
+    "stake": 0.15,
+    "end": 14.22
   }
 }

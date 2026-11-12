@@ -1,6 +1,6 @@
 {
   "date": "2026-05-01",
-  "updated": "2026-11-11T08:41:56+0000",
+  "updated": "2026-11-12T04:53:04+0000",
   "races": [
     {
       "time": "16:20",
@@ -21,9 +21,34 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 6.38,
-          "ret": -6.38,
-          "bank": 631.18
+          "stake": 7.74,
+          "ret": -7.74,
+          "bank": 765.78
+        }
+      ]
+    },
+    {
+      "time": "16:53",
+      "meeting": "Newcastle",
+      "name": "Roflow Dust & Fume Lev Systems Handicap (GBBPlus Race)",
+      "class": "4",
+      "distance": "1m 4f 98y",
+      "riders": 6,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Ludo's Landing",
+          "jockey": "A Mullen",
+          "cd": 1,
+          "days": 19,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 7.66,
+          "ret": -7.66,
+          "bank": 758.12
         }
       ]
     },
@@ -46,9 +71,23 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 6.31,
-          "ret": 6.31,
-          "bank": 637.49
+          "stake": 7.58,
+          "ret": 7.58,
+          "bank": 765.7
+        },
+        {
+          "rank": 2,
+          "horse": "William Dewhirst",
+          "jockey": "A Mullen",
+          "cd": 5,
+          "days": 18,
+          "odds": "25/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 7.66,
+          "ret": -7.66,
+          "bank": 758.04
         }
       ]
     },
@@ -71,16 +110,30 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 6.37,
-          "ret": 10.35,
-          "bank": 647.84
+          "stake": 7.58,
+          "ret": 12.32,
+          "bank": 770.36
+        },
+        {
+          "rank": 2,
+          "horse": "Asadjumeirah",
+          "jockey": "Alex Jary",
+          "cd": 5,
+          "days": 11,
+          "odds": "25/1",
+          "mark": -2,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 7.7,
+          "ret": -7.7,
+          "bank": 762.66
         }
       ]
     }
   ],
   "bank": {
-    "start": 637.56,
-    "stake": 6.38,
-    "end": 647.84
+    "start": 773.52,
+    "stake": 7.74,
+    "end": 762.66
   }
 }

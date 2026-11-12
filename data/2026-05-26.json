@@ -1,6 +1,6 @@
 {
   "date": "2026-05-26",
-  "updated": "2026-11-11T08:41:58+0000",
+  "updated": "2026-11-12T04:53:06+0000",
   "races": [
     {
       "time": "17:48",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 7.84,
-          "ret": -7.84,
-          "bank": 776.05
+          "stake": 10.25,
+          "ret": -10.25,
+          "bank": 1015.03
         },
         {
           "rank": 2,
@@ -35,23 +35,23 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 7.76,
-          "ret": 12.61,
-          "bank": 788.66
+          "stake": 10.15,
+          "ret": 16.49,
+          "bank": 1031.52
         },
         {
           "rank": 3,
-          "horse": "Sovereign Cry",
-          "jockey": "Terry Casey",
-          "cd": 1,
+          "horse": "Sporting Hero",
+          "jockey": "Jamie Orr",
+          "cd": 3,
           "days": 17,
-          "odds": "9/1",
+          "odds": "7/1",
           "mark": null,
-          "pos": 4,
+          "pos": 12,
           "res": "LOSE",
-          "stake": 7.89,
-          "ret": -7.89,
-          "bank": 780.77
+          "stake": 10.32,
+          "ret": -10.32,
+          "bank": 1021.2
         }
       ]
     },
@@ -74,16 +74,30 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 7.81,
-          "ret": -7.81,
-          "bank": 772.96
+          "stake": 10.21,
+          "ret": -10.21,
+          "bank": 1010.99
+        },
+        {
+          "rank": 2,
+          "horse": "Church Mountain",
+          "jockey": "J M Sheridan",
+          "cd": 1,
+          "days": 11,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 10.11,
+          "ret": -10.11,
+          "bank": 1000.88
         }
       ]
     }
   ],
   "bank": {
-    "start": 783.89,
-    "stake": 7.84,
-    "end": 772.96
+    "start": 1025.28,
+    "stake": 10.25,
+    "end": 1000.88
   }
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-06-02",
-  "updated": "2026-11-11T08:41:58+0000",
+  "updated": "2026-11-12T04:53:07+0000",
   "races": [
     {
       "time": "17:45",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 9.6,
-          "ret": 8.4,
-          "bank": 968.88
+          "stake": 12.67,
+          "ret": 11.09,
+          "bank": 1278.05
         },
         {
           "rank": 2,
@@ -35,9 +35,23 @@
           "mark": -2,
           "pos": 1,
           "res": "WIN",
-          "stake": 9.69,
-          "ret": 38.76,
-          "bank": 1007.64
+          "stake": 12.78,
+          "ret": 51.12,
+          "bank": 1329.17
+        },
+        {
+          "rank": 3,
+          "horse": "Desert Quest",
+          "jockey": "Greg Fairley",
+          "cd": 1,
+          "days": 22,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 13.29,
+          "ret": -13.29,
+          "bank": 1315.88
         }
       ]
     },
@@ -60,9 +74,9 @@
           "mark": null,
           "pos": 3,
           "res": "LOSE",
-          "stake": 10.08,
-          "ret": -10.08,
-          "bank": 997.56
+          "stake": 13.16,
+          "ret": -13.16,
+          "bank": 1302.72
         }
       ]
     },
@@ -77,20 +91,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Flying Fletcher",
-          "jockey": "Ethan Tindall",
-          "cd": 1,
-          "days": 18,
-          "odds": "9/2",
-          "mark": null,
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 9.98,
-          "ret": -9.98,
-          "bank": 987.58
-        },
-        {
-          "rank": 2,
           "horse": "Quiet Resolve",
           "jockey": "Sean Kirrane",
           "cd": 1,
@@ -99,9 +99,23 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 9.88,
-          "ret": -9.88,
-          "bank": 977.7
+          "stake": 13.03,
+          "ret": -13.03,
+          "bank": 1289.69
+        },
+        {
+          "rank": 2,
+          "horse": "Flying Fletcher",
+          "jockey": "Ethan Tindall",
+          "cd": 1,
+          "days": 18,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 12.9,
+          "ret": -12.9,
+          "bank": 1276.79
         }
       ]
     },
@@ -124,26 +138,12 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 9.78,
-          "ret": 8.15,
-          "bank": 985.85
+          "stake": 12.77,
+          "ret": 10.64,
+          "bank": 1287.43
         },
         {
           "rank": 2,
-          "horse": "Little Ted",
-          "jockey": "Sean Kirrane",
-          "cd": 1,
-          "days": 16,
-          "odds": "9/1",
-          "mark": null,
-          "pos": 5,
-          "res": "LOSE",
-          "stake": 9.86,
-          "ret": -9.86,
-          "bank": 975.99
-        },
-        {
-          "rank": 3,
           "horse": "Volenti",
           "jockey": "A Mullen",
           "cd": 4,
@@ -152,9 +152,23 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 9.76,
-          "ret": -9.76,
-          "bank": 966.23
+          "stake": 12.87,
+          "ret": -12.87,
+          "bank": 1274.56
+        },
+        {
+          "rank": 3,
+          "horse": "Mercurius Power",
+          "jockey": "Lewis Edmunds",
+          "cd": 1,
+          "days": 24,
+          "odds": "6/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 12.75,
+          "ret": -12.75,
+          "bank": 1261.81
         }
       ]
     },
@@ -177,9 +191,9 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 9.66,
-          "ret": -9.66,
-          "bank": 956.57
+          "stake": 12.62,
+          "ret": -12.62,
+          "bank": 1249.19
         },
         {
           "rank": 2,
@@ -191,16 +205,30 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 9.57,
-          "ret": -9.57,
-          "bank": 947.0
+          "stake": 12.49,
+          "ret": -12.49,
+          "bank": 1236.7
+        },
+        {
+          "rank": 3,
+          "horse": "Port Noir",
+          "jockey": "Rose Dawes",
+          "cd": 4,
+          "days": 10,
+          "odds": "22/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 12.37,
+          "ret": -12.37,
+          "bank": 1224.33
         }
       ]
     }
   ],
   "bank": {
-    "start": 960.48,
-    "stake": 9.6,
-    "end": 947.0
+    "start": 1266.96,
+    "stake": 12.67,
+    "end": 1224.33
   }
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-10-13",
-  "updated": "2026-11-11T08:42:08+0000",
+  "updated": "2026-11-12T04:53:18+0000",
   "races": [
     {
       "time": "15:25",
@@ -21,9 +21,48 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 36.72,
-          "ret": -36.72,
-          "bank": 3635.29
+          "stake": 56.74,
+          "ret": -56.74,
+          "bank": 5617.56
+        }
+      ]
+    },
+    {
+      "time": "16:00",
+      "meeting": "Wolverhampton",
+      "name": "Download The Raceday Ready App Apprentice Handicap (Div 2)",
+      "class": "6",
+      "distance": "7f 36y",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Havana Club",
+          "jockey": "Donagh Murphy",
+          "cd": 1,
+          "days": 14,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 56.18,
+          "ret": 154.5,
+          "bank": 5772.06
+        },
+        {
+          "rank": 2,
+          "horse": "Ravenglass",
+          "jockey": "Ashley Lewis",
+          "cd": 1,
+          "days": 15,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 57.72,
+          "ret": -57.72,
+          "bank": 5714.34
         }
       ]
     },
@@ -46,9 +85,23 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 36.35,
-          "ret": -36.35,
-          "bank": 3598.94
+          "stake": 57.14,
+          "ret": -57.14,
+          "bank": 5657.2
+        },
+        {
+          "rank": 2,
+          "horse": "Charging Thunder",
+          "jockey": "Mason Paetel",
+          "cd": 1,
+          "days": 26,
+          "odds": "18/1",
+          "mark": null,
+          "pos": 3,
+          "res": "LOSE",
+          "stake": 56.57,
+          "ret": -56.57,
+          "bank": 5600.63
         }
       ]
     },
@@ -71,16 +124,16 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 35.99,
-          "ret": -35.99,
-          "bank": 3562.95
+          "stake": 56.01,
+          "ret": -56.01,
+          "bank": 5544.62
         }
       ]
     }
   ],
   "bank": {
-    "start": 3672.01,
-    "stake": 36.72,
-    "end": 3562.95
+    "start": 5674.3,
+    "stake": 56.74,
+    "end": 5544.62
   }
 }

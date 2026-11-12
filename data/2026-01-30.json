@@ -1,6 +1,6 @@
 {
   "date": "2026-01-30",
-  "updated": "2026-11-11T08:41:49+0000",
+  "updated": "2026-11-12T04:52:56+0000",
   "races": [
     {
       "time": "14:02",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.44,
-          "ret": -0.44,
-          "bank": 44.01
+          "stake": 0.75,
+          "ret": -0.75,
+          "bank": 74.45
         }
       ]
     },
@@ -38,17 +38,17 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Chola Empire",
-          "jockey": "S D Bowen",
-          "cd": 3,
-          "days": 7,
-          "odds": "10/1",
+          "horse": "Grabajabba",
+          "jockey": "Alistair Rawlinson",
+          "cd": 1,
+          "days": 24,
+          "odds": "8/1",
           "mark": null,
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 0.44,
-          "ret": 1.1,
-          "bank": 45.11
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.74,
+          "ret": -0.74,
+          "bank": 73.71
         },
         {
           "rank": 2,
@@ -60,23 +60,23 @@
           "mark": null,
           "pos": 0,
           "res": null,
-          "stake": 0.45,
+          "stake": 0.74,
           "ret": null,
-          "bank": 45.11
+          "bank": 73.71
         },
         {
           "rank": 3,
-          "horse": "Grabajabba",
-          "jockey": "Alistair Rawlinson",
-          "cd": 1,
-          "days": 24,
-          "odds": "8/1",
+          "horse": "Chola Empire",
+          "jockey": "S D Bowen",
+          "cd": 3,
+          "days": 7,
+          "odds": "10/1",
           "mark": null,
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 0.45,
-          "ret": -0.45,
-          "bank": 44.66
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.74,
+          "ret": 1.85,
+          "bank": 75.56
         }
       ]
     },
@@ -99,9 +99,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.45,
-          "ret": 1.5,
-          "bank": 46.16
+          "stake": 0.76,
+          "ret": 2.53,
+          "bank": 78.09
         }
       ]
     },
@@ -124,9 +124,9 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.46,
-          "ret": -0.46,
-          "bank": 45.7
+          "stake": 0.78,
+          "ret": -0.78,
+          "bank": 77.31
         }
       ]
     },
@@ -141,17 +141,17 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Mulgrave",
-          "jockey": "James Ryan",
-          "cd": 6,
-          "days": 14,
-          "odds": "11/2",
+          "horse": "Moyassr",
+          "jockey": "Seamie Heffernan",
+          "cd": 3,
+          "days": 17,
+          "odds": "10/3",
           "mark": null,
-          "pos": 6,
-          "res": "LOSE",
-          "stake": 0.46,
-          "ret": -0.46,
-          "bank": 45.24
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.77,
+          "ret": 2.57,
+          "bank": 79.88
         },
         {
           "rank": 2,
@@ -163,23 +163,23 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.45,
-          "ret": 0.39,
-          "bank": 45.63
+          "stake": 0.8,
+          "ret": 0.7,
+          "bank": 80.58
         },
         {
           "rank": 3,
-          "horse": "Johnny's Oasis",
-          "jockey": "Adam Caffrey",
-          "cd": 2,
-          "days": 17,
-          "odds": "9/1",
+          "horse": "Mulgrave",
+          "jockey": "James Ryan",
+          "cd": 6,
+          "days": 14,
+          "odds": "11/2",
           "mark": null,
-          "pos": 9,
+          "pos": 6,
           "res": "LOSE",
-          "stake": 0.46,
-          "ret": -0.46,
-          "bank": 45.17
+          "stake": 0.81,
+          "ret": -0.81,
+          "bank": 79.77
         }
       ]
     },
@@ -202,9 +202,23 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.45,
-          "ret": -0.45,
-          "bank": 44.72
+          "stake": 0.8,
+          "ret": -0.8,
+          "bank": 78.97
+        },
+        {
+          "rank": 2,
+          "horse": "Kartayaz",
+          "jockey": "Zoe McMullan",
+          "cd": 4,
+          "days": 7,
+          "odds": "25/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.79,
+          "ret": -0.79,
+          "bank": 78.18
         }
       ]
     },
@@ -227,9 +241,9 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.45,
-          "ret": -0.45,
-          "bank": 44.27
+          "stake": 0.78,
+          "ret": -0.78,
+          "bank": 77.4
         }
       ]
     },
@@ -252,9 +266,23 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.44,
-          "ret": -0.44,
-          "bank": 43.83
+          "stake": 0.77,
+          "ret": -0.77,
+          "bank": 76.63
+        },
+        {
+          "rank": 2,
+          "horse": "Doctor Grace",
+          "jockey": "Sam Coen",
+          "cd": 1,
+          "days": 14,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.77,
+          "ret": 2.31,
+          "bank": 78.94
         }
       ]
     },
@@ -277,9 +305,23 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.44,
-          "ret": 3.08,
-          "bank": 46.91
+          "stake": 0.79,
+          "ret": 5.53,
+          "bank": 84.47
+        },
+        {
+          "rank": 2,
+          "horse": "Tribal Wisdom",
+          "jockey": "Cam Hardie",
+          "cd": 4,
+          "days": 8,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.84,
+          "ret": -0.84,
+          "bank": 83.63
         }
       ]
     },
@@ -302,9 +344,9 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.47,
-          "ret": -0.47,
-          "bank": 46.44
+          "stake": 0.84,
+          "ret": -0.84,
+          "bank": 82.79
         },
         {
           "rank": 2,
@@ -316,9 +358,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.46,
-          "ret": 0.81,
-          "bank": 47.25
+          "stake": 0.83,
+          "ret": 1.45,
+          "bank": 84.24
         },
         {
           "rank": 3,
@@ -330,16 +372,16 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.47,
-          "ret": 1.06,
-          "bank": 48.31
+          "stake": 0.84,
+          "ret": 1.89,
+          "bank": 86.13
         }
       ]
     }
   ],
   "bank": {
-    "start": 44.45,
-    "stake": 0.44,
-    "end": 48.31
+    "start": 75.2,
+    "stake": 0.75,
+    "end": 86.13
   }
 }

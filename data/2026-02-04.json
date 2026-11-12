@@ -1,6 +1,6 @@
 {
   "date": "2026-02-04",
-  "updated": "2026-11-11T08:41:50+0000",
+  "updated": "2026-11-12T04:52:56+0000",
   "races": [
     {
       "time": "12:50",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.54,
-          "ret": -0.54,
-          "bank": 53.94
+          "stake": 0.98,
+          "ret": -0.98,
+          "bank": 97.1
         }
       ]
     },
@@ -46,9 +46,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.54,
-          "ret": 1.8,
-          "bank": 55.74
+          "stake": 0.97,
+          "ret": 3.23,
+          "bank": 100.33
         }
       ]
     },
@@ -63,20 +63,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Jack Sparowe",
-          "jockey": "Lewis Edmunds",
-          "cd": 1,
-          "days": 15,
-          "odds": "17/2",
-          "mark": null,
-          "pos": 9,
-          "res": "LOSE",
-          "stake": 0.56,
-          "ret": -0.56,
-          "bank": 55.18
-        },
-        {
-          "rank": 2,
           "horse": "Fiddlers Green",
           "jockey": "Ryan Kavanagh",
           "cd": 1,
@@ -85,9 +71,23 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.55,
-          "ret": -0.55,
-          "bank": 54.63
+          "stake": 1.0,
+          "ret": -1.0,
+          "bank": 99.33
+        },
+        {
+          "rank": 2,
+          "horse": "Jack Sparowe",
+          "jockey": "Lewis Edmunds",
+          "cd": 1,
+          "days": 15,
+          "odds": "17/2",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 0.99,
+          "ret": -0.99,
+          "bank": 98.34
         }
       ]
     },
@@ -110,9 +110,23 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.55,
-          "ret": 0.55,
-          "bank": 55.18
+          "stake": 0.98,
+          "ret": 0.98,
+          "bank": 99.32
+        },
+        {
+          "rank": 2,
+          "horse": "Man On A Mission",
+          "jockey": "P Cosgrave",
+          "cd": 2,
+          "days": 7,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.99,
+          "ret": -0.99,
+          "bank": 98.33
         }
       ]
     },
@@ -135,26 +149,12 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.55,
-          "ret": -0.55,
-          "bank": 54.63
+          "stake": 0.98,
+          "ret": -0.98,
+          "bank": 97.35
         },
         {
           "rank": 2,
-          "horse": "Mersea",
-          "jockey": "Oliver Stammers",
-          "cd": 1,
-          "days": 15,
-          "odds": "10/1",
-          "mark": null,
-          "pos": 7,
-          "res": "LOSE",
-          "stake": 0.55,
-          "ret": -0.55,
-          "bank": 54.08
-        },
-        {
-          "rank": 3,
           "horse": "Captain Vallo",
           "jockey": "Jack Nicholls",
           "cd": 3,
@@ -163,9 +163,23 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.54,
-          "ret": -0.54,
-          "bank": 53.54
+          "stake": 0.97,
+          "ret": -0.97,
+          "bank": 96.38
+        },
+        {
+          "rank": 3,
+          "horse": "Penny Mountain",
+          "jockey": "Kaiya Fraser",
+          "cd": 1,
+          "days": 22,
+          "odds": "7/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.96,
+          "ret": -0.96,
+          "bank": 95.42
         }
       ]
     },
@@ -188,9 +202,23 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.54,
-          "ret": -0.54,
-          "bank": 53.0
+          "stake": 0.95,
+          "ret": -0.95,
+          "bank": 94.47
+        },
+        {
+          "rank": 2,
+          "horse": "Flash The Dash",
+          "jockey": "Rowan Scott",
+          "cd": 1,
+          "days": 13,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.94,
+          "ret": -0.94,
+          "bank": 93.53
         }
       ]
     },
@@ -213,9 +241,23 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.53,
-          "ret": 1.85,
-          "bank": 54.85
+          "stake": 0.94,
+          "ret": 3.29,
+          "bank": 96.82
+        },
+        {
+          "rank": 2,
+          "horse": "King's Crown",
+          "jockey": "Rhys Elliott",
+          "cd": 3,
+          "days": 13,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.97,
+          "ret": -0.97,
+          "bank": 95.85
         }
       ]
     },
@@ -230,20 +272,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Concert Boy",
-          "jockey": "Warren Fentiman",
-          "cd": 2,
-          "days": 13,
-          "odds": "6/1",
-          "mark": null,
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 0.55,
-          "ret": 0.83,
-          "bank": 55.68
-        },
-        {
-          "rank": 2,
           "horse": "Tasever",
           "jockey": "C Horgan",
           "cd": 3,
@@ -252,16 +280,30 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.56,
-          "ret": 0.63,
-          "bank": 56.31
+          "stake": 0.96,
+          "ret": 1.08,
+          "bank": 96.93
+        },
+        {
+          "rank": 2,
+          "horse": "Concert Boy",
+          "jockey": "Warren Fentiman",
+          "cd": 2,
+          "days": 13,
+          "odds": "6/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.97,
+          "ret": 1.46,
+          "bank": 98.39
         }
       ]
     }
   ],
   "bank": {
-    "start": 54.48,
-    "stake": 0.54,
-    "end": 56.31
+    "start": 98.08,
+    "stake": 0.98,
+    "end": 98.39
   }
 }

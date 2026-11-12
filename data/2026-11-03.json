@@ -1,6 +1,6 @@
 {
   "date": "2026-11-03",
-  "updated": "2026-11-11T08:42:09+0000",
+  "updated": "2026-11-12T04:53:20+0000",
   "races": [
     {
       "time": "18:30",
@@ -21,9 +21,23 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 46.09,
-          "ret": -46.09,
-          "bank": 4562.52
+          "stake": 66.97,
+          "ret": -66.97,
+          "bank": 6630.25
+        },
+        {
+          "rank": 2,
+          "horse": "Jungle Dance",
+          "jockey": "C Lee",
+          "cd": 1,
+          "days": 28,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 66.3,
+          "ret": -66.3,
+          "bank": 6563.95
         }
       ]
     },
@@ -46,16 +60,16 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 45.63,
-          "ret": 51.33,
-          "bank": 4613.85
+          "stake": 65.64,
+          "ret": 73.84,
+          "bank": 6637.79
         }
       ]
     }
   ],
   "bank": {
-    "start": 4608.61,
-    "stake": 46.09,
-    "end": 4613.85
+    "start": 6697.22,
+    "stake": 66.97,
+    "end": 6637.79
   }
 }

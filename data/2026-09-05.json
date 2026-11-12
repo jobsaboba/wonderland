@@ -1,6 +1,6 @@
 {
   "date": "2026-09-05",
-  "updated": "2026-11-11T08:42:05+0000",
+  "updated": "2026-11-12T04:53:15+0000",
   "races": [
     {
       "time": "13:20",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 10,
           "res": "LOSE",
-          "stake": 22.39,
-          "ret": -22.39,
-          "bank": 2216.9
+          "stake": 45.43,
+          "ret": -45.43,
+          "bank": 4497.64
         },
         {
           "rank": 2,
@@ -35,9 +35,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 22.17,
-          "ret": 55.43,
-          "bank": 2272.33
+          "stake": 44.98,
+          "ret": 112.45,
+          "bank": 4610.09
         }
       ]
     },
@@ -60,9 +60,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 22.72,
-          "ret": 48.28,
-          "bank": 2320.61
+          "stake": 46.1,
+          "ret": 97.96,
+          "bank": 4708.05
         },
         {
           "rank": 2,
@@ -74,9 +74,34 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 23.21,
-          "ret": -23.21,
-          "bank": 2297.4
+          "stake": 47.08,
+          "ret": -47.08,
+          "bank": 4660.97
+        }
+      ]
+    },
+    {
+      "time": "15:30",
+      "meeting": "Kempton",
+      "name": "William Hill Best Odds Guaranteed Handicap (GBBPlus Race)",
+      "class": "3",
+      "distance": "1m 3f 219y",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Haku",
+          "jockey": "J Mitchell",
+          "cd": 3,
+          "days": 7,
+          "odds": "25/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 46.61,
+          "ret": -46.61,
+          "bank": 4614.36
         }
       ]
     },
@@ -99,9 +124,9 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 22.97,
-          "ret": -22.97,
-          "bank": 2274.43
+          "stake": 46.14,
+          "ret": -46.14,
+          "bank": 4568.22
         },
         {
           "rank": 2,
@@ -113,9 +138,48 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 22.74,
-          "ret": 204.66,
-          "bank": 2479.09
+          "stake": 45.68,
+          "ret": 411.12,
+          "bank": 4979.34
+        }
+      ]
+    },
+    {
+      "time": "19:00",
+      "meeting": "Newcastle",
+      "name": "Free Tips On attheraces.com Handicap (Div 2)",
+      "class": "5",
+      "distance": "7f 14y",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Gressington",
+          "jockey": "T Eaves",
+          "cd": 1,
+          "days": 11,
+          "odds": "18/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 49.79,
+          "ret": -49.79,
+          "bank": 4929.55
+        },
+        {
+          "rank": 2,
+          "horse": "Jesmond Dawn",
+          "jockey": "J Garritty",
+          "cd": 1,
+          "days": 22,
+          "odds": "18/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 49.3,
+          "ret": -49.3,
+          "bank": 4880.25
         }
       ]
     },
@@ -138,16 +202,30 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 24.79,
-          "ret": 21.69,
-          "bank": 2500.78
+          "stake": 48.8,
+          "ret": 42.7,
+          "bank": 4922.95
+        },
+        {
+          "rank": 2,
+          "horse": "Relevant Range",
+          "jockey": "Elle-May Croot",
+          "cd": 1,
+          "days": 5,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 49.23,
+          "ret": -49.23,
+          "bank": 4873.72
         }
       ]
     }
   ],
   "bank": {
-    "start": 2239.29,
-    "stake": 22.39,
-    "end": 2500.78
+    "start": 4543.07,
+    "stake": 45.43,
+    "end": 4873.72
   }
 }

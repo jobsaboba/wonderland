@@ -1,6 +1,6 @@
 {
   "date": "2026-05-08",
-  "updated": "2026-11-11T08:41:57+0000",
+  "updated": "2026-11-12T04:53:05+0000",
   "races": [
     {
       "time": "17:00",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 6.94,
-          "ret": -6.94,
-          "bank": 687.3
+          "stake": 8.78,
+          "ret": -8.78,
+          "bank": 868.84
         }
       ]
     },
@@ -46,9 +46,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 6.87,
-          "ret": 22.9,
-          "bank": 710.2
+          "stake": 8.69,
+          "ret": 28.97,
+          "bank": 897.81
         }
       ]
     },
@@ -71,16 +71,30 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 7.1,
-          "ret": 24.85,
-          "bank": 735.05
+          "stake": 8.98,
+          "ret": 31.43,
+          "bank": 929.24
+        },
+        {
+          "rank": 2,
+          "horse": "Ravenglass",
+          "jockey": "Joe Leavy",
+          "cd": 1,
+          "days": 17,
+          "odds": "25/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 9.29,
+          "ret": -9.29,
+          "bank": 919.95
         }
       ]
     }
   ],
   "bank": {
-    "start": 694.24,
-    "stake": 6.94,
-    "end": 735.05
+    "start": 877.62,
+    "stake": 8.78,
+    "end": 919.95
   }
 }

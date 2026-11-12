@@ -1,6 +1,6 @@
 {
   "date": "2026-05-07",
-  "updated": "2026-11-11T08:41:56+0000",
+  "updated": "2026-11-12T04:53:04+0000",
   "races": [
     {
       "time": "17:30",
@@ -21,9 +21,37 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 6.5,
-          "ret": 6.5,
-          "bank": 656.8
+          "stake": 7.63,
+          "ret": 7.63,
+          "bank": 770.87
+        },
+        {
+          "rank": 2,
+          "horse": "Everyoneknowsadave",
+          "jockey": "George Wood",
+          "cd": 1,
+          "days": 26,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 7.71,
+          "ret": -7.71,
+          "bank": 763.16
+        },
+        {
+          "rank": 3,
+          "horse": "Soames Forsyte",
+          "jockey": "William Pyle",
+          "cd": 2,
+          "days": 12,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 7.63,
+          "ret": -7.63,
+          "bank": 755.53
         }
       ]
     },
@@ -46,9 +74,48 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 6.57,
-          "ret": 13.96,
-          "bank": 670.76
+          "stake": 7.56,
+          "ret": 16.06,
+          "bank": 771.59
+        }
+      ]
+    },
+    {
+      "time": "19:00",
+      "meeting": "Southwell",
+      "name": "Follow AtTheRaces On Instagram Handicap (Div 2)",
+      "class": "6",
+      "distance": "7f 14y",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Mickey Mongoose",
+          "jockey": "Warren Fentiman",
+          "cd": 1,
+          "days": 12,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 7.72,
+          "ret": 84.92,
+          "bank": 856.51
+        },
+        {
+          "rank": 2,
+          "horse": "Autumn Angel",
+          "jockey": "K Stott",
+          "cd": 1,
+          "days": 26,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 8.57,
+          "ret": -8.57,
+          "bank": 847.94
         }
       ]
     },
@@ -71,16 +138,16 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 6.71,
-          "ret": 23.48,
-          "bank": 694.24
+          "stake": 8.48,
+          "ret": 29.68,
+          "bank": 877.62
         }
       ]
     }
   ],
   "bank": {
-    "start": 650.3,
-    "stake": 6.5,
-    "end": 694.24
+    "start": 763.24,
+    "stake": 7.63,
+    "end": 877.62
   }
 }

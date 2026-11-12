@@ -1,6 +1,6 @@
 {
   "date": "2026-03-03",
-  "updated": "2026-11-11T08:41:52+0000",
+  "updated": "2026-11-12T04:52:59+0000",
   "races": [
     {
       "time": "18:30",
@@ -13,34 +13,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Woodhay Whisper",
-          "jockey": "Dylan Hogan",
-          "cd": 2,
-          "days": 8,
-          "odds": "6/1",
-          "mark": null,
-          "pos": 7,
-          "res": "LOSE",
-          "stake": 1.5,
-          "ret": -1.5,
-          "bank": 148.72
-        },
-        {
-          "rank": 2,
-          "horse": "Beauzon",
-          "jockey": "Charles Bishop",
-          "cd": 10,
-          "days": 15,
-          "odds": "13/2",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 1.49,
-          "ret": 9.69,
-          "bank": 158.41
-        },
-        {
-          "rank": 3,
           "horse": "Dicko The Legend",
           "jockey": "Billy Garritty",
           "cd": 1,
@@ -49,9 +21,37 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 1.58,
-          "ret": -1.58,
-          "bank": 156.83
+          "stake": 2.15,
+          "ret": -2.15,
+          "bank": 213.06
+        },
+        {
+          "rank": 2,
+          "horse": "Woodhay Whisper",
+          "jockey": "Dylan Hogan",
+          "cd": 2,
+          "days": 8,
+          "odds": "6/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 2.13,
+          "ret": -2.13,
+          "bank": 210.93
+        },
+        {
+          "rank": 3,
+          "horse": "Beauzon",
+          "jockey": "Charles Bishop",
+          "cd": 10,
+          "days": 15,
+          "odds": "13/2",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 2.11,
+          "ret": 13.71,
+          "bank": 224.64
         }
       ]
     },
@@ -66,20 +66,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Good Karma",
-          "jockey": "Sean Kirrane",
-          "cd": 1,
-          "days": 7,
-          "odds": "6/1",
-          "mark": null,
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 1.57,
-          "ret": 2.35,
-          "bank": 159.18
-        },
-        {
-          "rank": 2,
           "horse": "Dayman",
           "jockey": "Billy Loughnane",
           "cd": 1,
@@ -88,12 +74,12 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 1.59,
-          "ret": -1.59,
-          "bank": 157.59
+          "stake": 2.25,
+          "ret": -2.25,
+          "bank": 222.39
         },
         {
-          "rank": 3,
+          "rank": 2,
           "horse": "Landlordtothestars",
           "jockey": "Joe Leavy",
           "cd": 1,
@@ -102,9 +88,23 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 1.58,
-          "ret": -1.58,
-          "bank": 156.01
+          "stake": 2.22,
+          "ret": -2.22,
+          "bank": 220.17
+        },
+        {
+          "rank": 3,
+          "horse": "Good Karma",
+          "jockey": "Sean Kirrane",
+          "cd": 1,
+          "days": 7,
+          "odds": "6/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 2.2,
+          "ret": 3.3,
+          "bank": 223.47
         }
       ]
     },
@@ -119,20 +119,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Moon Over The Sea",
-          "jockey": "Jack Doughty",
-          "cd": 2,
-          "days": 14,
-          "odds": "8/1",
-          "mark": null,
-          "pos": 6,
-          "res": "LOSE",
-          "stake": 1.56,
-          "ret": -1.56,
-          "bank": 154.45
-        },
-        {
-          "rank": 2,
           "horse": "Scenario",
           "jockey": "Cieren Fallon",
           "cd": 1,
@@ -141,9 +127,23 @@
           "mark": null,
           "pos": 10,
           "res": "LOSE",
-          "stake": 1.54,
-          "ret": -1.54,
-          "bank": 152.91
+          "stake": 2.23,
+          "ret": -2.23,
+          "bank": 221.24
+        },
+        {
+          "rank": 2,
+          "horse": "Moon Over The Sea",
+          "jockey": "Jack Doughty",
+          "cd": 2,
+          "days": 14,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 2.21,
+          "ret": -2.21,
+          "bank": 219.03
         },
         {
           "rank": 3,
@@ -155,16 +155,16 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 1.53,
-          "ret": -1.53,
-          "bank": 151.38
+          "stake": 2.19,
+          "ret": -2.19,
+          "bank": 216.84
         }
       ]
     }
   ],
   "bank": {
-    "start": 150.22,
-    "stake": 1.5,
-    "end": 151.38
+    "start": 215.21,
+    "stake": 2.15,
+    "end": 216.84
   }
 }

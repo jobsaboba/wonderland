@@ -1,6 +1,6 @@
 {
   "date": "2026-04-02",
-  "updated": "2026-11-11T08:41:54+0000",
+  "updated": "2026-11-12T04:53:01+0000",
   "races": [
     {
       "time": "12:52",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 0,
           "res": null,
-          "stake": 3.53,
+          "stake": 4.7,
           "ret": null,
-          "bank": 352.55
+          "bank": 470.33
         },
         {
           "rank": 2,
@@ -35,9 +35,23 @@
           "mark": null,
           "pos": 0,
           "res": null,
-          "stake": 3.53,
+          "stake": 4.7,
           "ret": null,
-          "bank": 352.55
+          "bank": 470.33
+        },
+        {
+          "rank": 3,
+          "horse": "Henry Tudor",
+          "jockey": "Ashley Lewis",
+          "cd": 1,
+          "days": 22,
+          "odds": "25/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 4.7,
+          "ret": null,
+          "bank": 470.33
         }
       ]
     },
@@ -60,9 +74,9 @@
           "mark": null,
           "pos": 0,
           "res": null,
-          "stake": 3.53,
+          "stake": 4.7,
           "ret": null,
-          "bank": 352.55
+          "bank": 470.33
         }
       ]
     },
@@ -85,9 +99,9 @@
           "mark": null,
           "pos": 0,
           "res": null,
-          "stake": 3.53,
+          "stake": 4.7,
           "ret": null,
-          "bank": 352.55
+          "bank": 470.33
         }
       ]
     },
@@ -110,9 +124,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 3.53,
-          "ret": 3.97,
-          "bank": 356.52
+          "stake": 4.7,
+          "ret": 5.29,
+          "bank": 475.62
         }
       ]
     },
@@ -135,9 +149,37 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 3.57,
-          "ret": -3.57,
-          "bank": 352.95
+          "stake": 4.76,
+          "ret": -4.76,
+          "bank": 470.86
+        },
+        {
+          "rank": 2,
+          "horse": "Street Life",
+          "jockey": "Myla Coppins",
+          "cd": 5,
+          "days": 5,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 4.71,
+          "ret": -4.71,
+          "bank": 466.15
+        },
+        {
+          "rank": 3,
+          "horse": "Master Zack",
+          "jockey": "Hollie Doyle",
+          "cd": 1,
+          "days": 26,
+          "odds": "28/1",
+          "mark": null,
+          "pos": 13,
+          "res": "LOSE",
+          "stake": 4.66,
+          "ret": -4.66,
+          "bank": 461.49
         }
       ]
     },
@@ -160,9 +202,9 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 3.53,
-          "ret": -3.53,
-          "bank": 349.42
+          "stake": 4.61,
+          "ret": -4.61,
+          "bank": 456.88
         }
       ]
     },
@@ -185,16 +227,16 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 3.49,
-          "ret": 19.2,
-          "bank": 368.62
+          "stake": 4.57,
+          "ret": 25.14,
+          "bank": 482.02
         }
       ]
     }
   ],
   "bank": {
-    "start": 352.55,
-    "stake": 3.53,
-    "end": 368.62
+    "start": 470.33,
+    "stake": 4.7,
+    "end": 482.02
   }
 }

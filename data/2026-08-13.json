@@ -1,6 +1,6 @@
 {
   "date": "2026-08-13",
-  "updated": "2026-11-11T08:42:04+0000",
+  "updated": "2026-11-12T04:53:13+0000",
   "races": [
     {
       "time": "17:28",
@@ -21,16 +21,30 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 16.37,
-          "ret": 24.55,
-          "bank": 1661.51
+          "stake": 33.51,
+          "ret": 50.27,
+          "bank": 3401.38
+        },
+        {
+          "rank": 2,
+          "horse": "Francisco",
+          "jockey": "Charlie Tucker",
+          "cd": 1,
+          "days": 20,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 34.01,
+          "ret": -34.01,
+          "bank": 3367.37
         }
       ]
     }
   ],
   "bank": {
-    "start": 1636.96,
-    "stake": 16.37,
-    "end": 1661.51
+    "start": 3351.11,
+    "stake": 33.51,
+    "end": 3367.37
   }
 }

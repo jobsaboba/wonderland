@@ -1,6 +1,6 @@
 {
   "date": "2026-01-31",
-  "updated": "2026-11-11T08:41:49+0000",
+  "updated": "2026-11-12T04:52:56+0000",
   "races": [
     {
       "time": "12:35",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.48,
-          "ret": -0.48,
-          "bank": 47.83
+          "stake": 0.86,
+          "ret": -0.86,
+          "bank": 85.27
         }
       ]
     },
@@ -46,9 +46,9 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.48,
-          "ret": -0.48,
-          "bank": 47.35
+          "stake": 0.85,
+          "ret": -0.85,
+          "bank": 84.42
         }
       ]
     },
@@ -63,34 +63,20 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Master Of My Fate",
-          "jockey": "Mason Paetel",
-          "cd": 2,
-          "days": 14,
-          "odds": "15/2",
+          "horse": "The Thames Boatman",
+          "jockey": "Finley Marsh",
+          "cd": 3,
+          "days": 21,
+          "odds": "10/3",
           "mark": null,
-          "pos": 6,
+          "pos": 4,
           "res": "LOSE",
-          "stake": 0.47,
-          "ret": -0.47,
-          "bank": 46.88
+          "stake": 0.84,
+          "ret": -0.84,
+          "bank": 83.58
         },
         {
           "rank": 2,
-          "horse": "Diomed Spirit",
-          "jockey": "Rossa Ryan",
-          "cd": 2,
-          "days": 19,
-          "odds": "13/2",
-          "mark": null,
-          "pos": 5,
-          "res": "LOSE",
-          "stake": 0.47,
-          "ret": -0.47,
-          "bank": 46.41
-        },
-        {
-          "rank": 3,
           "horse": "Michaela's Boy",
           "jockey": "L Morris",
           "cd": 2,
@@ -99,9 +85,23 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.46,
-          "ret": 0.46,
-          "bank": 46.87
+          "stake": 0.84,
+          "ret": 0.84,
+          "bank": 84.42
+        },
+        {
+          "rank": 3,
+          "horse": "Diomed Spirit",
+          "jockey": "Rossa Ryan",
+          "cd": 2,
+          "days": 19,
+          "odds": "13/2",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.84,
+          "ret": -0.84,
+          "bank": 83.58
         }
       ]
     },
@@ -124,9 +124,23 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.47,
-          "ret": 0.47,
-          "bank": 47.34
+          "stake": 0.84,
+          "ret": 0.84,
+          "bank": 84.42
+        },
+        {
+          "rank": 2,
+          "horse": "Antiquity",
+          "jockey": "Rob Hornby",
+          "cd": 1,
+          "days": 25,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.84,
+          "ret": 2.52,
+          "bank": 86.94
         }
       ]
     },
@@ -149,26 +163,12 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.47,
-          "ret": -0.47,
-          "bank": 46.87
+          "stake": 0.87,
+          "ret": -0.87,
+          "bank": 86.07
         },
         {
           "rank": 2,
-          "horse": "Ganesha",
-          "jockey": "Rowan Scott",
-          "cd": 2,
-          "days": 11,
-          "odds": "15/2",
-          "mark": null,
-          "pos": 9,
-          "res": "LOSE",
-          "stake": 0.47,
-          "ret": -0.47,
-          "bank": 46.4
-        },
-        {
-          "rank": 3,
           "horse": "Our Absent Friends",
           "jockey": "O McSweeney",
           "cd": 3,
@@ -177,9 +177,23 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.46,
-          "ret": -0.46,
-          "bank": 45.94
+          "stake": 0.86,
+          "ret": -0.86,
+          "bank": 85.21
+        },
+        {
+          "rank": 3,
+          "horse": "Ganesha",
+          "jockey": "Rowan Scott",
+          "cd": 2,
+          "days": 11,
+          "odds": "15/2",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 0.85,
+          "ret": -0.85,
+          "bank": 84.36
         }
       ]
     },
@@ -202,9 +216,9 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.46,
-          "ret": -0.46,
-          "bank": 45.48
+          "stake": 0.84,
+          "ret": -0.84,
+          "bank": 83.52
         },
         {
           "rank": 2,
@@ -216,9 +230,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.45,
-          "ret": 0.56,
-          "bank": 46.04
+          "stake": 0.84,
+          "ret": 1.05,
+          "bank": 84.57
         }
       ]
     },
@@ -241,9 +255,9 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.46,
-          "ret": -0.46,
-          "bank": 45.58
+          "stake": 0.85,
+          "ret": -0.85,
+          "bank": 83.72
         },
         {
           "rank": 2,
@@ -255,9 +269,23 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.46,
-          "ret": 1.15,
-          "bank": 46.73
+          "stake": 0.84,
+          "ret": 2.1,
+          "bank": 85.82
+        },
+        {
+          "rank": 3,
+          "horse": "Little Ted",
+          "jockey": "Sean Kirrane",
+          "cd": 1,
+          "days": 11,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 0.86,
+          "ret": -0.86,
+          "bank": 84.96
         }
       ]
     },
@@ -280,16 +308,16 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.47,
-          "ret": -0.47,
-          "bank": 46.26
+          "stake": 0.85,
+          "ret": -0.85,
+          "bank": 84.11
         }
       ]
     }
   ],
   "bank": {
-    "start": 48.31,
-    "stake": 0.48,
-    "end": 46.26
+    "start": 86.13,
+    "stake": 0.86,
+    "end": 84.11
   }
 }

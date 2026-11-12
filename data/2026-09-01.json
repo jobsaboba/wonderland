@@ -1,6 +1,6 @@
 {
   "date": "2026-09-01",
-  "updated": "2026-11-11T08:42:05+0000",
+  "updated": "2026-11-12T04:53:15+0000",
   "races": [
     {
       "time": "16:25",
@@ -21,9 +21,23 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 19.18,
-          "ret": 43.16,
-          "bank": 1961.46
+          "stake": 37.0,
+          "ret": 83.25,
+          "bank": 3782.97
+        },
+        {
+          "rank": 2,
+          "horse": "Mister Moet",
+          "jockey": "Callum Shepherd",
+          "cd": 1,
+          "days": 12,
+          "odds": "18/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 37.83,
+          "ret": -37.83,
+          "bank": 3745.14
         }
       ]
     },
@@ -46,9 +60,9 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 19.61,
-          "ret": -19.61,
-          "bank": 1941.85
+          "stake": 37.45,
+          "ret": -37.45,
+          "bank": 3707.69
         }
       ]
     },
@@ -71,9 +85,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 19.42,
-          "ret": 19.42,
-          "bank": 1961.27
+          "stake": 37.08,
+          "ret": 37.08,
+          "bank": 3744.77
         },
         {
           "rank": 2,
@@ -85,16 +99,16 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 19.61,
-          "ret": 19.61,
-          "bank": 1980.88
+          "stake": 37.45,
+          "ret": 37.45,
+          "bank": 3782.22
         }
       ]
     }
   ],
   "bank": {
-    "start": 1918.3,
-    "stake": 19.18,
-    "end": 1980.88
+    "start": 3699.72,
+    "stake": 37.0,
+    "end": 3782.22
   }
 }

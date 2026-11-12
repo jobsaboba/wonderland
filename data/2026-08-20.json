@@ -1,6 +1,6 @@
 {
   "date": "2026-08-20",
-  "updated": "2026-11-11T08:42:04+0000",
+  "updated": "2026-11-12T04:53:14+0000",
   "races": [
     {
       "time": "14:20",
@@ -21,9 +21,84 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 18.06,
-          "ret": 24.83,
-          "bank": 1830.47
+          "stake": 34.78,
+          "ret": 47.82,
+          "bank": 3525.9
+        }
+      ]
+    },
+    {
+      "time": "14:55",
+      "meeting": "Lingfield",
+      "name": "Follow AtTheRaces On X Handicap",
+      "class": "5",
+      "distance": "7f 1y",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Bold Suitor",
+          "jockey": "Georgia Dobie",
+          "cd": 1,
+          "days": 12,
+          "odds": "33/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 35.26,
+          "ret": -35.26,
+          "bank": 3490.64
+        }
+      ]
+    },
+    {
+      "time": "15:30",
+      "meeting": "Lingfield",
+      "name": "Sky Sports Racing Virgin 512 Handicap",
+      "class": "6",
+      "distance": "6f 1y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Mister Moet",
+          "jockey": "K T O'Neill",
+          "cd": 1,
+          "days": 15,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 34.91,
+          "ret": -34.91,
+          "bank": 3455.73
+        }
+      ]
+    },
+    {
+      "time": "17:19",
+      "meeting": "Newcastle",
+      "name": "Harry Potter Droneart Show Handicap",
+      "class": "6",
+      "distance": "1m 4f 98y",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Brunello Breeze",
+          "jockey": "J Garritty",
+          "cd": 1,
+          "days": 16,
+          "odds": "33/1",
+          "mark": null,
+          "pos": 12,
+          "res": "LOSE",
+          "stake": 34.56,
+          "ret": -34.56,
+          "bank": 3421.17
         }
       ]
     },
@@ -38,34 +113,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Castan",
-          "jockey": "P Mulrennan",
-          "cd": 4,
-          "days": 7,
-          "odds": "8/1",
-          "mark": null,
-          "pos": 8,
-          "res": "LOSE",
-          "stake": 18.3,
-          "ret": -18.3,
-          "bank": 1812.17
-        },
-        {
-          "rank": 2,
-          "horse": "Buzz Box",
-          "jockey": "Jason Hart",
-          "cd": 2,
-          "days": 21,
-          "odds": "8/1",
-          "mark": -3,
-          "pos": 10,
-          "res": "LOSE",
-          "stake": 18.12,
-          "ret": -18.12,
-          "bank": 1794.05
-        },
-        {
-          "rank": 3,
           "horse": "Lethal Nymph",
           "jockey": "D Nolan",
           "cd": 1,
@@ -74,9 +121,37 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 17.94,
-          "ret": 53.82,
-          "bank": 1847.87
+          "stake": 34.21,
+          "ret": 102.63,
+          "bank": 3523.8
+        },
+        {
+          "rank": 2,
+          "horse": "Castan",
+          "jockey": "P Mulrennan",
+          "cd": 4,
+          "days": 7,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 35.24,
+          "ret": -35.24,
+          "bank": 3488.56
+        },
+        {
+          "rank": 3,
+          "horse": "Buzz Box",
+          "jockey": "Jason Hart",
+          "cd": 2,
+          "days": 21,
+          "odds": "8/1",
+          "mark": -3,
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 34.89,
+          "ret": -34.89,
+          "bank": 3453.67
         }
       ]
     },
@@ -99,16 +174,16 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 18.48,
-          "ret": -18.48,
-          "bank": 1829.39
+          "stake": 34.54,
+          "ret": -34.54,
+          "bank": 3419.13
         }
       ]
     }
   ],
   "bank": {
-    "start": 1805.64,
-    "stake": 18.06,
-    "end": 1829.39
+    "start": 3478.08,
+    "stake": 34.78,
+    "end": 3419.13
   }
 }

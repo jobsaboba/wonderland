@@ -1,7 +1,32 @@
 {
   "date": "2026-10-02",
-  "updated": "2026-11-11T08:42:07+0000",
+  "updated": "2026-11-12T04:53:17+0000",
   "races": [
+    {
+      "time": "12:31",
+      "meeting": "Wolverhampton",
+      "name": "bet365 Apprentice Handicap",
+      "class": "6",
+      "distance": "1m 4f 51y",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Forever Perfect",
+          "jockey": "Owen Lewis",
+          "cd": 1,
+          "days": 11,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 44.96,
+          "ret": 134.88,
+          "bank": 4630.61
+        }
+      ]
+    },
     {
       "time": "14:16",
       "meeting": "Wolverhampton",
@@ -21,9 +46,9 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 28.19,
-          "ret": -28.19,
-          "bank": 2790.53
+          "stake": 46.31,
+          "ret": -46.31,
+          "bank": 4584.3
         },
         {
           "rank": 2,
@@ -35,9 +60,34 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 27.91,
-          "ret": 125.59,
-          "bank": 2916.12
+          "stake": 45.84,
+          "ret": 206.28,
+          "bank": 4790.58
+        }
+      ]
+    },
+    {
+      "time": "15:05",
+      "meeting": "Newcastle",
+      "name": "Henry Malone 1926 Handicap (Div 1)",
+      "class": "6",
+      "distance": "1m 2f 42y",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Daring Leader",
+          "jockey": "P Mulrennan",
+          "cd": 1,
+          "days": 11,
+          "odds": "22/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 47.91,
+          "ret": -47.91,
+          "bank": 4742.67
         }
       ]
     },
@@ -60,9 +110,9 @@
           "mark": null,
           "pos": 3,
           "res": "LOSE",
-          "stake": 29.16,
-          "ret": -29.16,
-          "bank": 2886.96
+          "stake": 47.43,
+          "ret": -47.43,
+          "bank": 4695.24
         }
       ]
     },
@@ -85,9 +135,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 28.87,
-          "ret": 54.13,
-          "bank": 2941.09
+          "stake": 46.95,
+          "ret": 88.03,
+          "bank": 4783.27
         }
       ]
     },
@@ -110,9 +160,62 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 29.41,
-          "ret": 22.06,
-          "bank": 2963.15
+          "stake": 47.83,
+          "ret": 35.87,
+          "bank": 4819.14
+        },
+        {
+          "rank": 2,
+          "horse": "Ash Wednesday",
+          "jockey": "Finley Marsh",
+          "cd": 4,
+          "days": 14,
+          "odds": "20/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 48.19,
+          "ret": -48.19,
+          "bank": 4770.95
+        },
+        {
+          "rank": 3,
+          "horse": "Bold Suitor",
+          "jockey": "Georgia Dobie",
+          "cd": 2,
+          "days": 23,
+          "odds": "20/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 47.71,
+          "ret": -47.71,
+          "bank": 4723.24
+        }
+      ]
+    },
+    {
+      "time": "16:00",
+      "meeting": "Dundalk",
+      "name": "BAR 1 Betting 'Download Our App' Handicap (0-60)",
+      "class": "",
+      "distance": "5f",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Inishmot Prince",
+          "jockey": "James Ryan",
+          "cd": 6,
+          "days": 22,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 47.23,
+          "ret": -47.23,
+          "bank": 4676.01
         }
       ]
     },
@@ -135,9 +238,23 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 29.63,
-          "ret": 25.93,
-          "bank": 2989.08
+          "stake": 46.76,
+          "ret": 40.91,
+          "bank": 4716.92
+        },
+        {
+          "rank": 2,
+          "horse": "Lady Bouquet",
+          "jockey": "Mikey Sheehy",
+          "cd": 1,
+          "days": 13,
+          "odds": "33/1",
+          "mark": null,
+          "pos": 11,
+          "res": "LOSE",
+          "stake": 47.17,
+          "ret": -47.17,
+          "bank": 4669.75
         }
       ]
     },
@@ -160,9 +277,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 29.89,
-          "ret": 99.63,
-          "bank": 3088.71
+          "stake": 46.7,
+          "ret": 155.67,
+          "bank": 4825.42
         },
         {
           "rank": 2,
@@ -174,9 +291,23 @@
           "mark": null,
           "pos": 3,
           "res": "LOSE",
-          "stake": 30.89,
-          "ret": -30.89,
-          "bank": 3057.82
+          "stake": 48.25,
+          "ret": -48.25,
+          "bank": 4777.17
+        },
+        {
+          "rank": 3,
+          "horse": "Relevant Range",
+          "jockey": "Elle-May Croot",
+          "cd": 1,
+          "days": 27,
+          "odds": "33/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 47.77,
+          "ret": -47.77,
+          "bank": 4729.4
         }
       ]
     },
@@ -191,20 +322,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Mayo County",
-          "jockey": "Ryan Sexton",
-          "cd": 1,
-          "days": 23,
-          "odds": "4/1",
-          "mark": null,
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 30.58,
-          "ret": 30.58,
-          "bank": 3088.4
-        },
-        {
-          "rank": 2,
           "horse": "Blazing Son",
           "jockey": "P Mulrennan",
           "cd": 2,
@@ -213,9 +330,37 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 30.88,
-          "ret": 108.08,
-          "bank": 3196.48
+          "stake": 47.29,
+          "ret": 165.51,
+          "bank": 4894.91
+        },
+        {
+          "rank": 2,
+          "horse": "Mayo County",
+          "jockey": "Ryan Sexton",
+          "cd": 1,
+          "days": 23,
+          "odds": "4/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 48.95,
+          "ret": 48.95,
+          "bank": 4943.86
+        },
+        {
+          "rank": 3,
+          "horse": "Pockley",
+          "jockey": "D Allan",
+          "cd": 3,
+          "days": 15,
+          "odds": "25/1",
+          "mark": null,
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 49.44,
+          "ret": -49.44,
+          "bank": 4894.42
         }
       ]
     },
@@ -238,16 +383,16 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 31.96,
-          "ret": -31.96,
-          "bank": 3164.52
+          "stake": 48.94,
+          "ret": -48.94,
+          "bank": 4845.48
         }
       ]
     }
   ],
   "bank": {
-    "start": 2818.72,
-    "stake": 28.19,
-    "end": 3164.52
+    "start": 4495.73,
+    "stake": 44.96,
+    "end": 4845.48
   }
 }

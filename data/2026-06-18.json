@@ -1,10 +1,36 @@
 {
   "date": "2026-06-18",
-  "updated": "2026-11-11T08:41:59+0000",
-  "races": [],
+  "updated": "2026-11-12T04:53:08+0000",
+  "races": [
+    {
+      "time": "17:30",
+      "meeting": "Southwell",
+      "name": "Ladies' Day Sunday 16th August Fillies' Handicap",
+      "class": "5",
+      "distance": "4f 214y",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "La Belle Forest",
+          "jockey": "Edward Greatrex",
+          "cd": 1,
+          "days": 14,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 14.43,
+          "ret": -14.43,
+          "bank": 1428.16
+        }
+      ]
+    }
+  ],
   "bank": {
-    "start": 10.0,
-    "stake": 0.1,
-    "end": 10.0
+    "start": 1442.59,
+    "stake": 14.43,
+    "end": 1428.16
   }
 }

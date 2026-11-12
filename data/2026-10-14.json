@@ -1,7 +1,32 @@
 {
   "date": "2026-10-14",
-  "updated": "2026-11-11T08:42:08+0000",
+  "updated": "2026-11-12T04:53:18+0000",
   "races": [
+    {
+      "time": "17:00",
+      "meeting": "Kempton",
+      "name": "Bet 20 Pound Get 20 Pound With Unibet Handicap (Div 2)",
+      "class": "5",
+      "distance": "1m",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Bold Suitor",
+          "jockey": "Georgia Dobie",
+          "cd": 2,
+          "days": 12,
+          "odds": "22/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 55.45,
+          "ret": 304.98,
+          "bank": 5849.6
+        }
+      ]
+    },
     {
       "time": "18:00",
       "meeting": "Kempton",
@@ -21,16 +46,16 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 35.63,
-          "ret": -35.63,
-          "bank": 3527.32
+          "stake": 58.5,
+          "ret": -58.5,
+          "bank": 5791.1
         }
       ]
     }
   ],
   "bank": {
-    "start": 3562.95,
-    "stake": 35.63,
-    "end": 3527.32
+    "start": 5544.62,
+    "stake": 55.45,
+    "end": 5791.1
   }
 }

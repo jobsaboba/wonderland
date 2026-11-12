@@ -1,6 +1,6 @@
 {
   "date": "2026-01-06",
-  "updated": "2026-11-11T08:41:48+0000",
+  "updated": "2026-11-12T04:52:54+0000",
   "races": [
     {
       "time": "15:45",
@@ -13,20 +13,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Al Muqdad",
-          "jockey": "D Nolan",
-          "cd": 1,
-          "days": 17,
-          "odds": "8/1",
-          "mark": null,
-          "pos": 6,
-          "res": "LOSE",
-          "stake": 0.12,
-          "ret": -0.12,
-          "bank": 12.24
-        },
-        {
-          "rank": 2,
           "horse": "Follow Your Heart",
           "jockey": "Cieren Fallon",
           "cd": 5,
@@ -35,9 +21,37 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.12,
-          "ret": -0.12,
-          "bank": 12.12
+          "stake": 0.11,
+          "ret": -0.11,
+          "bank": 11.21
+        },
+        {
+          "rank": 2,
+          "horse": "Al Muqdad",
+          "jockey": "D Nolan",
+          "cd": 1,
+          "days": 17,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.11,
+          "ret": -0.11,
+          "bank": 11.1
+        },
+        {
+          "rank": 3,
+          "horse": "Thurso",
+          "jockey": "Finley Marsh",
+          "cd": 1,
+          "days": 17,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.11,
+          "ret": -0.11,
+          "bank": 10.99
         }
       ]
     },
@@ -60,9 +74,37 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.12,
-          "ret": -0.12,
-          "bank": 12.0
+          "stake": 0.11,
+          "ret": -0.11,
+          "bank": 10.88
+        },
+        {
+          "rank": 2,
+          "horse": "Winchurch",
+          "jockey": "R Havlin",
+          "cd": 1,
+          "days": 19,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.11,
+          "ret": -0.11,
+          "bank": 10.77
+        },
+        {
+          "rank": 3,
+          "horse": "Mersea",
+          "jockey": "Darragh Keenan",
+          "cd": 1,
+          "days": 11,
+          "odds": "33/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.11,
+          "ret": -0.11,
+          "bank": 10.66
         }
       ]
     },
@@ -85,9 +127,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.12,
-          "ret": 0.4,
-          "bank": 12.4
+          "stake": 0.11,
+          "ret": 0.37,
+          "bank": 11.03
         }
       ]
     },
@@ -102,20 +144,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Bass Player",
-          "jockey": "Alec Voikhansky",
-          "cd": 2,
-          "days": 10,
-          "odds": "9/2",
-          "mark": null,
-          "pos": 9,
-          "res": "LOSE",
-          "stake": 0.12,
-          "ret": -0.12,
-          "bank": 12.28
-        },
-        {
-          "rank": 2,
           "horse": "Equion",
           "jockey": "Cieren Fallon",
           "cd": 1,
@@ -124,9 +152,23 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.12,
-          "ret": -0.12,
-          "bank": 12.16
+          "stake": 0.11,
+          "ret": -0.11,
+          "bank": 10.92
+        },
+        {
+          "rank": 2,
+          "horse": "Bass Player",
+          "jockey": "Alec Voikhansky",
+          "cd": 2,
+          "days": 10,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 0.11,
+          "ret": -0.11,
+          "bank": 10.81
         },
         {
           "rank": 3,
@@ -138,9 +180,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.12,
-          "ret": 0.3,
-          "bank": 12.46
+          "stake": 0.11,
+          "ret": 0.28,
+          "bank": 11.09
         }
       ]
     },
@@ -163,9 +205,9 @@
           "mark": null,
           "pos": 3,
           "res": "LOSE",
-          "stake": 0.12,
-          "ret": -0.12,
-          "bank": 12.34
+          "stake": 0.11,
+          "ret": -0.11,
+          "bank": 10.98
         }
       ]
     },
@@ -188,9 +230,23 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.12,
-          "ret": -0.12,
-          "bank": 12.22
+          "stake": 0.11,
+          "ret": -0.11,
+          "bank": 10.87
+        },
+        {
+          "rank": 2,
+          "horse": "Mickey Mongoose",
+          "jockey": "D Fentiman",
+          "cd": 2,
+          "days": 18,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.11,
+          "ret": -0.11,
+          "bank": 10.76
         }
       ]
     },
@@ -213,16 +269,16 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.12,
-          "ret": 1.2,
-          "bank": 13.42
+          "stake": 0.11,
+          "ret": 1.1,
+          "bank": 11.86
         }
       ]
     }
   ],
   "bank": {
-    "start": 12.36,
-    "stake": 0.12,
-    "end": 13.42
+    "start": 11.32,
+    "stake": 0.11,
+    "end": 11.86
   }
 }

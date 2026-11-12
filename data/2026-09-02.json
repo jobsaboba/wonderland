@@ -1,6 +1,6 @@
 {
   "date": "2026-09-02",
-  "updated": "2026-11-11T08:42:05+0000",
+  "updated": "2026-11-12T04:53:15+0000",
   "races": [
     {
       "time": "14:15",
@@ -13,34 +13,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Havana Prince",
-          "jockey": "T Eaves",
-          "cd": 1,
-          "days": 14,
-          "odds": "13/2",
-          "mark": null,
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 19.81,
-          "ret": 32.19,
-          "bank": 2013.07
-        },
-        {
-          "rank": 2,
-          "horse": "Bloodsweatandtyres",
-          "jockey": "Mikey Sheehy",
-          "cd": 1,
-          "days": 19,
-          "odds": "13/2",
-          "mark": null,
-          "pos": 6,
-          "res": "LOSE",
-          "stake": 20.13,
-          "ret": -20.13,
-          "bank": 1992.94
-        },
-        {
-          "rank": 3,
           "horse": "Beattie Is Back",
           "jockey": "Warren Fentiman",
           "cd": 2,
@@ -49,9 +21,37 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 19.93,
-          "ret": 59.79,
-          "bank": 2052.73
+          "stake": 37.82,
+          "ret": 113.46,
+          "bank": 3895.68
+        },
+        {
+          "rank": 2,
+          "horse": "Havana Prince",
+          "jockey": "T Eaves",
+          "cd": 1,
+          "days": 14,
+          "odds": "13/2",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 38.96,
+          "ret": 63.31,
+          "bank": 3958.99
+        },
+        {
+          "rank": 3,
+          "horse": "Bloodsweatandtyres",
+          "jockey": "Mikey Sheehy",
+          "cd": 1,
+          "days": 19,
+          "odds": "13/2",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 39.59,
+          "ret": -39.59,
+          "bank": 3919.4
         }
       ]
     },
@@ -74,9 +74,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 20.53,
-          "ret": 20.53,
-          "bank": 2073.26
+          "stake": 39.19,
+          "ret": 39.19,
+          "bank": 3958.59
         },
         {
           "rank": 2,
@@ -88,9 +88,9 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 20.73,
-          "ret": -20.73,
-          "bank": 2052.53
+          "stake": 39.59,
+          "ret": -39.59,
+          "bank": 3919.0
         },
         {
           "rank": 3,
@@ -102,9 +102,9 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 20.53,
-          "ret": -20.53,
-          "bank": 2032.0
+          "stake": 39.19,
+          "ret": -39.19,
+          "bank": 3879.81
         }
       ]
     },
@@ -127,9 +127,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 20.32,
-          "ret": 15.24,
-          "bank": 2047.24
+          "stake": 38.8,
+          "ret": 29.1,
+          "bank": 3908.91
         },
         {
           "rank": 2,
@@ -141,9 +141,9 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 20.47,
-          "ret": -20.47,
-          "bank": 2026.77
+          "stake": 39.09,
+          "ret": -39.09,
+          "bank": 3869.82
         }
       ]
     },
@@ -166,9 +166,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 20.27,
-          "ret": 131.75,
-          "bank": 2158.52
+          "stake": 38.7,
+          "ret": 251.55,
+          "bank": 4121.37
         }
       ]
     },
@@ -191,16 +191,16 @@
           "mark": null,
           "pos": 3,
           "res": "LOSE",
-          "stake": 21.59,
-          "ret": -21.59,
-          "bank": 2136.93
+          "stake": 41.21,
+          "ret": -41.21,
+          "bank": 4080.16
         }
       ]
     }
   ],
   "bank": {
-    "start": 1980.88,
-    "stake": 19.81,
-    "end": 2136.93
+    "start": 3782.22,
+    "stake": 37.82,
+    "end": 4080.16
   }
 }

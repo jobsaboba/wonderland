@@ -1,7 +1,32 @@
 {
   "date": "2026-11-07",
-  "updated": "2026-11-11T08:42:10+0000",
+  "updated": "2026-11-12T04:53:20+0000",
   "races": [
+    {
+      "time": "14:05",
+      "meeting": "Southwell",
+      "name": "All-Weather Championship Is Back Handicap",
+      "class": "6",
+      "distance": "1m 13y",
+      "riders": 13,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Union Island",
+          "jockey": "Jack Callan",
+          "cd": 1,
+          "days": 15,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 62.71,
+          "ret": -62.71,
+          "bank": 6208.4
+        }
+      ]
+    },
     {
       "time": "15:13",
       "meeting": "Southwell",
@@ -21,16 +46,94 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 43.7,
-          "ret": 98.33,
-          "bank": 4467.96
+          "stake": 62.08,
+          "ret": 139.68,
+          "bank": 6348.08
+        },
+        {
+          "rank": 2,
+          "horse": "Fools Rush In",
+          "jockey": "William Pyle",
+          "cd": 2,
+          "days": 15,
+          "odds": "20/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 63.48,
+          "ret": -63.48,
+          "bank": 6284.6
+        }
+      ]
+    },
+    {
+      "time": "16:25",
+      "meeting": "Southwell",
+      "name": "Midnight A Next Generation Betting App Handicap",
+      "class": "6",
+      "distance": "6f 16y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Thanks Dad",
+          "jockey": "Mikkel Mortensen",
+          "cd": 1,
+          "days": 19,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 62.85,
+          "ret": -62.85,
+          "bank": 6221.75
+        },
+        {
+          "rank": 2,
+          "horse": "Piperstown",
+          "jockey": "Matthew Slater",
+          "cd": 2,
+          "days": 14,
+          "odds": "33/1",
+          "mark": -2,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 62.22,
+          "ret": -62.22,
+          "bank": 6159.53
+        }
+      ]
+    },
+    {
+      "time": "17:30",
+      "meeting": "Southwell",
+      "name": "Create Your Bet Builders At Midnite Handicap",
+      "class": "4",
+      "distance": "4f 214y",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Call Margot",
+          "jockey": "Rowan Scott",
+          "cd": 1,
+          "days": 19,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 61.6,
+          "ret": -61.6,
+          "bank": 6097.93
         }
       ]
     }
   ],
   "bank": {
-    "start": 4369.63,
-    "stake": 43.7,
-    "end": 4467.96
+    "start": 6271.11,
+    "stake": 62.71,
+    "end": 6097.93
   }
 }

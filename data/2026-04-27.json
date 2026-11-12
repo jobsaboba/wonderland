@@ -1,7 +1,121 @@
 {
   "date": "2026-04-27",
-  "updated": "2026-11-11T08:41:56+0000",
+  "updated": "2026-11-12T04:53:04+0000",
   "races": [
+    {
+      "time": "14:45",
+      "meeting": "Lingfield",
+      "name": "Tia Giggle Gallop Handicap",
+      "class": "4",
+      "distance": "7f 1y",
+      "riders": 7,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Tiger Crusade",
+          "jockey": "Jack Dace",
+          "cd": 2,
+          "days": 18,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 6.84,
+          "ret": -6.84,
+          "bank": 677.65
+        }
+      ]
+    },
+    {
+      "time": "15:15",
+      "meeting": "Lingfield",
+      "name": "Sky Sports Racing Virgin 512 Handicap",
+      "class": "6",
+      "distance": "7f 1y",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Vitalline",
+          "jockey": "Ray Dawson",
+          "cd": 2,
+          "days": 19,
+          "odds": "20/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 6.78,
+          "ret": -6.78,
+          "bank": 670.87
+        }
+      ]
+    },
+    {
+      "time": "15:45",
+      "meeting": "Lingfield",
+      "name": "Follow attheraces On Instagram Handicap",
+      "class": "5",
+      "distance": "7f 1y",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "King Of Chaos",
+          "jockey": "Mason Paetel",
+          "cd": 1,
+          "days": 12,
+          "odds": "25/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 6.71,
+          "ret": -6.71,
+          "bank": 664.16
+        }
+      ]
+    },
+    {
+      "time": "16:20",
+      "meeting": "Lingfield",
+      "name": "Download The At The Races App Handicap (GBBPlus Race)",
+      "class": "4",
+      "distance": "1m 4f",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Rogue Impact",
+          "jockey": "Cieren Fallon",
+          "cd": 1,
+          "days": 21,
+          "odds": "28/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 6.64,
+          "ret": -6.64,
+          "bank": 657.52
+        },
+        {
+          "rank": 2,
+          "horse": "Youthful King",
+          "jockey": "Jack Dace",
+          "cd": 1,
+          "days": 21,
+          "odds": "33/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 6.58,
+          "ret": -6.58,
+          "bank": 650.94
+        }
+      ]
+    },
     {
       "time": "16:30",
       "meeting": "Wolverhampton",
@@ -13,34 +127,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Alazwar",
-          "jockey": "Miss Brodie Hampson",
-          "cd": 2,
-          "days": 7,
-          "odds": "5/1",
-          "mark": null,
-          "pos": 9,
-          "res": "LOSE",
-          "stake": 5.36,
-          "ret": -5.36,
-          "bank": 530.28
-        },
-        {
-          "rank": 2,
-          "horse": "King of The Dance",
-          "jockey": "Miss Jessica Llewellyn",
-          "cd": 1,
-          "days": 7,
-          "odds": "10/1",
-          "mark": null,
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 5.3,
-          "ret": 13.25,
-          "bank": 543.53
-        },
-        {
-          "rank": 3,
           "horse": "Rainwater",
           "jockey": "Mr Eireann Cagney",
           "cd": 1,
@@ -49,9 +135,37 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 5.44,
-          "ret": -5.44,
-          "bank": 538.09
+          "stake": 6.51,
+          "ret": -6.51,
+          "bank": 644.43
+        },
+        {
+          "rank": 2,
+          "horse": "Alazwar",
+          "jockey": "Miss Brodie Hampson",
+          "cd": 2,
+          "days": 7,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 6.44,
+          "ret": -6.44,
+          "bank": 637.99
+        },
+        {
+          "rank": 3,
+          "horse": "Book Of Life",
+          "jockey": "Mr Lucas Murphy",
+          "cd": 1,
+          "days": 14,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 6.38,
+          "ret": 12.76,
+          "bank": 650.75
         }
       ]
     },
@@ -74,26 +188,12 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 5.38,
-          "ret": -5.38,
-          "bank": 532.71
+          "stake": 6.51,
+          "ret": -6.51,
+          "bank": 644.24
         },
         {
           "rank": 2,
-          "horse": "Newfangled",
-          "jockey": "D Tudhope",
-          "cd": 2,
-          "days": 13,
-          "odds": "13/2",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 5.33,
-          "ret": 34.65,
-          "bank": 567.36
-        },
-        {
-          "rank": 3,
           "horse": "Jez Bomb",
           "jockey": "Rowan Scott",
           "cd": 2,
@@ -102,9 +202,23 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 5.67,
-          "ret": 7.8,
-          "bank": 575.16
+          "stake": 6.44,
+          "ret": 8.86,
+          "bank": 653.1
+        },
+        {
+          "rank": 3,
+          "horse": "Newfangled",
+          "jockey": "D Tudhope",
+          "cd": 2,
+          "days": 13,
+          "odds": "13/2",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 6.53,
+          "ret": 42.45,
+          "bank": 695.55
         }
       ]
     },
@@ -127,9 +241,9 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 5.75,
-          "ret": -5.75,
-          "bank": 569.41
+          "stake": 6.96,
+          "ret": -6.96,
+          "bank": 688.59
         }
       ]
     },
@@ -152,9 +266,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 5.69,
-          "ret": 8.54,
-          "bank": 577.95
+          "stake": 6.89,
+          "ret": 10.33,
+          "bank": 698.92
         }
       ]
     },
@@ -177,9 +291,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 5.78,
-          "ret": 31.79,
-          "bank": 609.74
+          "stake": 6.99,
+          "ret": 38.45,
+          "bank": 737.37
         },
         {
           "rank": 2,
@@ -191,16 +305,16 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 6.1,
-          "ret": -6.1,
-          "bank": 603.64
+          "stake": 7.37,
+          "ret": -7.37,
+          "bank": 730.0
         }
       ]
     }
   ],
   "bank": {
-    "start": 535.64,
-    "stake": 5.36,
-    "end": 603.64
+    "start": 684.49,
+    "stake": 6.84,
+    "end": 730.0
   }
 }

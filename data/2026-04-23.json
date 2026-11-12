@@ -1,6 +1,6 @@
 {
   "date": "2026-04-23",
-  "updated": "2026-11-11T08:41:55+0000",
+  "updated": "2026-11-12T04:53:03+0000",
   "races": [
     {
       "time": "17:45",
@@ -13,20 +13,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Comfort Line",
-          "jockey": "Cillian Rowan",
-          "cd": 4,
-          "days": 11,
-          "odds": "4/1",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 5.06,
-          "ret": 20.24,
-          "bank": 526.28
-        },
-        {
-          "rank": 2,
           "horse": "Rampage",
           "jockey": "James Ryan",
           "cd": 2,
@@ -35,23 +21,37 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 5.26,
-          "ret": -5.26,
-          "bank": 521.02
+          "stake": 6.42,
+          "ret": -6.42,
+          "bank": 636.05
+        },
+        {
+          "rank": 2,
+          "horse": "Comfort Line",
+          "jockey": "Cillian Rowan",
+          "cd": 4,
+          "days": 11,
+          "odds": "4/1",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 6.36,
+          "ret": 25.44,
+          "bank": 661.49
         },
         {
           "rank": 3,
-          "horse": "Famous Enough",
-          "jockey": "Luke McAteer",
+          "horse": "Master Garvey",
+          "jockey": "Declan McDonogh",
           "cd": 1,
           "days": 14,
-          "odds": "9/1",
+          "odds": "4/1",
           "mark": null,
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 5.21,
-          "ret": 11.72,
-          "bank": 532.74
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 6.61,
+          "ret": -6.61,
+          "bank": 654.88
         }
       ]
     },
@@ -74,9 +74,9 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 5.33,
-          "ret": -5.33,
-          "bank": 527.41
+          "stake": 6.55,
+          "ret": -6.55,
+          "bank": 648.33
         }
       ]
     },
@@ -99,9 +99,23 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 5.27,
-          "ret": 15.81,
-          "bank": 543.22
+          "stake": 6.48,
+          "ret": 19.44,
+          "bank": 667.77
+        },
+        {
+          "rank": 2,
+          "horse": "Fools Rush In",
+          "jockey": "J P Sullivan",
+          "cd": 2,
+          "days": 27,
+          "odds": "20/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 6.68,
+          "ret": 33.4,
+          "bank": 701.17
         }
       ]
     },
@@ -124,16 +138,30 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 5.43,
-          "ret": 8.82,
-          "bank": 552.04
+          "stake": 7.01,
+          "ret": 11.39,
+          "bank": 712.56
+        },
+        {
+          "rank": 2,
+          "horse": "Barretstown",
+          "jockey": "J Cleary",
+          "cd": 3,
+          "days": 27,
+          "odds": "18/1",
+          "mark": null,
+          "pos": 11,
+          "res": "LOSE",
+          "stake": 7.13,
+          "ret": -7.13,
+          "bank": 705.43
         }
       ]
     }
   ],
   "bank": {
-    "start": 506.04,
-    "stake": 5.06,
-    "end": 552.04
+    "start": 642.47,
+    "stake": 6.42,
+    "end": 705.43
   }
 }

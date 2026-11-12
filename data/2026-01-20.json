@@ -1,6 +1,6 @@
 {
   "date": "2026-01-20",
-  "updated": "2026-11-11T08:41:49+0000",
+  "updated": "2026-11-12T04:52:55+0000",
   "races": [
     {
       "time": "14:13",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.26,
-          "ret": 0.2,
-          "bank": 26.31
+          "stake": 0.35,
+          "ret": 0.26,
+          "bank": 35.44
         },
         {
           "rank": 2,
@@ -35,9 +35,9 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.26,
-          "ret": -0.26,
-          "bank": 26.05
+          "stake": 0.35,
+          "ret": -0.35,
+          "bank": 35.09
         }
       ]
     },
@@ -52,20 +52,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Northern Spirit",
-          "jockey": "Ben Robinson",
-          "cd": 2,
-          "days": 3,
-          "odds": "9/1",
-          "mark": null,
-          "pos": 0,
-          "res": null,
-          "stake": 0.26,
-          "ret": null,
-          "bank": 26.05
-        },
-        {
-          "rank": 2,
           "horse": "Coachello",
           "jockey": "George Wood",
           "cd": 1,
@@ -74,9 +60,23 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.26,
-          "ret": -0.26,
-          "bank": 25.79
+          "stake": 0.35,
+          "ret": -0.35,
+          "bank": 34.74
+        },
+        {
+          "rank": 2,
+          "horse": "Northern Spirit",
+          "jockey": "Ben Robinson",
+          "cd": 2,
+          "days": 3,
+          "odds": "9/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 0.35,
+          "ret": null,
+          "bank": 34.74
         }
       ]
     },
@@ -91,20 +91,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Fircombe Hall",
-          "jockey": "Rhys Elliott",
-          "cd": 6,
-          "days": 10,
-          "odds": "9/1",
-          "mark": null,
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 0.26,
-          "ret": 0.58,
-          "bank": 26.37
-        },
-        {
-          "rank": 2,
           "horse": "Ana Emaraaty",
           "jockey": "P Mulrennan",
           "cd": 1,
@@ -113,9 +99,62 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.26,
-          "ret": -0.26,
-          "bank": 26.11
+          "stake": 0.35,
+          "ret": -0.35,
+          "bank": 34.39
+        },
+        {
+          "rank": 2,
+          "horse": "Fircombe Hall",
+          "jockey": "Rhys Elliott",
+          "cd": 6,
+          "days": 10,
+          "odds": "9/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.34,
+          "ret": 0.77,
+          "bank": 35.16
+        }
+      ]
+    },
+    {
+      "time": "15:43",
+      "meeting": "Newcastle",
+      "name": "Midnite, Building The Future Of Betting Handicap (Div 2)",
+      "class": "6",
+      "distance": "6f",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "The Gay Blade",
+          "jockey": "Cara Tuke",
+          "cd": 1,
+          "days": 11,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.35,
+          "ret": -0.35,
+          "bank": 34.81
+        },
+        {
+          "rank": 2,
+          "horse": "Bernie The Bear",
+          "jockey": "Kaiya Fraser",
+          "cd": 1,
+          "days": 19,
+          "odds": "28/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.35,
+          "ret": -0.35,
+          "bank": 34.46
         }
       ]
     },
@@ -138,9 +177,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.26,
-          "ret": 1.3,
-          "bank": 27.41
+          "stake": 0.34,
+          "ret": 1.7,
+          "bank": 36.16
         },
         {
           "rank": 2,
@@ -152,9 +191,9 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.27,
-          "ret": -0.27,
-          "bank": 27.14
+          "stake": 0.36,
+          "ret": -0.36,
+          "bank": 35.8
         },
         {
           "rank": 3,
@@ -166,9 +205,9 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.27,
-          "ret": -0.27,
-          "bank": 26.87
+          "stake": 0.36,
+          "ret": -0.36,
+          "bank": 35.44
         }
       ]
     },
@@ -191,9 +230,9 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.27,
-          "ret": -0.27,
-          "bank": 26.6
+          "stake": 0.35,
+          "ret": -0.35,
+          "bank": 35.09
         }
       ]
     },
@@ -216,9 +255,37 @@
           "mark": -3,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.27,
-          "ret": -0.27,
-          "bank": 26.33
+          "stake": 0.35,
+          "ret": -0.35,
+          "bank": 34.74
+        },
+        {
+          "rank": 2,
+          "horse": "Amazonian Dream",
+          "jockey": "Lewis Edmunds",
+          "cd": 1,
+          "days": 19,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.35,
+          "ret": 0.96,
+          "bank": 35.7
+        },
+        {
+          "rank": 3,
+          "horse": "Hierarchy",
+          "jockey": "Callum Shepherd",
+          "cd": 2,
+          "days": 13,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 0.36,
+          "ret": -0.36,
+          "bank": 35.34
         }
       ]
     },
@@ -241,9 +308,9 @@
           "mark": null,
           "pos": 11,
           "res": "LOSE",
-          "stake": 0.26,
-          "ret": -0.26,
-          "bank": 26.07
+          "stake": 0.35,
+          "ret": -0.35,
+          "bank": 34.99
         }
       ]
     },
@@ -266,9 +333,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.26,
-          "ret": 1.95,
-          "bank": 28.02
+          "stake": 0.35,
+          "ret": 2.62,
+          "bank": 37.61
         }
       ]
     },
@@ -291,9 +358,9 @@
           "mark": null,
           "pos": 3,
           "res": "LOSE",
-          "stake": 0.28,
-          "ret": -0.28,
-          "bank": 27.74
+          "stake": 0.38,
+          "ret": -0.38,
+          "bank": 37.23
         }
       ]
     },
@@ -308,20 +375,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Juno Star",
-          "jockey": "Jason Watson",
-          "cd": 1,
-          "days": 16,
-          "odds": "17/2",
-          "mark": null,
-          "pos": 5,
-          "res": "LOSE",
-          "stake": 0.28,
-          "ret": -0.28,
-          "bank": 27.46
-        },
-        {
-          "rank": 2,
           "horse": "Street Life",
           "jockey": "Ethan Tindall",
           "cd": 4,
@@ -330,16 +383,30 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.27,
-          "ret": 1.49,
-          "bank": 28.95
+          "stake": 0.37,
+          "ret": 2.04,
+          "bank": 39.27
+        },
+        {
+          "rank": 2,
+          "horse": "Juno Star",
+          "jockey": "Jason Watson",
+          "cd": 1,
+          "days": 16,
+          "odds": "17/2",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.39,
+          "ret": -0.39,
+          "bank": 38.88
         }
       ]
     }
   ],
   "bank": {
-    "start": 26.11,
-    "stake": 0.26,
-    "end": 28.95
+    "start": 35.18,
+    "stake": 0.35,
+    "end": 38.88
   }
 }

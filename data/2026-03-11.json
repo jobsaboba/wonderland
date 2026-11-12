@@ -1,6 +1,6 @@
 {
   "date": "2026-03-11",
-  "updated": "2026-11-11T08:41:52+0000",
+  "updated": "2026-11-12T04:52:59+0000",
   "races": [
     {
       "time": "17:00",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 1.87,
-          "ret": 13.09,
-          "bank": 200.27
+          "stake": 2.76,
+          "ret": 19.32,
+          "bank": 295.41
         }
       ]
     },
@@ -46,9 +46,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 2.0,
-          "ret": 2.5,
-          "bank": 202.77
+          "stake": 2.95,
+          "ret": 3.69,
+          "bank": 299.1
         },
         {
           "rank": 2,
@@ -60,9 +60,23 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 2.03,
-          "ret": -2.03,
-          "bank": 200.74
+          "stake": 2.99,
+          "ret": -2.99,
+          "bank": 296.11
+        },
+        {
+          "rank": 3,
+          "horse": "Aim For The Bull",
+          "jockey": "Alfie Redman",
+          "cd": 1,
+          "days": 15,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 2.96,
+          "ret": -2.96,
+          "bank": 293.15
         }
       ]
     },
@@ -85,9 +99,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 2.01,
-          "ret": 2.51,
-          "bank": 203.25
+          "stake": 2.93,
+          "ret": 3.66,
+          "bank": 296.81
         }
       ]
     },
@@ -110,9 +124,9 @@
           "mark": -2,
           "pos": 3,
           "res": "PLACE",
-          "stake": 2.03,
-          "ret": 3.55,
-          "bank": 206.8
+          "stake": 2.97,
+          "ret": 5.2,
+          "bank": 302.01
         },
         {
           "rank": 2,
@@ -124,9 +138,23 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 2.07,
-          "ret": -2.07,
-          "bank": 204.73
+          "stake": 3.02,
+          "ret": -3.02,
+          "bank": 298.99
+        },
+        {
+          "rank": 3,
+          "horse": "Beneficiary",
+          "jockey": "Billy Loughnane",
+          "cd": 1,
+          "days": 20,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 2.99,
+          "ret": 8.97,
+          "bank": 307.96
         }
       ]
     },
@@ -149,9 +177,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 2.05,
-          "ret": 2.31,
-          "bank": 207.04
+          "stake": 3.08,
+          "ret": 3.46,
+          "bank": 311.42
         }
       ]
     },
@@ -174,9 +202,9 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 2.07,
-          "ret": -2.07,
-          "bank": 204.97
+          "stake": 3.11,
+          "ret": -3.11,
+          "bank": 308.31
         }
       ]
     },
@@ -191,20 +219,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "The Gay Blade",
-          "jockey": "Mohammed Tabti",
-          "cd": 3,
-          "days": 20,
-          "odds": "13/2",
-          "mark": null,
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 2.05,
-          "ret": -2.05,
-          "bank": 202.92
-        },
-        {
-          "rank": 2,
           "horse": "Tickets",
           "jockey": "A Mullen",
           "cd": 2,
@@ -213,9 +227,23 @@
           "mark": null,
           "pos": 3,
           "res": "LOSE",
-          "stake": 2.03,
-          "ret": -2.03,
-          "bank": 200.89
+          "stake": 3.08,
+          "ret": -3.08,
+          "bank": 305.23
+        },
+        {
+          "rank": 2,
+          "horse": "The Gay Blade",
+          "jockey": "Mohammed Tabti",
+          "cd": 3,
+          "days": 20,
+          "odds": "13/2",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 3.05,
+          "ret": -3.05,
+          "bank": 302.18
         }
       ]
     },
@@ -230,20 +258,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Bajan Bandit",
-          "jockey": "Billy Loughnane",
-          "cd": 1,
-          "days": 11,
-          "odds": "17/2",
-          "mark": null,
-          "pos": 6,
-          "res": "LOSE",
-          "stake": 2.01,
-          "ret": -2.01,
-          "bank": 198.88
-        },
-        {
-          "rank": 2,
           "horse": "Shaw Park",
           "jockey": "Hollie Doyle",
           "cd": 1,
@@ -252,16 +266,44 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 1.99,
-          "ret": -1.99,
-          "bank": 196.89
+          "stake": 3.02,
+          "ret": -3.02,
+          "bank": 299.16
+        },
+        {
+          "rank": 2,
+          "horse": "Bajan Bandit",
+          "jockey": "Billy Loughnane",
+          "cd": 1,
+          "days": 11,
+          "odds": "17/2",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 2.99,
+          "ret": -2.99,
+          "bank": 296.17
+        },
+        {
+          "rank": 3,
+          "horse": "How Impressive",
+          "jockey": "Jack Callan",
+          "cd": 2,
+          "days": 9,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 2.96,
+          "ret": -2.96,
+          "bank": 293.21
         }
       ]
     }
   ],
   "bank": {
-    "start": 187.18,
-    "stake": 1.87,
-    "end": 196.89
+    "start": 276.09,
+    "stake": 2.76,
+    "end": 293.21
   }
 }

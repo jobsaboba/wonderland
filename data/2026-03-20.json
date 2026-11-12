@@ -1,6 +1,6 @@
 {
   "date": "2026-03-20",
-  "updated": "2026-11-11T08:41:53+0000",
+  "updated": "2026-11-12T04:53:00+0000",
   "races": [
     {
       "time": "14:12",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 2.52,
-          "ret": -2.52,
-          "bank": 249.69
+          "stake": 3.34,
+          "ret": -3.34,
+          "bank": 330.56
         }
       ]
     },
@@ -38,20 +38,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "This Farh",
-          "jockey": "Laura Pearson",
-          "cd": 1,
-          "days": 22,
-          "odds": "13/2",
-          "mark": null,
-          "pos": 6,
-          "res": "LOSE",
-          "stake": 2.5,
-          "ret": -2.5,
-          "bank": 247.19
-        },
-        {
-          "rank": 2,
           "horse": "My Mate Mike",
           "jockey": "David Probert",
           "cd": 2,
@@ -60,9 +46,62 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 2.47,
-          "ret": -2.47,
-          "bank": 244.72
+          "stake": 3.31,
+          "ret": -3.31,
+          "bank": 327.25
+        },
+        {
+          "rank": 2,
+          "horse": "This Farh",
+          "jockey": "Laura Pearson",
+          "cd": 1,
+          "days": 22,
+          "odds": "13/2",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 3.27,
+          "ret": -3.27,
+          "bank": 323.98
+        },
+        {
+          "rank": 3,
+          "horse": "Royal Jet",
+          "jockey": "William Carson",
+          "cd": 1,
+          "days": 13,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 3.24,
+          "ret": 38.88,
+          "bank": 362.86
+        }
+      ]
+    },
+    {
+      "time": "16:17",
+      "meeting": "Lingfield",
+      "name": "Bet 10 Get 40 With BetMGM Fillies' Handicap",
+      "class": "5",
+      "distance": "1m 1y",
+      "riders": 7,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Dandy Khan",
+          "jockey": "P Cosgrave",
+          "cd": 1,
+          "days": 15,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 3,
+          "res": "LOSE",
+          "stake": 3.63,
+          "ret": -3.63,
+          "bank": 359.23
         }
       ]
     },
@@ -85,9 +124,23 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 2.45,
-          "ret": -2.45,
-          "bank": 242.27
+          "stake": 3.59,
+          "ret": -3.59,
+          "bank": 355.64
+        },
+        {
+          "rank": 2,
+          "horse": "Buraback",
+          "jockey": "Faye McManoman",
+          "cd": 2,
+          "days": 13,
+          "odds": "25/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 3.56,
+          "ret": -3.56,
+          "bank": 352.08
         }
       ]
     },
@@ -110,9 +163,23 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 2.42,
-          "ret": 3.33,
-          "bank": 245.6
+          "stake": 3.52,
+          "ret": 4.84,
+          "bank": 356.92
+        },
+        {
+          "rank": 2,
+          "horse": "Hasiyna",
+          "jockey": "Jessica Maye",
+          "cd": 1,
+          "days": 14,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 3.57,
+          "ret": -3.57,
+          "bank": 353.35
         }
       ]
     },
@@ -135,9 +202,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 2.46,
-          "ret": 2.05,
-          "bank": 247.65
+          "stake": 3.53,
+          "ret": 2.94,
+          "bank": 356.29
         }
       ]
     },
@@ -152,20 +219,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Gustav Graves",
-          "jockey": "Joanna Mason",
-          "cd": 7,
-          "days": 9,
-          "odds": "9/1",
-          "mark": null,
-          "pos": 6,
-          "res": "LOSE",
-          "stake": 2.48,
-          "ret": -2.48,
-          "bank": 245.17
-        },
-        {
-          "rank": 2,
           "horse": "Sam's Xpress",
           "jockey": "Dylan Hogan",
           "cd": 2,
@@ -174,12 +227,12 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 2.45,
-          "ret": -2.45,
-          "bank": 242.72
+          "stake": 3.56,
+          "ret": -3.56,
+          "bank": 352.73
         },
         {
-          "rank": 3,
+          "rank": 2,
           "horse": "Beaumadier",
           "jockey": "Hollie Doyle",
           "cd": 2,
@@ -188,9 +241,23 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 2.43,
-          "ret": -2.43,
-          "bank": 240.29
+          "stake": 3.53,
+          "ret": -3.53,
+          "bank": 349.2
+        },
+        {
+          "rank": 3,
+          "horse": "Gustav Graves",
+          "jockey": "Joanna Mason",
+          "cd": 7,
+          "days": 9,
+          "odds": "9/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 3.49,
+          "ret": -3.49,
+          "bank": 345.71
         }
       ]
     },
@@ -205,34 +272,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Clonmacash",
-          "jockey": "Adam Caffrey",
-          "cd": 1,
-          "days": 7,
-          "odds": "9/1",
-          "mark": null,
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 2.4,
-          "ret": -2.4,
-          "bank": 237.89
-        },
-        {
-          "rank": 2,
-          "horse": "Inishmot Prince",
-          "jockey": "Wesley Joyce",
-          "cd": 4,
-          "days": 14,
-          "odds": "10/1",
-          "mark": null,
-          "pos": 8,
-          "res": "LOSE",
-          "stake": 2.38,
-          "ret": -2.38,
-          "bank": 235.51
-        },
-        {
-          "rank": 3,
           "horse": "Collective Power",
           "jockey": "Billy Lee",
           "cd": 4,
@@ -241,9 +280,37 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 2.36,
-          "ret": -2.36,
-          "bank": 233.15
+          "stake": 3.46,
+          "ret": -3.46,
+          "bank": 342.25
+        },
+        {
+          "rank": 2,
+          "horse": "Clonmacash",
+          "jockey": "Adam Caffrey",
+          "cd": 1,
+          "days": 7,
+          "odds": "9/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 3.42,
+          "ret": -3.42,
+          "bank": 338.83
+        },
+        {
+          "rank": 3,
+          "horse": "Inishmot Prince",
+          "jockey": "Wesley Joyce",
+          "cd": 4,
+          "days": 14,
+          "odds": "10/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 3.39,
+          "ret": -3.39,
+          "bank": 335.44
         }
       ]
     },
@@ -266,9 +333,9 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 2.33,
-          "ret": -2.33,
-          "bank": 230.82
+          "stake": 3.35,
+          "ret": -3.35,
+          "bank": 332.09
         },
         {
           "rank": 2,
@@ -280,9 +347,34 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 2.31,
-          "ret": -2.31,
-          "bank": 228.51
+          "stake": 3.32,
+          "ret": -3.32,
+          "bank": 328.77
+        }
+      ]
+    },
+    {
+      "time": "17:30",
+      "meeting": "Wolverhampton",
+      "name": "SBK: Betting Without The Bull Handicap",
+      "class": "5",
+      "distance": "1m 4f 51y",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Meet Me In Meraki",
+          "jockey": "Taylor Fisher",
+          "cd": 1,
+          "days": 16,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 3.29,
+          "ret": -3.29,
+          "bank": 325.48
         }
       ]
     },
@@ -297,20 +389,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Eagles Whistle",
-          "jockey": "Finley Marsh",
-          "cd": 1,
-          "days": 16,
-          "odds": "13/2",
-          "mark": null,
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 2.29,
-          "ret": 3.72,
-          "bank": 232.23
-        },
-        {
-          "rank": 2,
           "horse": "Youarenotforgiven",
           "jockey": "Billy Loughnane",
           "cd": 2,
@@ -319,9 +397,37 @@
           "mark": -8,
           "pos": 1,
           "res": "WIN",
-          "stake": 2.32,
-          "ret": 10.44,
-          "bank": 242.67
+          "stake": 3.25,
+          "ret": 14.62,
+          "bank": 340.1
+        },
+        {
+          "rank": 2,
+          "horse": "Eagles Whistle",
+          "jockey": "Finley Marsh",
+          "cd": 1,
+          "days": 16,
+          "odds": "13/2",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 3.4,
+          "ret": 5.52,
+          "bank": 345.62
+        },
+        {
+          "rank": 3,
+          "horse": "Sceptic",
+          "jockey": "Edward Greatrex",
+          "cd": 1,
+          "days": 20,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 3.46,
+          "ret": -3.46,
+          "bank": 342.16
         }
       ]
     },
@@ -336,20 +442,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Amemri",
-          "jockey": "Luke McAteer",
-          "cd": 5,
-          "days": 14,
-          "odds": "10/1",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 2.43,
-          "ret": 24.3,
-          "bank": 266.97
-        },
-        {
-          "rank": 2,
           "horse": "Distillate",
           "jockey": "Adam Caffrey",
           "cd": 1,
@@ -358,9 +450,23 @@
           "mark": null,
           "pos": 14,
           "res": "LOSE",
-          "stake": 2.67,
-          "ret": -2.67,
-          "bank": 264.3
+          "stake": 3.42,
+          "ret": -3.42,
+          "bank": 338.74
+        },
+        {
+          "rank": 2,
+          "horse": "Amemri",
+          "jockey": "Luke McAteer",
+          "cd": 5,
+          "days": 14,
+          "odds": "10/1",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 3.39,
+          "ret": 33.9,
+          "bank": 372.64
         }
       ]
     },
@@ -383,9 +489,9 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 2.64,
-          "ret": -2.64,
-          "bank": 261.66
+          "stake": 3.73,
+          "ret": -3.73,
+          "bank": 368.91
         }
       ]
     },
@@ -408,9 +514,37 @@
           "mark": null,
           "pos": 11,
           "res": "LOSE",
-          "stake": 2.62,
-          "ret": -2.62,
-          "bank": 259.04
+          "stake": 3.69,
+          "ret": -3.69,
+          "bank": 365.22
+        },
+        {
+          "rank": 2,
+          "horse": "Zryan",
+          "jockey": "Jason Watson",
+          "cd": 1,
+          "days": 28,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 3.65,
+          "ret": -3.65,
+          "bank": 361.57
+        },
+        {
+          "rank": 3,
+          "horse": "Unassuming",
+          "jockey": "Billy Loughnane",
+          "cd": 1,
+          "days": 28,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 3.62,
+          "ret": -3.62,
+          "bank": 357.95
         }
       ]
     },
@@ -433,9 +567,76 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 2.59,
-          "ret": -2.59,
-          "bank": 256.45
+          "stake": 3.58,
+          "ret": -3.58,
+          "bank": 354.37
+        },
+        {
+          "rank": 2,
+          "horse": "Howyoulikethat",
+          "jockey": "Chris Hayes",
+          "cd": 3,
+          "days": 14,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 3.54,
+          "ret": -3.54,
+          "bank": 350.83
+        },
+        {
+          "rank": 3,
+          "horse": "Una Matata",
+          "jockey": "Adam Caffrey",
+          "cd": 1,
+          "days": 14,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 3.51,
+          "ret": -3.51,
+          "bank": 347.32
+        }
+      ]
+    },
+    {
+      "time": "19:30",
+      "meeting": "Wolverhampton",
+      "name": "Bet Responsibly With SBK Handicap",
+      "class": "4",
+      "distance": "1m 1f 104y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Jez Bomb",
+          "jockey": "O J Orr",
+          "cd": 2,
+          "days": 14,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 3.47,
+          "ret": -3.47,
+          "bank": 343.85
+        },
+        {
+          "rank": 2,
+          "horse": "Bint Al Daar",
+          "jockey": "Joanna Mason",
+          "cd": 1,
+          "days": 16,
+          "odds": "20/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 3.44,
+          "ret": -3.44,
+          "bank": 340.41
         }
       ]
     },
@@ -458,26 +659,12 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 2.56,
-          "ret": 1.92,
-          "bank": 258.37
+          "stake": 3.4,
+          "ret": 2.55,
+          "bank": 342.96
         },
         {
           "rank": 2,
-          "horse": "Daonethatgotaway",
-          "jockey": "Reese Holohan",
-          "cd": 1,
-          "days": 7,
-          "odds": "13/2",
-          "mark": null,
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 2.58,
-          "ret": 4.19,
-          "bank": 262.56
-        },
-        {
-          "rank": 3,
           "horse": "Voice Of Reason",
           "jockey": "Seamie Heffernan",
           "cd": 3,
@@ -486,16 +673,105 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 2.63,
-          "ret": -2.63,
-          "bank": 259.93
+          "stake": 3.43,
+          "ret": -3.43,
+          "bank": 339.53
+        },
+        {
+          "rank": 3,
+          "horse": "Unterberg",
+          "jockey": "Rory Mulligan",
+          "cd": 3,
+          "days": 28,
+          "odds": "4/1",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 3.4,
+          "ret": 13.6,
+          "bank": 353.13
+        }
+      ]
+    },
+    {
+      "time": "20:00",
+      "meeting": "Wolverhampton",
+      "name": "SBK Betting Podcast Handicap",
+      "class": "4",
+      "distance": "7f 36y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Intervention",
+          "jockey": "Harry Davies",
+          "cd": 3,
+          "days": 16,
+          "odds": "33/1",
+          "mark": null,
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 3.53,
+          "ret": -3.53,
+          "bank": 349.6
+        }
+      ]
+    },
+    {
+      "time": "20:15",
+      "meeting": "Dundalk",
+      "name": "Dundalk Stadium Winter Series Awards Day Handicap",
+      "class": "",
+      "distance": "1m 2f 150y",
+      "riders": 13,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Doctor Grace",
+          "jockey": "Shane Foley",
+          "cd": 1,
+          "days": 7,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 3.5,
+          "ret": -3.5,
+          "bank": 346.1
+        }
+      ]
+    },
+    {
+      "time": "20:30",
+      "meeting": "Wolverhampton",
+      "name": "SBK: No Casino Just Sports Handicap",
+      "class": "4",
+      "distance": "6f 20y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Aberama Gold",
+          "jockey": "Mark Winn",
+          "cd": 1,
+          "days": 28,
+          "odds": "22/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 3.46,
+          "ret": -3.46,
+          "bank": 342.64
         }
       ]
     }
   ],
   "bank": {
-    "start": 252.21,
-    "stake": 2.52,
-    "end": 259.93
+    "start": 333.9,
+    "stake": 3.34,
+    "end": 342.64
   }
 }

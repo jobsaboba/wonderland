@@ -1,7 +1,99 @@
 {
   "date": "2026-11-11",
-  "updated": "2026-11-11T13:22:22+0000",
+  "updated": "2026-11-12T04:53:21+0000",
   "races": [
+    {
+      "time": "14:30",
+      "meeting": "Dundalk",
+      "name": "Christmas Party Nights At Dundalk Stadium Handicap",
+      "class": "",
+      "distance": "5f",
+      "riders": 13,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Cuban Grey",
+          "jockey": "Luke McAteer",
+          "cd": 2,
+          "days": 27,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 60.98,
+          "ret": null,
+          "bank": 6097.93
+        },
+        {
+          "rank": 2,
+          "horse": "Sovereign Cry",
+          "jockey": "Declan McDonogh",
+          "cd": 1,
+          "days": 7,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 60.98,
+          "ret": null,
+          "bank": 6097.93
+        },
+        {
+          "rank": 3,
+          "horse": "Harry's Hill",
+          "jockey": "Colin Keane",
+          "cd": 1,
+          "days": 10,
+          "odds": "25/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 60.98,
+          "ret": null,
+          "bank": 6097.93
+        }
+      ]
+    },
+    {
+      "time": "17:02",
+      "meeting": "Dundalk",
+      "name": "Celebrate Your Special Occasion At Dundalk Stadium Handicap",
+      "class": "",
+      "distance": "7f",
+      "riders": 15,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "The Bear Trap",
+          "jockey": "Patrick McGettigan",
+          "cd": 1,
+          "days": 14,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 60.98,
+          "ret": null,
+          "bank": 6097.93
+        },
+        {
+          "rank": 2,
+          "horse": "Free Solo",
+          "jockey": "Gavin Ryan",
+          "cd": 1,
+          "days": 13,
+          "odds": "25/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 60.98,
+          "ret": null,
+          "bank": 6097.93
+        }
+      ]
+    },
     {
       "time": "17:32",
       "meeting": "Dundalk",
@@ -21,16 +113,30 @@
           "mark": null,
           "pos": 0,
           "res": null,
-          "stake": 44.68,
+          "stake": 60.98,
           "ret": null,
-          "bank": 4467.96
+          "bank": 6097.93
+        },
+        {
+          "rank": 2,
+          "horse": "Walhaan",
+          "jockey": "Patrick McGettigan",
+          "cd": 4,
+          "days": 24,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 60.98,
+          "ret": null,
+          "bank": 6097.93
         }
       ]
     }
   ],
   "bank": {
-    "start": 4467.96,
-    "stake": 44.68,
-    "end": 4467.96
+    "start": 6097.93,
+    "stake": 60.98,
+    "end": 6097.93
   }
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-03-13",
-  "updated": "2026-11-11T08:41:52+0000",
+  "updated": "2026-11-12T04:53:00+0000",
   "races": [
     {
       "time": "16:25",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 2.14,
-          "ret": -2.14,
-          "bank": 211.9
+          "stake": 3.34,
+          "ret": -3.34,
+          "bank": 330.54
         }
       ]
     },
@@ -46,9 +46,9 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 2.12,
-          "ret": -2.12,
-          "bank": 209.78
+          "stake": 3.31,
+          "ret": -3.31,
+          "bank": 327.23
         }
       ]
     },
@@ -71,9 +71,23 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 2.1,
-          "ret": 9.45,
-          "bank": 219.23
+          "stake": 3.27,
+          "ret": 14.71,
+          "bank": 341.94
+        },
+        {
+          "rank": 2,
+          "horse": "Em Jay Kay",
+          "jockey": "Grace McEntee",
+          "cd": 1,
+          "days": 26,
+          "odds": "28/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 3.42,
+          "ret": -3.42,
+          "bank": 338.52
         }
       ]
     },
@@ -96,9 +110,9 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 2.19,
-          "ret": -2.19,
-          "bank": 217.04
+          "stake": 3.39,
+          "ret": -3.39,
+          "bank": 335.13
         }
       ]
     },
@@ -121,9 +135,23 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 2.17,
-          "ret": 4.88,
-          "bank": 221.92
+          "stake": 3.35,
+          "ret": 7.54,
+          "bank": 342.67
+        },
+        {
+          "rank": 2,
+          "horse": "Love Alive",
+          "jockey": "Jack Dace",
+          "cd": 1,
+          "days": 13,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 3.43,
+          "ret": -3.43,
+          "bank": 339.24
         }
       ]
     },
@@ -146,9 +174,23 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 2.22,
-          "ret": 7.4,
-          "bank": 229.32
+          "stake": 3.39,
+          "ret": 11.3,
+          "bank": 350.54
+        },
+        {
+          "rank": 2,
+          "horse": "King Of Ithaca",
+          "jockey": "Callum Shepherd",
+          "cd": 4,
+          "days": 13,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 3.51,
+          "ret": -3.51,
+          "bank": 347.03
         }
       ]
     },
@@ -171,9 +213,9 @@
           "mark": null,
           "pos": 12,
           "res": "LOSE",
-          "stake": 2.29,
-          "ret": -2.29,
-          "bank": 227.03
+          "stake": 3.47,
+          "ret": -3.47,
+          "bank": 343.56
         },
         {
           "rank": 2,
@@ -185,9 +227,23 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 2.27,
-          "ret": -2.27,
-          "bank": 224.76
+          "stake": 3.44,
+          "ret": -3.44,
+          "bank": 340.12
+        },
+        {
+          "rank": 3,
+          "horse": "Doctor Grace",
+          "jockey": "Sam Coen",
+          "cd": 1,
+          "days": 7,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 3.4,
+          "ret": -3.4,
+          "bank": 336.72
         }
       ]
     },
@@ -210,9 +266,126 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 2.25,
-          "ret": -2.25,
-          "bank": 222.51
+          "stake": 3.37,
+          "ret": -3.37,
+          "bank": 333.35
+        },
+        {
+          "rank": 2,
+          "horse": "Bravo Zulu",
+          "jockey": "Daniel Muscutt",
+          "cd": 1,
+          "days": 13,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 3.33,
+          "ret": 9.16,
+          "bank": 342.51
+        },
+        {
+          "rank": 3,
+          "horse": "Hitched",
+          "jockey": "Charles Bishop",
+          "cd": 2,
+          "days": 15,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 3.43,
+          "ret": -3.43,
+          "bank": 339.08
+        }
+      ]
+    },
+    {
+      "time": "18:30",
+      "meeting": "Dundalk",
+      "name": "BAR 1 Betting 'Place 5 Bets Get 1 Free Every Week' Handicap",
+      "class": "",
+      "distance": "1m 4f",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Church Mountain",
+          "jockey": "Alan Casey",
+          "cd": 1,
+          "days": 14,
+          "odds": "28/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 3.39,
+          "ret": -3.39,
+          "bank": 335.69
+        }
+      ]
+    },
+    {
+      "time": "18:50",
+      "meeting": "Southwell",
+      "name": "Win 250,000 With BetMGM's Golden Goals Handicap",
+      "class": "2",
+      "distance": "6f 16y",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Grey Horizon",
+          "jockey": "K T O'Neill",
+          "cd": 2,
+          "days": 14,
+          "odds": "33/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 3.36,
+          "ret": -3.36,
+          "bank": 332.33
+        }
+      ]
+    },
+    {
+      "time": "19:00",
+      "meeting": "Dundalk",
+      "name": "Dundalk Winter Series Leading Trainer & Jockey Championship Handicap",
+      "class": "",
+      "distance": "1m",
+      "riders": 15,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Notforalongtime",
+          "jockey": "Wayne Hassett",
+          "cd": 3,
+          "days": 7,
+          "odds": "20/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 3.32,
+          "ret": -3.32,
+          "bank": 329.01
+        },
+        {
+          "rank": 2,
+          "horse": "Ransom",
+          "jockey": "Patrick McGettigan",
+          "cd": 3,
+          "days": 21,
+          "odds": "33/1",
+          "mark": null,
+          "pos": 14,
+          "res": "LOSE",
+          "stake": 3.29,
+          "ret": -3.29,
+          "bank": 325.72
         }
       ]
     },
@@ -235,9 +408,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 2.23,
-          "ret": 1.95,
-          "bank": 224.46
+          "stake": 3.26,
+          "ret": 2.85,
+          "bank": 328.57
         },
         {
           "rank": 2,
@@ -249,9 +422,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 2.24,
-          "ret": 5.04,
-          "bank": 229.5
+          "stake": 3.29,
+          "ret": 7.4,
+          "bank": 335.97
         }
       ]
     },
@@ -274,9 +447,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 2.29,
-          "ret": 8.02,
-          "bank": 237.52
+          "stake": 3.36,
+          "ret": 11.76,
+          "bank": 347.73
         },
         {
           "rank": 2,
@@ -288,9 +461,9 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 2.38,
-          "ret": -2.38,
-          "bank": 235.14
+          "stake": 3.48,
+          "ret": -3.48,
+          "bank": 344.25
         }
       ]
     },
@@ -313,9 +486,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 2.35,
-          "ret": 2.94,
-          "bank": 238.08
+          "stake": 3.44,
+          "ret": 4.3,
+          "bank": 348.55
         },
         {
           "rank": 2,
@@ -327,9 +500,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 2.38,
-          "ret": 17.85,
-          "bank": 255.93
+          "stake": 3.49,
+          "ret": 26.18,
+          "bank": 374.73
         }
       ]
     },
@@ -352,16 +525,16 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 2.56,
-          "ret": -2.56,
-          "bank": 253.37
+          "stake": 3.75,
+          "ret": -3.75,
+          "bank": 370.98
         }
       ]
     }
   ],
   "bank": {
-    "start": 214.04,
-    "stake": 2.14,
-    "end": 253.37
+    "start": 333.88,
+    "stake": 3.34,
+    "end": 370.98
   }
 }

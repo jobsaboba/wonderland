@@ -1,6 +1,6 @@
 {
   "date": "2026-10-06",
-  "updated": "2026-11-11T08:42:07+0000",
+  "updated": "2026-11-12T04:53:18+0000",
   "races": [
     {
       "time": "17:00",
@@ -21,9 +21,34 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 36.44,
-          "ret": -36.44,
-          "bank": 3607.09
+          "stake": 55.64,
+          "ret": -55.64,
+          "bank": 5508.29
+        }
+      ]
+    },
+    {
+      "time": "18:00",
+      "meeting": "Southwell",
+      "name": "bettingsites.co.uk Bet Smarter Fillies' Handicap",
+      "class": "5",
+      "distance": "6f 16y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Daytona Lady",
+          "jockey": "J P Sullivan",
+          "cd": 2,
+          "days": 15,
+          "odds": "22/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 55.08,
+          "ret": -55.08,
+          "bank": 5453.21
         }
       ]
     },
@@ -46,16 +71,16 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 36.07,
-          "ret": -36.07,
-          "bank": 3571.02
+          "stake": 54.53,
+          "ret": -54.53,
+          "bank": 5398.68
         }
       ]
     }
   ],
   "bank": {
-    "start": 3643.53,
-    "stake": 36.44,
-    "end": 3571.02
+    "start": 5563.93,
+    "stake": 55.64,
+    "end": 5398.68
   }
 }

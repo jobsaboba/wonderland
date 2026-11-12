@@ -1,6 +1,6 @@
 {
   "date": "2026-01-09",
-  "updated": "2026-11-11T08:41:48+0000",
+  "updated": "2026-11-12T04:52:54+0000",
   "races": [
     {
       "time": "15:25",
@@ -21,9 +21,23 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.14,
-          "ret": -0.14,
-          "bank": 14.16
+          "stake": 0.13,
+          "ret": -0.13,
+          "bank": 12.55
+        },
+        {
+          "rank": 2,
+          "horse": "Mehman",
+          "jockey": "Reese Holohan",
+          "cd": 3,
+          "days": 23,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 0.13,
+          "ret": -0.13,
+          "bank": 12.42
         }
       ]
     },
@@ -46,9 +60,9 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.14,
-          "ret": -0.14,
-          "bank": 14.02
+          "stake": 0.12,
+          "ret": -0.12,
+          "bank": 12.3
         },
         {
           "rank": 2,
@@ -60,9 +74,9 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.14,
-          "ret": -0.14,
-          "bank": 13.88
+          "stake": 0.12,
+          "ret": -0.12,
+          "bank": 12.18
         }
       ]
     },
@@ -77,20 +91,34 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Old Peculier",
-          "jockey": "Joseph Harnett",
+          "horse": "Cinammon Coco",
+          "jockey": "Julian Pietropaolo",
           "cd": 1,
-          "days": 21,
-          "odds": "17/2",
+          "days": 27,
+          "odds": "4/1",
           "mark": null,
-          "pos": 11,
-          "res": "LOSE",
-          "stake": 0.14,
-          "ret": -0.14,
-          "bank": 13.74
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.12,
+          "ret": 0.12,
+          "bank": 12.3
         },
         {
           "rank": 2,
+          "horse": "Trishuli River",
+          "jockey": "Patrick McGettigan",
+          "cd": 1,
+          "days": 28,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.12,
+          "ret": -0.12,
+          "bank": 12.18
+        },
+        {
+          "rank": 3,
           "horse": "Voice Of Reason",
           "jockey": "Hugh Horgan",
           "cd": 2,
@@ -99,23 +127,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.14,
-          "ret": 0.77,
-          "bank": 14.51
-        },
-        {
-          "rank": 3,
-          "horse": "Benavente",
-          "jockey": "Reese Holohan",
-          "cd": 2,
-          "days": 23,
-          "odds": "9/1",
-          "mark": null,
-          "pos": 8,
-          "res": "LOSE",
-          "stake": 0.15,
-          "ret": -0.15,
-          "bank": 14.36
+          "stake": 0.12,
+          "ret": 0.66,
+          "bank": 12.84
         }
       ]
     },
@@ -138,9 +152,37 @@
           "mark": null,
           "pos": 0,
           "res": null,
-          "stake": 0.14,
+          "stake": 0.13,
           "ret": null,
-          "bank": 14.36
+          "bank": 12.84
+        },
+        {
+          "rank": 2,
+          "horse": "Some Nightmare",
+          "jockey": "Gina Mangan",
+          "cd": 1,
+          "days": 27,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 0.13,
+          "ret": null,
+          "bank": 12.84
+        },
+        {
+          "rank": 3,
+          "horse": "Brian The Snail",
+          "jockey": "D Nolan",
+          "cd": 1,
+          "days": 18,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 0.13,
+          "ret": null,
+          "bank": 12.84
         }
       ]
     },
@@ -163,9 +205,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.14,
-          "ret": 0.77,
-          "bank": 15.13
+          "stake": 0.13,
+          "ret": 0.72,
+          "bank": 13.56
         },
         {
           "rank": 2,
@@ -177,9 +219,9 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.15,
-          "ret": -0.15,
-          "bank": 14.98
+          "stake": 0.14,
+          "ret": -0.14,
+          "bank": 13.42
         },
         {
           "rank": 3,
@@ -191,9 +233,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.15,
-          "ret": 0.34,
-          "bank": 15.32
+          "stake": 0.13,
+          "ret": 0.29,
+          "bank": 13.71
         }
       ]
     },
@@ -216,9 +258,9 @@
           "mark": null,
           "pos": 0,
           "res": null,
-          "stake": 0.15,
+          "stake": 0.14,
           "ret": null,
-          "bank": 15.32
+          "bank": 13.71
         }
       ]
     },
@@ -241,9 +283,48 @@
           "mark": null,
           "pos": 0,
           "res": null,
-          "stake": 0.15,
+          "stake": 0.14,
           "ret": null,
-          "bank": 15.32
+          "bank": 13.71
+        },
+        {
+          "rank": 2,
+          "horse": "Dyrholaey",
+          "jockey": "L Morris",
+          "cd": 1,
+          "days": 18,
+          "odds": "20/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 0.14,
+          "ret": null,
+          "bank": 13.71
+        }
+      ]
+    },
+    {
+      "time": "18:00",
+      "meeting": "Wolverhampton",
+      "name": "Friday Night Live With SBK Handicap",
+      "class": "5",
+      "distance": "1m 4f 51y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Aiming High",
+          "jockey": "Callum Shepherd",
+          "cd": 1,
+          "days": 18,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 0.14,
+          "ret": null,
+          "bank": 13.71
         }
       ]
     },
@@ -266,9 +347,37 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.15,
-          "ret": -0.15,
-          "bank": 15.17
+          "stake": 0.14,
+          "ret": -0.14,
+          "bank": 13.57
+        },
+        {
+          "rank": 2,
+          "horse": "Hell Left Loose",
+          "jockey": "Nicola Burns",
+          "cd": 1,
+          "days": 28,
+          "odds": "22/1",
+          "mark": null,
+          "pos": 13,
+          "res": "LOSE",
+          "stake": 0.14,
+          "ret": -0.14,
+          "bank": 13.43
+        },
+        {
+          "rank": 3,
+          "horse": "Rock Etoile",
+          "jockey": "Leigh Roche",
+          "cd": 3,
+          "days": 28,
+          "odds": "25/1",
+          "mark": null,
+          "pos": 14,
+          "res": "LOSE",
+          "stake": 0.13,
+          "ret": -0.13,
+          "bank": 13.3
         }
       ]
     },
@@ -283,20 +392,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Follow Your Heart",
-          "jockey": "Warren Fentiman",
-          "cd": 5,
-          "days": 3,
-          "odds": "10/1",
-          "mark": null,
-          "pos": 0,
-          "res": null,
-          "stake": 0.15,
-          "ret": null,
-          "bank": 15.17
-        },
-        {
-          "rank": 2,
           "horse": "Little Empire",
           "jockey": "Callum Shepherd",
           "cd": 1,
@@ -305,9 +400,23 @@
           "mark": null,
           "pos": 0,
           "res": null,
-          "stake": 0.15,
+          "stake": 0.13,
           "ret": null,
-          "bank": 15.17
+          "bank": 13.3
+        },
+        {
+          "rank": 2,
+          "horse": "Follow Your Heart",
+          "jockey": "Warren Fentiman",
+          "cd": 5,
+          "days": 3,
+          "odds": "10/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 0.13,
+          "ret": null,
+          "bank": 13.3
         }
       ]
     },
@@ -330,9 +439,9 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.15,
-          "ret": -0.15,
-          "bank": 15.02
+          "stake": 0.13,
+          "ret": -0.13,
+          "bank": 13.17
         },
         {
           "rank": 2,
@@ -344,9 +453,23 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.15,
-          "ret": 1.05,
-          "bank": 16.07
+          "stake": 0.13,
+          "ret": 0.91,
+          "bank": 14.08
+        },
+        {
+          "rank": 3,
+          "horse": "Neo Smart",
+          "jockey": "Nicola Burns",
+          "cd": 1,
+          "days": 21,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.14,
+          "ret": 0.42,
+          "bank": 14.5
         }
       ]
     },
@@ -361,20 +484,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Revolutionise",
-          "jockey": "Jack Dace",
-          "cd": 2,
-          "days": 7,
-          "odds": "5/1",
-          "mark": null,
-          "pos": 0,
-          "res": null,
-          "stake": 0.16,
-          "ret": null,
-          "bank": 16.07
-        },
-        {
-          "rank": 2,
           "horse": "The Caribbean",
           "jockey": "Cieren Fallon",
           "cd": 1,
@@ -383,9 +492,37 @@
           "mark": null,
           "pos": 0,
           "res": null,
-          "stake": 0.16,
+          "stake": 0.14,
           "ret": null,
-          "bank": 16.07
+          "bank": 14.5
+        },
+        {
+          "rank": 2,
+          "horse": "Revolutionise",
+          "jockey": "Jack Dace",
+          "cd": 2,
+          "days": 7,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 0.14,
+          "ret": null,
+          "bank": 14.5
+        },
+        {
+          "rank": 3,
+          "horse": "Harbour Vision",
+          "jockey": "K T O'Neill",
+          "cd": 3,
+          "days": 13,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 0.14,
+          "ret": null,
+          "bank": 14.5
         }
       ]
     },
@@ -400,20 +537,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Simply Blue",
-          "jockey": "Harry Davies",
-          "cd": 1,
-          "days": 5,
-          "odds": "8/1",
-          "mark": null,
-          "pos": 0,
-          "res": null,
-          "stake": 0.16,
-          "ret": null,
-          "bank": 16.07
-        },
-        {
-          "rank": 2,
           "horse": "Bella Bisbee",
           "jockey": "K T O'Neill",
           "cd": 1,
@@ -422,12 +545,12 @@
           "mark": null,
           "pos": 0,
           "res": null,
-          "stake": 0.16,
+          "stake": 0.14,
           "ret": null,
-          "bank": 16.07
+          "bank": 14.5
         },
         {
-          "rank": 3,
+          "rank": 2,
           "horse": "He's A Gentleman",
           "jockey": "Jason Hart",
           "cd": 3,
@@ -436,9 +559,23 @@
           "mark": null,
           "pos": 0,
           "res": null,
-          "stake": 0.16,
+          "stake": 0.14,
           "ret": null,
-          "bank": 16.07
+          "bank": 14.5
+        },
+        {
+          "rank": 3,
+          "horse": "Simply Blue",
+          "jockey": "Harry Davies",
+          "cd": 1,
+          "days": 5,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 0.14,
+          "ret": null,
+          "bank": 14.5
         }
       ]
     },
@@ -461,9 +598,9 @@
           "mark": null,
           "pos": 0,
           "res": null,
-          "stake": 0.16,
+          "stake": 0.14,
           "ret": null,
-          "bank": 16.07
+          "bank": 14.5
         },
         {
           "rank": 2,
@@ -475,9 +612,23 @@
           "mark": null,
           "pos": 0,
           "res": null,
-          "stake": 0.16,
+          "stake": 0.14,
           "ret": null,
-          "bank": 16.07
+          "bank": 14.5
+        },
+        {
+          "rank": 3,
+          "horse": "San Juanito",
+          "jockey": "R Havlin",
+          "cd": 2,
+          "days": 27,
+          "odds": "25/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 0.14,
+          "ret": null,
+          "bank": 14.5
         }
       ]
     },
@@ -492,34 +643,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Tonal",
-          "jockey": "Ryan Kavanagh",
-          "cd": 2,
-          "days": 7,
-          "odds": "4/1",
-          "mark": null,
-          "pos": 0,
-          "res": null,
-          "stake": 0.16,
-          "ret": null,
-          "bank": 16.07
-        },
-        {
-          "rank": 2,
-          "horse": "Hitched",
-          "jockey": "L Morris",
-          "cd": 1,
-          "days": 9,
-          "odds": "6/1",
-          "mark": null,
-          "pos": 0,
-          "res": null,
-          "stake": 0.16,
-          "ret": null,
-          "bank": 16.07
-        },
-        {
-          "rank": 3,
           "horse": "Advancing",
           "jockey": "Marco Ghiani",
           "cd": 1,
@@ -528,16 +651,44 @@
           "mark": null,
           "pos": 0,
           "res": null,
-          "stake": 0.16,
+          "stake": 0.14,
           "ret": null,
-          "bank": 16.07
+          "bank": 14.5
+        },
+        {
+          "rank": 2,
+          "horse": "Tonal",
+          "jockey": "Ryan Kavanagh",
+          "cd": 2,
+          "days": 7,
+          "odds": "4/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 0.14,
+          "ret": null,
+          "bank": 14.5
+        },
+        {
+          "rank": 3,
+          "horse": "Hitched",
+          "jockey": "L Morris",
+          "cd": 1,
+          "days": 9,
+          "odds": "6/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 0.14,
+          "ret": null,
+          "bank": 14.5
         }
       ]
     }
   ],
   "bank": {
-    "start": 14.3,
-    "stake": 0.14,
-    "end": 16.07
+    "start": 12.68,
+    "stake": 0.13,
+    "end": 14.5
   }
 }

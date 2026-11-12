@@ -1,6 +1,6 @@
 {
   "date": "2026-01-10",
-  "updated": "2026-11-11T08:41:48+0000",
+  "updated": "2026-11-12T04:52:54+0000",
   "races": [
     {
       "time": "11:40",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.16,
-          "ret": -0.16,
-          "bank": 15.91
+          "stake": 0.14,
+          "ret": -0.14,
+          "bank": 14.36
         },
         {
           "rank": 2,
@@ -35,9 +35,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.16,
-          "ret": 0.48,
-          "bank": 16.39
+          "stake": 0.14,
+          "ret": 0.42,
+          "bank": 14.78
         }
       ]
     },
@@ -52,20 +52,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Level Up",
-          "jockey": "Ryan Kavanagh",
-          "cd": 1,
-          "days": 15,
-          "odds": "13/2",
-          "mark": null,
-          "pos": 3,
-          "res": "LOSE",
-          "stake": 0.16,
-          "ret": -0.16,
-          "bank": 16.23
-        },
-        {
-          "rank": 2,
           "horse": "Mick's Spirit",
           "jockey": "Darragh Keenan",
           "cd": 8,
@@ -74,9 +60,23 @@
           "mark": -3,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.16,
-          "ret": -0.16,
-          "bank": 16.07
+          "stake": 0.15,
+          "ret": -0.15,
+          "bank": 14.63
+        },
+        {
+          "rank": 2,
+          "horse": "Level Up",
+          "jockey": "Ryan Kavanagh",
+          "cd": 1,
+          "days": 15,
+          "odds": "13/2",
+          "mark": null,
+          "pos": 3,
+          "res": "LOSE",
+          "stake": 0.15,
+          "ret": -0.15,
+          "bank": 14.48
         }
       ]
     },
@@ -99,9 +99,23 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.16,
-          "ret": -0.16,
-          "bank": 15.91
+          "stake": 0.14,
+          "ret": -0.14,
+          "bank": 14.34
+        },
+        {
+          "rank": 2,
+          "horse": "Raintown",
+          "jockey": "Taylor Fisher",
+          "cd": 3,
+          "days": 7,
+          "odds": "20/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.14,
+          "ret": -0.14,
+          "bank": 14.2
         }
       ]
     },
@@ -124,9 +138,9 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.16,
-          "ret": -0.16,
-          "bank": 15.75
+          "stake": 0.14,
+          "ret": -0.14,
+          "bank": 14.06
         },
         {
           "rank": 2,
@@ -138,9 +152,9 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.16,
-          "ret": -0.16,
-          "bank": 15.59
+          "stake": 0.14,
+          "ret": -0.14,
+          "bank": 13.92
         },
         {
           "rank": 3,
@@ -152,9 +166,48 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.16,
-          "ret": -0.16,
-          "bank": 15.43
+          "stake": 0.14,
+          "ret": -0.14,
+          "bank": 13.78
+        }
+      ]
+    },
+    {
+      "time": "17:50",
+      "meeting": "Newcastle",
+      "name": "Bet 10 Get 40 With BetMGM Handicap",
+      "class": "6",
+      "distance": "7f 14y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Beelzebub",
+          "jockey": "Kaiya Fraser",
+          "cd": 1,
+          "days": 28,
+          "odds": "25/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.14,
+          "ret": -0.14,
+          "bank": 13.64
+        },
+        {
+          "rank": 2,
+          "horse": "Ridgemaster",
+          "jockey": "Amie Waugh",
+          "cd": 1,
+          "days": 22,
+          "odds": "28/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.14,
+          "ret": -0.14,
+          "bank": 13.5
         }
       ]
     },
@@ -169,20 +222,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Fircombe Hall",
-          "jockey": "Rhys Elliott",
-          "cd": 6,
-          "days": 9,
-          "odds": "8/1",
-          "mark": null,
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 0.15,
-          "ret": 0.3,
-          "bank": 15.73
-        },
-        {
-          "rank": 2,
           "horse": "Penny Mountain",
           "jockey": "Kaiya Fraser",
           "cd": 1,
@@ -191,9 +230,23 @@
           "mark": null,
           "pos": 3,
           "res": "LOSE",
-          "stake": 0.16,
-          "ret": -0.16,
-          "bank": 15.57
+          "stake": 0.14,
+          "ret": -0.14,
+          "bank": 13.36
+        },
+        {
+          "rank": 2,
+          "horse": "Fircombe Hall",
+          "jockey": "Rhys Elliott",
+          "cd": 6,
+          "days": 9,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.13,
+          "ret": 0.26,
+          "bank": 13.62
         }
       ]
     },
@@ -208,20 +261,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Athollblair Boy",
-          "jockey": "Faye McManoman",
-          "cd": 9,
-          "days": 9,
-          "odds": "11/2",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.16,
-          "ret": 0.88,
-          "bank": 16.45
-        },
-        {
-          "rank": 2,
           "horse": "Superior Council",
           "jockey": "Cara Tuke",
           "cd": 1,
@@ -230,16 +269,30 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.16,
-          "ret": 0.14,
-          "bank": 16.59
+          "stake": 0.14,
+          "ret": 0.12,
+          "bank": 13.74
+        },
+        {
+          "rank": 2,
+          "horse": "Athollblair Boy",
+          "jockey": "Faye McManoman",
+          "cd": 9,
+          "days": 9,
+          "odds": "11/2",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.14,
+          "ret": 0.77,
+          "bank": 14.51
         }
       ]
     }
   ],
   "bank": {
-    "start": 16.07,
-    "stake": 0.16,
-    "end": 16.59
+    "start": 14.5,
+    "stake": 0.14,
+    "end": 14.51
   }
 }

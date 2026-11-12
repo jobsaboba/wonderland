@@ -1,6 +1,6 @@
 {
   "date": "2026-06-25",
-  "updated": "2026-11-11T08:42:00+0000",
+  "updated": "2026-11-12T04:53:09+0000",
   "races": [
     {
       "time": "13:02",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 9.88,
-          "ret": 44.46,
-          "bank": 1032.32
+          "stake": 14.28,
+          "ret": 64.26,
+          "bank": 1492.42
         },
         {
           "rank": 2,
@@ -35,9 +35,34 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 10.32,
-          "ret": -10.32,
-          "bank": 1022.0
+          "stake": 14.92,
+          "ret": -14.92,
+          "bank": 1477.5
+        }
+      ]
+    },
+    {
+      "time": "14:12",
+      "meeting": "Newcastle",
+      "name": "JenningsBet In Scarborough Handicap (GBBPlus Race)",
+      "class": "2",
+      "distance": "1m 2f 42y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Cloth Of Gold",
+          "jockey": "Jason Hart",
+          "cd": 1,
+          "days": 13,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 14.78,
+          "ret": 40.64,
+          "bank": 1518.14
         }
       ]
     },
@@ -52,20 +77,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "I Can Boogy",
-          "jockey": "Alex Jary",
-          "cd": 1,
-          "days": 9,
-          "odds": "10/1",
-          "mark": null,
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 10.22,
-          "ret": 25.55,
-          "bank": 1047.55
-        },
-        {
-          "rank": 2,
           "horse": "Little Ted",
           "jockey": "D Allan",
           "cd": 1,
@@ -74,12 +85,12 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 10.48,
-          "ret": 13.1,
-          "bank": 1060.65
+          "stake": 15.18,
+          "ret": 18.98,
+          "bank": 1537.12
         },
         {
-          "rank": 3,
+          "rank": 2,
           "horse": "Sassy Glory",
           "jockey": "Rhys Elliott",
           "cd": 1,
@@ -88,16 +99,30 @@
           "mark": -2,
           "pos": 1,
           "res": "WIN",
-          "stake": 10.61,
-          "ret": 58.35,
-          "bank": 1119.0
+          "stake": 15.37,
+          "ret": 84.53,
+          "bank": 1621.65
+        },
+        {
+          "rank": 3,
+          "horse": "I Can Boogy",
+          "jockey": "Alex Jary",
+          "cd": 1,
+          "days": 9,
+          "odds": "10/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 16.22,
+          "ret": 40.55,
+          "bank": 1662.2
         }
       ]
     }
   ],
   "bank": {
-    "start": 987.86,
-    "stake": 9.88,
-    "end": 1119.0
+    "start": 1428.16,
+    "stake": 14.28,
+    "end": 1662.2
   }
 }

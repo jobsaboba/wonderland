@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated": "2026-11-11T08:42:09+0000",
+  "updated": "2026-11-12T04:53:20+0000",
   "races": [
     {
       "time": "16:25",
@@ -21,16 +21,133 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 37.13,
-          "ret": -37.13,
-          "bank": 3675.41
+          "stake": 66.63,
+          "ret": -66.63,
+          "bank": 6596.15
+        },
+        {
+          "rank": 2,
+          "horse": "Have You A Minute",
+          "jockey": "J F Egan",
+          "cd": 1,
+          "days": 21,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 65.96,
+          "ret": -65.96,
+          "bank": 6530.19
+        },
+        {
+          "rank": 3,
+          "horse": "Exotic Baby",
+          "jockey": "P Mulrennan",
+          "cd": 1,
+          "days": 28,
+          "odds": "22/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 65.3,
+          "ret": -65.3,
+          "bank": 6464.89
+        }
+      ]
+    },
+    {
+      "time": "18:00",
+      "meeting": "Southwell",
+      "name": "AWC Season 14 Has Begun Handicap (Div 1)",
+      "class": "6",
+      "distance": "7f 15y",
+      "riders": 13,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Al Suil Eile",
+          "jockey": "R Havlin",
+          "cd": 2,
+          "days": 5,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 64.65,
+          "ret": -64.65,
+          "bank": 6400.24
+        }
+      ]
+    },
+    {
+      "time": "18:30",
+      "meeting": "Southwell",
+      "name": "AWC Season 14 Has Begun Handicap (Div 2)",
+      "class": "6",
+      "distance": "7f 15y",
+      "riders": 13,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Mickey Mongoose",
+          "jockey": "D Fentiman",
+          "cd": 2,
+          "days": 14,
+          "odds": "28/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 64.0,
+          "ret": -64.0,
+          "bank": 6336.24
+        }
+      ]
+    },
+    {
+      "time": "19:00",
+      "meeting": "Southwell",
+      "name": "AW Trials Day - Lingfield 2nd Jan 2027 Handicap",
+      "class": "3",
+      "distance": "7f 15y",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Raging Raj",
+          "jockey": "Dylan Hogan",
+          "cd": 1,
+          "days": 16,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 63.36,
+          "ret": -63.36,
+          "bank": 6272.88
+        },
+        {
+          "rank": 2,
+          "horse": "Dapper Guest",
+          "jockey": "Callum Shepherd",
+          "cd": 1,
+          "days": 16,
+          "odds": "33/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 62.73,
+          "ret": -62.73,
+          "bank": 6210.15
         }
       ]
     }
   ],
   "bank": {
-    "start": 3712.54,
-    "stake": 37.13,
-    "end": 3675.41
+    "start": 6662.78,
+    "stake": 66.63,
+    "end": 6210.15
   }
 }

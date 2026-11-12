@@ -1,7 +1,32 @@
 {
   "date": "2026-09-09",
-  "updated": "2026-11-11T08:42:05+0000",
+  "updated": "2026-11-12T04:53:15+0000",
   "races": [
+    {
+      "time": "16:00",
+      "meeting": "Kempton",
+      "name": "Unibet 3 Uniboosts A Day Handicap",
+      "class": "6",
+      "distance": "1m",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Karakula Dancer",
+          "jockey": "Alice Bond",
+          "cd": 1,
+          "days": 18,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 47.29,
+          "ret": 130.05,
+          "bank": 4859.01
+        }
+      ]
+    },
     {
       "time": "17:00",
       "meeting": "Kempton",
@@ -21,9 +46,9 @@
           "mark": null,
           "pos": 11,
           "res": "LOSE",
-          "stake": 24.51,
-          "ret": -24.51,
-          "bank": 2426.5
+          "stake": 48.59,
+          "ret": -48.59,
+          "bank": 4810.42
         }
       ]
     },
@@ -46,9 +71,9 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 24.27,
-          "ret": -24.27,
-          "bank": 2402.23
+          "stake": 48.1,
+          "ret": -48.1,
+          "bank": 4762.32
         }
       ]
     },
@@ -71,16 +96,16 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 24.02,
-          "ret": -24.02,
-          "bank": 2378.21
+          "stake": 47.62,
+          "ret": -47.62,
+          "bank": 4714.7
         }
       ]
     }
   ],
   "bank": {
-    "start": 2451.01,
-    "stake": 24.51,
-    "end": 2378.21
+    "start": 4728.96,
+    "stake": 47.29,
+    "end": 4714.7
   }
 }

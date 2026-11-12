@@ -1,6 +1,6 @@
 {
   "date": "2026-08-19",
-  "updated": "2026-11-11T08:42:04+0000",
+  "updated": "2026-11-12T04:53:13+0000",
   "races": [
     {
       "time": "19:30",
@@ -21,16 +21,30 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 18.24,
-          "ret": -18.24,
-          "bank": 1805.64
+          "stake": 35.49,
+          "ret": -35.49,
+          "bank": 3513.21
+        },
+        {
+          "rank": 2,
+          "horse": "Port Road",
+          "jockey": "Tyler Heard",
+          "cd": 2,
+          "days": 11,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 35.13,
+          "ret": -35.13,
+          "bank": 3478.08
         }
       ]
     }
   ],
   "bank": {
-    "start": 1823.88,
-    "stake": 18.24,
-    "end": 1805.64
+    "start": 3548.7,
+    "stake": 35.49,
+    "end": 3478.08
   }
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-06-01",
-  "updated": "2026-11-11T08:41:58+0000",
+  "updated": "2026-11-12T04:53:07+0000",
   "races": [
     {
       "time": "17:00",
@@ -21,9 +21,62 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 8.82,
-          "ret": -8.82,
-          "bank": 873.18
+          "stake": 11.08,
+          "ret": -11.08,
+          "bank": 1097.09
+        },
+        {
+          "rank": 2,
+          "horse": "Amaysmont",
+          "jockey": "William Pyle",
+          "cd": 1,
+          "days": 11,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 10.97,
+          "ret": -10.97,
+          "bank": 1086.12
+        },
+        {
+          "rank": 3,
+          "horse": "Fircombe Hall",
+          "jockey": "Mason Paetel",
+          "cd": 1,
+          "days": 6,
+          "odds": "18/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 10.86,
+          "ret": -10.86,
+          "bank": 1075.26
+        }
+      ]
+    },
+    {
+      "time": "18:00",
+      "meeting": "Wolverhampton",
+      "name": "Enjoy Summer Racing At Wolverhampton Racecourse Handicap",
+      "class": "6",
+      "distance": "1m 142y",
+      "riders": 13,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "King Of Speed",
+          "jockey": "Hope Regan",
+          "cd": 4,
+          "days": 26,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 10.75,
+          "ret": 43.0,
+          "bank": 1118.26
         }
       ]
     },
@@ -46,16 +99,30 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 8.73,
-          "ret": 87.3,
-          "bank": 960.48
+          "stake": 11.18,
+          "ret": 111.8,
+          "bank": 1230.06
+        },
+        {
+          "rank": 2,
+          "horse": "Daytona Lady",
+          "jockey": "J P Sullivan",
+          "cd": 3,
+          "days": 11,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 12.3,
+          "ret": 36.9,
+          "bank": 1266.96
         }
       ]
     }
   ],
   "bank": {
-    "start": 882.0,
-    "stake": 8.82,
-    "end": 960.48
+    "start": 1108.17,
+    "stake": 11.08,
+    "end": 1266.96
   }
 }

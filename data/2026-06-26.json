@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "updated": "2026-11-11T08:42:00+0000",
+  "updated": "2026-11-12T04:53:09+0000",
   "races": [
     {
       "time": "16:10",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 11.19,
-          "ret": -11.19,
-          "bank": 1107.81
+          "stake": 16.62,
+          "ret": -16.62,
+          "bank": 1645.58
         }
       ]
     },
@@ -46,9 +46,37 @@
           "mark": null,
           "pos": 11,
           "res": "LOSE",
-          "stake": 11.08,
-          "ret": -11.08,
-          "bank": 1096.73
+          "stake": 16.46,
+          "ret": -16.46,
+          "bank": 1629.12
+        },
+        {
+          "rank": 2,
+          "horse": "Chuzzlewit",
+          "jockey": "Shay Farmer",
+          "cd": 1,
+          "days": 24,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 16.29,
+          "ret": 48.87,
+          "bank": 1677.99
+        },
+        {
+          "rank": 3,
+          "horse": "Bowood",
+          "jockey": "Elle-May Croot",
+          "cd": 2,
+          "days": 21,
+          "odds": "33/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 16.78,
+          "ret": -16.78,
+          "bank": 1661.21
         }
       ]
     },
@@ -71,9 +99,9 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 10.97,
-          "ret": -10.97,
-          "bank": 1085.76
+          "stake": 16.61,
+          "ret": -16.61,
+          "bank": 1644.6
         },
         {
           "rank": 2,
@@ -85,9 +113,23 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 10.86,
-          "ret": -10.86,
-          "bank": 1074.9
+          "stake": 16.45,
+          "ret": -16.45,
+          "bank": 1628.15
+        },
+        {
+          "rank": 3,
+          "horse": "Vantheman",
+          "jockey": "T Eaves",
+          "cd": 2,
+          "days": 26,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 16.28,
+          "ret": -16.28,
+          "bank": 1611.87
         }
       ]
     },
@@ -110,16 +152,30 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 10.75,
-          "ret": 96.75,
-          "bank": 1171.65
+          "stake": 16.12,
+          "ret": 145.08,
+          "bank": 1756.95
+        },
+        {
+          "rank": 2,
+          "horse": "Tanjen",
+          "jockey": "D Allan",
+          "cd": 1,
+          "days": 21,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 17.57,
+          "ret": -17.57,
+          "bank": 1739.38
         }
       ]
     }
   ],
   "bank": {
-    "start": 1119.0,
-    "stake": 11.19,
-    "end": 1171.65
+    "start": 1662.2,
+    "stake": 16.62,
+    "end": 1739.38
   }
 }

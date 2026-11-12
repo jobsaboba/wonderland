@@ -1,6 +1,6 @@
 {
   "date": "2026-08-27",
-  "updated": "2026-11-11T08:42:05+0000",
+  "updated": "2026-11-12T04:53:14+0000",
   "races": [
     {
       "time": "17:00",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 18.92,
-          "ret": -18.92,
-          "bank": 1873.39
+          "stake": 35.37,
+          "ret": -35.37,
+          "bank": 3501.38
         }
       ]
     },
@@ -46,9 +46,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 18.73,
-          "ret": 28.09,
-          "bank": 1901.48
+          "stake": 35.01,
+          "ret": 52.52,
+          "bank": 3553.9
         },
         {
           "rank": 2,
@@ -60,9 +60,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 19.01,
-          "ret": 114.06,
-          "bank": 2015.54
+          "stake": 35.54,
+          "ret": 213.24,
+          "bank": 3767.14
         }
       ]
     },
@@ -77,20 +77,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Chalk Mountain",
-          "jockey": "H Crouch",
-          "cd": 1,
-          "days": 15,
-          "odds": "9/2",
-          "mark": null,
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 20.16,
-          "ret": -20.16,
-          "bank": 1995.38
-        },
-        {
-          "rank": 2,
           "horse": "Haaderr",
           "jockey": "Billy Loughnane",
           "cd": 1,
@@ -99,9 +85,37 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 19.95,
-          "ret": 17.46,
-          "bank": 2012.84
+          "stake": 37.67,
+          "ret": 32.96,
+          "bank": 3800.1
+        },
+        {
+          "rank": 2,
+          "horse": "Chalk Mountain",
+          "jockey": "H Crouch",
+          "cd": 1,
+          "days": 15,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 38.0,
+          "ret": -38.0,
+          "bank": 3762.1
+        },
+        {
+          "rank": 3,
+          "horse": "New Image",
+          "jockey": "David Probert",
+          "cd": 1,
+          "days": 19,
+          "odds": "25/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 37.62,
+          "ret": -37.62,
+          "bank": 3724.48
         }
       ]
     },
@@ -124,16 +138,44 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 20.13,
-          "ret": -20.13,
-          "bank": 1992.71
+          "stake": 37.24,
+          "ret": -37.24,
+          "bank": 3687.24
+        },
+        {
+          "rank": 2,
+          "horse": "Jenever",
+          "jockey": "George Wood",
+          "cd": 1,
+          "days": 16,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 36.87,
+          "ret": 129.04,
+          "bank": 3816.28
+        },
+        {
+          "rank": 3,
+          "horse": "Daytona Lady",
+          "jockey": "J P Sullivan",
+          "cd": 2,
+          "days": 10,
+          "odds": "18/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 38.16,
+          "ret": -38.16,
+          "bank": 3778.12
         }
       ]
     }
   ],
   "bank": {
-    "start": 1892.31,
-    "stake": 18.92,
-    "end": 1992.71
+    "start": 3536.75,
+    "stake": 35.37,
+    "end": 3778.12
   }
 }

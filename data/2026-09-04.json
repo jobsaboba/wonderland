@@ -1,6 +1,6 @@
 {
   "date": "2026-09-04",
-  "updated": "2026-11-11T08:42:05+0000",
+  "updated": "2026-11-12T04:53:15+0000",
   "races": [
     {
       "time": "17:54",
@@ -21,16 +21,80 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 22.62,
-          "ret": -22.62,
-          "bank": 2239.29
+          "stake": 41.07,
+          "ret": -41.07,
+          "bank": 4066.07
+        },
+        {
+          "rank": 2,
+          "horse": "Elan D'or",
+          "jockey": "Marco Ghiani",
+          "cd": 1,
+          "days": 16,
+          "odds": "14/1",
+          "mark": -3,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 40.66,
+          "ret": 569.24,
+          "bank": 4635.31
+        }
+      ]
+    },
+    {
+      "time": "18:24",
+      "meeting": "Kempton",
+      "name": "Try Unibet's New Improved Acca Boosts Handicap",
+      "class": "4",
+      "distance": "7f",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Mythical Composer",
+          "jockey": "Harry Davies",
+          "cd": 1,
+          "days": 20,
+          "odds": "20/1",
+          "mark": null,
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 46.35,
+          "ret": -46.35,
+          "bank": 4588.96
+        }
+      ]
+    },
+    {
+      "time": "19:24",
+      "meeting": "Kempton",
+      "name": "Industry Leading In-Play Markets At Unibet Handicap",
+      "class": "5",
+      "distance": "1m 7f 218y",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Naasma",
+          "jockey": "S M Levey",
+          "cd": 1,
+          "days": 23,
+          "odds": "18/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 45.89,
+          "ret": -45.89,
+          "bank": 4543.07
         }
       ]
     }
   ],
   "bank": {
-    "start": 2261.91,
-    "stake": 22.62,
-    "end": 2239.29
+    "start": 4107.14,
+    "stake": 41.07,
+    "end": 4543.07
   }
 }

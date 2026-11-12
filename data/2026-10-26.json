@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated": "2026-11-11T08:42:09+0000",
+  "updated": "2026-11-12T04:53:19+0000",
   "races": [
     {
       "time": "17:45",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 38.9,
-          "ret": -38.9,
-          "bank": 3851.07
+          "stake": 70.54,
+          "ret": -70.54,
+          "bank": 6983.01
         }
       ]
     },
@@ -46,9 +46,140 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 38.51,
-          "ret": -38.51,
-          "bank": 3812.56
+          "stake": 69.83,
+          "ret": -69.83,
+          "bank": 6913.18
+        },
+        {
+          "rank": 2,
+          "horse": "Bold Suitor",
+          "jockey": "Georgia Dobie",
+          "cd": 2,
+          "days": 12,
+          "odds": "25/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 69.13,
+          "ret": -69.13,
+          "bank": 6844.05
+        }
+      ]
+    },
+    {
+      "time": "19:30",
+      "meeting": "Southwell",
+      "name": "AWC Season 14 Has Begun Fillies' Handicap",
+      "class": "4",
+      "distance": "6f 16y",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Fantasy Obsessor",
+          "jockey": "A Mullen",
+          "cd": 1,
+          "days": 20,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 68.44,
+          "ret": 205.32,
+          "bank": 7049.37
+        },
+        {
+          "rank": 2,
+          "horse": "Powdering",
+          "jockey": "Charlie Tucker",
+          "cd": 1,
+          "days": 7,
+          "odds": "18/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 70.49,
+          "ret": -70.49,
+          "bank": 6978.88
+        }
+      ]
+    },
+    {
+      "time": "19:45",
+      "meeting": "Kempton",
+      "name": "Unibet Supports Safer Gambling Handicap",
+      "class": "6",
+      "distance": "6f",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Southbank",
+          "jockey": "Charles Bishop",
+          "cd": 1,
+          "days": 26,
+          "odds": "18/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 69.79,
+          "ret": -69.79,
+          "bank": 6909.09
+        },
+        {
+          "rank": 2,
+          "horse": "Diamond Dreamer",
+          "jockey": "Callum Hutchinson",
+          "cd": 1,
+          "days": 28,
+          "odds": "18/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 69.09,
+          "ret": -69.09,
+          "bank": 6840.0
+        }
+      ]
+    },
+    {
+      "time": "20:15",
+      "meeting": "Kempton",
+      "name": "Bet At racingtv.com Handicap",
+      "class": "6",
+      "distance": "1m 7f 218y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Further Measure",
+          "jockey": "Callum Shepherd",
+          "cd": 2,
+          "days": 21,
+          "odds": "18/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 68.4,
+          "ret": -68.4,
+          "bank": 6771.6
+        },
+        {
+          "rank": 2,
+          "horse": "Letmebetheboss",
+          "jockey": "Rossa Ryan",
+          "cd": 1,
+          "days": 21,
+          "odds": "22/1",
+          "mark": null,
+          "pos": 11,
+          "res": "LOSE",
+          "stake": 67.72,
+          "ret": -67.72,
+          "bank": 6703.88
         }
       ]
     },
@@ -71,16 +202,16 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 38.13,
-          "ret": 47.66,
-          "bank": 3860.22
+          "stake": 67.04,
+          "ret": 83.8,
+          "bank": 6787.68
         }
       ]
     }
   ],
   "bank": {
-    "start": 3889.97,
-    "stake": 38.9,
-    "end": 3860.22
+    "start": 7053.55,
+    "stake": 70.54,
+    "end": 6787.68
   }
 }

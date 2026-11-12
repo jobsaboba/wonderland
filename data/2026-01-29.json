@@ -1,6 +1,6 @@
 {
   "date": "2026-01-29",
-  "updated": "2026-11-11T08:41:49+0000",
+  "updated": "2026-11-12T04:52:56+0000",
   "races": [
     {
       "time": "13:20",
@@ -13,20 +13,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Level Up",
-          "jockey": "Oliver Searle",
-          "cd": 1,
-          "days": 7,
-          "odds": "7/1",
-          "mark": null,
-          "pos": 5,
-          "res": "LOSE",
-          "stake": 0.43,
-          "ret": -0.43,
-          "bank": 42.88
-        },
-        {
-          "rank": 2,
           "horse": "Bang On The Bell",
           "jockey": "Jonny Peate",
           "cd": 1,
@@ -35,9 +21,23 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.43,
-          "ret": -0.43,
-          "bank": 42.45
+          "stake": 0.75,
+          "ret": -0.75,
+          "bank": 74.02
+        },
+        {
+          "rank": 2,
+          "horse": "Level Up",
+          "jockey": "Oliver Searle",
+          "cd": 1,
+          "days": 7,
+          "odds": "7/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.74,
+          "ret": -0.74,
+          "bank": 73.28
         }
       ]
     },
@@ -60,9 +60,34 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.42,
-          "ret": 1.68,
-          "bank": 44.13
+          "stake": 0.73,
+          "ret": 2.92,
+          "bank": 76.2
+        }
+      ]
+    },
+    {
+      "time": "15:20",
+      "meeting": "Lingfield",
+      "name": "Midnite A Next Generation Betting App Handicap",
+      "class": "5",
+      "distance": "1m 2f",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Raintown",
+          "jockey": "Taylor Fisher",
+          "cd": 2,
+          "days": 19,
+          "odds": "22/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.76,
+          "ret": -0.76,
+          "bank": 75.44
         }
       ]
     },
@@ -85,9 +110,9 @@
           "mark": null,
           "pos": 3,
           "res": "LOSE",
-          "stake": 0.44,
-          "ret": -0.44,
-          "bank": 43.69
+          "stake": 0.75,
+          "ret": -0.75,
+          "bank": 74.69
         }
       ]
     },
@@ -102,20 +127,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Aberama Gold",
-          "jockey": "Billy Garritty",
-          "cd": 1,
-          "days": 9,
-          "odds": "15/2",
-          "mark": null,
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 0.44,
-          "ret": 0.82,
-          "bank": 44.51
-        },
-        {
-          "rank": 2,
           "horse": "Justcallmepete",
           "jockey": "D C Costello",
           "cd": 3,
@@ -124,9 +135,37 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.45,
-          "ret": -0.45,
-          "bank": 44.06
+          "stake": 0.75,
+          "ret": -0.75,
+          "bank": 73.94
+        },
+        {
+          "rank": 2,
+          "horse": "Aberama Gold",
+          "jockey": "Billy Garritty",
+          "cd": 1,
+          "days": 9,
+          "odds": "15/2",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.74,
+          "ret": 1.39,
+          "bank": 75.33
+        },
+        {
+          "rank": 3,
+          "horse": "Intervention",
+          "jockey": "Mason Paetel",
+          "cd": 1,
+          "days": 12,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.75,
+          "ret": -0.75,
+          "bank": 74.58
         }
       ]
     },
@@ -149,9 +188,9 @@
           "mark": null,
           "pos": 10,
           "res": "LOSE",
-          "stake": 0.44,
-          "ret": -0.44,
-          "bank": 43.62
+          "stake": 0.75,
+          "ret": -0.75,
+          "bank": 73.83
         },
         {
           "rank": 2,
@@ -163,9 +202,9 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.44,
-          "ret": -0.44,
-          "bank": 43.18
+          "stake": 0.74,
+          "ret": -0.74,
+          "bank": 73.09
         }
       ]
     },
@@ -188,9 +227,9 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.43,
-          "ret": -0.43,
-          "bank": 42.75
+          "stake": 0.73,
+          "ret": -0.73,
+          "bank": 72.36
         },
         {
           "rank": 2,
@@ -202,9 +241,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.43,
-          "ret": 2.15,
-          "bank": 44.9
+          "stake": 0.72,
+          "ret": 3.6,
+          "bank": 75.96
         },
         {
           "rank": 3,
@@ -216,16 +255,16 @@
           "mark": null,
           "pos": 3,
           "res": "LOSE",
-          "stake": 0.45,
-          "ret": -0.45,
-          "bank": 44.45
+          "stake": 0.76,
+          "ret": -0.76,
+          "bank": 75.2
         }
       ]
     }
   ],
   "bank": {
-    "start": 43.31,
-    "stake": 0.43,
-    "end": 44.45
+    "start": 74.77,
+    "stake": 0.75,
+    "end": 75.2
   }
 }

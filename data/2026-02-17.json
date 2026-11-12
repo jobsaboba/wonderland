@@ -1,6 +1,6 @@
 {
   "date": "2026-02-17",
-  "updated": "2026-11-11T08:41:51+0000",
+  "updated": "2026-11-12T04:52:58+0000",
   "races": [
     {
       "time": "16:22",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 1.04,
-          "ret": -1.04,
-          "bank": 103.35
+          "stake": 1.83,
+          "ret": -1.83,
+          "bank": 181.34
         }
       ]
     },
@@ -46,9 +46,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 1.03,
-          "ret": 4.63,
-          "bank": 107.98
+          "stake": 1.81,
+          "ret": 8.14,
+          "bank": 189.48
         }
       ]
     },
@@ -63,20 +63,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Colors Of Freedom",
-          "jockey": "Nicola Currie",
-          "cd": 3,
-          "days": 4,
-          "odds": "5/1",
-          "mark": null,
-          "pos": 5,
-          "res": "LOSE",
-          "stake": 1.08,
-          "ret": -1.08,
-          "bank": 106.9
-        },
-        {
-          "rank": 2,
           "horse": "Second Collection",
           "jockey": "Myla Coppins",
           "cd": 2,
@@ -85,9 +71,23 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 1.07,
-          "ret": 4.82,
-          "bank": 111.72
+          "stake": 1.89,
+          "ret": 8.5,
+          "bank": 197.98
+        },
+        {
+          "rank": 2,
+          "horse": "Colors Of Freedom",
+          "jockey": "Nicola Currie",
+          "cd": 3,
+          "days": 4,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 1.98,
+          "ret": -1.98,
+          "bank": 196.0
         }
       ]
     },
@@ -110,9 +110,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.12,
-          "ret": 1.12,
-          "bank": 112.84
+          "stake": 1.96,
+          "ret": 1.96,
+          "bank": 197.96
         },
         {
           "rank": 2,
@@ -124,9 +124,23 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 1.13,
-          "ret": -1.13,
-          "bank": 111.71
+          "stake": 1.98,
+          "ret": -1.98,
+          "bank": 195.98
+        },
+        {
+          "rank": 3,
+          "horse": "Sceptic",
+          "jockey": "Ryan Kavanagh",
+          "cd": 1,
+          "days": 13,
+          "odds": "22/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 1.96,
+          "ret": -1.96,
+          "bank": 194.02
         }
       ]
     },
@@ -149,9 +163,9 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 1.12,
-          "ret": -1.12,
-          "bank": 110.59
+          "stake": 1.94,
+          "ret": -1.94,
+          "bank": 192.08
         }
       ]
     },
@@ -174,16 +188,30 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 1.11,
-          "ret": -1.11,
-          "bank": 109.48
+          "stake": 1.92,
+          "ret": -1.92,
+          "bank": 190.16
+        },
+        {
+          "rank": 2,
+          "horse": "Tiger Beetle",
+          "jockey": "Zoe Lewis",
+          "cd": 3,
+          "days": 15,
+          "odds": "22/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 1.9,
+          "ret": -1.9,
+          "bank": 188.26
         }
       ]
     }
   ],
   "bank": {
-    "start": 104.39,
-    "stake": 1.04,
-    "end": 109.48
+    "start": 183.17,
+    "stake": 1.83,
+    "end": 188.26
   }
 }

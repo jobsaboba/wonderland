@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated": "2026-11-11T08:42:09+0000",
+  "updated": "2026-11-12T04:53:19+0000",
   "races": [
     {
       "time": "16:30",
@@ -21,9 +21,23 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 38.6,
-          "ret": -38.6,
-          "bank": 3821.62
+          "stake": 67.88,
+          "ret": -67.88,
+          "bank": 6719.8
+        },
+        {
+          "rank": 2,
+          "horse": "Dappled Light",
+          "jockey": "Molly Keegan-Price",
+          "cd": 1,
+          "days": 28,
+          "odds": "18/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 67.2,
+          "ret": -67.2,
+          "bank": 6652.6
         }
       ]
     },
@@ -46,9 +60,9 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 38.22,
-          "ret": -38.22,
-          "bank": 3783.4
+          "stake": 66.53,
+          "ret": -66.53,
+          "bank": 6586.07
         }
       ]
     },
@@ -63,20 +77,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "The Caribbean",
-          "jockey": "R Havlin",
-          "cd": 1,
-          "days": 14,
-          "odds": "7/1",
-          "mark": null,
-          "pos": 7,
-          "res": "LOSE",
-          "stake": 37.83,
-          "ret": -37.83,
-          "bank": 3745.57
-        },
-        {
-          "rank": 2,
           "horse": "Searchingtheblues",
           "jockey": "Rose Dawes",
           "cd": 1,
@@ -85,9 +85,23 @@
           "mark": null,
           "pos": 10,
           "res": "LOSE",
-          "stake": 37.46,
-          "ret": -37.46,
-          "bank": 3708.11
+          "stake": 65.86,
+          "ret": -65.86,
+          "bank": 6520.21
+        },
+        {
+          "rank": 2,
+          "horse": "The Caribbean",
+          "jockey": "R Havlin",
+          "cd": 1,
+          "days": 14,
+          "odds": "7/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 65.2,
+          "ret": -65.2,
+          "bank": 6455.01
         }
       ]
     },
@@ -110,9 +124,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 37.08,
-          "ret": 27.81,
-          "bank": 3735.92
+          "stake": 64.55,
+          "ret": 48.41,
+          "bank": 6503.42
         },
         {
           "rank": 2,
@@ -124,16 +138,41 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 37.36,
-          "ret": -37.36,
-          "bank": 3698.56
+          "stake": 65.03,
+          "ret": -65.03,
+          "bank": 6438.39
+        }
+      ]
+    },
+    {
+      "time": "19:30",
+      "meeting": "Wolverhampton",
+      "name": "Midnite Built Different Handicap",
+      "class": "5",
+      "distance": "1m 4f 51y",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Made All",
+          "jockey": "O J Orr",
+          "cd": 1,
+          "days": 10,
+          "odds": "18/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 64.38,
+          "ret": -64.38,
+          "bank": 6374.01
         }
       ]
     }
   ],
   "bank": {
-    "start": 3860.22,
-    "stake": 38.6,
-    "end": 3698.56
+    "start": 6787.68,
+    "stake": 67.88,
+    "end": 6374.01
   }
 }

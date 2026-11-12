@@ -1,7 +1,32 @@
 {
   "date": "2026-05-05",
-  "updated": "2026-11-11T08:41:56+0000",
+  "updated": "2026-11-12T04:53:04+0000",
   "races": [
+    {
+      "time": "17:30",
+      "meeting": "Wolverhampton",
+      "name": "Download The Raceday Ready App Apprentice Handicap",
+      "class": "6",
+      "distance": "1m 142y",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Al Baahy",
+          "jockey": "Mason Paetel",
+          "cd": 1,
+          "days": 6,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 7.69,
+          "ret": -7.69,
+          "bank": 761.65
+        }
+      ]
+    },
     {
       "time": "19:30",
       "meeting": "Wolverhampton",
@@ -21,9 +46,9 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 6.54,
-          "ret": -6.54,
-          "bank": 646.97
+          "stake": 7.62,
+          "ret": -7.62,
+          "bank": 754.03
         }
       ]
     },
@@ -38,20 +63,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Daytona Lady",
-          "jockey": "J P Sullivan",
-          "cd": 3,
-          "days": 14,
-          "odds": "15/2",
-          "mark": null,
-          "pos": 3,
-          "res": "LOSE",
-          "stake": 6.47,
-          "ret": -6.47,
-          "bank": 640.5
-        },
-        {
-          "rank": 2,
           "horse": "Magna",
           "jockey": "Rossa Ryan",
           "cd": 1,
@@ -60,16 +71,30 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 6.41,
-          "ret": 25.64,
-          "bank": 666.14
+          "stake": 7.54,
+          "ret": 30.16,
+          "bank": 784.19
+        },
+        {
+          "rank": 2,
+          "horse": "Daytona Lady",
+          "jockey": "J P Sullivan",
+          "cd": 3,
+          "days": 14,
+          "odds": "15/2",
+          "mark": null,
+          "pos": 3,
+          "res": "LOSE",
+          "stake": 7.84,
+          "ret": -7.84,
+          "bank": 776.35
         }
       ]
     }
   ],
   "bank": {
-    "start": 653.51,
-    "stake": 6.54,
-    "end": 666.14
+    "start": 769.34,
+    "stake": 7.69,
+    "end": 776.35
   }
 }

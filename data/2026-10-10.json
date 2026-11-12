@@ -1,7 +1,46 @@
 {
   "date": "2026-10-10",
-  "updated": "2026-11-11T08:42:08+0000",
+  "updated": "2026-11-12T04:53:18+0000",
   "races": [
+    {
+      "time": "15:10",
+      "meeting": "Southwell",
+      "name": "Carlsberg Danish Pilsner 1847 Handicap",
+      "class": "6",
+      "distance": "1m 13y",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Mercurius Power",
+          "jockey": "Darragh Keenan",
+          "cd": 1,
+          "days": 16,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 53.57,
+          "ret": -53.57,
+          "bank": 5303.23
+        },
+        {
+          "rank": 2,
+          "horse": "Dumfries",
+          "jockey": "J P Sullivan",
+          "cd": 1,
+          "days": 11,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 53.03,
+          "ret": -53.03,
+          "bank": 5250.2
+        }
+      ]
+    },
     {
       "time": "18:00",
       "meeting": "Southwell",
@@ -13,34 +52,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Toptime",
-          "jockey": "Darragh Keenan",
-          "cd": 1,
-          "days": 7,
-          "odds": "7/1",
-          "mark": null,
-          "pos": 5,
-          "res": "LOSE",
-          "stake": 36.92,
-          "ret": -36.92,
-          "bank": 3655.35
-        },
-        {
-          "rank": 2,
-          "horse": "Jesse Luc",
-          "jockey": "L Morris",
-          "cd": 3,
-          "days": 23,
-          "odds": "7/1",
-          "mark": null,
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 36.55,
-          "ret": 63.96,
-          "bank": 3719.31
-        },
-        {
-          "rank": 3,
           "horse": "Willolarupi",
           "jockey": "Zak Wheatley",
           "cd": 1,
@@ -49,16 +60,69 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 37.19,
-          "ret": -37.19,
-          "bank": 3682.12
+          "stake": 52.5,
+          "ret": -52.5,
+          "bank": 5197.7
+        },
+        {
+          "rank": 2,
+          "horse": "Toptime",
+          "jockey": "Darragh Keenan",
+          "cd": 1,
+          "days": 7,
+          "odds": "7/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 51.98,
+          "ret": -51.98,
+          "bank": 5145.72
+        },
+        {
+          "rank": 3,
+          "horse": "Jesse Luc",
+          "jockey": "L Morris",
+          "cd": 3,
+          "days": 23,
+          "odds": "7/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 51.46,
+          "ret": 90.06,
+          "bank": 5235.78
+        }
+      ]
+    },
+    {
+      "time": "18:30",
+      "meeting": "Southwell",
+      "name": "Pilsner To The Post Handicap",
+      "class": "5",
+      "distance": "4f 214y",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Opal Storm",
+          "jockey": "Faye McManoman",
+          "cd": 1,
+          "days": 7,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 52.36,
+          "ret": 628.32,
+          "bank": 5864.1
         }
       ]
     }
   ],
   "bank": {
-    "start": 3692.27,
-    "stake": 36.92,
-    "end": 3682.12
+    "start": 5356.8,
+    "stake": 53.57,
+    "end": 5864.1
   }
 }

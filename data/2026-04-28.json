@@ -1,6 +1,6 @@
 {
   "date": "2026-04-28",
-  "updated": "2026-11-11T08:41:56+0000",
+  "updated": "2026-11-12T04:53:04+0000",
   "races": [
     {
       "time": "13:20",
@@ -13,20 +13,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Fistral Beach",
-          "jockey": "Jack Doughty",
-          "cd": 1,
-          "days": 18,
-          "odds": "13/2",
-          "mark": null,
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 6.04,
-          "ret": 9.81,
-          "bank": 613.45
-        },
-        {
-          "rank": 2,
           "horse": "Hint Of The Jungle",
           "jockey": "K T O'Neill",
           "cd": 1,
@@ -35,12 +21,12 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 6.13,
-          "ret": 6.13,
-          "bank": 619.58
+          "stake": 7.3,
+          "ret": 7.3,
+          "bank": 737.3
         },
         {
-          "rank": 3,
+          "rank": 2,
           "horse": "Saisons D'Or",
           "jockey": "J Garritty",
           "cd": 2,
@@ -49,9 +35,23 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 6.2,
-          "ret": 37.2,
-          "bank": 656.78
+          "stake": 7.37,
+          "ret": 44.22,
+          "bank": 781.52
+        },
+        {
+          "rank": 3,
+          "horse": "Fistral Beach",
+          "jockey": "Jack Doughty",
+          "cd": 1,
+          "days": 18,
+          "odds": "13/2",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 7.82,
+          "ret": 12.71,
+          "bank": 794.23
         }
       ]
     },
@@ -74,9 +74,84 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 6.57,
-          "ret": -6.57,
-          "bank": 650.21
+          "stake": 7.94,
+          "ret": -7.94,
+          "bank": 786.29
+        }
+      ]
+    },
+    {
+      "time": "15:05",
+      "meeting": "Southwell",
+      "name": "Come Racing For Free 18th June Handicap",
+      "class": "6",
+      "distance": "1m 4f 14y",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Lednikov",
+          "jockey": "D Nolan",
+          "cd": 3,
+          "days": 23,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 7.86,
+          "ret": -7.86,
+          "bank": 778.43
+        }
+      ]
+    },
+    {
+      "time": "15:35",
+      "meeting": "Southwell",
+      "name": "Conference & Events At Southwell Racecourse Handicap",
+      "class": "6",
+      "distance": "2m 102y",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Payment Plan",
+          "jockey": "David Probert",
+          "cd": 2,
+          "days": 26,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 7.78,
+          "ret": -7.78,
+          "bank": 770.65
+        }
+      ]
+    },
+    {
+      "time": "16:10",
+      "meeting": "Southwell",
+      "name": "Ladies Day Sunday 16th August Handicap",
+      "class": "6",
+      "distance": "6f 16y",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Pinjarra",
+          "jockey": "Jason Hart",
+          "cd": 1,
+          "days": 21,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 7.71,
+          "ret": -7.71,
+          "bank": 762.94
         }
       ]
     },
@@ -99,16 +174,16 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 6.5,
-          "ret": 21.67,
-          "bank": 671.88
+          "stake": 7.63,
+          "ret": 25.43,
+          "bank": 788.37
         }
       ]
     }
   ],
   "bank": {
-    "start": 603.64,
-    "stake": 6.04,
-    "end": 671.88
+    "start": 730.0,
+    "stake": 7.3,
+    "end": 788.37
   }
 }

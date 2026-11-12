@@ -1,6 +1,6 @@
 {
   "date": "2026-06-16",
-  "updated": "2026-11-11T08:41:59+0000",
+  "updated": "2026-11-12T04:53:08+0000",
   "races": [
     {
       "time": "16:15",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 9.26,
-          "ret": -9.26,
-          "bank": 916.41
+          "stake": 13.65,
+          "ret": -13.65,
+          "bank": 1351.71
         }
       ]
     },
@@ -46,9 +46,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 9.16,
-          "ret": 22.9,
-          "bank": 939.31
+          "stake": 13.52,
+          "ret": 33.8,
+          "bank": 1385.51
         }
       ]
     },
@@ -71,9 +71,9 @@
           "mark": -3,
           "pos": 1,
           "res": "WIN",
-          "stake": 9.39,
-          "ret": 37.56,
-          "bank": 976.87
+          "stake": 13.86,
+          "ret": 55.44,
+          "bank": 1440.95
         },
         {
           "rank": 2,
@@ -85,16 +85,30 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 9.77,
-          "ret": 10.99,
-          "bank": 987.86
+          "stake": 14.41,
+          "ret": 16.21,
+          "bank": 1457.16
+        },
+        {
+          "rank": 3,
+          "horse": "Eagle Day",
+          "jockey": "P Cosgrave",
+          "cd": 5,
+          "days": 12,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 14.57,
+          "ret": -14.57,
+          "bank": 1442.59
         }
       ]
     }
   ],
   "bank": {
-    "start": 925.67,
-    "stake": 9.26,
-    "end": 987.86
+    "start": 1365.36,
+    "stake": 13.65,
+    "end": 1442.59
   }
 }

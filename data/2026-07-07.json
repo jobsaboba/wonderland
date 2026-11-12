@@ -1,6 +1,6 @@
 {
   "date": "2026-07-07",
-  "updated": "2026-11-11T08:42:01+0000",
+  "updated": "2026-11-12T04:53:10+0000",
   "races": [
     {
       "time": "17:10",
@@ -21,9 +21,23 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 13.86,
-          "ret": -13.86,
-          "bank": 1372.14
+          "stake": 23.18,
+          "ret": -23.18,
+          "bank": 2295.1
+        },
+        {
+          "rank": 2,
+          "horse": "American State",
+          "jockey": "S Donohoe",
+          "cd": 1,
+          "days": 27,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 22.95,
+          "ret": -22.95,
+          "bank": 2272.15
         }
       ]
     },
@@ -46,9 +60,9 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 13.72,
-          "ret": -13.72,
-          "bank": 1358.42
+          "stake": 22.72,
+          "ret": -22.72,
+          "bank": 2249.43
         }
       ]
     },
@@ -63,20 +77,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Dr Ali",
-          "jockey": "Jonny Peate",
-          "cd": 1,
-          "days": 19,
-          "odds": "9/1",
-          "mark": null,
-          "pos": 7,
-          "res": "LOSE",
-          "stake": 13.58,
-          "ret": -13.58,
-          "bank": 1344.84
-        },
-        {
-          "rank": 2,
           "horse": "Walking On Clouds",
           "jockey": "Joey Haynes",
           "cd": 1,
@@ -85,16 +85,30 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 13.45,
-          "ret": 80.7,
-          "bank": 1425.54
+          "stake": 22.49,
+          "ret": 134.94,
+          "bank": 2384.37
+        },
+        {
+          "rank": 2,
+          "horse": "Dr Ali",
+          "jockey": "Jonny Peate",
+          "cd": 1,
+          "days": 19,
+          "odds": "9/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 23.84,
+          "ret": -23.84,
+          "bank": 2360.53
         }
       ]
     }
   ],
   "bank": {
-    "start": 1386.0,
-    "stake": 13.86,
-    "end": 1425.54
+    "start": 2318.28,
+    "stake": 23.18,
+    "end": 2360.53
   }
 }

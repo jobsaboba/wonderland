@@ -1,7 +1,32 @@
 {
   "date": "2026-09-10",
-  "updated": "2026-11-11T08:42:05+0000",
+  "updated": "2026-11-12T04:53:15+0000",
   "races": [
+    {
+      "time": "15:23",
+      "meeting": "Lingfield",
+      "name": "Sasco Sauces Birthday Handicap (Div 1)",
+      "class": "6",
+      "distance": "7f 1y",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Edergole's Gift",
+          "jockey": "Tom Kiely-Marshall",
+          "cd": 1,
+          "days": 23,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 47.15,
+          "ret": -47.15,
+          "bank": 4667.55
+        }
+      ]
+    },
     {
       "time": "15:58",
       "meeting": "Lingfield",
@@ -21,9 +46,9 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 23.78,
-          "ret": -23.78,
-          "bank": 2354.43
+          "stake": 46.68,
+          "ret": -46.68,
+          "bank": 4620.87
         },
         {
           "rank": 2,
@@ -35,16 +60,30 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 23.54,
-          "ret": -23.54,
-          "bank": 2330.89
+          "stake": 46.21,
+          "ret": -46.21,
+          "bank": 4574.66
+        },
+        {
+          "rank": 3,
+          "horse": "Fulford Cross",
+          "jockey": "Joey Haynes",
+          "cd": 1,
+          "days": 14,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 45.75,
+          "ret": -45.75,
+          "bank": 4528.91
         }
       ]
     }
   ],
   "bank": {
-    "start": 2378.21,
-    "stake": 23.78,
-    "end": 2330.89
+    "start": 4714.7,
+    "stake": 47.15,
+    "end": 4528.91
   }
 }

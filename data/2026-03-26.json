@@ -1,6 +1,6 @@
 {
   "date": "2026-03-26",
-  "updated": "2026-11-11T08:41:53+0000",
+  "updated": "2026-11-12T04:53:01+0000",
   "races": [
     {
       "time": "14:07",
@@ -21,9 +21,9 @@
           "mark": -4,
           "pos": 1,
           "res": "WIN",
-          "stake": 2.99,
-          "ret": 8.97,
-          "bank": 308.35
+          "stake": 3.88,
+          "ret": 11.64,
+          "bank": 399.64
         }
       ]
     },
@@ -46,9 +46,9 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 3.08,
-          "ret": -3.08,
-          "bank": 305.27
+          "stake": 4.0,
+          "ret": -4.0,
+          "bank": 395.64
         }
       ]
     },
@@ -71,9 +71,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 3.05,
-          "ret": 18.3,
-          "bank": 323.57
+          "stake": 3.96,
+          "ret": 23.76,
+          "bank": 419.4
         }
       ]
     },
@@ -88,20 +88,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Tyger Bay",
-          "jockey": "Jack Gilligan",
-          "cd": 2,
-          "days": 19,
-          "odds": "10/1",
-          "mark": null,
-          "pos": 9,
-          "res": "LOSE",
-          "stake": 3.24,
-          "ret": -3.24,
-          "bank": 320.33
-        },
-        {
-          "rank": 2,
           "horse": "Lazzar",
           "jockey": "Donagh Murphy",
           "cd": 1,
@@ -110,9 +96,23 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 3.2,
-          "ret": -3.2,
-          "bank": 317.13
+          "stake": 4.19,
+          "ret": -4.19,
+          "bank": 415.21
+        },
+        {
+          "rank": 2,
+          "horse": "Tyger Bay",
+          "jockey": "Jack Gilligan",
+          "cd": 2,
+          "days": 19,
+          "odds": "10/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 4.15,
+          "ret": -4.15,
+          "bank": 411.06
         }
       ]
     },
@@ -135,9 +135,9 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 3.17,
-          "ret": -3.17,
-          "bank": 313.96
+          "stake": 4.11,
+          "ret": -4.11,
+          "bank": 406.95
         }
       ]
     },
@@ -160,9 +160,9 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 3.14,
-          "ret": -3.14,
-          "bank": 310.82
+          "stake": 4.07,
+          "ret": -4.07,
+          "bank": 402.88
         },
         {
           "rank": 2,
@@ -174,9 +174,9 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 3.11,
-          "ret": -3.11,
-          "bank": 307.71
+          "stake": 4.03,
+          "ret": -4.03,
+          "bank": 398.85
         }
       ]
     },
@@ -199,9 +199,9 @@
           "mark": null,
           "pos": 11,
           "res": "LOSE",
-          "stake": 3.08,
-          "ret": -3.08,
-          "bank": 304.63
+          "stake": 3.99,
+          "ret": -3.99,
+          "bank": 394.86
         },
         {
           "rank": 2,
@@ -213,16 +213,30 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 3.05,
-          "ret": -3.05,
-          "bank": 301.58
+          "stake": 3.95,
+          "ret": -3.95,
+          "bank": 390.91
+        },
+        {
+          "rank": 3,
+          "horse": "Sanditon",
+          "jockey": "Callum Shepherd",
+          "cd": 1,
+          "days": 13,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 3.91,
+          "ret": -3.91,
+          "bank": 387.0
         }
       ]
     }
   ],
   "bank": {
-    "start": 299.38,
-    "stake": 2.99,
-    "end": 301.58
+    "start": 388.0,
+    "stake": 3.88,
+    "end": 387.0
   }
 }

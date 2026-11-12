@@ -1,6 +1,6 @@
 {
   "date": "2026-07-25",
-  "updated": "2026-11-11T08:42:02+0000",
+  "updated": "2026-11-12T04:53:11+0000",
   "races": [
     {
       "time": "12:35",
@@ -21,9 +21,48 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 15.0,
-          "ret": -15.0,
-          "bank": 1484.81
+          "stake": 24.0,
+          "ret": -24.0,
+          "bank": 2376.16
+        },
+        {
+          "rank": 2,
+          "horse": "Jewel Maker",
+          "jockey": "Jack Nicholls",
+          "cd": 1,
+          "days": 21,
+          "odds": "28/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 23.76,
+          "ret": -23.76,
+          "bank": 2352.4
+        }
+      ]
+    },
+    {
+      "time": "13:05",
+      "meeting": "Newcastle",
+      "name": "www.eatflixcinema.com Handicap (GBBPlus Race)",
+      "class": "4",
+      "distance": "1m 4f 98y",
+      "riders": 13,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Haveyoumissedme",
+          "jockey": "A Mullen",
+          "cd": 1,
+          "days": 28,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 23.52,
+          "ret": -23.52,
+          "bank": 2328.88
         }
       ]
     },
@@ -46,9 +85,9 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 14.85,
-          "ret": -14.85,
-          "bank": 1469.96
+          "stake": 23.29,
+          "ret": -23.29,
+          "bank": 2305.59
         }
       ]
     },
@@ -71,16 +110,30 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 14.7,
-          "ret": -14.7,
-          "bank": 1455.26
+          "stake": 23.06,
+          "ret": -23.06,
+          "bank": 2282.53
+        },
+        {
+          "rank": 2,
+          "horse": "Wheres The Crumpet",
+          "jockey": "Callum Hutchinson",
+          "cd": 1,
+          "days": 21,
+          "odds": "33/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 22.83,
+          "ret": -22.83,
+          "bank": 2259.7
         }
       ]
     }
   ],
   "bank": {
-    "start": 1499.81,
-    "stake": 15.0,
-    "end": 1455.26
+    "start": 2400.16,
+    "stake": 24.0,
+    "end": 2259.7
   }
 }

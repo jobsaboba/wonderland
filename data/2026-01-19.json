@@ -1,6 +1,6 @@
 {
   "date": "2026-01-19",
-  "updated": "2026-11-11T08:41:48+0000",
+  "updated": "2026-11-12T04:52:55+0000",
   "races": [
     {
       "time": "13:38",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.27,
-          "ret": -0.27,
-          "bank": 26.97
+          "stake": 0.33,
+          "ret": -0.33,
+          "bank": 33.12
         }
       ]
     },
@@ -46,9 +46,9 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.27,
-          "ret": -0.27,
-          "bank": 26.7
+          "stake": 0.33,
+          "ret": -0.33,
+          "bank": 32.79
         }
       ]
     },
@@ -71,9 +71,9 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.27,
-          "ret": -0.27,
-          "bank": 26.43
+          "stake": 0.33,
+          "ret": -0.33,
+          "bank": 32.46
         }
       ]
     },
@@ -96,9 +96,23 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.26,
-          "ret": -0.26,
-          "bank": 26.17
+          "stake": 0.32,
+          "ret": -0.32,
+          "bank": 32.14
+        },
+        {
+          "rank": 2,
+          "horse": "Riot",
+          "jockey": "Saffie Osborne",
+          "cd": 1,
+          "days": 17,
+          "odds": "25/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.32,
+          "ret": -0.32,
+          "bank": 31.82
         }
       ]
     },
@@ -121,9 +135,37 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.26,
-          "ret": 0.2,
-          "bank": 26.37
+          "stake": 0.32,
+          "ret": 0.24,
+          "bank": 32.06
+        },
+        {
+          "rank": 2,
+          "horse": "Addarella",
+          "jockey": "Marco Ghiani",
+          "cd": 1,
+          "days": 16,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.32,
+          "ret": 3.84,
+          "bank": 35.9
+        },
+        {
+          "rank": 3,
+          "horse": "Brian The Snail",
+          "jockey": "J P Sullivan",
+          "cd": 1,
+          "days": 28,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 0.36,
+          "ret": -0.36,
+          "bank": 35.54
         }
       ]
     },
@@ -146,16 +188,16 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 0.26,
-          "ret": -0.26,
-          "bank": 26.11
+          "stake": 0.36,
+          "ret": -0.36,
+          "bank": 35.18
         }
       ]
     }
   ],
   "bank": {
-    "start": 27.24,
-    "stake": 0.27,
-    "end": 26.11
+    "start": 33.45,
+    "stake": 0.33,
+    "end": 35.18
   }
 }

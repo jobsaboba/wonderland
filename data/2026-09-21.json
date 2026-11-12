@@ -1,6 +1,6 @@
 {
   "date": "2026-09-21",
-  "updated": "2026-11-11T08:42:06+0000",
+  "updated": "2026-11-12T04:53:16+0000",
   "races": [
     {
       "time": "18:12",
@@ -21,9 +21,34 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 24.31,
-          "ret": -24.31,
-          "bank": 2406.89
+          "stake": 46.45,
+          "ret": -46.45,
+          "bank": 4598.57
+        }
+      ]
+    },
+    {
+      "time": "18:42",
+      "meeting": "Wolverhampton",
+      "name": "Book Now At wolverhampton-racecourse.co.uk Handicap",
+      "class": "6",
+      "distance": "1m 4f 51y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Forever Perfect",
+          "jockey": "Kaiya Fraser",
+          "cd": 1,
+          "days": 12,
+          "odds": "33/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 45.99,
+          "ret": -45.99,
+          "bank": 4552.58
         }
       ]
     },
@@ -46,16 +71,30 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 24.07,
-          "ret": 36.11,
-          "bank": 2443.0
+          "stake": 45.53,
+          "ret": 68.3,
+          "bank": 4620.88
+        },
+        {
+          "rank": 2,
+          "horse": "Midnight Call",
+          "jockey": "Gina Mangan",
+          "cd": 2,
+          "days": 14,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 46.21,
+          "ret": -46.21,
+          "bank": 4574.67
         }
       ]
     }
   ],
   "bank": {
-    "start": 2431.2,
-    "stake": 24.31,
-    "end": 2443.0
+    "start": 4645.02,
+    "stake": 46.45,
+    "end": 4574.67
   }
 }

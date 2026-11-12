@@ -1,6 +1,6 @@
 {
   "date": "2026-02-07",
-  "updated": "2026-11-11T08:41:50+0000",
+  "updated": "2026-11-12T04:52:57+0000",
   "races": [
     {
       "time": "13:45",
@@ -13,20 +13,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Way To Dubai",
-          "jockey": "Harry Davies",
-          "cd": 1,
-          "days": 7,
-          "odds": "7/2",
-          "mark": null,
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 0.75,
-          "ret": -0.75,
-          "bank": 74.62
-        },
-        {
-          "rank": 2,
           "horse": "Francesi",
           "jockey": "Tyrese Cameron",
           "cd": 2,
@@ -35,9 +21,23 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.75,
-          "ret": 0.62,
-          "bank": 75.24
+          "stake": 1.53,
+          "ret": 1.28,
+          "bank": 153.96
+        },
+        {
+          "rank": 2,
+          "horse": "Way To Dubai",
+          "jockey": "Harry Davies",
+          "cd": 1,
+          "days": 7,
+          "odds": "7/2",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 1.54,
+          "ret": -1.54,
+          "bank": 152.42
         }
       ]
     },
@@ -60,9 +60,9 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.75,
-          "ret": -0.75,
-          "bank": 74.49
+          "stake": 1.52,
+          "ret": -1.52,
+          "bank": 150.9
         }
       ]
     },
@@ -85,9 +85,34 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.74,
-          "ret": -0.74,
-          "bank": 73.75
+          "stake": 1.51,
+          "ret": -1.51,
+          "bank": 149.39
+        }
+      ]
+    },
+    {
+      "time": "16:05",
+      "meeting": "Lingfield",
+      "name": "Midnite Are Upping The Betting Game Handicap (Div 1)",
+      "class": "6",
+      "distance": "1m 2f",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Star Of St Louis",
+          "jockey": "Tyler Heard",
+          "cd": 1,
+          "days": 8,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 1.49,
+          "ret": -1.49,
+          "bank": 147.9
         }
       ]
     },
@@ -110,9 +135,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.74,
-          "ret": 0.55,
-          "bank": 74.3
+          "stake": 1.48,
+          "ret": 1.11,
+          "bank": 149.01
         }
       ]
     },
@@ -135,9 +160,23 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.74,
-          "ret": -0.74,
-          "bank": 73.56
+          "stake": 1.49,
+          "ret": -1.49,
+          "bank": 147.52
+        },
+        {
+          "rank": 2,
+          "horse": "Alex The Great",
+          "jockey": "Myla Coppins",
+          "cd": 1,
+          "days": 9,
+          "odds": "20/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 1.48,
+          "ret": -1.48,
+          "bank": 146.04
         }
       ]
     },
@@ -160,9 +199,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.74,
-          "ret": 2.22,
-          "bank": 75.78
+          "stake": 1.46,
+          "ret": 4.38,
+          "bank": 150.42
         }
       ]
     },
@@ -185,9 +224,9 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.76,
-          "ret": -0.76,
-          "bank": 75.02
+          "stake": 1.5,
+          "ret": -1.5,
+          "bank": 148.92
         }
       ]
     },
@@ -202,20 +241,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Street Life",
-          "jockey": "Ethan Tindall",
-          "cd": 5,
-          "days": 11,
-          "odds": "9/1",
-          "mark": null,
-          "pos": 5,
-          "res": "LOSE",
-          "stake": 0.75,
-          "ret": -0.75,
-          "bank": 74.27
-        },
-        {
-          "rank": 2,
           "horse": "Ay Gee Ell",
           "jockey": "D Nolan",
           "cd": 1,
@@ -224,16 +249,44 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.74,
-          "ret": 0.55,
-          "bank": 74.82
+          "stake": 1.49,
+          "ret": 1.12,
+          "bank": 150.04
+        },
+        {
+          "rank": 2,
+          "horse": "Street Life",
+          "jockey": "Ethan Tindall",
+          "cd": 5,
+          "days": 11,
+          "odds": "9/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 1.5,
+          "ret": -1.5,
+          "bank": 148.54
+        },
+        {
+          "rank": 3,
+          "horse": "Birkenhead",
+          "jockey": "Barry McHugh",
+          "cd": 2,
+          "days": 25,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 1.49,
+          "ret": -1.49,
+          "bank": 147.05
         }
       ]
     }
   ],
   "bank": {
-    "start": 75.37,
-    "stake": 0.75,
-    "end": 74.82
+    "start": 152.68,
+    "stake": 1.53,
+    "end": 147.05
   }
 }

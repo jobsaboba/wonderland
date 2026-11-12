@@ -1,6 +1,6 @@
 {
   "date": "2026-02-06",
-  "updated": "2026-11-11T08:41:50+0000",
+  "updated": "2026-11-12T04:52:57+0000",
   "races": [
     {
       "time": "13:12",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.6,
-          "ret": 1.27,
-          "bank": 61.34
+          "stake": 1.18,
+          "ret": 2.51,
+          "bank": 120.69
         }
       ]
     },
@@ -38,20 +38,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Court Of Session",
-          "jockey": "Connor Planas",
-          "cd": 1,
-          "days": 2,
-          "odds": "5/1",
-          "mark": null,
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 0.61,
-          "ret": 0.76,
-          "bank": 62.1
-        },
-        {
-          "rank": 2,
           "horse": "Fistral Beach",
           "jockey": "Jack Doughty",
           "cd": 1,
@@ -60,9 +46,23 @@
           "mark": -4,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.62,
-          "ret": -0.62,
-          "bank": 61.48
+          "stake": 1.21,
+          "ret": -1.21,
+          "bank": 119.48
+        },
+        {
+          "rank": 2,
+          "horse": "Court Of Session",
+          "jockey": "Connor Planas",
+          "cd": 1,
+          "days": 2,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 1.19,
+          "ret": 1.49,
+          "bank": 120.97
         },
         {
           "rank": 3,
@@ -74,9 +74,9 @@
           "mark": null,
           "pos": 10,
           "res": "LOSE",
-          "stake": 0.61,
-          "ret": -0.61,
-          "bank": 60.87
+          "stake": 1.21,
+          "ret": -1.21,
+          "bank": 119.76
         }
       ]
     },
@@ -99,26 +99,12 @@
           "mark": -6,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.61,
-          "ret": 3.05,
-          "bank": 63.92
+          "stake": 1.2,
+          "ret": 6.0,
+          "bank": 125.76
         },
         {
           "rank": 2,
-          "horse": "Front Gunner",
-          "jockey": "Warren Fentiman",
-          "cd": 2,
-          "days": 15,
-          "odds": "9/1",
-          "mark": null,
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 0.64,
-          "ret": 1.44,
-          "bank": 65.36
-        },
-        {
-          "rank": 3,
           "horse": "Yaaser",
           "jockey": "P Mulrennan",
           "cd": 1,
@@ -127,9 +113,62 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 0.65,
-          "ret": -0.65,
-          "bank": 64.71
+          "stake": 1.26,
+          "ret": -1.26,
+          "bank": 124.5
+        },
+        {
+          "rank": 3,
+          "horse": "Front Gunner",
+          "jockey": "Warren Fentiman",
+          "cd": 2,
+          "days": 15,
+          "odds": "9/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 1.25,
+          "ret": 2.81,
+          "bank": 127.31
+        }
+      ]
+    },
+    {
+      "time": "17:30",
+      "meeting": "Newcastle",
+      "name": "SBK: Betting Without The Bull Handicap (Div 2)",
+      "class": "5",
+      "distance": "7f 14y",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Novak",
+          "jockey": "A Mullen",
+          "cd": 2,
+          "days": 15,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 1.27,
+          "ret": -1.27,
+          "bank": 126.04
+        },
+        {
+          "rank": 2,
+          "horse": "Bobby Joe Leg",
+          "jockey": "Joanna Mason",
+          "cd": 10,
+          "days": 15,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 1.26,
+          "ret": 5.04,
+          "bank": 131.08
         }
       ]
     },
@@ -144,20 +183,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Ganesha",
-          "jockey": "P J McDonald",
-          "cd": 2,
-          "days": 6,
-          "odds": "15/2",
-          "mark": null,
-          "pos": 10,
-          "res": "LOSE",
-          "stake": 0.65,
-          "ret": -0.65,
-          "bank": 64.06
-        },
-        {
-          "rank": 2,
           "horse": "Good Earth",
           "jockey": "Jason Hart",
           "cd": 1,
@@ -166,12 +191,12 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.64,
-          "ret": -0.64,
-          "bank": 63.42
+          "stake": 1.31,
+          "ret": -1.31,
+          "bank": 129.77
         },
         {
-          "rank": 3,
+          "rank": 2,
           "horse": "Dark Kestrel",
           "jockey": "Ethan Tindall",
           "cd": 2,
@@ -180,9 +205,23 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.63,
-          "ret": 3.78,
-          "bank": 67.2
+          "stake": 1.3,
+          "ret": 7.8,
+          "bank": 137.57
+        },
+        {
+          "rank": 3,
+          "horse": "Ganesha",
+          "jockey": "P J McDonald",
+          "cd": 2,
+          "days": 6,
+          "odds": "15/2",
+          "mark": null,
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 1.38,
+          "ret": -1.38,
+          "bank": 136.19
         }
       ]
     },
@@ -197,20 +236,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Our Absent Friends",
-          "jockey": "O McSweeney",
-          "cd": 3,
-          "days": 6,
-          "odds": "8/1",
-          "mark": null,
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 0.67,
-          "ret": 1.34,
-          "bank": 68.54
-        },
-        {
-          "rank": 2,
           "horse": "Water Of Leith",
           "jockey": "Lauren Young",
           "cd": 1,
@@ -219,12 +244,12 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.69,
-          "ret": -0.69,
-          "bank": 67.85
+          "stake": 1.36,
+          "ret": -1.36,
+          "bank": 134.83
         },
         {
-          "rank": 3,
+          "rank": 2,
           "horse": "Digital",
           "jockey": "Joanna Mason",
           "cd": 2,
@@ -233,9 +258,23 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.68,
-          "ret": -0.68,
-          "bank": 67.17
+          "stake": 1.35,
+          "ret": -1.35,
+          "bank": 133.48
+        },
+        {
+          "rank": 3,
+          "horse": "Our Absent Friends",
+          "jockey": "O McSweeney",
+          "cd": 3,
+          "days": 6,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 1.33,
+          "ret": 2.66,
+          "bank": 136.14
         }
       ]
     },
@@ -258,9 +297,23 @@
           "mark": null,
           "pos": 12,
           "res": "LOSE",
-          "stake": 0.67,
-          "ret": -0.67,
-          "bank": 66.5
+          "stake": 1.36,
+          "ret": -1.36,
+          "bank": 134.78
+        },
+        {
+          "rank": 2,
+          "horse": "Kitty Bear",
+          "jockey": "Orla Tynan",
+          "cd": 1,
+          "days": 14,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 1.35,
+          "ret": -1.35,
+          "bank": 133.43
         }
       ]
     },
@@ -275,34 +328,20 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Paddy's Day",
-          "jockey": "Alex Jary",
-          "cd": 7,
-          "days": 13,
-          "odds": "9/1",
+          "horse": "The Caltonian",
+          "jockey": "P Mulrennan",
+          "cd": 1,
+          "days": 21,
+          "odds": "11/2",
           "mark": null,
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 0.67,
-          "ret": 1.51,
-          "bank": 68.01
+          "pos": 13,
+          "res": "LOSE",
+          "stake": 1.33,
+          "ret": -1.33,
+          "bank": 132.1
         },
         {
           "rank": 2,
-          "horse": "Badri",
-          "jockey": "Jason Hart",
-          "cd": 2,
-          "days": 17,
-          "odds": "9/1",
-          "mark": null,
-          "pos": 7,
-          "res": "LOSE",
-          "stake": 0.68,
-          "ret": -0.68,
-          "bank": 67.33
-        },
-        {
-          "rank": 3,
           "horse": "Heavenly Heather",
           "jockey": "Barry McHugh",
           "cd": 1,
@@ -311,9 +350,23 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.67,
-          "ret": 1.01,
-          "bank": 68.34
+          "stake": 1.32,
+          "ret": 1.98,
+          "bank": 134.08
+        },
+        {
+          "rank": 3,
+          "horse": "Paddy's Day",
+          "jockey": "Alex Jary",
+          "cd": 7,
+          "days": 13,
+          "odds": "9/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 1.34,
+          "ret": 3.02,
+          "bank": 137.1
         }
       ]
     },
@@ -328,20 +381,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Church Mountain",
-          "jockey": "J M Sheridan",
-          "cd": 1,
-          "days": 7,
-          "odds": "6/1",
-          "mark": null,
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 0.68,
-          "ret": 1.02,
-          "bank": 69.36
-        },
-        {
-          "rank": 2,
           "horse": "Satono Chevalier",
           "jockey": "Jack Kearney",
           "cd": 3,
@@ -350,9 +389,37 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.69,
-          "ret": 0.57,
-          "bank": 69.93
+          "stake": 1.37,
+          "ret": 1.14,
+          "bank": 138.24
+        },
+        {
+          "rank": 2,
+          "horse": "Church Mountain",
+          "jockey": "J M Sheridan",
+          "cd": 1,
+          "days": 7,
+          "odds": "6/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 1.38,
+          "ret": 2.07,
+          "bank": 140.31
+        },
+        {
+          "rank": 3,
+          "horse": "Pepper Noir",
+          "jockey": "Jessica Maye",
+          "cd": 2,
+          "days": 14,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 1.4,
+          "ret": -1.4,
+          "bank": 138.91
         }
       ]
     },
@@ -375,9 +442,23 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 0.7,
-          "ret": -0.7,
-          "bank": 69.23
+          "stake": 1.39,
+          "ret": -1.39,
+          "bank": 137.52
+        },
+        {
+          "rank": 2,
+          "horse": "Bowood",
+          "jockey": "Elle-May Croot",
+          "cd": 2,
+          "days": 24,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 1.38,
+          "ret": -1.38,
+          "bank": 136.14
         }
       ]
     },
@@ -400,9 +481,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.69,
-          "ret": 6.9,
-          "bank": 76.13
+          "stake": 1.36,
+          "ret": 13.6,
+          "bank": 149.74
         }
       ]
     },
@@ -425,16 +506,30 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.76,
-          "ret": -0.76,
-          "bank": 75.37
+          "stake": 1.5,
+          "ret": -1.5,
+          "bank": 148.24
+        },
+        {
+          "rank": 2,
+          "horse": "Raatea",
+          "jockey": "O McSweeney",
+          "cd": 2,
+          "days": 13,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 1.48,
+          "ret": 4.44,
+          "bank": 152.68
         }
       ]
     }
   ],
   "bank": {
-    "start": 60.07,
-    "stake": 0.6,
-    "end": 75.37
+    "start": 118.18,
+    "stake": 1.18,
+    "end": 152.68
   }
 }

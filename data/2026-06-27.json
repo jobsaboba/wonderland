@@ -1,6 +1,6 @@
 {
   "date": "2026-06-27",
-  "updated": "2026-11-11T08:42:00+0000",
+  "updated": "2026-11-12T04:53:09+0000",
   "races": [
     {
       "time": "12:40",
@@ -21,9 +21,101 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 11.72,
-          "ret": 26.37,
-          "bank": 1198.02
+          "stake": 17.39,
+          "ret": 39.13,
+          "bank": 1778.51
+        },
+        {
+          "rank": 2,
+          "horse": "Witch Hunter",
+          "jockey": "P Mulrennan",
+          "cd": 1,
+          "days": 10,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 11,
+          "res": "LOSE",
+          "stake": 17.79,
+          "ret": -17.79,
+          "bank": 1760.72
+        }
+      ]
+    },
+    {
+      "time": "13:40",
+      "meeting": "Newcastle",
+      "name": "JenningsBet Festival Northumberland Vase Handicap (Consolation Race For Northumberland Plate) (GBBPlus Race)",
+      "class": "2",
+      "distance": "2m 56y",
+      "riders": 20,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Sax Appeal",
+          "jockey": "Daniel Muscutt",
+          "cd": 1,
+          "days": 6,
+          "odds": "22/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 17.61,
+          "ret": 96.85,
+          "bank": 1857.57
+        }
+      ]
+    },
+    {
+      "time": "14:45",
+      "meeting": "Newcastle",
+      "name": "JenningsBet Over 200 Shops Nationwide Handicap",
+      "class": "2",
+      "distance": "6f",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Annaf",
+          "jockey": "Daniel Muscutt",
+          "cd": 1,
+          "days": 27,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 18.58,
+          "ret": 65.03,
+          "bank": 1922.6
+        },
+        {
+          "rank": 2,
+          "horse": "Fivethousandtoone",
+          "jockey": "D Allan",
+          "cd": 3,
+          "days": 28,
+          "odds": "18/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 19.23,
+          "ret": -19.23,
+          "bank": 1903.37
+        },
+        {
+          "rank": 3,
+          "horse": "Strike Red",
+          "jockey": "Warren Fentiman",
+          "cd": 2,
+          "days": 21,
+          "odds": "22/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 19.03,
+          "ret": 104.67,
+          "bank": 2008.04
         }
       ]
     },
@@ -46,16 +138,16 @@
           "mark": -1,
           "pos": 2,
           "res": "PLACE",
-          "stake": 11.98,
-          "ret": 9.98,
-          "bank": 1208.0
+          "stake": 20.08,
+          "ret": 16.73,
+          "bank": 2024.77
         }
       ]
     }
   ],
   "bank": {
-    "start": 1171.65,
-    "stake": 11.72,
-    "end": 1208.0
+    "start": 1739.38,
+    "stake": 17.39,
+    "end": 2024.77
   }
 }

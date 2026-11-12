@@ -1,6 +1,6 @@
 {
   "date": "2026-01-04",
-  "updated": "2026-11-11T08:41:47+0000",
+  "updated": "2026-11-12T04:52:54+0000",
   "races": [
     {
       "time": "13:30",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 11,
           "res": "LOSE",
-          "stake": 0.12,
-          "ret": -0.12,
-          "bank": 11.99
+          "stake": 0.11,
+          "ret": -0.11,
+          "bank": 10.98
         },
         {
           "rank": 2,
@@ -35,9 +35,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.12,
-          "ret": 0.22,
-          "bank": 12.21
+          "stake": 0.11,
+          "ret": 0.21,
+          "bank": 11.19
         }
       ]
     },
@@ -60,9 +60,9 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.12,
-          "ret": -0.12,
-          "bank": 12.09
+          "stake": 0.11,
+          "ret": -0.11,
+          "bank": 11.08
         }
       ]
     },
@@ -85,9 +85,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.12,
-          "ret": 0.09,
-          "bank": 12.18
+          "stake": 0.11,
+          "ret": 0.08,
+          "bank": 11.16
         },
         {
           "rank": 2,
@@ -99,9 +99,9 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.12,
-          "ret": -0.12,
-          "bank": 12.06
+          "stake": 0.11,
+          "ret": -0.11,
+          "bank": 11.05
         }
       ]
     },
@@ -124,26 +124,12 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.12,
-          "ret": -0.12,
-          "bank": 11.94
+          "stake": 0.11,
+          "ret": -0.11,
+          "bank": 10.94
         },
         {
           "rank": 2,
-          "horse": "Forest Gunner",
-          "jockey": "Tyler Heard",
-          "cd": 1,
-          "days": 13,
-          "odds": "11/2",
-          "mark": null,
-          "pos": 6,
-          "res": "LOSE",
-          "stake": 0.12,
-          "ret": -0.12,
-          "bank": 11.82
-        },
-        {
-          "rank": 3,
           "horse": "Arlington",
           "jockey": "Matthew Slater",
           "cd": 2,
@@ -152,16 +138,30 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.12,
-          "ret": 0.54,
-          "bank": 12.36
+          "stake": 0.11,
+          "ret": 0.49,
+          "bank": 11.43
+        },
+        {
+          "rank": 3,
+          "horse": "Forest Gunner",
+          "jockey": "Tyler Heard",
+          "cd": 1,
+          "days": 13,
+          "odds": "11/2",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.11,
+          "ret": -0.11,
+          "bank": 11.32
         }
       ]
     }
   ],
   "bank": {
-    "start": 12.11,
-    "stake": 0.12,
-    "end": 12.36
+    "start": 11.09,
+    "stake": 0.11,
+    "end": 11.32
   }
 }

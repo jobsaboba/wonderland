@@ -1,6 +1,6 @@
 {
   "date": "2026-03-10",
-  "updated": "2026-11-11T08:41:52+0000",
+  "updated": "2026-11-12T04:52:59+0000",
   "races": [
     {
       "time": "16:23",
@@ -21,9 +21,34 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.92,
-          "ret": 2.64,
-          "bank": 194.86
+          "stake": 2.79,
+          "ret": 3.84,
+          "bank": 282.54
+        }
+      ]
+    },
+    {
+      "time": "18:45",
+      "meeting": "Southwell",
+      "name": "Create Your Bet Builders At Midnite Handicap",
+      "class": "5",
+      "distance": "4f 214y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Shalaa Asker",
+          "jockey": "Tom Marquand",
+          "cd": 1,
+          "days": 17,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 2.83,
+          "ret": 7.78,
+          "bank": 290.32
         }
       ]
     },
@@ -46,9 +71,9 @@
           "mark": null,
           "pos": 3,
           "res": "LOSE",
-          "stake": 1.95,
-          "ret": -1.95,
-          "bank": 192.91
+          "stake": 2.9,
+          "ret": -2.9,
+          "bank": 287.42
         }
       ]
     },
@@ -71,9 +96,9 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 1.93,
-          "ret": -1.93,
-          "bank": 190.98
+          "stake": 2.87,
+          "ret": -2.87,
+          "bank": 284.55
         },
         {
           "rank": 2,
@@ -85,9 +110,9 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 1.91,
-          "ret": -1.91,
-          "bank": 189.07
+          "stake": 2.85,
+          "ret": -2.85,
+          "bank": 281.7
         }
       ]
     },
@@ -110,16 +135,30 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 1.89,
-          "ret": -1.89,
-          "bank": 187.18
+          "stake": 2.82,
+          "ret": -2.82,
+          "bank": 278.88
+        },
+        {
+          "rank": 2,
+          "horse": "One More Dream",
+          "jockey": "Jason Hart",
+          "cd": 1,
+          "days": 18,
+          "odds": "28/1",
+          "mark": null,
+          "pos": 11,
+          "res": "LOSE",
+          "stake": 2.79,
+          "ret": -2.79,
+          "bank": 276.09
         }
       ]
     }
   ],
   "bank": {
-    "start": 192.22,
-    "stake": 1.92,
-    "end": 187.18
+    "start": 278.7,
+    "stake": 2.79,
+    "end": 276.09
   }
 }

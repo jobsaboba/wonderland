@@ -1,6 +1,6 @@
 {
   "date": "2026-07-02",
-  "updated": "2026-11-11T08:42:00+0000",
+  "updated": "2026-11-12T04:53:09+0000",
   "races": [
     {
       "time": "18:08",
@@ -21,9 +21,23 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 13.69,
-          "ret": -13.69,
-          "bank": 1355.7
+          "stake": 22.05,
+          "ret": -22.05,
+          "bank": 2182.74
+        },
+        {
+          "rank": 2,
+          "horse": "Billy Mill",
+          "jockey": "Kieren Fox",
+          "cd": 1,
+          "days": 22,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 21.83,
+          "ret": -21.83,
+          "bank": 2160.91
         }
       ]
     },
@@ -38,20 +52,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Brazen Idol",
-          "jockey": "Paddy Bradley",
-          "cd": 2,
-          "days": 9,
-          "odds": "5/1",
-          "mark": null,
-          "pos": 8,
-          "res": "LOSE",
-          "stake": 13.56,
-          "ret": -13.56,
-          "bank": 1342.14
-        },
-        {
-          "rank": 2,
           "horse": "Serenity Dream",
           "jockey": "Billy Loughnane",
           "cd": 1,
@@ -60,16 +60,44 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 13.42,
-          "ret": 13.42,
-          "bank": 1355.56
+          "stake": 21.61,
+          "ret": 21.61,
+          "bank": 2182.52
+        },
+        {
+          "rank": 2,
+          "horse": "Brazen Idol",
+          "jockey": "Paddy Bradley",
+          "cd": 2,
+          "days": 9,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 21.83,
+          "ret": -21.83,
+          "bank": 2160.69
+        },
+        {
+          "rank": 3,
+          "horse": "Massimo Blue",
+          "jockey": "N Callan",
+          "cd": 1,
+          "days": 9,
+          "odds": "20/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 21.61,
+          "ret": 108.05,
+          "bank": 2268.74
         }
       ]
     }
   ],
   "bank": {
-    "start": 1369.39,
-    "stake": 13.69,
-    "end": 1355.56
+    "start": 2204.79,
+    "stake": 22.05,
+    "end": 2268.74
   }
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-01-02",
-  "updated": "2026-11-11T08:41:47+0000",
+  "updated": "2026-11-12T04:52:54+0000",
   "races": [
     {
       "time": "14:12",
@@ -21,9 +21,23 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.12,
-          "ret": -0.12,
-          "bank": 11.7
+          "stake": 0.11,
+          "ret": -0.11,
+          "bank": 11.14
+        },
+        {
+          "rank": 2,
+          "horse": "Riot",
+          "jockey": "Rob Hornby",
+          "cd": 3,
+          "days": 15,
+          "odds": "22/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.11,
+          "ret": -0.11,
+          "bank": 11.03
         }
       ]
     },
@@ -38,20 +52,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Rising Force",
-          "jockey": "Dylan Hogan",
-          "cd": 1,
-          "days": 15,
-          "odds": "13/2",
-          "mark": null,
-          "pos": 6,
-          "res": "LOSE",
-          "stake": 0.12,
-          "ret": -0.12,
-          "bank": 11.58
-        },
-        {
-          "rank": 2,
           "horse": "Gladiadora",
           "jockey": "H Crouch",
           "cd": 1,
@@ -60,9 +60,23 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.12,
-          "ret": -0.12,
-          "bank": 11.46
+          "stake": 0.11,
+          "ret": -0.11,
+          "bank": 10.92
+        },
+        {
+          "rank": 2,
+          "horse": "Rising Force",
+          "jockey": "Dylan Hogan",
+          "cd": 1,
+          "days": 15,
+          "odds": "13/2",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.11,
+          "ret": -0.11,
+          "bank": 10.81
         }
       ]
     },
@@ -87,7 +101,46 @@
           "res": "LOSE",
           "stake": 0.11,
           "ret": -0.11,
-          "bank": 11.35
+          "bank": 10.7
+        },
+        {
+          "rank": 2,
+          "horse": "Buraback",
+          "jockey": "Joanna Mason",
+          "cd": 2,
+          "days": 15,
+          "odds": "18/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.11,
+          "ret": -0.11,
+          "bank": 10.59
+        }
+      ]
+    },
+    {
+      "time": "18:30",
+      "meeting": "Wolverhampton",
+      "name": "Read Meg Nicholls' Blog At betmgm.co.uk Handicap",
+      "class": "5",
+      "distance": "7f 36y",
+      "riders": 7,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "River Wharfe",
+          "jockey": "Matthew Slater",
+          "cd": 1,
+          "days": 18,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.11,
+          "ret": -0.11,
+          "bank": 10.48
         }
       ]
     },
@@ -110,9 +163,37 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
+          "stake": 0.1,
+          "ret": 0.3,
+          "bank": 10.78
+        },
+        {
+          "rank": 2,
+          "horse": "Ernie's Valentine",
+          "jockey": "Phoebe Edwards",
+          "cd": 2,
+          "days": 11,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
           "stake": 0.11,
-          "ret": 0.33,
-          "bank": 11.68
+          "ret": -0.11,
+          "bank": 10.67
+        },
+        {
+          "rank": 3,
+          "horse": "Lessay",
+          "jockey": "Paddy Bradley",
+          "cd": 1,
+          "days": 13,
+          "odds": "25/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.11,
+          "ret": -0.11,
+          "bank": 10.56
         }
       ]
     },
@@ -135,9 +216,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.12,
-          "ret": 0.12,
-          "bank": 11.8
+          "stake": 0.11,
+          "ret": 0.11,
+          "bank": 10.67
         },
         {
           "rank": 2,
@@ -149,9 +230,9 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.12,
-          "ret": -0.12,
-          "bank": 11.68
+          "stake": 0.11,
+          "ret": -0.11,
+          "bank": 10.56
         },
         {
           "rank": 3,
@@ -163,9 +244,48 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.12,
-          "ret": -0.12,
-          "bank": 11.56
+          "stake": 0.11,
+          "ret": -0.11,
+          "bank": 10.45
+        }
+      ]
+    },
+    {
+      "time": "20:00",
+      "meeting": "Wolverhampton",
+      "name": "Join The Midnite Movement Handicap (Div 1)",
+      "class": "6",
+      "distance": "1m 1f 104y",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Sense Of Worth",
+          "jockey": "D Swift",
+          "cd": 1,
+          "days": 15,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 0.1,
+          "ret": -0.1,
+          "bank": 10.35
+        },
+        {
+          "rank": 2,
+          "horse": "Prince Ali",
+          "jockey": "Zoe Lewis",
+          "cd": 3,
+          "days": 20,
+          "odds": "25/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.1,
+          "ret": -0.1,
+          "bank": 10.25
         }
       ]
     },
@@ -188,16 +308,30 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.12,
-          "ret": -0.12,
-          "bank": 11.44
+          "stake": 0.1,
+          "ret": -0.1,
+          "bank": 10.15
+        },
+        {
+          "rank": 2,
+          "horse": "Ciotog",
+          "jockey": "Jason Hart",
+          "cd": 2,
+          "days": 20,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.1,
+          "ret": -0.1,
+          "bank": 10.05
         }
       ]
     }
   ],
   "bank": {
-    "start": 11.82,
-    "stake": 0.12,
-    "end": 11.44
+    "start": 11.25,
+    "stake": 0.11,
+    "end": 10.05
   }
 }

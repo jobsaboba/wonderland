@@ -1,7 +1,46 @@
 {
   "date": "2026-10-23",
-  "updated": "2026-11-11T08:42:09+0000",
+  "updated": "2026-11-12T04:53:19+0000",
   "races": [
+    {
+      "time": "15:25",
+      "meeting": "Wolverhampton",
+      "name": "AW Trials Day - Lingfield 2nd January 2027 Handicap (Div 1)",
+      "class": "6",
+      "distance": "1m 142y",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Snaafy",
+          "jockey": "Rowan Scott",
+          "cd": 1,
+          "days": 17,
+          "odds": "20/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 67.95,
+          "ret": 339.75,
+          "bank": 7134.77
+        },
+        {
+          "rank": 2,
+          "horse": "Fools Rush In",
+          "jockey": "William Pyle",
+          "cd": 2,
+          "days": 23,
+          "odds": "33/1",
+          "mark": null,
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 71.35,
+          "ret": -71.35,
+          "bank": 7063.42
+        }
+      ]
+    },
     {
       "time": "16:00",
       "meeting": "Wolverhampton",
@@ -21,9 +60,115 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 38.3,
-          "ret": -38.3,
-          "bank": 3791.91
+          "stake": 70.63,
+          "ret": -70.63,
+          "bank": 6992.79
+        },
+        {
+          "rank": 2,
+          "horse": "San Juanito",
+          "jockey": "K T O'Neill",
+          "cd": 2,
+          "days": 14,
+          "odds": "18/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 69.93,
+          "ret": 314.69,
+          "bank": 7307.48
+        },
+        {
+          "rank": 3,
+          "horse": "Karakula Dancer",
+          "jockey": "Alice Bond",
+          "cd": 1,
+          "days": 23,
+          "odds": "20/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 73.07,
+          "ret": -73.07,
+          "bank": 7234.41
+        }
+      ]
+    },
+    {
+      "time": "16:45",
+      "meeting": "Dundalk",
+      "name": "Halloween Mid-Term Racing Next Week Apprentice Handicap",
+      "class": "",
+      "distance": "7f",
+      "riders": 17,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Comfort Line",
+          "jockey": "Camillus Byrne",
+          "cd": 2,
+          "days": 7,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 72.34,
+          "ret": -72.34,
+          "bank": 7162.07
+        },
+        {
+          "rank": 2,
+          "horse": "Battle Borne",
+          "jockey": "Nicola Burns",
+          "cd": 1,
+          "days": 14,
+          "odds": "28/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 71.62,
+          "ret": -71.62,
+          "bank": 7090.45
+        }
+      ]
+    },
+    {
+      "time": "17:15",
+      "meeting": "Dundalk",
+      "name": "Braham Electrical Handicap (0-60)",
+      "class": "",
+      "distance": "6f",
+      "riders": 17,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Inishmot Prince",
+          "jockey": "James Ryan",
+          "cd": 4,
+          "days": 21,
+          "odds": "25/1",
+          "mark": null,
+          "pos": 11,
+          "res": "LOSE",
+          "stake": 70.9,
+          "ret": -70.9,
+          "bank": 7019.55
+        },
+        {
+          "rank": 2,
+          "horse": "Dandyville",
+          "jockey": "Adam Browne-Souza",
+          "cd": 2,
+          "days": 23,
+          "odds": "33/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 70.2,
+          "ret": -70.2,
+          "bank": 6949.35
         }
       ]
     },
@@ -46,9 +191,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 37.92,
-          "ret": 126.4,
-          "bank": 3918.31
+          "stake": 69.49,
+          "ret": 231.63,
+          "bank": 7180.98
         }
       ]
     },
@@ -63,20 +208,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "R P Mcmurphy",
-          "jockey": "Jason Watson",
-          "cd": 3,
-          "days": 13,
-          "odds": "7/2",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 39.18,
-          "ret": 137.13,
-          "bank": 4055.44
-        },
-        {
-          "rank": 2,
           "horse": "It's A Love Thing",
           "jockey": "Jonny Peate",
           "cd": 3,
@@ -85,9 +216,23 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 40.55,
-          "ret": -40.55,
-          "bank": 4014.89
+          "stake": 71.81,
+          "ret": -71.81,
+          "bank": 7109.17
+        },
+        {
+          "rank": 2,
+          "horse": "R P Mcmurphy",
+          "jockey": "Jason Watson",
+          "cd": 3,
+          "days": 13,
+          "odds": "7/2",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 71.09,
+          "ret": 248.81,
+          "bank": 7357.98
         }
       ]
     },
@@ -110,9 +255,9 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 40.15,
-          "ret": -40.15,
-          "bank": 3974.74
+          "stake": 73.58,
+          "ret": -73.58,
+          "bank": 7284.4
         },
         {
           "rank": 2,
@@ -124,9 +269,9 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 39.75,
-          "ret": -39.75,
-          "bank": 3934.99
+          "stake": 72.84,
+          "ret": -72.84,
+          "bank": 7211.56
         }
       ]
     },
@@ -149,16 +294,30 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 39.35,
-          "ret": -39.35,
-          "bank": 3895.64
+          "stake": 72.12,
+          "ret": -72.12,
+          "bank": 7139.44
+        },
+        {
+          "rank": 2,
+          "horse": "Call Me Betty",
+          "jockey": "Sean Kirrane",
+          "cd": 1,
+          "days": 6,
+          "odds": "33/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 71.39,
+          "ret": -71.39,
+          "bank": 7068.05
         }
       ]
     }
   ],
   "bank": {
-    "start": 3830.21,
-    "stake": 38.3,
-    "end": 3895.64
+    "start": 6795.02,
+    "stake": 67.95,
+    "end": 7068.05
   }
 }

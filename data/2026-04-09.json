@@ -1,6 +1,6 @@
 {
   "date": "2026-04-09",
-  "updated": "2026-11-11T08:41:55+0000",
+  "updated": "2026-11-12T04:53:02+0000",
   "races": [
     {
       "time": "13:07",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 3.93,
-          "ret": -3.93,
-          "bank": 389.07
+          "stake": 5.53,
+          "ret": -5.53,
+          "bank": 547.88
         },
         {
           "rank": 2,
@@ -35,9 +35,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 3.89,
-          "ret": 4.86,
-          "bank": 393.93
+          "stake": 5.48,
+          "ret": 6.85,
+          "bank": 554.73
         }
       ]
     },
@@ -60,9 +60,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 3.94,
-          "ret": 17.73,
-          "bank": 411.66
+          "stake": 5.55,
+          "ret": 24.97,
+          "bank": 579.7
         }
       ]
     },
@@ -77,20 +77,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Ciotog",
-          "jockey": "Hope Regan",
-          "cd": 2,
-          "days": 4,
-          "odds": "17/2",
-          "mark": null,
-          "pos": 5,
-          "res": "LOSE",
-          "stake": 4.12,
-          "ret": -4.12,
-          "bank": 407.54
-        },
-        {
-          "rank": 2,
           "horse": "Port Noir",
           "jockey": "Rose Dawes",
           "cd": 3,
@@ -99,12 +85,12 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 4.08,
-          "ret": 12.24,
-          "bank": 419.78
+          "stake": 5.8,
+          "ret": 17.4,
+          "bank": 597.1
         },
         {
-          "rank": 3,
+          "rank": 2,
           "horse": "Crafter",
           "jockey": "Ethan Tindall",
           "cd": 2,
@@ -113,9 +99,23 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 4.2,
-          "ret": 3.5,
-          "bank": 423.28
+          "stake": 5.97,
+          "ret": 4.97,
+          "bank": 602.07
+        },
+        {
+          "rank": 3,
+          "horse": "Ciotog",
+          "jockey": "Hope Regan",
+          "cd": 2,
+          "days": 4,
+          "odds": "17/2",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 6.02,
+          "ret": -6.02,
+          "bank": 596.05
         }
       ]
     },
@@ -130,20 +130,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Henery Hawk",
-          "jockey": "Rhys Clutterbuck",
-          "cd": 2,
-          "days": 16,
-          "odds": "9/1",
-          "mark": null,
-          "pos": 6,
-          "res": "LOSE",
-          "stake": 4.23,
-          "ret": -4.23,
-          "bank": 419.05
-        },
-        {
-          "rank": 2,
           "horse": "Kento",
           "jockey": "Rossa Ryan",
           "cd": 3,
@@ -152,16 +138,69 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 4.19,
-          "ret": 3.14,
-          "bank": 422.19
+          "stake": 5.96,
+          "ret": 4.47,
+          "bank": 600.52
+        },
+        {
+          "rank": 2,
+          "horse": "Henery Hawk",
+          "jockey": "Rhys Clutterbuck",
+          "cd": 2,
+          "days": 16,
+          "odds": "9/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 6.01,
+          "ret": -6.01,
+          "bank": 594.51
+        }
+      ]
+    },
+    {
+      "time": "18:30",
+      "meeting": "Wolverhampton",
+      "name": "Free Bets On attheraces.com Handicap",
+      "class": "4",
+      "distance": "6f 20y",
+      "riders": 6,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Dyrholaey",
+          "jockey": "Harry Vigors",
+          "cd": 1,
+          "days": 17,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 3,
+          "res": "LOSE",
+          "stake": 5.95,
+          "ret": -5.95,
+          "bank": 588.56
+        },
+        {
+          "rank": 2,
+          "horse": "Tiger Crusade",
+          "jockey": "Callum Shepherd",
+          "cd": 1,
+          "days": 22,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 5.89,
+          "ret": -5.89,
+          "bank": 582.67
         }
       ]
     }
   ],
   "bank": {
-    "start": 393.0,
-    "stake": 3.93,
-    "end": 422.19
+    "start": 553.41,
+    "stake": 5.53,
+    "end": 582.67
   }
 }

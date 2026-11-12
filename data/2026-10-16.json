@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated": "2026-11-11T08:42:08+0000",
+  "updated": "2026-11-12T04:53:18+0000",
   "races": [
     {
       "time": "15:08",
@@ -21,9 +21,34 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 34.57,
-          "ret": -34.57,
-          "bank": 3422.56
+          "stake": 55.63,
+          "ret": -55.63,
+          "bank": 5507.28
+        }
+      ]
+    },
+    {
+      "time": "15:43",
+      "meeting": "Newcastle",
+      "name": "Northumbria Leisure For Gaming Machines Handicap (GBBPlus Race)",
+      "class": "4",
+      "distance": "1m 2f 42y",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Krissy",
+          "jockey": "Rhys Elliott",
+          "cd": 1,
+          "days": 17,
+          "odds": "25/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 55.07,
+          "ret": -55.07,
+          "bank": 5452.21
         }
       ]
     },
@@ -46,9 +71,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 34.23,
-          "ret": 34.23,
-          "bank": 3456.79
+          "stake": 54.52,
+          "ret": 54.52,
+          "bank": 5506.73
         }
       ]
     },
@@ -63,20 +88,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Dolos Dream",
-          "jockey": "Jack Callan",
-          "cd": 1,
-          "days": 13,
-          "odds": "17/2",
-          "mark": null,
-          "pos": 10,
-          "res": "LOSE",
-          "stake": 34.57,
-          "ret": -34.57,
-          "bank": 3422.22
-        },
-        {
-          "rank": 2,
           "horse": "Sports Coach",
           "jockey": "Cam Hardie",
           "cd": 1,
@@ -85,12 +96,12 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 34.22,
-          "ret": -34.22,
-          "bank": 3388.0
+          "stake": 55.07,
+          "ret": -55.07,
+          "bank": 5451.66
         },
         {
-          "rank": 3,
+          "rank": 2,
           "horse": "Paddy's Day",
           "jockey": "Alex Jary",
           "cd": 7,
@@ -99,9 +110,23 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 33.88,
-          "ret": 50.82,
-          "bank": 3438.82
+          "stake": 54.52,
+          "ret": 81.78,
+          "bank": 5533.44
+        },
+        {
+          "rank": 3,
+          "horse": "Dolos Dream",
+          "jockey": "Jack Callan",
+          "cd": 1,
+          "days": 13,
+          "odds": "17/2",
+          "mark": null,
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 55.33,
+          "ret": -55.33,
+          "bank": 5478.11
         }
       ]
     },
@@ -124,9 +149,9 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 34.39,
-          "ret": -34.39,
-          "bank": 3404.43
+          "stake": 54.78,
+          "ret": -54.78,
+          "bank": 5423.33
         }
       ]
     },
@@ -141,20 +166,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Crypto Quest",
-          "jockey": "K T O'Neill",
-          "cd": 1,
-          "days": 10,
-          "odds": "9/1",
-          "mark": null,
-          "pos": 10,
-          "res": "LOSE",
-          "stake": 34.04,
-          "ret": -34.04,
-          "bank": 3370.39
-        },
-        {
-          "rank": 2,
           "horse": "Zuffolo",
           "jockey": "Rhys Elliott",
           "cd": 2,
@@ -163,12 +174,12 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 33.7,
-          "ret": 63.19,
-          "bank": 3433.58
+          "stake": 54.23,
+          "ret": 101.68,
+          "bank": 5525.01
         },
         {
-          "rank": 3,
+          "rank": 2,
           "horse": "Shatin Venture",
           "jockey": "Tom Kiely-Marshall",
           "cd": 1,
@@ -177,9 +188,23 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 34.34,
-          "ret": 72.97,
-          "bank": 3506.55
+          "stake": 55.25,
+          "ret": 117.41,
+          "bank": 5642.42
+        },
+        {
+          "rank": 3,
+          "horse": "Crypto Quest",
+          "jockey": "K T O'Neill",
+          "cd": 1,
+          "days": 10,
+          "odds": "9/1",
+          "mark": null,
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 56.42,
+          "ret": -56.42,
+          "bank": 5586.0
         }
       ]
     },
@@ -202,16 +227,16 @@
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 35.07,
-          "ret": -35.07,
-          "bank": 3471.48
+          "stake": 55.86,
+          "ret": -55.86,
+          "bank": 5530.14
         }
       ]
     }
   ],
   "bank": {
-    "start": 3457.13,
-    "stake": 34.57,
-    "end": 3471.48
+    "start": 5562.91,
+    "stake": 55.63,
+    "end": 5530.14
   }
 }

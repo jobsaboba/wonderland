@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "updated": "2026-11-11T08:42:09+0000",
+  "updated": "2026-11-12T04:53:19+0000",
   "races": [
     {
       "time": "16:00",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 38.96,
-          "ret": 194.8,
-          "bank": 4090.44
+          "stake": 70.68,
+          "ret": 353.4,
+          "bank": 7421.45
         },
         {
           "rank": 2,
@@ -35,9 +35,87 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 40.9,
-          "ret": -40.9,
-          "bank": 4049.54
+          "stake": 74.21,
+          "ret": -74.21,
+          "bank": 7347.24
+        },
+        {
+          "rank": 3,
+          "horse": "Alondra",
+          "jockey": "K T O'Neill",
+          "cd": 1,
+          "days": 25,
+          "odds": "28/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 73.47,
+          "ret": -73.47,
+          "bank": 7273.77
+        }
+      ]
+    },
+    {
+      "time": "16:30",
+      "meeting": "Southwell",
+      "name": "Join The Midnite Movement Handicap",
+      "class": "6",
+      "distance": "1m 4f 14y",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Hickton",
+          "jockey": "Zak Wheatley",
+          "cd": 1,
+          "days": 26,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 72.74,
+          "ret": -72.74,
+          "bank": 7201.03
+        },
+        {
+          "rank": 2,
+          "horse": "Lednikov",
+          "jockey": "Elle-May Croot",
+          "cd": 3,
+          "days": 26,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 72.01,
+          "ret": -72.01,
+          "bank": 7129.02
+        }
+      ]
+    },
+    {
+      "time": "18:00",
+      "meeting": "Southwell",
+      "name": "AW Trials Day - Lingfield 2nd Jan 2027 Handicap",
+      "class": "6",
+      "distance": "1m 13y",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Dumfries",
+          "jockey": "William Pyle",
+          "cd": 1,
+          "days": 14,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 71.29,
+          "ret": 213.87,
+          "bank": 7342.89
         }
       ]
     },
@@ -60,9 +138,9 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 40.5,
-          "ret": -40.5,
-          "bank": 4009.04
+          "stake": 73.43,
+          "ret": -73.43,
+          "bank": 7269.46
         },
         {
           "rank": 2,
@@ -74,9 +152,9 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 40.09,
-          "ret": -40.09,
-          "bank": 3968.95
+          "stake": 72.69,
+          "ret": -72.69,
+          "bank": 7196.77
         },
         {
           "rank": 3,
@@ -88,9 +166,9 @@
           "mark": null,
           "pos": 10,
           "res": "LOSE",
-          "stake": 39.69,
-          "ret": -39.69,
-          "bank": 3929.26
+          "stake": 71.97,
+          "ret": -71.97,
+          "bank": 7124.8
         }
       ]
     },
@@ -113,16 +191,16 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 39.29,
-          "ret": -39.29,
-          "bank": 3889.97
+          "stake": 71.25,
+          "ret": -71.25,
+          "bank": 7053.55
         }
       ]
     }
   ],
   "bank": {
-    "start": 3895.64,
-    "stake": 38.96,
-    "end": 3889.97
+    "start": 7068.05,
+    "stake": 70.68,
+    "end": 7053.55
   }
 }

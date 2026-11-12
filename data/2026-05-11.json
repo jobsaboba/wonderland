@@ -1,6 +1,6 @@
 {
   "date": "2026-05-11",
-  "updated": "2026-11-11T08:41:57+0000",
+  "updated": "2026-11-12T04:53:05+0000",
   "races": [
     {
       "time": "18:00",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 7.35,
-          "ret": 6.12,
-          "bank": 741.17
+          "stake": 9.2,
+          "ret": 7.67,
+          "bank": 927.62
         }
       ]
     },
@@ -38,17 +38,17 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Brinton",
-          "jockey": "Rob Hornby",
+          "horse": "Arlecchino's Rex",
+          "jockey": "David Probert",
           "cd": 1,
-          "days": 12,
-          "odds": "8/1",
+          "days": 24,
+          "odds": "6/1",
           "mark": null,
-          "pos": 11,
-          "res": "LOSE",
-          "stake": 7.41,
-          "ret": -7.41,
-          "bank": 733.76
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 9.28,
+          "ret": 13.92,
+          "bank": 941.54
         },
         {
           "rank": 2,
@@ -60,30 +60,55 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 7.34,
-          "ret": -7.34,
-          "bank": 726.42
+          "stake": 9.42,
+          "ret": -9.42,
+          "bank": 932.12
         },
         {
           "rank": 3,
-          "horse": "Arlecchino's Rex",
-          "jockey": "David Probert",
+          "horse": "Brinton",
+          "jockey": "Rob Hornby",
           "cd": 1,
-          "days": 24,
-          "odds": "6/1",
+          "days": 12,
+          "odds": "8/1",
           "mark": null,
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 7.26,
-          "ret": 10.89,
-          "bank": 737.31
+          "pos": 11,
+          "res": "LOSE",
+          "stake": 9.32,
+          "ret": -9.32,
+          "bank": 922.8
+        }
+      ]
+    },
+    {
+      "time": "19:30",
+      "meeting": "Wolverhampton",
+      "name": "Racing Welfare Supporting Racing's Workforce Handicap",
+      "class": "6",
+      "distance": "1m 142y",
+      "riders": 13,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Aspire To Glory",
+          "jockey": "George Wood",
+          "cd": 1,
+          "days": 26,
+          "odds": "22/1",
+          "mark": null,
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 9.23,
+          "ret": -9.23,
+          "bank": 913.57
         }
       ]
     }
   ],
   "bank": {
-    "start": 735.05,
-    "stake": 7.35,
-    "end": 737.31
+    "start": 919.95,
+    "stake": 9.2,
+    "end": 913.57
   }
 }

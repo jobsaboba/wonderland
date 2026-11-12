@@ -1,6 +1,6 @@
 {
   "date": "2026-11-06",
-  "updated": "2026-11-11T08:42:10+0000",
+  "updated": "2026-11-12T04:53:20+0000",
   "races": [
     {
       "time": "14:53",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 45.61,
-          "ret": -45.61,
-          "bank": 4515.79
+          "stake": 66.19,
+          "ret": -66.19,
+          "bank": 6552.77
         }
       ]
     },
@@ -46,9 +46,37 @@
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 45.16,
-          "ret": -45.16,
-          "bank": 4470.63
+          "stake": 65.53,
+          "ret": -65.53,
+          "bank": 6487.24
+        },
+        {
+          "rank": 2,
+          "horse": "North West Gal",
+          "jockey": "Jason Hart",
+          "cd": 1,
+          "days": 21,
+          "odds": "22/1",
+          "mark": null,
+          "pos": 14,
+          "res": "LOSE",
+          "stake": 64.87,
+          "ret": -64.87,
+          "bank": 6422.37
+        },
+        {
+          "rank": 3,
+          "horse": "Herakles",
+          "jockey": "Ryan Sexton",
+          "cd": 3,
+          "days": 17,
+          "odds": "33/1",
+          "mark": null,
+          "pos": 12,
+          "res": "LOSE",
+          "stake": 64.22,
+          "ret": -64.22,
+          "bank": 6358.15
         }
       ]
     },
@@ -71,9 +99,23 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 44.71,
-          "ret": 78.24,
-          "bank": 4548.87
+          "stake": 63.58,
+          "ret": 111.27,
+          "bank": 6469.42
+        },
+        {
+          "rank": 2,
+          "horse": "Cloch Nua",
+          "jockey": "O J Orr",
+          "cd": 4,
+          "days": 20,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 64.69,
+          "ret": -64.69,
+          "bank": 6404.73
         }
       ]
     },
@@ -96,9 +138,48 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 45.49,
-          "ret": -45.49,
-          "bank": 4503.38
+          "stake": 64.05,
+          "ret": -64.05,
+          "bank": 6340.68
+        }
+      ]
+    },
+    {
+      "time": "18:30",
+      "meeting": "Newcastle",
+      "name": "Make The Move To Midnite Handicap (Div 1)",
+      "class": "6",
+      "distance": "6f",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Tactical Blitz",
+          "jockey": "C J Whiteley",
+          "cd": 2,
+          "days": 7,
+          "odds": "11/1",
+          "mark": -2,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 63.41,
+          "ret": -63.41,
+          "bank": 6277.27
+        },
+        {
+          "rank": 2,
+          "horse": "Winter Crown",
+          "jockey": "Billy Garritty",
+          "cd": 1,
+          "days": 7,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 62.77,
+          "ret": -62.77,
+          "bank": 6214.5
         }
       ]
     },
@@ -121,9 +202,23 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 45.03,
-          "ret": -45.03,
-          "bank": 4458.35
+          "stake": 62.15,
+          "ret": -62.15,
+          "bank": 6152.35
+        },
+        {
+          "rank": 2,
+          "horse": "Too Much",
+          "jockey": "Kaiya Fraser",
+          "cd": 1,
+          "days": 11,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 61.52,
+          "ret": 246.08,
+          "bank": 6398.43
         }
       ]
     },
@@ -146,9 +241,9 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 44.58,
-          "ret": -44.58,
-          "bank": 4413.77
+          "stake": 63.98,
+          "ret": -63.98,
+          "bank": 6334.45
         }
       ]
     },
@@ -171,16 +266,16 @@
           "mark": null,
           "pos": 11,
           "res": "LOSE",
-          "stake": 44.14,
-          "ret": -44.14,
-          "bank": 4369.63
+          "stake": 63.34,
+          "ret": -63.34,
+          "bank": 6271.11
         }
       ]
     }
   ],
   "bank": {
-    "start": 4561.4,
-    "stake": 45.61,
-    "end": 4369.63
+    "start": 6618.96,
+    "stake": 66.19,
+    "end": 6271.11
   }
 }

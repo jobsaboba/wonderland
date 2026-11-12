@@ -1,6 +1,6 @@
 {
   "date": "2026-02-14",
-  "updated": "2026-11-11T08:41:50+0000",
+  "updated": "2026-11-12T04:52:57+0000",
   "races": [
     {
       "time": "15:10",
@@ -13,20 +13,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Tiger Crusade",
-          "jockey": "Jack Dace",
-          "cd": 2,
-          "days": 3,
-          "odds": "8/1",
-          "mark": null,
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 0.89,
-          "ret": 1.78,
-          "bank": 90.71
-        },
-        {
-          "rank": 2,
           "horse": "Legal Reform",
           "jockey": "Edward Greatrex",
           "cd": 2,
@@ -35,9 +21,23 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.91,
-          "ret": -0.91,
-          "bank": 89.8
+          "stake": 1.64,
+          "ret": -1.64,
+          "bank": 162.42
+        },
+        {
+          "rank": 2,
+          "horse": "Tiger Crusade",
+          "jockey": "Jack Dace",
+          "cd": 2,
+          "days": 3,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 1.62,
+          "ret": 3.24,
+          "bank": 165.66
         }
       ]
     },
@@ -60,9 +60,9 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.9,
-          "ret": -0.9,
-          "bank": 88.9
+          "stake": 1.66,
+          "ret": -1.66,
+          "bank": 164.0
         }
       ]
     },
@@ -85,9 +85,23 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.89,
-          "ret": -0.89,
-          "bank": 88.01
+          "stake": 1.64,
+          "ret": -1.64,
+          "bank": 162.36
+        },
+        {
+          "rank": 2,
+          "horse": "Star Cast",
+          "jockey": "Kaiya Fraser",
+          "cd": 1,
+          "days": 21,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 1.62,
+          "ret": -1.62,
+          "bank": 160.74
         }
       ]
     },
@@ -110,26 +124,12 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.88,
-          "ret": 0.73,
-          "bank": 88.74
+          "stake": 1.61,
+          "ret": 1.34,
+          "bank": 162.08
         },
         {
           "rank": 2,
-          "horse": "Teardrops",
-          "jockey": "George Wood",
-          "cd": 3,
-          "days": 10,
-          "odds": "10/1",
-          "mark": null,
-          "pos": 10,
-          "res": "LOSE",
-          "stake": 0.89,
-          "ret": -0.89,
-          "bank": 87.85
-        },
-        {
-          "rank": 3,
           "horse": "Yorkshire Glory",
           "jockey": "A Mullen",
           "cd": 3,
@@ -138,9 +138,23 @@
           "mark": -13,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.88,
-          "ret": 4.4,
-          "bank": 92.25
+          "stake": 1.62,
+          "ret": 8.1,
+          "bank": 170.18
+        },
+        {
+          "rank": 3,
+          "horse": "Mayo County",
+          "jockey": "Tom Kiely-Marshall",
+          "cd": 1,
+          "days": 22,
+          "odds": "7/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 1.7,
+          "ret": -1.7,
+          "bank": 168.48
         }
       ]
     },
@@ -163,16 +177,16 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.92,
-          "ret": 3.22,
-          "bank": 95.47
+          "stake": 1.68,
+          "ret": 5.88,
+          "bank": 174.36
         }
       ]
     }
   ],
   "bank": {
-    "start": 88.93,
-    "stake": 0.89,
-    "end": 95.47
+    "start": 164.06,
+    "stake": 1.64,
+    "end": 174.36
   }
 }

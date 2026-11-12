@@ -1,6 +1,6 @@
 {
   "date": "2026-01-28",
-  "updated": "2026-11-11T08:41:49+0000",
+  "updated": "2026-11-12T04:52:56+0000",
   "races": [
     {
       "time": "15:02",
@@ -21,26 +21,12 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.39,
-          "ret": 0.39,
-          "bank": 39.07
+          "stake": 0.69,
+          "ret": 0.69,
+          "bank": 69.51
         },
         {
           "rank": 2,
-          "horse": "Inishmot Prince",
-          "jockey": "James Ryan",
-          "cd": 3,
-          "days": 19,
-          "odds": "7/1",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.39,
-          "ret": 2.73,
-          "bank": 41.8
-        },
-        {
-          "rank": 3,
           "horse": "Sporting Hero",
           "jockey": "Mel Sheridan",
           "cd": 3,
@@ -49,9 +35,23 @@
           "mark": null,
           "pos": 11,
           "res": "LOSE",
-          "stake": 0.42,
-          "ret": -0.42,
-          "bank": 41.38
+          "stake": 0.7,
+          "ret": -0.7,
+          "bank": 68.81
+        },
+        {
+          "rank": 3,
+          "horse": "Inishmot Prince",
+          "jockey": "James Ryan",
+          "cd": 3,
+          "days": 19,
+          "odds": "7/1",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.69,
+          "ret": 4.83,
+          "bank": 73.64
         }
       ]
     },
@@ -74,9 +74,9 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.41,
-          "ret": -0.41,
-          "bank": 40.97
+          "stake": 0.74,
+          "ret": -0.74,
+          "bank": 72.9
         }
       ]
     },
@@ -99,9 +99,23 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.41,
-          "ret": 2.46,
-          "bank": 43.43
+          "stake": 0.73,
+          "ret": 4.38,
+          "bank": 77.28
+        },
+        {
+          "rank": 2,
+          "horse": "Venetian",
+          "jockey": "Reese Holohan",
+          "cd": 2,
+          "days": 12,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.77,
+          "ret": -0.77,
+          "bank": 76.51
         }
       ]
     },
@@ -124,9 +138,23 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.43,
-          "ret": -0.43,
-          "bank": 43.0
+          "stake": 0.77,
+          "ret": -0.77,
+          "bank": 75.74
+        },
+        {
+          "rank": 2,
+          "horse": "Up The Anti",
+          "jockey": "Miss S L Bowen",
+          "cd": 1,
+          "days": 11,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.76,
+          "ret": -0.76,
+          "bank": 74.98
         }
       ]
     },
@@ -149,9 +177,34 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.43,
-          "ret": 0.75,
-          "bank": 43.75
+          "stake": 0.75,
+          "ret": 1.31,
+          "bank": 76.29
+        }
+      ]
+    },
+    {
+      "time": "18:30",
+      "meeting": "Kempton",
+      "name": "Unibet 40,000+ Live Streamed Events Handicap",
+      "class": "6",
+      "distance": "1m",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Adace",
+          "jockey": "J F Egan",
+          "cd": 1,
+          "days": 14,
+          "odds": "28/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.76,
+          "ret": -0.76,
+          "bank": 75.53
         }
       ]
     },
@@ -174,16 +227,16 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.44,
-          "ret": -0.44,
-          "bank": 43.31
+          "stake": 0.76,
+          "ret": -0.76,
+          "bank": 74.77
         }
       ]
     }
   ],
   "bank": {
-    "start": 38.68,
-    "stake": 0.39,
-    "end": 43.31
+    "start": 68.82,
+    "stake": 0.69,
+    "end": 74.77
   }
 }

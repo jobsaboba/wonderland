@@ -1,6 +1,6 @@
 {
   "date": "2026-02-23",
-  "updated": "2026-11-11T08:41:51+0000",
+  "updated": "2026-11-12T04:52:58+0000",
   "races": [
     {
       "time": "16:25",
@@ -13,20 +13,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Woodhay Whisper",
-          "jockey": "Jack Nicholls",
-          "cd": 2,
-          "days": 6,
-          "odds": "8/1",
-          "mark": null,
-          "pos": 8,
-          "res": "LOSE",
-          "stake": 1.14,
-          "ret": -1.14,
-          "bank": 112.91
-        },
-        {
-          "rank": 2,
           "horse": "Twilight Madness",
           "jockey": "Taryn Langley",
           "cd": 1,
@@ -35,9 +21,37 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 1.13,
-          "ret": 1.84,
-          "bank": 114.75
+          "stake": 1.74,
+          "ret": 2.83,
+          "bank": 176.44
+        },
+        {
+          "rank": 2,
+          "horse": "Woodhay Whisper",
+          "jockey": "Jack Nicholls",
+          "cd": 2,
+          "days": 6,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 1.76,
+          "ret": -1.76,
+          "bank": 174.68
+        },
+        {
+          "rank": 3,
+          "horse": "Midnight Call",
+          "jockey": "Matthew Slater",
+          "cd": 2,
+          "days": 27,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 1.75,
+          "ret": -1.75,
+          "bank": 172.93
         }
       ]
     },
@@ -60,26 +74,12 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 1.15,
-          "ret": -1.15,
-          "bank": 113.6
+          "stake": 1.73,
+          "ret": -1.73,
+          "bank": 171.2
         },
         {
           "rank": 2,
-          "horse": "Porfin",
-          "jockey": "Connor Planas",
-          "cd": 2,
-          "days": 14,
-          "odds": "10/1",
-          "mark": null,
-          "pos": 10,
-          "res": "LOSE",
-          "stake": 1.14,
-          "ret": -1.14,
-          "bank": 112.46
-        },
-        {
-          "rank": 3,
           "horse": "Von Krolock",
           "jockey": "Ashley Lewis",
           "cd": 2,
@@ -88,9 +88,23 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 1.12,
-          "ret": 1.54,
-          "bank": 114.0
+          "stake": 1.71,
+          "ret": 2.35,
+          "bank": 173.55
+        },
+        {
+          "rank": 3,
+          "horse": "Porfin",
+          "jockey": "Connor Planas",
+          "cd": 2,
+          "days": 14,
+          "odds": "10/1",
+          "mark": null,
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 1.74,
+          "ret": -1.74,
+          "bank": 171.81
         }
       ]
     },
@@ -113,16 +127,16 @@
           "mark": -3,
           "pos": 1,
           "res": "WIN",
-          "stake": 1.14,
-          "ret": 3.8,
-          "bank": 117.8
+          "stake": 1.72,
+          "ret": 5.73,
+          "bank": 177.54
         }
       ]
     }
   ],
   "bank": {
-    "start": 114.05,
-    "stake": 1.14,
-    "end": 117.8
+    "start": 173.61,
+    "stake": 1.74,
+    "end": 177.54
   }
 }

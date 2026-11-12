@@ -1,6 +1,6 @@
 {
   "date": "2026-03-30",
-  "updated": "2026-11-11T08:41:54+0000",
+  "updated": "2026-11-12T04:53:01+0000",
   "races": [
     {
       "time": "16:30",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 2.78,
-          "ret": 25.02,
-          "bank": 303.43
+          "stake": 3.77,
+          "ret": 33.93,
+          "bank": 411.33
         }
       ]
     },
@@ -46,9 +46,37 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 3.03,
-          "ret": -3.03,
-          "bank": 300.4
+          "stake": 4.11,
+          "ret": -4.11,
+          "bank": 407.22
+        },
+        {
+          "rank": 2,
+          "horse": "Tribal Wisdom",
+          "jockey": "David Probert",
+          "cd": 4,
+          "days": 17,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 4.07,
+          "ret": -4.07,
+          "bank": 403.15
+        },
+        {
+          "rank": 3,
+          "horse": "Ernie's Valentine",
+          "jockey": "Phoebe Edwards",
+          "cd": 2,
+          "days": 10,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 4.03,
+          "ret": -4.03,
+          "bank": 399.12
         }
       ]
     },
@@ -71,9 +99,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 3.0,
-          "ret": 4.12,
-          "bank": 304.52
+          "stake": 3.99,
+          "ret": 5.49,
+          "bank": 404.61
         }
       ]
     },
@@ -88,34 +116,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Sceptic",
-          "jockey": "P Mulrennan",
-          "cd": 1,
-          "days": 10,
-          "odds": "9/2",
-          "mark": null,
-          "pos": 5,
-          "res": "LOSE",
-          "stake": 3.05,
-          "ret": -3.05,
-          "bank": 301.47
-        },
-        {
-          "rank": 2,
-          "horse": "Arlecchino's Rex",
-          "jockey": "Jason Watson",
-          "cd": 1,
-          "days": 13,
-          "odds": "17/2",
-          "mark": null,
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 3.01,
-          "ret": 6.4,
-          "bank": 307.87
-        },
-        {
-          "rank": 3,
           "horse": "Captain Pickles",
           "jockey": "S Donohoe",
           "cd": 1,
@@ -124,16 +124,44 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 3.08,
-          "ret": 10.27,
-          "bank": 318.14
+          "stake": 4.05,
+          "ret": 13.5,
+          "bank": 418.11
+        },
+        {
+          "rank": 2,
+          "horse": "Sceptic",
+          "jockey": "P Mulrennan",
+          "cd": 1,
+          "days": 10,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 4.18,
+          "ret": -4.18,
+          "bank": 413.93
+        },
+        {
+          "rank": 3,
+          "horse": "Arlecchino's Rex",
+          "jockey": "Jason Watson",
+          "cd": 1,
+          "days": 13,
+          "odds": "17/2",
+          "mark": null,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 4.14,
+          "ret": 8.8,
+          "bank": 422.73
         }
       ]
     }
   ],
   "bank": {
-    "start": 278.41,
-    "stake": 2.78,
-    "end": 318.14
+    "start": 377.4,
+    "stake": 3.77,
+    "end": 422.73
   }
 }

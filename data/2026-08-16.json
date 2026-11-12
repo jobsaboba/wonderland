@@ -1,7 +1,32 @@
 {
   "date": "2026-08-16",
-  "updated": "2026-11-11T08:42:04+0000",
+  "updated": "2026-11-12T04:53:13+0000",
   "races": [
+    {
+      "time": "13:00",
+      "meeting": "Southwell",
+      "name": "Fraser Plus Designer Outlet East Midlands Handicap",
+      "class": "6",
+      "distance": "1m 13y",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Create",
+          "jockey": "K T O'Neill",
+          "cd": 3,
+          "days": 19,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 11,
+          "res": "LOSE",
+          "stake": 33.29,
+          "ret": -33.29,
+          "bank": 3296.03
+        }
+      ]
+    },
     {
       "time": "16:10",
       "meeting": "Southwell",
@@ -21,16 +46,44 @@
           "mark": -5,
           "pos": 1,
           "res": "WIN",
-          "stake": 16.93,
-          "ret": 84.65,
-          "bank": 1777.68
+          "stake": 32.96,
+          "ret": 164.8,
+          "bank": 3460.83
+        },
+        {
+          "rank": 2,
+          "horse": "Toptime",
+          "jockey": "Joe Bradnam",
+          "cd": 1,
+          "days": 27,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 34.61,
+          "ret": 103.83,
+          "bank": 3564.66
+        },
+        {
+          "rank": 3,
+          "horse": "Starsong",
+          "jockey": "Jude Maher",
+          "cd": 1,
+          "days": 21,
+          "odds": "33/1",
+          "mark": null,
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 35.65,
+          "ret": -35.65,
+          "bank": 3529.01
         }
       ]
     }
   ],
   "bank": {
-    "start": 1693.03,
-    "stake": 16.93,
-    "end": 1777.68
+    "start": 3329.32,
+    "stake": 33.29,
+    "end": 3529.01
   }
 }

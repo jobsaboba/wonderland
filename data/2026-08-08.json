@@ -1,10 +1,36 @@
 {
   "date": "2026-08-08",
-  "updated": "2026-11-11T08:42:03+0000",
-  "races": [],
+  "updated": "2026-11-12T04:53:13+0000",
+  "races": [
+    {
+      "time": "18:40",
+      "meeting": "Lingfield",
+      "name": "Hewanorra Handicap",
+      "class": "4",
+      "distance": "7f 1y",
+      "riders": 7,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Port Road",
+          "jockey": "Harry Davies",
+          "cd": 1,
+          "days": 28,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 34.22,
+          "ret": -34.22,
+          "bank": 3388.27
+        }
+      ]
+    }
+  ],
   "bank": {
-    "start": 10.0,
-    "stake": 0.1,
-    "end": 10.0
+    "start": 3422.49,
+    "stake": 34.22,
+    "end": 3388.27
   }
 }

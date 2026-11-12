@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "updated": "2026-11-11T08:42:02+0000",
+  "updated": "2026-11-12T04:53:11+0000",
   "races": [
     {
       "time": "17:30",
@@ -21,9 +21,76 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 14.65,
-          "ret": 36.62,
-          "bank": 1501.82
+          "stake": 24.66,
+          "ret": 61.65,
+          "bank": 2527.22
+        },
+        {
+          "rank": 2,
+          "horse": "Imola",
+          "jockey": "Tom Kiely-Marshall",
+          "cd": 2,
+          "days": 15,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 11,
+          "res": "LOSE",
+          "stake": 25.27,
+          "ret": -25.27,
+          "bank": 2501.95
+        },
+        {
+          "rank": 3,
+          "horse": "Eagle Day",
+          "jockey": "P Cosgrave",
+          "cd": 5,
+          "days": 14,
+          "odds": "25/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 25.02,
+          "ret": -25.02,
+          "bank": 2476.93
+        }
+      ]
+    },
+    {
+      "time": "19:00",
+      "meeting": "Wolverhampton",
+      "name": "Book To Stay - Wolverhampton Holiday Inn Handicap (Div 2)",
+      "class": "6",
+      "distance": "7f 36y",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Electrocution",
+          "jockey": "Joey Haynes",
+          "cd": 1,
+          "days": 21,
+          "odds": "22/1",
+          "mark": null,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 24.77,
+          "ret": -24.77,
+          "bank": 2452.16
+        },
+        {
+          "rank": 2,
+          "horse": "Crown The Future",
+          "jockey": "Molly Gunn",
+          "cd": 1,
+          "days": 15,
+          "odds": "25/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 24.52,
+          "ret": -24.52,
+          "bank": 2427.64
         }
       ]
     },
@@ -46,16 +113,30 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 15.02,
-          "ret": 13.14,
-          "bank": 1514.96
+          "stake": 24.28,
+          "ret": 21.25,
+          "bank": 2448.89
+        },
+        {
+          "rank": 2,
+          "horse": "White Umbrella",
+          "jockey": "Christian Howarth",
+          "cd": 3,
+          "days": 23,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 24.49,
+          "ret": -24.49,
+          "bank": 2424.4
         }
       ]
     }
   ],
   "bank": {
-    "start": 1465.2,
-    "stake": 14.65,
-    "end": 1514.96
+    "start": 2465.57,
+    "stake": 24.66,
+    "end": 2424.4
   }
 }

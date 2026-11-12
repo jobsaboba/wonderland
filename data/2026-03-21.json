@@ -1,6 +1,6 @@
 {
   "date": "2026-03-21",
-  "updated": "2026-11-11T08:41:53+0000",
+  "updated": "2026-11-12T04:53:00+0000",
   "races": [
     {
       "time": "13:43",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 2.6,
-          "ret": 11.7,
-          "bank": 271.63
+          "stake": 3.43,
+          "ret": 15.44,
+          "bank": 358.08
         }
       ]
     },
@@ -46,9 +46,23 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 2.72,
-          "ret": 16.32,
-          "bank": 287.95
+          "stake": 3.58,
+          "ret": 21.48,
+          "bank": 379.56
+        },
+        {
+          "rank": 2,
+          "horse": "Create",
+          "jockey": "K T O'Neill",
+          "cd": 3,
+          "days": 17,
+          "odds": "18/1",
+          "mark": null,
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 3.8,
+          "ret": -3.8,
+          "bank": 375.76
         }
       ]
     },
@@ -71,9 +85,23 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 2.88,
-          "ret": -2.88,
-          "bank": 285.07
+          "stake": 3.76,
+          "ret": -3.76,
+          "bank": 372.0
+        },
+        {
+          "rank": 2,
+          "horse": "Ziggy's Triton",
+          "jockey": "Saffie Osborne",
+          "cd": 2,
+          "days": 17,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 3.72,
+          "ret": -3.72,
+          "bank": 368.28
         }
       ]
     },
@@ -96,9 +124,9 @@
           "mark": null,
           "pos": 3,
           "res": "LOSE",
-          "stake": 2.85,
-          "ret": -2.85,
-          "bank": 282.22
+          "stake": 3.68,
+          "ret": -3.68,
+          "bank": 364.6
         }
       ]
     },
@@ -113,34 +141,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Ash Wednesday",
-          "jockey": "J Mitchell",
-          "cd": 2,
-          "days": 10,
-          "odds": "5/1",
-          "mark": null,
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 2.82,
-          "ret": 3.52,
-          "bank": 285.74
-        },
-        {
-          "rank": 2,
-          "horse": "King Of York",
-          "jockey": "K T O'Neill",
-          "cd": 5,
-          "days": 11,
-          "odds": "9/1",
-          "mark": null,
-          "pos": 5,
-          "res": "LOSE",
-          "stake": 2.86,
-          "ret": -2.86,
-          "bank": 282.88
-        },
-        {
-          "rank": 3,
           "horse": "Grabajabba",
           "jockey": "Alistair Rawlinson",
           "cd": 1,
@@ -149,9 +149,37 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 2.83,
-          "ret": 3.18,
-          "bank": 286.06
+          "stake": 3.65,
+          "ret": 4.11,
+          "bank": 368.71
+        },
+        {
+          "rank": 2,
+          "horse": "Ash Wednesday",
+          "jockey": "J Mitchell",
+          "cd": 2,
+          "days": 10,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 3.69,
+          "ret": 4.61,
+          "bank": 373.32
+        },
+        {
+          "rank": 3,
+          "horse": "King Of York",
+          "jockey": "K T O'Neill",
+          "cd": 5,
+          "days": 11,
+          "odds": "9/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 3.73,
+          "ret": -3.73,
+          "bank": 369.59
         }
       ]
     },
@@ -166,20 +194,6 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Tasever",
-          "jockey": "Billy Loughnane",
-          "cd": 4,
-          "days": 15,
-          "odds": "8/1",
-          "mark": null,
-          "pos": 8,
-          "res": "LOSE",
-          "stake": 2.86,
-          "ret": -2.86,
-          "bank": 283.2
-        },
-        {
-          "rank": 2,
           "horse": "Selection",
           "jockey": "Jason Hart",
           "cd": 1,
@@ -188,9 +202,37 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 2.83,
-          "ret": 3.18,
-          "bank": 286.38
+          "stake": 3.7,
+          "ret": 4.16,
+          "bank": 373.75
+        },
+        {
+          "rank": 2,
+          "horse": "Tasever",
+          "jockey": "Billy Loughnane",
+          "cd": 4,
+          "days": 15,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 3.74,
+          "ret": -3.74,
+          "bank": 370.01
+        },
+        {
+          "rank": 3,
+          "horse": "Concert Boy",
+          "jockey": "Hollie Doyle",
+          "cd": 2,
+          "days": 9,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 3.7,
+          "ret": -3.7,
+          "bank": 366.31
         }
       ]
     },
@@ -213,9 +255,9 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 2.86,
-          "ret": -2.86,
-          "bank": 283.52
+          "stake": 3.66,
+          "ret": -3.66,
+          "bank": 362.65
         }
       ]
     },
@@ -230,17 +272,17 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Spun To Gold",
-          "jockey": "Shay Farmer",
-          "cd": 2,
-          "days": 9,
-          "odds": "5/1",
+          "horse": "Andalprofit",
+          "jockey": "Joe Bradnam",
+          "cd": 1,
+          "days": 15,
+          "odds": "7/2",
           "mark": null,
-          "pos": 5,
-          "res": "LOSE",
-          "stake": 2.84,
-          "ret": -2.84,
-          "bank": 280.68
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 3.63,
+          "ret": 3.18,
+          "bank": 365.83
         },
         {
           "rank": 2,
@@ -252,30 +294,30 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 2.81,
-          "ret": 3.16,
-          "bank": 283.84
+          "stake": 3.66,
+          "ret": 4.12,
+          "bank": 369.95
         },
         {
           "rank": 3,
-          "horse": "Andalprofit",
-          "jockey": "Joe Bradnam",
-          "cd": 1,
-          "days": 15,
-          "odds": "7/2",
+          "horse": "Spun To Gold",
+          "jockey": "Shay Farmer",
+          "cd": 2,
+          "days": 9,
+          "odds": "5/1",
           "mark": null,
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 2.84,
-          "ret": 2.48,
-          "bank": 286.32
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 3.7,
+          "ret": -3.7,
+          "bank": 366.25
         }
       ]
     }
   ],
   "bank": {
-    "start": 259.93,
-    "stake": 2.6,
-    "end": 286.32
+    "start": 342.64,
+    "stake": 3.43,
+    "end": 366.25
   }
 }

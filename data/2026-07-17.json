@@ -1,6 +1,6 @@
 {
   "date": "2026-07-17",
-  "updated": "2026-11-11T08:42:02+0000",
+  "updated": "2026-11-12T04:53:11+0000",
   "races": [
     {
       "time": "13:43",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 13.91,
-          "ret": 104.33,
-          "bank": 1494.95
+          "stake": 23.64,
+          "ret": 177.3,
+          "bank": 2541.04
         },
         {
           "rank": 2,
@@ -35,9 +35,23 @@
           "mark": null,
           "pos": 11,
           "res": "LOSE",
-          "stake": 14.95,
-          "ret": -14.95,
-          "bank": 1480.0
+          "stake": 25.41,
+          "ret": -25.41,
+          "bank": 2515.63
+        },
+        {
+          "rank": 3,
+          "horse": "Hierarchy",
+          "jockey": "William Carver",
+          "cd": 1,
+          "days": 24,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 25.16,
+          "ret": -25.16,
+          "bank": 2490.47
         }
       ]
     },
@@ -60,16 +74,16 @@
           "mark": null,
           "pos": 11,
           "res": "LOSE",
-          "stake": 14.8,
-          "ret": -14.8,
-          "bank": 1465.2
+          "stake": 24.9,
+          "ret": -24.9,
+          "bank": 2465.57
         }
       ]
     }
   ],
   "bank": {
-    "start": 1390.62,
-    "stake": 13.91,
-    "end": 1465.2
+    "start": 2363.74,
+    "stake": 23.64,
+    "end": 2465.57
   }
 }

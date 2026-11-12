@@ -1,6 +1,6 @@
 {
   "date": "2026-09-19",
-  "updated": "2026-11-11T08:42:06+0000",
+  "updated": "2026-11-12T04:53:16+0000",
   "races": [
     {
       "time": "15:10",
@@ -21,9 +21,34 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 24.84,
-          "ret": -24.84,
-          "bank": 2459.05
+          "stake": 48.91,
+          "ret": -48.91,
+          "bank": 4842.04
+        }
+      ]
+    },
+    {
+      "time": "17:30",
+      "meeting": "Newcastle",
+      "name": "Mini Golf At High Gosforth Park Handicap",
+      "class": "5",
+      "distance": "5f",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Blue Force",
+          "jockey": "Harry Russell",
+          "cd": 2,
+          "days": 12,
+          "odds": "25/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 48.42,
+          "ret": -48.42,
+          "bank": 4793.62
         }
       ]
     },
@@ -46,9 +71,48 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 24.59,
-          "ret": -24.59,
-          "bank": 2434.46
+          "stake": 47.94,
+          "ret": -47.94,
+          "bank": 4745.68
+        },
+        {
+          "rank": 2,
+          "horse": "Too Much",
+          "jockey": "Aiden Brookes",
+          "cd": 1,
+          "days": 16,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 47.46,
+          "ret": -47.46,
+          "bank": 4698.22
+        }
+      ]
+    },
+    {
+      "time": "19:00",
+      "meeting": "Newcastle",
+      "name": "Get Raceday Ready Handicap",
+      "class": "6",
+      "distance": "5f",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Khabib",
+          "jockey": "C Horgan",
+          "cd": 2,
+          "days": 16,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 46.98,
+          "ret": -46.98,
+          "bank": 4651.24
         }
       ]
     },
@@ -71,9 +135,9 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 24.34,
-          "ret": 21.3,
-          "bank": 2455.76
+          "stake": 46.51,
+          "ret": 40.7,
+          "bank": 4691.94
         },
         {
           "rank": 2,
@@ -85,16 +149,16 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 24.56,
-          "ret": -24.56,
-          "bank": 2431.2
+          "stake": 46.92,
+          "ret": -46.92,
+          "bank": 4645.02
         }
       ]
     }
   ],
   "bank": {
-    "start": 2483.89,
-    "stake": 24.84,
-    "end": 2431.2
+    "start": 4890.95,
+    "stake": 48.91,
+    "end": 4645.02
   }
 }

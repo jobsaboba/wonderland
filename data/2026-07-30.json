@@ -1,7 +1,32 @@
 {
   "date": "2026-07-30",
-  "updated": "2026-11-11T08:42:03+0000",
+  "updated": "2026-11-12T04:53:12+0000",
   "races": [
+    {
+      "time": "15:35",
+      "meeting": "Wolverhampton",
+      "name": "Book To Stay- Wolverhampton Holiday Inn Handicap",
+      "class": "6",
+      "distance": "5f 21y",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Sands of Seve",
+          "jockey": "Darragh Keenan",
+          "cd": 1,
+          "days": 10,
+          "odds": "18/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 22.37,
+          "ret": -22.37,
+          "bank": 2214.52
+        }
+      ]
+    },
     {
       "time": "16:10",
       "meeting": "Wolverhampton",
@@ -21,9 +46,9 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 14.7,
-          "ret": -14.7,
-          "bank": 1455.11
+          "stake": 22.15,
+          "ret": -22.15,
+          "bank": 2192.37
         },
         {
           "rank": 2,
@@ -35,9 +60,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 14.55,
-          "ret": 72.75,
-          "bank": 1527.86
+          "stake": 21.92,
+          "ret": 109.6,
+          "bank": 2301.97
         }
       ]
     },
@@ -60,9 +85,23 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 15.28,
-          "ret": -15.28,
-          "bank": 1512.58
+          "stake": 23.02,
+          "ret": -23.02,
+          "bank": 2278.95
+        },
+        {
+          "rank": 2,
+          "horse": "White Umbrella",
+          "jockey": "William Carver",
+          "cd": 1,
+          "days": 9,
+          "odds": "33/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 22.79,
+          "ret": -22.79,
+          "bank": 2256.16
         }
       ]
     },
@@ -85,16 +124,44 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 15.13,
-          "ret": 17.02,
-          "bank": 1529.6
+          "stake": 22.56,
+          "ret": 25.38,
+          "bank": 2281.54
+        },
+        {
+          "rank": 2,
+          "horse": "Manton Road",
+          "jockey": "Jonny Peate",
+          "cd": 1,
+          "days": 17,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 22.82,
+          "ret": 319.48,
+          "bank": 2601.02
+        },
+        {
+          "rank": 3,
+          "horse": "Mythical Isle",
+          "jockey": "Paddy Bradley",
+          "cd": 1,
+          "days": 24,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 26.01,
+          "ret": -26.01,
+          "bank": 2575.01
         }
       ]
     }
   ],
   "bank": {
-    "start": 1469.81,
-    "stake": 14.7,
-    "end": 1529.6
+    "start": 2236.89,
+    "stake": 22.37,
+    "end": 2575.01
   }
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-01-15",
-  "updated": "2026-11-11T08:41:48+0000",
+  "updated": "2026-11-12T04:52:55+0000",
   "races": [
     {
       "time": "18:00",
@@ -21,9 +21,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.18,
-          "ret": 0.38,
-          "bank": 18.74
+          "stake": 0.15,
+          "ret": 0.32,
+          "bank": 15.19
         }
       ]
     },
@@ -46,16 +46,41 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.19,
-          "ret": 0.38,
-          "bank": 19.12
+          "stake": 0.15,
+          "ret": 0.3,
+          "bank": 15.49
+        }
+      ]
+    },
+    {
+      "time": "20:30",
+      "meeting": "Chelmsford City",
+      "name": "Easter Festival Handicap (GBBPlus Race)",
+      "class": "4",
+      "distance": "1m 2f",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "War Chant",
+          "jockey": "Rob Hornby",
+          "cd": 1,
+          "days": 28,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.15,
+          "ret": -0.15,
+          "bank": 15.34
         }
       ]
     }
   ],
   "bank": {
-    "start": 18.36,
-    "stake": 0.18,
-    "end": 19.12
+    "start": 14.87,
+    "stake": 0.15,
+    "end": 15.34
   }
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated": "2026-11-11T08:42:08+0000",
+  "updated": "2026-11-12T04:53:18+0000",
   "races": [
     {
       "time": "15:30",
@@ -21,9 +21,34 @@
           "mark": null,
           "pos": 13,
           "res": "LOSE",
-          "stake": 35.27,
-          "ret": -35.27,
-          "bank": 3492.05
+          "stake": 57.91,
+          "ret": -57.91,
+          "bank": 5733.19
+        }
+      ]
+    },
+    {
+      "time": "17:00",
+      "meeting": "Southwell",
+      "name": "Follow AtTheRaces On X Handicap (Div 1)",
+      "class": "6",
+      "distance": "7f 14y",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Turbo Command",
+          "jockey": "P Mulrennan",
+          "cd": 3,
+          "days": 20,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 12,
+          "res": "LOSE",
+          "stake": 57.33,
+          "ret": -57.33,
+          "bank": 5675.86
         }
       ]
     },
@@ -46,16 +71,41 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 34.92,
-          "ret": -34.92,
-          "bank": 3457.13
+          "stake": 56.76,
+          "ret": -56.76,
+          "bank": 5619.1
+        }
+      ]
+    },
+    {
+      "time": "18:30",
+      "meeting": "Southwell",
+      "name": "attheraces.com/marketmovers Handicap",
+      "class": "4",
+      "distance": "6f 16y",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Hunky Dory",
+          "jockey": "Tom Kiely-Marshall",
+          "cd": 1,
+          "days": 27,
+          "odds": "28/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 56.19,
+          "ret": -56.19,
+          "bank": 5562.91
         }
       ]
     }
   ],
   "bank": {
-    "start": 3527.32,
-    "stake": 35.27,
-    "end": 3457.13
+    "start": 5791.1,
+    "stake": 57.91,
+    "end": 5562.91
   }
 }

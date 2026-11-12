@@ -1,10 +1,36 @@
 {
   "date": "2026-08-10",
-  "updated": "2026-11-11T08:42:03+0000",
-  "races": [],
+  "updated": "2026-11-12T04:53:13+0000",
+  "races": [
+    {
+      "time": "16:00",
+      "meeting": "Kempton",
+      "name": "Unibet More Extra Place Races Handicap (GBBPlus Race)",
+      "class": "4",
+      "distance": "1m 7f 218y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Knight Templar",
+          "jockey": "David Probert",
+          "cd": 2,
+          "days": 17,
+          "odds": "33/1",
+          "mark": null,
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 33.88,
+          "ret": -33.88,
+          "bank": 3354.39
+        }
+      ]
+    }
+  ],
   "bank": {
-    "start": 10.0,
-    "stake": 0.1,
-    "end": 10.0
+    "start": 3388.27,
+    "stake": 33.88,
+    "end": 3354.39
   }
 }

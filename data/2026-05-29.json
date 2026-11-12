@@ -1,6 +1,6 @@
 {
   "date": "2026-05-29",
-  "updated": "2026-11-11T08:41:58+0000",
+  "updated": "2026-11-12T04:53:06+0000",
   "races": [
     {
       "time": "17:05",
@@ -21,26 +21,12 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 7.88,
-          "ret": -7.88,
-          "bank": 779.99
+          "stake": 10.2,
+          "ret": -10.2,
+          "bank": 1010.0
         },
         {
           "rank": 2,
-          "horse": "Green Team",
-          "jockey": "Miss Grace Littmoden",
-          "cd": 1,
-          "days": 8,
-          "odds": "17/2",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 7.8,
-          "ret": 66.3,
-          "bank": 846.29
-        },
-        {
-          "rank": 3,
           "horse": "I'd Go Maniac",
           "jockey": "Miss Georgia King",
           "cd": 1,
@@ -49,9 +35,23 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 8.46,
-          "ret": -8.46,
-          "bank": 837.83
+          "stake": 10.1,
+          "ret": -10.1,
+          "bank": 999.9
+        },
+        {
+          "rank": 3,
+          "horse": "Green Team",
+          "jockey": "Miss Grace Littmoden",
+          "cd": 1,
+          "days": 8,
+          "odds": "17/2",
+          "mark": null,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 10.0,
+          "ret": 85.0,
+          "bank": 1084.9
         }
       ]
     },
@@ -74,9 +74,23 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 8.38,
-          "ret": 27.93,
-          "bank": 865.76
+          "stake": 10.85,
+          "ret": 36.17,
+          "bank": 1121.07
+        },
+        {
+          "rank": 2,
+          "horse": "Horwich",
+          "jockey": "William Pyle",
+          "cd": 2,
+          "days": 11,
+          "odds": "25/1",
+          "mark": null,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 11.21,
+          "ret": -11.21,
+          "bank": 1109.86
         }
       ]
     },
@@ -99,16 +113,44 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 8.66,
-          "ret": 16.24,
-          "bank": 882.0
+          "stake": 11.1,
+          "ret": 20.81,
+          "bank": 1130.67
+        },
+        {
+          "rank": 2,
+          "horse": "Jojo Rabbit",
+          "jockey": "William Pyle",
+          "cd": 4,
+          "days": 7,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 11.31,
+          "ret": -11.31,
+          "bank": 1119.36
+        },
+        {
+          "rank": 3,
+          "horse": "Alondra",
+          "jockey": "S De Sousa",
+          "cd": 2,
+          "days": 16,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 11.19,
+          "ret": -11.19,
+          "bank": 1108.17
         }
       ]
     }
   ],
   "bank": {
-    "start": 787.87,
-    "stake": 7.88,
-    "end": 882.0
+    "start": 1020.2,
+    "stake": 10.2,
+    "end": 1108.17
   }
 }

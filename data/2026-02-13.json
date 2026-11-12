@@ -1,6 +1,6 @@
 {
   "date": "2026-02-13",
-  "updated": "2026-11-11T08:41:50+0000",
+  "updated": "2026-11-12T04:52:57+0000",
   "races": [
     {
       "time": "16:28",
@@ -13,6 +13,20 @@
       "sel": [
         {
           "rank": 1,
+          "horse": "Subiaco",
+          "jockey": "Rory Cleary",
+          "cd": 1,
+          "days": 21,
+          "odds": "10/3",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 1.51,
+          "ret": -1.51,
+          "bank": 149.7
+        },
+        {
+          "rank": 2,
           "horse": "Hasiyna",
           "jockey": "Jessica Maye",
           "cd": 1,
@@ -21,12 +35,12 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.85,
-          "ret": -0.85,
-          "bank": 84.28
+          "stake": 1.5,
+          "ret": -1.5,
+          "bank": 148.2
         },
         {
-          "rank": 2,
+          "rank": 3,
           "horse": "Inishmot Prince",
           "jockey": "James Ryan",
           "cd": 6,
@@ -35,23 +49,73 @@
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.84,
-          "ret": -0.84,
-          "bank": 83.44
-        },
+          "stake": 1.48,
+          "ret": -1.48,
+          "bank": 146.72
+        }
+      ]
+    },
+    {
+      "time": "17:15",
+      "meeting": "Wolverhampton",
+      "name": "BetMGM Supports Safer Gambling Apprentice Handicap",
+      "class": "6",
+      "distance": "1m 142y",
+      "riders": 8,
+      "settled": true,
+      "sel": [
         {
-          "rank": 3,
-          "horse": "Sporting Hero",
-          "jockey": "Elizabeth Gale",
-          "cd": 2,
-          "days": 16,
-          "odds": "11/2",
+          "rank": 1,
+          "horse": "Poetic Force",
+          "jockey": "Myla Coppins",
+          "cd": 5,
+          "days": 11,
+          "odds": "14/1",
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.83,
-          "ret": 4.56,
-          "bank": 88.0
+          "stake": 1.47,
+          "ret": 20.58,
+          "bank": 167.3
+        }
+      ]
+    },
+    {
+      "time": "18:00",
+      "meeting": "Dundalk",
+      "name": "Dundalk Winter Series Leading Trainer & Jockey Championship Handicap (0-60)",
+      "class": "",
+      "distance": "7f",
+      "riders": 17,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Comfort Line",
+          "jockey": "Cillian Rowan",
+          "cd": 2,
+          "days": 21,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 1.67,
+          "ret": -1.67,
+          "bank": 165.63
+        },
+        {
+          "rank": 2,
+          "horse": "Mullacash Buzz",
+          "jockey": "Sadhbh Tormey",
+          "cd": 4,
+          "days": 21,
+          "odds": "20/1",
+          "mark": null,
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 1.66,
+          "ret": -1.66,
+          "bank": 163.97
         }
       ]
     },
@@ -74,9 +138,9 @@
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.88,
-          "ret": -0.88,
-          "bank": 87.12
+          "stake": 1.64,
+          "ret": -1.64,
+          "bank": 162.33
         },
         {
           "rank": 2,
@@ -88,9 +152,9 @@
           "mark": null,
           "pos": 3,
           "res": "LOSE",
-          "stake": 0.87,
-          "ret": -0.87,
-          "bank": 86.25
+          "stake": 1.62,
+          "ret": -1.62,
+          "bank": 160.71
         }
       ]
     },
@@ -113,9 +177,9 @@
           "mark": null,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.86,
-          "ret": 2.58,
-          "bank": 88.83
+          "stake": 1.61,
+          "ret": 4.83,
+          "bank": 165.54
         }
       ]
     },
@@ -138,9 +202,9 @@
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.89,
-          "ret": -0.89,
-          "bank": 87.94
+          "stake": 1.66,
+          "ret": -1.66,
+          "bank": 163.88
         },
         {
           "rank": 2,
@@ -152,16 +216,30 @@
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.88,
-          "ret": 0.99,
-          "bank": 88.93
+          "stake": 1.64,
+          "ret": 1.84,
+          "bank": 165.72
+        },
+        {
+          "rank": 3,
+          "horse": "Gogo Yubari",
+          "jockey": "Harry Vigors",
+          "cd": 1,
+          "days": 13,
+          "odds": "20/1",
+          "mark": null,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 1.66,
+          "ret": -1.66,
+          "bank": 164.06
         }
       ]
     }
   ],
   "bank": {
-    "start": 85.13,
-    "stake": 0.85,
-    "end": 88.93
+    "start": 151.21,
+    "stake": 1.51,
+    "end": 164.06
   }
 }
