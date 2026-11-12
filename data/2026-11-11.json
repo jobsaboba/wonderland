@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated": "2026-11-12T04:53:21+0000",
+  "updated": "2026-11-12T07:09:07+0000",
   "races": [
     {
       "time": "14:30",
@@ -19,11 +19,11 @@
           "days": 27,
           "odds": "12/1",
           "mark": null,
-          "pos": 0,
-          "res": null,
+          "pos": 8,
+          "res": "LOSE",
           "stake": 60.98,
-          "ret": null,
-          "bank": 6097.93
+          "ret": -60.98,
+          "bank": 6036.95
         },
         {
           "rank": 2,
@@ -33,11 +33,11 @@
           "days": 7,
           "odds": "14/1",
           "mark": null,
-          "pos": 0,
-          "res": null,
-          "stake": 60.98,
-          "ret": null,
-          "bank": 6097.93
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 60.37,
+          "ret": -60.37,
+          "bank": 5976.58
         },
         {
           "rank": 3,
@@ -47,11 +47,11 @@
           "days": 10,
           "odds": "25/1",
           "mark": null,
-          "pos": 0,
-          "res": null,
-          "stake": 60.98,
-          "ret": null,
-          "bank": 6097.93
+          "pos": 11,
+          "res": "LOSE",
+          "stake": 59.77,
+          "ret": -59.77,
+          "bank": 5916.81
         }
       ]
     },
@@ -72,11 +72,11 @@
           "days": 14,
           "odds": "16/1",
           "mark": null,
-          "pos": 0,
-          "res": null,
-          "stake": 60.98,
-          "ret": null,
-          "bank": 6097.93
+          "pos": 1,
+          "res": "WIN",
+          "stake": 59.17,
+          "ret": 946.72,
+          "bank": 6863.53
         },
         {
           "rank": 2,
@@ -86,11 +86,11 @@
           "days": 13,
           "odds": "25/1",
           "mark": null,
-          "pos": 0,
-          "res": null,
-          "stake": 60.98,
-          "ret": null,
-          "bank": 6097.93
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 68.64,
+          "ret": -68.64,
+          "bank": 6794.89
         }
       ]
     },
@@ -111,11 +111,11 @@
           "days": 26,
           "odds": "4/1",
           "mark": null,
-          "pos": 0,
-          "res": null,
-          "stake": 60.98,
-          "ret": null,
-          "bank": 6097.93
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 67.95,
+          "ret": -67.95,
+          "bank": 6726.94
         },
         {
           "rank": 2,
@@ -125,11 +125,11 @@
           "days": 24,
           "odds": "16/1",
           "mark": null,
-          "pos": 0,
-          "res": null,
-          "stake": 60.98,
-          "ret": null,
-          "bank": 6097.93
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 67.27,
+          "ret": -67.27,
+          "bank": 6659.67
         }
       ]
     }
@@ -137,6 +137,6 @@
   "bank": {
     "start": 6097.93,
     "stake": 60.98,
-    "end": 6097.93
+    "end": 6659.67
   }
 }
