@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated": "2026-11-13T22:31:12+0000",
+  "updated": "2026-11-14T06:42:32+0000",
   "races": [
     {
       "time": "18:00",
@@ -13,31 +13,17 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Sir Les Patterson",
-          "jockey": "Jack Kearney",
-          "cd": 2,
-          "days": 21,
-          "odds": "5/1",
-          "mark": null,
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 66.6,
-          "ret": -66.6,
-          "bank": 6593.07
-        },
-        {
-          "rank": 2,
           "horse": "Eddie G",
           "jockey": "Gavin Ryan",
           "cd": 1,
           "days": 14,
-          "odds": "6/1",
+          "odds": "8/1",
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 65.93,
-          "ret": -65.93,
-          "bank": 6527.14
+          "stake": 66.6,
+          "ret": -66.6,
+          "bank": 6593.07
         }
       ]
     },
@@ -56,13 +42,13 @@
           "jockey": "Ben Coen",
           "cd": 2,
           "days": 14,
-          "odds": "14/1",
+          "odds": "17/2",
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 65.27,
-          "ret": -65.27,
-          "bank": 6461.87
+          "stake": 65.93,
+          "ret": -65.93,
+          "bank": 6527.14
         }
       ]
     }
@@ -70,6 +56,6 @@
   "bank": {
     "start": 6659.67,
     "stake": 66.6,
-    "end": 6461.87
+    "end": 6527.14
   }
 }
