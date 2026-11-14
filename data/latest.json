@@ -1,75 +1,10 @@
 {
-  "date": "2026-11-13",
-  "updated": "2026-11-13T22:31:12+0000",
-  "races": [
-    {
-      "time": "18:00",
-      "meeting": "Dundalk",
-      "name": "Christmas Party Nights At Dundalk Stadium Handicap",
-      "class": "",
-      "distance": "6f",
-      "riders": 10,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Sir Les Patterson",
-          "jockey": "Jack Kearney",
-          "cd": 2,
-          "days": 21,
-          "odds": "5/1",
-          "mark": null,
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 66.6,
-          "ret": -66.6,
-          "bank": 6593.07
-        },
-        {
-          "rank": 2,
-          "horse": "Eddie G",
-          "jockey": "Gavin Ryan",
-          "cd": 1,
-          "days": 14,
-          "odds": "6/1",
-          "mark": null,
-          "pos": 7,
-          "res": "LOSE",
-          "stake": 65.93,
-          "ret": -65.93,
-          "bank": 6527.14
-        }
-      ]
-    },
-    {
-      "time": "20:00",
-      "meeting": "Dundalk",
-      "name": "BAR 1 Betting 'Best Odds Guaranteed Overnight' Handicap",
-      "class": "",
-      "distance": "1m 2f 150y",
-      "riders": 11,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Unterberg",
-          "jockey": "Ben Coen",
-          "cd": 2,
-          "days": 14,
-          "odds": "14/1",
-          "mark": null,
-          "pos": 7,
-          "res": "LOSE",
-          "stake": 65.27,
-          "ret": -65.27,
-          "bank": 6461.87
-        }
-      ]
-    }
-  ],
+  "date": "2026-11-14",
+  "updated": "2026-11-14T06:00:02+0000",
+  "races": [],
   "bank": {
-    "start": 6659.67,
-    "stake": 66.6,
+    "start": 6461.87,
+    "stake": 64.62,
     "end": 6461.87
   }
 }
