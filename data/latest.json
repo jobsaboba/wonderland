@@ -1,7 +1,203 @@
 {
-  "date": "2026-11-15",
-  "updated": "2026-11-15T22:31:56+0000",
-  "races": [],
+  "date": "2026-11-16",
+  "updated": "2026-11-16T05:00:06+0000",
+  "races": [
+    {
+      "time": "18:30",
+      "meeting": "Wolverhampton",
+      "name": "Midnite Ain't Your Grandad's Bookie Handicap",
+      "class": "3",
+      "distance": "5f 21y",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Almaty Star",
+          "jockey": "Connor Planas",
+          "cd": 1,
+          "days": 23,
+          "odds": "7/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 65.93,
+          "ret": null,
+          "bank": 6593.1
+        }
+      ]
+    },
+    {
+      "time": "19:00",
+      "meeting": "Wolverhampton",
+      "name": "AW Trials Day - Lingfield 2nd Jan 2027 Handicap",
+      "class": "5",
+      "distance": "7f 36y",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Split Elevens",
+          "jockey": "Kieren Fox",
+          "cd": 4,
+          "days": 19,
+          "odds": "3/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 65.93,
+          "ret": null,
+          "bank": 6593.1
+        },
+        {
+          "rank": 2,
+          "horse": "Queue Dos",
+          "jockey": "Alexandra Egan",
+          "cd": 1,
+          "days": 12,
+          "odds": "10/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 65.93,
+          "ret": null,
+          "bank": 6593.1
+        }
+      ]
+    },
+    {
+      "time": "19:30",
+      "meeting": "Wolverhampton",
+      "name": "ARC All Weather Bonus Is Back Handicap",
+      "class": "5",
+      "distance": "1m 142y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Danehill Star",
+          "jockey": "Charlie Tucker",
+          "cd": 3,
+          "days": 27,
+          "odds": "11/2",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 65.93,
+          "ret": null,
+          "bank": 6593.1
+        },
+        {
+          "rank": 2,
+          "horse": "Rating",
+          "jockey": "Ben Ffrench-Davis",
+          "cd": 1,
+          "days": 19,
+          "odds": "25/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 65.93,
+          "ret": null,
+          "bank": 6593.1
+        }
+      ]
+    },
+    {
+      "time": "20:00",
+      "meeting": "Wolverhampton",
+      "name": "Midnite A Next Generation Betting App Handicap",
+      "class": "5",
+      "distance": "1m 1f 104y",
+      "riders": 13,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Cosmos Raj",
+          "jockey": "Mikey Sheehy",
+          "cd": 2,
+          "days": 17,
+          "odds": "7/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 65.93,
+          "ret": null,
+          "bank": 6593.1
+        },
+        {
+          "rank": 2,
+          "horse": "Mr Nugget",
+          "jockey": "Jack Dace",
+          "cd": 3,
+          "days": 14,
+          "odds": "20/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 65.93,
+          "ret": null,
+          "bank": 6593.1
+        },
+        {
+          "rank": 3,
+          "horse": "Paladin",
+          "jockey": "Taylor Fisher",
+          "cd": 1,
+          "days": 28,
+          "odds": "25/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 65.93,
+          "ret": null,
+          "bank": 6593.1
+        }
+      ]
+    },
+    {
+      "time": "20:30",
+      "meeting": "Wolverhampton",
+      "name": "Make The Move To Midnite Handicap",
+      "class": "6",
+      "distance": "1m 4f 51y",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Havachoc",
+          "jockey": "Rhys Clutterbuck",
+          "cd": 1,
+          "days": 13,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 65.93,
+          "ret": null,
+          "bank": 6593.1
+        },
+        {
+          "rank": 2,
+          "horse": "Sea Of Charm",
+          "jockey": "William Cox",
+          "cd": 2,
+          "days": 14,
+          "odds": "25/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 65.93,
+          "ret": null,
+          "bank": 6593.1
+        }
+      ]
+    }
+  ],
   "bank": {
     "start": 6593.1,
     "stake": 65.93,
