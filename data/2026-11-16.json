@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated": "2026-11-16T19:32:12+0000",
+  "updated": "2026-11-16T20:02:16+0000",
   "races": [
     {
       "time": "18:30",
@@ -83,11 +83,11 @@
           "days": 27,
           "odds": "11/2",
           "mark": null,
-          "pos": 0,
-          "res": null,
+          "pos": 4,
+          "res": "LOSE",
           "stake": 67.41,
-          "ret": null,
-          "bank": 6740.52
+          "ret": -67.41,
+          "bank": 6673.11
         },
         {
           "rank": 2,
@@ -97,11 +97,11 @@
           "days": 19,
           "odds": "25/1",
           "mark": null,
-          "pos": 0,
-          "res": null,
-          "stake": 67.41,
-          "ret": null,
-          "bank": 6740.52
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 66.73,
+          "ret": -66.73,
+          "bank": 6606.38
         }
       ]
     },
@@ -124,9 +124,9 @@
           "mark": null,
           "pos": 0,
           "res": null,
-          "stake": 67.41,
+          "stake": 66.06,
           "ret": null,
-          "bank": 6740.52
+          "bank": 6606.38
         },
         {
           "rank": 2,
@@ -138,9 +138,9 @@
           "mark": null,
           "pos": 0,
           "res": null,
-          "stake": 67.41,
+          "stake": 66.06,
           "ret": null,
-          "bank": 6740.52
+          "bank": 6606.38
         },
         {
           "rank": 3,
@@ -152,9 +152,9 @@
           "mark": null,
           "pos": 0,
           "res": null,
-          "stake": 67.41,
+          "stake": 66.06,
           "ret": null,
-          "bank": 6740.52
+          "bank": 6606.38
         }
       ]
     },
@@ -177,9 +177,9 @@
           "mark": null,
           "pos": 0,
           "res": null,
-          "stake": 67.41,
+          "stake": 66.06,
           "ret": null,
-          "bank": 6740.52
+          "bank": 6606.38
         },
         {
           "rank": 2,
@@ -191,9 +191,9 @@
           "mark": null,
           "pos": 0,
           "res": null,
-          "stake": 67.41,
+          "stake": 66.06,
           "ret": null,
-          "bank": 6740.52
+          "bank": 6606.38
         }
       ]
     }
@@ -201,6 +201,6 @@
   "bank": {
     "start": 6593.1,
     "stake": 65.93,
-    "end": 6740.52
+    "end": 6606.38
   }
 }
