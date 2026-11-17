@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated": "2026-11-17T18:32:04+0000",
+  "updated": "2026-11-17T19:03:36+0000",
   "races": [
     {
       "time": "16:30",
@@ -69,11 +69,11 @@
           "days": 19,
           "odds": "10/1",
           "mark": null,
-          "pos": 0,
-          "res": null,
+          "pos": 13,
+          "res": "LOSE",
           "stake": 70.8,
-          "ret": null,
-          "bank": 7079.84
+          "ret": -70.8,
+          "bank": 7009.04
         },
         {
           "rank": 2,
@@ -83,11 +83,11 @@
           "days": 22,
           "odds": "12/1",
           "mark": null,
-          "pos": 0,
-          "res": null,
-          "stake": 70.8,
-          "ret": null,
-          "bank": 7079.84
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 70.09,
+          "ret": -70.09,
+          "bank": 6938.95
         }
       ]
     },
@@ -110,9 +110,9 @@
           "mark": null,
           "pos": 0,
           "res": null,
-          "stake": 70.8,
+          "stake": 69.39,
           "ret": null,
-          "bank": 7079.84
+          "bank": 6938.95
         }
       ]
     },
@@ -135,9 +135,9 @@
           "mark": null,
           "pos": 0,
           "res": null,
-          "stake": 70.8,
+          "stake": 69.39,
           "ret": null,
-          "bank": 7079.84
+          "bank": 6938.95
         },
         {
           "rank": 2,
@@ -149,9 +149,9 @@
           "mark": null,
           "pos": 0,
           "res": null,
-          "stake": 70.8,
+          "stake": 69.39,
           "ret": null,
-          "bank": 7079.84
+          "bank": 6938.95
         },
         {
           "rank": 3,
@@ -163,9 +163,9 @@
           "mark": null,
           "pos": 0,
           "res": null,
-          "stake": 70.8,
+          "stake": 69.39,
           "ret": null,
-          "bank": 7079.84
+          "bank": 6938.95
         }
       ]
     }
@@ -173,6 +173,6 @@
   "bank": {
     "start": 7151.35,
     "stake": 71.51,
-    "end": 7079.84
+    "end": 6938.95
   }
 }
