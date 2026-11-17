@@ -1,0 +1,178 @@
+{
+  "date": "2026-11-17",
+  "updated": "2026-11-17T05:00:07+0000",
+  "races": [
+    {
+      "time": "16:30",
+      "meeting": "Southwell",
+      "name": "Midnite: Built For 2026 Not 2006 Handicap",
+      "class": "5",
+      "distance": "4f 214y",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Lion's House",
+          "jockey": "Rhys Clutterbuck",
+          "cd": 1,
+          "days": 11,
+          "odds": "10/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 71.51,
+          "ret": null,
+          "bank": 7151.35
+        }
+      ]
+    },
+    {
+      "time": "17:30",
+      "meeting": "Southwell",
+      "name": "Make The Move To Midnite Handicap (GBBPlus Race)",
+      "class": "4",
+      "distance": "1m 4f 14y",
+      "riders": 13,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Charlie's Choice",
+          "jockey": "Jack Dace",
+          "cd": 1,
+          "days": 21,
+          "odds": "20/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 71.51,
+          "ret": null,
+          "bank": 7151.35
+        }
+      ]
+    },
+    {
+      "time": "18:30",
+      "meeting": "Southwell",
+      "name": "AWC Finals Day At Newcastle 26th March Handicap",
+      "class": "4",
+      "distance": "1m 13y",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Down To The Kid",
+          "jockey": "Jonny Peate",
+          "cd": 3,
+          "days": 19,
+          "odds": "10/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 71.51,
+          "ret": null,
+          "bank": 7151.35
+        },
+        {
+          "rank": 2,
+          "horse": "Hale End",
+          "jockey": "Rhys Elliott",
+          "cd": 1,
+          "days": 22,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 71.51,
+          "ret": null,
+          "bank": 7151.35
+        }
+      ]
+    },
+    {
+      "time": "19:00",
+      "meeting": "Southwell",
+      "name": "All-Weather Championship Is Back Handicap (Div 1)",
+      "class": "5",
+      "distance": "7f 14y",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Packetofbiscuits",
+          "jockey": "Tyler Heard",
+          "cd": 2,
+          "days": 12,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 71.51,
+          "ret": null,
+          "bank": 7151.35
+        }
+      ]
+    },
+    {
+      "time": "20:30",
+      "meeting": "Southwell",
+      "name": "Midnite A Next Generation Betting App Handicap",
+      "class": "5",
+      "distance": "6f 16y",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Ormolulu",
+          "jockey": "William Pyle",
+          "cd": 5,
+          "days": 12,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 71.51,
+          "ret": null,
+          "bank": 7151.35
+        },
+        {
+          "rank": 2,
+          "horse": "Aberama Gold",
+          "jockey": "Mikey Sheehy",
+          "cd": 1,
+          "days": 21,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 71.51,
+          "ret": null,
+          "bank": 7151.35
+        },
+        {
+          "rank": 3,
+          "horse": "Amazonian Dream",
+          "jockey": "Jonny Peate",
+          "cd": 1,
+          "days": 13,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 71.51,
+          "ret": null,
+          "bank": 7151.35
+        }
+      ]
+    }
+  ],
+  "bank": {
+    "start": 7151.35,
+    "stake": 71.51,
+    "end": 7151.35
+  }
+}
