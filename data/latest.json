@@ -1,178 +1,206 @@
 {
-  "date": "2026-11-17",
-  "updated": "2026-11-17T22:31:44+0000",
+  "date": "2026-11-18",
+  "updated": "2026-11-18T05:00:10+0000",
   "races": [
     {
-      "time": "16:30",
-      "meeting": "Southwell",
-      "name": "Midnite: Built For 2026 Not 2006 Handicap",
-      "class": "5",
-      "distance": "4f 214y",
-      "riders": 14,
+      "time": "14:30",
+      "meeting": "Dundalk",
+      "name": "Dundalk Stadium Gift Vouchers Available Online Handicap (0-60) (Div 1)",
+      "class": "",
+      "distance": "7f",
+      "riders": 17,
       "settled": true,
       "sel": [
         {
           "rank": 1,
-          "horse": "Lion's House",
-          "jockey": "Rhys Clutterbuck",
-          "cd": 1,
-          "days": 11,
-          "odds": "10/1",
-          "mark": null,
-          "pos": 5,
-          "res": "LOSE",
-          "stake": 71.51,
-          "ret": -71.51,
-          "bank": 7079.84
-        }
-      ]
-    },
-    {
-      "time": "17:30",
-      "meeting": "Southwell",
-      "name": "Make The Move To Midnite Handicap (GBBPlus Race)",
-      "class": "4",
-      "distance": "1m 4f 14y",
-      "riders": 13,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Charlie's Choice",
-          "jockey": "Jack Dace",
+          "horse": "Jazzy Dancer",
+          "jockey": "Rory Mulligan",
           "cd": 1,
           "days": 21,
-          "odds": "20/1",
+          "odds": "5/1",
           "mark": null,
           "pos": 0,
-          "res": "NR",
-          "stake": 70.8,
+          "res": null,
+          "stake": 72.5,
           "ret": null,
-          "bank": 7079.84
-        }
-      ]
-    },
-    {
-      "time": "18:30",
-      "meeting": "Southwell",
-      "name": "AWC Finals Day At Newcastle 26th March Handicap",
-      "class": "4",
-      "distance": "1m 13y",
-      "riders": 14,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Down To The Kid",
-          "jockey": "Jonny Peate",
-          "cd": 3,
-          "days": 19,
-          "odds": "10/1",
-          "mark": null,
-          "pos": 13,
-          "res": "LOSE",
-          "stake": 70.8,
-          "ret": -70.8,
-          "bank": 7009.04
+          "bank": 7250.06
         },
         {
           "rank": 2,
-          "horse": "Hale End",
-          "jockey": "Rhys Elliott",
+          "horse": "Hastily",
+          "jockey": "Killian Leonard",
           "cd": 1,
-          "days": 22,
+          "days": 14,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 72.5,
+          "ret": null,
+          "bank": 7250.06
+        }
+      ]
+    },
+    {
+      "time": "15:00",
+      "meeting": "Dundalk",
+      "name": "Dundalk Stadium Gift Vouchers Available Online Handicap (0-60) (Div 2)",
+      "class": "",
+      "distance": "7f",
+      "riders": 16,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Free Solo",
+          "jockey": "Conor Cusack",
+          "cd": 1,
+          "days": 7,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 72.5,
+          "ret": null,
+          "bank": 7250.06
+        }
+      ]
+    },
+    {
+      "time": "16:30",
+      "meeting": "Dundalk",
+      "name": "Christmas Party Nights At Dundalk Stadium Handicap",
+      "class": "",
+      "distance": "1m",
+      "riders": 16,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Golddream",
+          "jockey": "Reserve 1",
+          "cd": 1,
+          "days": 19,
+          "odds": "11/2",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 72.5,
+          "ret": null,
+          "bank": 7250.06
+        },
+        {
+          "rank": 2,
+          "horse": "Moyassr",
+          "jockey": "Adam Caffrey",
+          "cd": 4,
+          "days": 7,
           "odds": "12/1",
           "mark": null,
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 70.09,
-          "ret": -70.09,
-          "bank": 6938.95
+          "pos": 0,
+          "res": null,
+          "stake": 72.5,
+          "ret": null,
+          "bank": 7250.06
         }
       ]
     },
     {
       "time": "19:00",
-      "meeting": "Southwell",
-      "name": "All-Weather Championship Is Back Handicap (Div 1)",
-      "class": "5",
-      "distance": "7f 14y",
-      "riders": 11,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Packetofbiscuits",
-          "jockey": "Tyler Heard",
-          "cd": 2,
-          "days": 12,
-          "odds": "12/1",
-          "mark": null,
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 69.39,
-          "ret": 208.17,
-          "bank": 7147.12
-        }
-      ]
-    },
-    {
-      "time": "20:30",
-      "meeting": "Southwell",
-      "name": "Midnite A Next Generation Betting App Handicap",
-      "class": "5",
-      "distance": "6f 16y",
+      "meeting": "Kempton",
+      "name": "Try Unibet's New VAR Goal Guarantee Handicap",
+      "class": "2",
+      "distance": "1m",
       "riders": 14,
       "settled": true,
       "sel": [
         {
           "rank": 1,
-          "horse": "Ormolulu",
-          "jockey": "William Pyle",
-          "cd": 5,
-          "days": 12,
-          "odds": "5/1",
+          "horse": "Palladas",
+          "jockey": "Connor Planas",
+          "cd": 1,
+          "days": 26,
+          "odds": "9/2",
           "mark": null,
-          "pos": 8,
-          "res": "LOSE",
-          "stake": 71.47,
-          "ret": -71.47,
-          "bank": 7075.65
+          "pos": 0,
+          "res": null,
+          "stake": 72.5,
+          "ret": null,
+          "bank": 7250.06
         },
         {
           "rank": 2,
-          "horse": "Aberama Gold",
-          "jockey": "Mikey Sheehy",
+          "horse": "Oliver Show",
+          "jockey": "Toby Moore",
           "cd": 1,
-          "days": 21,
+          "days": 20,
           "odds": "12/1",
           "mark": null,
-          "pos": 10,
-          "res": "LOSE",
-          "stake": 70.76,
-          "ret": -70.76,
-          "bank": 7004.89
+          "pos": 0,
+          "res": null,
+          "stake": 72.5,
+          "ret": null,
+          "bank": 7250.06
         },
         {
           "rank": 3,
-          "horse": "Amazonian Dream",
-          "jockey": "Jonny Peate",
+          "horse": "Brasil Power",
+          "jockey": "Megan Smith",
           "cd": 1,
-          "days": 13,
-          "odds": "14/1",
+          "days": 28,
+          "odds": "25/1",
           "mark": null,
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 70.05,
-          "ret": 245.17,
+          "pos": 0,
+          "res": null,
+          "stake": 72.5,
+          "ret": null,
+          "bank": 7250.06
+        }
+      ]
+    },
+    {
+      "time": "20:00",
+      "meeting": "Kempton",
+      "name": "Unibet 3 Uniboosts A Day Handicap",
+      "class": "4",
+      "distance": "7f",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "I'm Workin On It",
+          "jockey": "Kieren Fox",
+          "cd": 4,
+          "days": 23,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 72.5,
+          "ret": null,
+          "bank": 7250.06
+        },
+        {
+          "rank": 2,
+          "horse": "Chalk Mountain",
+          "jockey": "Alfie Redman",
+          "cd": 3,
+          "days": 16,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 72.5,
+          "ret": null,
           "bank": 7250.06
         }
       ]
     }
   ],
   "bank": {
-    "start": 7151.35,
-    "stake": 71.51,
+    "start": 7250.06,
+    "stake": 72.5,
     "end": 7250.06
   }
 }
