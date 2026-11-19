@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated": "2026-11-18T23:32:00+0000",
+  "updated": "2026-11-19T12:40:46+0000",
   "races": [
     {
       "time": "14:30",
@@ -17,7 +17,7 @@
           "jockey": "Rory Mulligan",
           "cd": 1,
           "days": 21,
-          "odds": "5/1",
+          "odds": "14/1",
           "mark": null,
           "pos": 8,
           "res": "LOSE",
@@ -31,38 +31,13 @@
           "jockey": "Killian Leonard",
           "cd": 1,
           "days": 14,
-          "odds": "14/1",
+          "odds": "33/1",
           "mark": null,
           "pos": 1,
           "res": "WIN",
           "stake": 71.78,
-          "ret": 1004.92,
-          "bank": 8182.48
-        }
-      ]
-    },
-    {
-      "time": "15:00",
-      "meeting": "Dundalk",
-      "name": "Dundalk Stadium Gift Vouchers Available Online Handicap (0-60) (Div 2)",
-      "class": "",
-      "distance": "7f",
-      "riders": 16,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Free Solo",
-          "jockey": "Conor Cusack",
-          "cd": 1,
-          "days": 7,
-          "odds": "14/1",
-          "mark": null,
-          "pos": 0,
-          "res": "NR",
-          "stake": 81.82,
-          "ret": null,
-          "bank": 8182.48
+          "ret": 2368.74,
+          "bank": 9546.3
         }
       ]
     },
@@ -77,31 +52,17 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Golddream",
-          "jockey": "Reserve 1",
-          "cd": 1,
-          "days": 19,
-          "odds": "11/2",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 81.82,
-          "ret": 450.01,
-          "bank": 8632.49
-        },
-        {
-          "rank": 2,
           "horse": "Moyassr",
           "jockey": "Adam Caffrey",
           "cd": 4,
           "days": 7,
-          "odds": "12/1",
+          "odds": "8/1",
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 86.32,
-          "ret": -86.32,
-          "bank": 8546.17
+          "stake": 95.46,
+          "ret": -95.46,
+          "bank": 9450.84
         }
       ]
     },
@@ -116,45 +77,17 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Palladas",
-          "jockey": "Connor Planas",
-          "cd": 1,
-          "days": 26,
-          "odds": "9/2",
-          "mark": null,
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 85.46,
-          "ret": 96.14,
-          "bank": 8642.31
-        },
-        {
-          "rank": 2,
           "horse": "Oliver Show",
           "jockey": "Toby Moore",
           "cd": 1,
           "days": 20,
-          "odds": "12/1",
+          "odds": "18/1",
           "mark": null,
           "pos": 10,
           "res": "LOSE",
-          "stake": 86.42,
-          "ret": -86.42,
-          "bank": 8555.89
-        },
-        {
-          "rank": 3,
-          "horse": "Brasil Power",
-          "jockey": "Megan Smith",
-          "cd": 1,
-          "days": 28,
-          "odds": "25/1",
-          "mark": null,
-          "pos": 12,
-          "res": "LOSE",
-          "stake": 85.56,
-          "ret": -85.56,
-          "bank": 8470.33
+          "stake": 94.51,
+          "ret": -94.51,
+          "bank": 9356.33
         }
       ]
     },
@@ -173,13 +106,13 @@
           "jockey": "Kieren Fox",
           "cd": 4,
           "days": 23,
-          "odds": "12/1",
+          "odds": "9/2",
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 84.7,
-          "ret": -84.7,
-          "bank": 8385.63
+          "stake": 93.56,
+          "ret": -93.56,
+          "bank": 9262.77
         },
         {
           "rank": 2,
@@ -187,13 +120,13 @@
           "jockey": "Alfie Redman",
           "cd": 3,
           "days": 16,
-          "odds": "16/1",
+          "odds": "12/1",
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 83.86,
-          "ret": 335.44,
-          "bank": 8721.07
+          "stake": 92.63,
+          "ret": 277.89,
+          "bank": 9540.66
         }
       ]
     }
@@ -201,6 +134,6 @@
   "bank": {
     "start": 7250.06,
     "stake": 72.5,
-    "end": 8721.07
+    "end": 9540.66
   }
 }
