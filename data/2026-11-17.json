@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated": "2026-11-18T23:32:00+0000",
+  "updated": "2026-11-19T12:41:17+0000",
   "races": [
     {
       "time": "16:30",
@@ -17,37 +17,12 @@
           "jockey": "Rhys Clutterbuck",
           "cd": 1,
           "days": 11,
-          "odds": "10/1",
+          "odds": "7/1",
           "mark": null,
           "pos": 5,
           "res": "LOSE",
           "stake": 71.51,
           "ret": -71.51,
-          "bank": 7079.84
-        }
-      ]
-    },
-    {
-      "time": "17:30",
-      "meeting": "Southwell",
-      "name": "Make The Move To Midnite Handicap (GBBPlus Race)",
-      "class": "4",
-      "distance": "1m 4f 14y",
-      "riders": 13,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Charlie's Choice",
-          "jockey": "Jack Dace",
-          "cd": 1,
-          "days": 21,
-          "odds": "20/1",
-          "mark": null,
-          "pos": 0,
-          "res": "NR",
-          "stake": 70.8,
-          "ret": null,
           "bank": 7079.84
         }
       ]
@@ -63,17 +38,17 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Down To The Kid",
-          "jockey": "Jonny Peate",
-          "cd": 3,
+          "horse": "Anthropologist",
+          "jockey": "Ryan Sexton",
+          "cd": 1,
           "days": 19,
-          "odds": "10/1",
+          "odds": "11/2",
           "mark": null,
-          "pos": 13,
-          "res": "LOSE",
+          "pos": 3,
+          "res": "PLACE",
           "stake": 70.8,
-          "ret": -70.8,
-          "bank": 7009.04
+          "ret": 97.35,
+          "bank": 7177.19
         },
         {
           "rank": 2,
@@ -81,13 +56,27 @@
           "jockey": "Rhys Elliott",
           "cd": 1,
           "days": 22,
-          "odds": "12/1",
+          "odds": "16/1",
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 70.09,
-          "ret": -70.09,
-          "bank": 6938.95
+          "stake": 71.77,
+          "ret": -71.77,
+          "bank": 7105.42
+        },
+        {
+          "rank": 3,
+          "horse": "Down To The Kid",
+          "jockey": "Jonny Peate",
+          "cd": 3,
+          "days": 19,
+          "odds": "25/1",
+          "mark": null,
+          "pos": 13,
+          "res": "LOSE",
+          "stake": 71.05,
+          "ret": -71.05,
+          "bank": 7034.37
         }
       ]
     },
@@ -106,13 +95,13 @@
           "jockey": "Tyler Heard",
           "cd": 2,
           "days": 12,
-          "odds": "12/1",
+          "odds": "5/1",
           "mark": null,
           "pos": 2,
           "res": "PLACE",
-          "stake": 69.39,
-          "ret": 208.17,
-          "bank": 7147.12
+          "stake": 70.34,
+          "ret": 87.93,
+          "bank": 7122.3
         }
       ]
     },
@@ -127,17 +116,17 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Ormolulu",
-          "jockey": "William Pyle",
-          "cd": 5,
-          "days": 12,
+          "horse": "Amazonian Dream",
+          "jockey": "Jonny Peate",
+          "cd": 1,
+          "days": 13,
           "odds": "5/1",
           "mark": null,
-          "pos": 8,
-          "res": "LOSE",
-          "stake": 71.47,
-          "ret": -71.47,
-          "bank": 7075.65
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 71.22,
+          "ret": 89.03,
+          "bank": 7211.33
         },
         {
           "rank": 2,
@@ -145,27 +134,27 @@
           "jockey": "Mikey Sheehy",
           "cd": 1,
           "days": 21,
-          "odds": "12/1",
+          "odds": "13/2",
           "mark": null,
           "pos": 10,
           "res": "LOSE",
-          "stake": 70.76,
-          "ret": -70.76,
-          "bank": 7004.89
+          "stake": 72.11,
+          "ret": -72.11,
+          "bank": 7139.22
         },
         {
           "rank": 3,
-          "horse": "Amazonian Dream",
-          "jockey": "Jonny Peate",
-          "cd": 1,
-          "days": 13,
-          "odds": "14/1",
+          "horse": "Ormolulu",
+          "jockey": "William Pyle",
+          "cd": 5,
+          "days": 12,
+          "odds": "9/1",
           "mark": null,
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 70.05,
-          "ret": 245.17,
-          "bank": 7250.06
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 71.39,
+          "ret": -71.39,
+          "bank": 7067.83
         }
       ]
     }
@@ -173,6 +162,6 @@
   "bank": {
     "start": 7151.35,
     "stake": 71.51,
-    "end": 7250.06
+    "end": 7067.83
   }
 }
