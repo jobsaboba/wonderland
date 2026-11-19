@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated": "2026-11-19T19:33:33+0000",
+  "updated": "2026-11-19T20:02:11+0000",
   "races": [
     {
       "time": "15:08",
@@ -147,11 +147,11 @@
           "days": 20,
           "odds": "6/1",
           "mark": null,
-          "pos": 0,
-          "res": null,
+          "pos": 4,
+          "res": "LOSE",
           "stake": 95.41,
-          "ret": null,
-          "bank": 9540.5
+          "ret": -95.41,
+          "bank": 9445.09
         },
         {
           "rank": 2,
@@ -161,11 +161,11 @@
           "days": 20,
           "odds": "14/1",
           "mark": null,
-          "pos": 0,
-          "res": null,
-          "stake": 95.41,
-          "ret": null,
-          "bank": 9540.5
+          "pos": 12,
+          "res": "LOSE",
+          "stake": 94.45,
+          "ret": -94.45,
+          "bank": 9350.64
         },
         {
           "rank": 3,
@@ -175,11 +175,11 @@
           "days": 27,
           "odds": "16/1",
           "mark": null,
-          "pos": 0,
-          "res": null,
-          "stake": 95.41,
-          "ret": null,
-          "bank": 9540.5
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 93.51,
+          "ret": 374.04,
+          "bank": 9724.68
         }
       ]
     }
@@ -187,6 +187,6 @@
   "bank": {
     "start": 8957.34,
     "stake": 89.57,
-    "end": 9540.5
+    "end": 9724.68
   }
 }
