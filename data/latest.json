@@ -1,206 +1,192 @@
 {
-  "date": "2026-11-18",
-  "updated": "2026-11-18T23:32:00+0000",
+  "date": "2026-11-19",
+  "updated": "2026-11-19T05:00:08+0000",
   "races": [
     {
-      "time": "14:30",
-      "meeting": "Dundalk",
-      "name": "Dundalk Stadium Gift Vouchers Available Online Handicap (0-60) (Div 1)",
-      "class": "",
-      "distance": "7f",
-      "riders": 17,
+      "time": "15:08",
+      "meeting": "Lingfield",
+      "name": "ARC All Weather Bonus Is Back Handicap",
+      "class": "6",
+      "distance": "7f 1y",
+      "riders": 14,
       "settled": true,
       "sel": [
         {
           "rank": 1,
-          "horse": "Jazzy Dancer",
-          "jockey": "Rory Mulligan",
+          "horse": "Neptune Legend",
+          "jockey": "Jack Doughty",
           "cd": 1,
           "days": 21,
-          "odds": "5/1",
+          "odds": "16/1",
           "mark": null,
-          "pos": 8,
-          "res": "LOSE",
-          "stake": 72.5,
-          "ret": -72.5,
-          "bank": 7177.56
-        },
-        {
-          "rank": 2,
-          "horse": "Hastily",
-          "jockey": "Killian Leonard",
-          "cd": 1,
-          "days": 14,
-          "odds": "14/1",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 71.78,
-          "ret": 1004.92,
-          "bank": 8182.48
+          "pos": 0,
+          "res": null,
+          "stake": 87.21,
+          "ret": null,
+          "bank": 8721.07
         }
       ]
     },
     {
-      "time": "15:00",
-      "meeting": "Dundalk",
-      "name": "Dundalk Stadium Gift Vouchers Available Online Handicap (0-60) (Div 2)",
-      "class": "",
-      "distance": "7f",
-      "riders": 16,
+      "time": "15:40",
+      "meeting": "Lingfield",
+      "name": "Midnite Built Different Handicap",
+      "class": "5",
+      "distance": "5f 6y",
+      "riders": 9,
       "settled": true,
       "sel": [
         {
           "rank": 1,
-          "horse": "Free Solo",
-          "jockey": "Conor Cusack",
+          "horse": "Roman Spring",
+          "jockey": "K T O'Neill",
           "cd": 1,
-          "days": 7,
+          "days": 21,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 87.21,
+          "ret": null,
+          "bank": 8721.07
+        },
+        {
+          "rank": 2,
+          "horse": "Level Up",
+          "jockey": "K Shoemark",
+          "cd": 1,
+          "days": 22,
+          "odds": "20/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 87.21,
+          "ret": null,
+          "bank": 8721.07
+        }
+      ]
+    },
+    {
+      "time": "18:10",
+      "meeting": "Newcastle",
+      "name": "AWC Is Back Handicap",
+      "class": "4",
+      "distance": "7f 14y",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Hilltop",
+          "jockey": "Aiden Brookes",
+          "cd": 1,
+          "days": 27,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 87.21,
+          "ret": null,
+          "bank": 8721.07
+        }
+      ]
+    },
+    {
+      "time": "18:40",
+      "meeting": "Newcastle",
+      "name": "Midnite Ain't Your Grandad's Bookie Handicap",
+      "class": "4",
+      "distance": "6f",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "So Darn Hot",
+          "jockey": "Rowan Scott",
+          "cd": 1,
+          "days": 12,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 87.21,
+          "ret": null,
+          "bank": 8721.07
+        },
+        {
+          "rank": 2,
+          "horse": "Beale Street",
+          "jockey": "O McSweeney",
+          "cd": 4,
+          "days": 26,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 87.21,
+          "ret": null,
+          "bank": 8721.07
+        }
+      ]
+    },
+    {
+      "time": "19:40",
+      "meeting": "Newcastle",
+      "name": "Midnite: Built For 2026 Not 2006 Handicap",
+      "class": "4",
+      "distance": "5f",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Paddy's Day",
+          "jockey": "Ethan Tindall",
+          "cd": 7,
+          "days": 20,
+          "odds": "6/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 87.21,
+          "ret": null,
+          "bank": 8721.07
+        },
+        {
+          "rank": 2,
+          "horse": "Rock Of England",
+          "jockey": "K Stott",
+          "cd": 1,
+          "days": 20,
           "odds": "14/1",
           "mark": null,
           "pos": 0,
-          "res": "NR",
-          "stake": 81.82,
+          "res": null,
+          "stake": 87.21,
           "ret": null,
-          "bank": 8182.48
-        }
-      ]
-    },
-    {
-      "time": "16:30",
-      "meeting": "Dundalk",
-      "name": "Christmas Party Nights At Dundalk Stadium Handicap",
-      "class": "",
-      "distance": "1m",
-      "riders": 16,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Golddream",
-          "jockey": "Reserve 1",
-          "cd": 1,
-          "days": 19,
-          "odds": "11/2",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 81.82,
-          "ret": 450.01,
-          "bank": 8632.49
-        },
-        {
-          "rank": 2,
-          "horse": "Moyassr",
-          "jockey": "Adam Caffrey",
-          "cd": 4,
-          "days": 7,
-          "odds": "12/1",
-          "mark": null,
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 86.32,
-          "ret": -86.32,
-          "bank": 8546.17
-        }
-      ]
-    },
-    {
-      "time": "19:00",
-      "meeting": "Kempton",
-      "name": "Try Unibet's New VAR Goal Guarantee Handicap",
-      "class": "2",
-      "distance": "1m",
-      "riders": 14,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Palladas",
-          "jockey": "Connor Planas",
-          "cd": 1,
-          "days": 26,
-          "odds": "9/2",
-          "mark": null,
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 85.46,
-          "ret": 96.14,
-          "bank": 8642.31
-        },
-        {
-          "rank": 2,
-          "horse": "Oliver Show",
-          "jockey": "Toby Moore",
-          "cd": 1,
-          "days": 20,
-          "odds": "12/1",
-          "mark": null,
-          "pos": 10,
-          "res": "LOSE",
-          "stake": 86.42,
-          "ret": -86.42,
-          "bank": 8555.89
+          "bank": 8721.07
         },
         {
           "rank": 3,
-          "horse": "Brasil Power",
-          "jockey": "Megan Smith",
-          "cd": 1,
-          "days": 28,
-          "odds": "25/1",
-          "mark": null,
-          "pos": 12,
-          "res": "LOSE",
-          "stake": 85.56,
-          "ret": -85.56,
-          "bank": 8470.33
-        }
-      ]
-    },
-    {
-      "time": "20:00",
-      "meeting": "Kempton",
-      "name": "Unibet 3 Uniboosts A Day Handicap",
-      "class": "4",
-      "distance": "7f",
-      "riders": 14,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "I'm Workin On It",
-          "jockey": "Kieren Fox",
+          "horse": "Oriental Prince",
+          "jockey": "Lauren Young",
           "cd": 4,
-          "days": 23,
-          "odds": "12/1",
-          "mark": null,
-          "pos": 8,
-          "res": "LOSE",
-          "stake": 84.7,
-          "ret": -84.7,
-          "bank": 8385.63
-        },
-        {
-          "rank": 2,
-          "horse": "Chalk Mountain",
-          "jockey": "Alfie Redman",
-          "cd": 3,
-          "days": 16,
+          "days": 27,
           "odds": "16/1",
           "mark": null,
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 83.86,
-          "ret": 335.44,
+          "pos": 0,
+          "res": null,
+          "stake": 87.21,
+          "ret": null,
           "bank": 8721.07
         }
       ]
     }
   ],
   "bank": {
-    "start": 7250.06,
-    "stake": 72.5,
+    "start": 8721.07,
+    "stake": 87.21,
     "end": 8721.07
   }
 }
