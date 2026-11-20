@@ -1,0 +1,351 @@
+{
+  "date": "2026-11-20",
+  "updated": "2026-11-20T05:00:09+0000",
+  "races": [
+    {
+      "time": "16:30",
+      "meeting": "Wolverhampton",
+      "name": "All Weather Championship Is Back Amateur Jockeys' Handicap",
+      "class": "6",
+      "distance": "1m 142y",
+      "riders": 13,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Book Of Life",
+          "jockey": "Mr Jack Loughnane",
+          "cd": 1,
+          "days": 14,
+          "odds": "7/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 97.25,
+          "ret": null,
+          "bank": 9724.68
+        },
+        {
+          "rank": 2,
+          "horse": "Molly Valentine",
+          "jockey": "Mr Jake Holman",
+          "cd": 1,
+          "days": 25,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 97.25,
+          "ret": null,
+          "bank": 9724.68
+        },
+        {
+          "rank": 3,
+          "horse": "Age Of Time",
+          "jockey": "Mr Eireann Cagney",
+          "cd": 2,
+          "days": 20,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 97.25,
+          "ret": null,
+          "bank": 9724.68
+        }
+      ]
+    },
+    {
+      "time": "17:15",
+      "meeting": "Dundalk",
+      "name": "Now Racing Every Wednesday At Dundalk Handicap (0-60)",
+      "class": "",
+      "distance": "6f",
+      "riders": 17,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Sovereign Banter",
+          "jockey": "Jimmy Dalton",
+          "cd": 1,
+          "days": 28,
+          "odds": "4/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 97.25,
+          "ret": null,
+          "bank": 9724.68
+        },
+        {
+          "rank": 2,
+          "horse": "Hasiyna",
+          "jockey": "Reserve 1",
+          "cd": 2,
+          "days": 28,
+          "odds": "25/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 97.25,
+          "ret": null,
+          "bank": 9724.68
+        },
+        {
+          "rank": 3,
+          "horse": "Inishmot Prince",
+          "jockey": "James Ryan",
+          "cd": 4,
+          "days": 28,
+          "odds": "25/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 97.25,
+          "ret": null,
+          "bank": 9724.68
+        }
+      ]
+    },
+    {
+      "time": "18:30",
+      "meeting": "Wolverhampton",
+      "name": "AWC Season 14 Selling Handicap",
+      "class": "4",
+      "distance": "1m 142y",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Tonal",
+          "jockey": "C J Whiteley",
+          "cd": 2,
+          "days": 18,
+          "odds": "4/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 97.25,
+          "ret": null,
+          "bank": 9724.68
+        },
+        {
+          "rank": 2,
+          "horse": "Hitched",
+          "jockey": "L Morris",
+          "cd": 2,
+          "days": 15,
+          "odds": "25/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 97.25,
+          "ret": null,
+          "bank": 9724.68
+        }
+      ]
+    },
+    {
+      "time": "19:30",
+      "meeting": "Wolverhampton",
+      "name": "All Weather Championship Handicap",
+      "class": "2",
+      "distance": "7f 36y",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Sea Baaeed",
+          "jockey": "Cieren Fallon",
+          "cd": 1,
+          "days": 16,
+          "odds": "20/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 97.25,
+          "ret": null,
+          "bank": 9724.68
+        }
+      ]
+    },
+    {
+      "time": "19:45",
+      "meeting": "Dundalk",
+      "name": "Christmas Party Nights At Dundalk Stadium Apprentice Handicap",
+      "class": "",
+      "distance": "1m 2f 150y",
+      "riders": 13,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Autocrat",
+          "jockey": "Nicola Burns",
+          "cd": 5,
+          "days": 14,
+          "odds": "11/2",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 97.25,
+          "ret": null,
+          "bank": 9724.68
+        },
+        {
+          "rank": 2,
+          "horse": "Walhaan",
+          "jockey": "Patrick McGettigan",
+          "cd": 4,
+          "days": 9,
+          "odds": "10/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 97.25,
+          "ret": null,
+          "bank": 9724.68
+        }
+      ]
+    },
+    {
+      "time": "20:00",
+      "meeting": "Wolverhampton",
+      "name": "Midnite It's Actually Pretty Good Handicap",
+      "class": "6",
+      "distance": "6f 20y",
+      "riders": 13,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Eldeyaar",
+          "jockey": "Cam Hardie",
+          "cd": 3,
+          "days": 24,
+          "odds": "3/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 97.25,
+          "ret": null,
+          "bank": 9724.68
+        },
+        {
+          "rank": 2,
+          "horse": "Barry The Worm",
+          "jockey": "Rob Hornby",
+          "cd": 1,
+          "days": 17,
+          "odds": "4/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 97.25,
+          "ret": null,
+          "bank": 9724.68
+        }
+      ]
+    },
+    {
+      "time": "20:15",
+      "meeting": "Dundalk",
+      "name": "Safer Gambling Week 2026 Handicap (0-60)",
+      "class": "",
+      "distance": "1m 4f",
+      "riders": 17,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Grey Fable",
+          "jockey": "Ben Coen",
+          "cd": 1,
+          "days": 16,
+          "odds": "6/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 97.25,
+          "ret": null,
+          "bank": 9724.68
+        },
+        {
+          "rank": 2,
+          "horse": "Esticky End",
+          "jockey": "Reserve 2",
+          "cd": 1,
+          "days": 8,
+          "odds": "33/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 97.25,
+          "ret": null,
+          "bank": 9724.68
+        }
+      ]
+    },
+    {
+      "time": "20:30",
+      "meeting": "Wolverhampton",
+      "name": "Midnite Built Different Handicap",
+      "class": "6",
+      "distance": "1m 1f 104y",
+      "riders": 13,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "San Juanito",
+          "jockey": "Rob Hornby",
+          "cd": 2,
+          "days": 13,
+          "odds": "4/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 97.25,
+          "ret": null,
+          "bank": 9724.68
+        },
+        {
+          "rank": 2,
+          "horse": "Sant Alessio",
+          "jockey": "Taylor Fisher",
+          "cd": 1,
+          "days": 24,
+          "odds": "6/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 97.25,
+          "ret": null,
+          "bank": 9724.68
+        },
+        {
+          "rank": 3,
+          "horse": "Urban Road",
+          "jockey": "T Eaves",
+          "cd": 2,
+          "days": 21,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 97.25,
+          "ret": null,
+          "bank": 9724.68
+        }
+      ]
+    }
+  ],
+  "bank": {
+    "start": 9724.68,
+    "stake": 97.25,
+    "end": 9724.68
+  }
+}
