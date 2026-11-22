@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated": "2026-11-21T23:32:19+0000",
+  "updated": "2026-11-22T13:01:23+0000",
   "races": [
     {
       "time": "16:30",
@@ -13,17 +13,17 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Book Of Life",
-          "jockey": "Mr Jack Loughnane",
-          "cd": 1,
-          "days": 14,
-          "odds": "7/1",
+          "horse": "Age Of Time",
+          "jockey": "Mr Eireann Cagney",
+          "cd": 2,
+          "days": 20,
+          "odds": "11/2",
           "mark": null,
-          "pos": 3,
-          "res": "PLACE",
+          "pos": 9,
+          "res": "LOSE",
           "stake": 91.29,
-          "ret": 159.76,
-          "bank": 9289.17
+          "ret": -91.29,
+          "bank": 9038.12
         },
         {
           "rank": 2,
@@ -31,27 +31,13 @@
           "jockey": "Mr Jake Holman",
           "cd": 1,
           "days": 25,
-          "odds": "12/1",
+          "odds": "33/1",
           "mark": null,
           "pos": 13,
           "res": "LOSE",
-          "stake": 92.89,
-          "ret": -92.89,
-          "bank": 9196.28
-        },
-        {
-          "rank": 3,
-          "horse": "Age Of Time",
-          "jockey": "Mr Eireann Cagney",
-          "cd": 2,
-          "days": 20,
-          "odds": "16/1",
-          "mark": null,
-          "pos": 9,
-          "res": "LOSE",
-          "stake": 91.96,
-          "ret": -91.96,
-          "bank": 9104.32
+          "stake": 90.38,
+          "ret": -90.38,
+          "bank": 8947.74
         }
       ]
     },
@@ -70,30 +56,16 @@
           "jockey": "Jimmy Dalton",
           "cd": 1,
           "days": 28,
-          "odds": "4/1",
+          "odds": "8/1",
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 91.04,
-          "ret": -91.04,
-          "bank": 9013.28
+          "stake": 89.48,
+          "ret": -89.48,
+          "bank": 8858.26
         },
         {
           "rank": 2,
-          "horse": "Hasiyna",
-          "jockey": "Reserve 1",
-          "cd": 2,
-          "days": 28,
-          "odds": "25/1",
-          "mark": null,
-          "pos": 0,
-          "res": "NR",
-          "stake": 90.13,
-          "ret": null,
-          "bank": 9013.28
-        },
-        {
-          "rank": 3,
           "horse": "Inishmot Prince",
           "jockey": "James Ryan",
           "cd": 4,
@@ -102,9 +74,9 @@
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 90.13,
-          "ret": 563.31,
-          "bank": 9576.59
+          "stake": 88.58,
+          "ret": 553.62,
+          "bank": 9411.88
         }
       ]
     },
@@ -123,13 +95,13 @@
           "jockey": "C J Whiteley",
           "cd": 2,
           "days": 18,
-          "odds": "4/1",
+          "odds": "13/2",
           "mark": null,
           "pos": 3,
           "res": "PLACE",
-          "stake": 95.77,
-          "ret": 95.77,
-          "bank": 9672.36
+          "stake": 94.12,
+          "ret": 152.94,
+          "bank": 9564.82
         },
         {
           "rank": 2,
@@ -137,13 +109,13 @@
           "jockey": "L Morris",
           "cd": 2,
           "days": 15,
-          "odds": "25/1",
+          "odds": "12/1",
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 96.72,
-          "ret": -96.72,
-          "bank": 9575.64
+          "stake": 95.65,
+          "ret": -95.65,
+          "bank": 9469.17
         }
       ]
     },
@@ -162,13 +134,13 @@
           "jockey": "Cieren Fallon",
           "cd": 1,
           "days": 16,
-          "odds": "20/1",
+          "odds": "16/1",
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 95.76,
-          "ret": -95.76,
-          "bank": 9479.88
+          "stake": 94.69,
+          "ret": -94.69,
+          "bank": 9374.48
         }
       ]
     },
@@ -183,31 +155,31 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Autocrat",
-          "jockey": "Nicola Burns",
-          "cd": 5,
-          "days": 14,
-          "odds": "11/2",
-          "mark": null,
-          "pos": 9,
-          "res": "LOSE",
-          "stake": 94.8,
-          "ret": -94.8,
-          "bank": 9385.08
-        },
-        {
-          "rank": 2,
           "horse": "Walhaan",
           "jockey": "Patrick McGettigan",
           "cd": 4,
           "days": 9,
-          "odds": "10/1",
+          "odds": "11/1",
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 93.85,
-          "ret": -93.85,
-          "bank": 9291.23
+          "stake": 93.74,
+          "ret": -93.74,
+          "bank": 9280.74
+        },
+        {
+          "rank": 2,
+          "horse": "Autocrat",
+          "jockey": "Nicola Burns",
+          "cd": 5,
+          "days": 14,
+          "odds": "11/1",
+          "mark": null,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 92.81,
+          "ret": -92.81,
+          "bank": 9187.93
         }
       ]
     },
@@ -226,27 +198,13 @@
           "jockey": "Cam Hardie",
           "cd": 3,
           "days": 24,
-          "odds": "3/1",
+          "odds": "18/1",
           "mark": null,
           "pos": 13,
           "res": "LOSE",
-          "stake": 92.91,
-          "ret": -92.91,
-          "bank": 9198.32
-        },
-        {
-          "rank": 2,
-          "horse": "Barry The Worm",
-          "jockey": "Rob Hornby",
-          "cd": 1,
-          "days": 17,
-          "odds": "4/1",
-          "mark": null,
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 91.98,
-          "ret": 91.98,
-          "bank": 9290.3
+          "stake": 91.88,
+          "ret": -91.88,
+          "bank": 9096.05
         }
       ]
     },
@@ -265,27 +223,13 @@
           "jockey": "Ben Coen",
           "cd": 1,
           "days": 16,
-          "odds": "6/1",
+          "odds": "13/2",
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 92.9,
-          "ret": -92.9,
-          "bank": 9197.4
-        },
-        {
-          "rank": 2,
-          "horse": "Esticky End",
-          "jockey": "Reserve 2",
-          "cd": 1,
-          "days": 8,
-          "odds": "33/1",
-          "mark": null,
-          "pos": 0,
-          "res": "NR",
-          "stake": 91.97,
-          "ret": null,
-          "bank": 9197.4
+          "stake": 90.96,
+          "ret": -90.96,
+          "bank": 9005.09
         }
       ]
     },
@@ -304,13 +248,13 @@
           "jockey": "Rob Hornby",
           "cd": 2,
           "days": 13,
-          "odds": "4/1",
+          "odds": "10/3",
           "mark": null,
           "pos": 10,
           "res": "LOSE",
-          "stake": 91.97,
-          "ret": -91.97,
-          "bank": 9105.43
+          "stake": 90.05,
+          "ret": -90.05,
+          "bank": 8915.04
         },
         {
           "rank": 2,
@@ -318,13 +262,13 @@
           "jockey": "Taylor Fisher",
           "cd": 1,
           "days": 24,
-          "odds": "6/1",
+          "odds": "8/1",
           "mark": null,
           "pos": 6,
           "res": "LOSE",
-          "stake": 91.05,
-          "ret": -91.05,
-          "bank": 9014.38
+          "stake": 89.15,
+          "ret": -89.15,
+          "bank": 8825.89
         },
         {
           "rank": 3,
@@ -336,9 +280,9 @@
           "mark": null,
           "pos": 7,
           "res": "LOSE",
-          "stake": 90.14,
-          "ret": -90.14,
-          "bank": 8924.24
+          "stake": 88.26,
+          "ret": -88.26,
+          "bank": 8737.63
         }
       ]
     }
@@ -346,6 +290,6 @@
   "bank": {
     "start": 9129.41,
     "stake": 91.29,
-    "end": 8924.24
+    "end": 8737.63
   }
 }
