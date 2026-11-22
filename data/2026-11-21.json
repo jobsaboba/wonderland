@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated": "2026-11-21T23:32:19+0000",
+  "updated": "2026-11-22T13:00:28+0000",
   "races": [
     {
       "time": "13:10",
@@ -17,7 +17,7 @@
           "jockey": "Harry Davies",
           "cd": 1,
           "days": 25,
-          "odds": "12/1",
+          "odds": "14/1",
           "mark": null,
           "pos": 10,
           "res": "LOSE",
@@ -42,26 +42,12 @@
           "jockey": "Charles Bishop",
           "cd": 1,
           "days": 21,
-          "odds": "13/2",
+          "odds": "28/1",
           "mark": null,
           "pos": 9,
           "res": "LOSE",
           "stake": 88.35,
           "ret": -88.35,
-          "bank": 8746.65
-        },
-        {
-          "rank": 2,
-          "horse": "Kiniro",
-          "jockey": "Jason Watson",
-          "cd": 2,
-          "days": 18,
-          "odds": "10/1",
-          "mark": null,
-          "pos": 0,
-          "res": "NR",
-          "stake": 87.47,
-          "ret": null,
           "bank": 8746.65
         }
       ]
@@ -81,7 +67,7 @@
           "jockey": "Rob Hornby",
           "cd": 4,
           "days": 17,
-          "odds": "13/2",
+          "odds": "17/2",
           "mark": null,
           "pos": 4,
           "res": "LOSE",
@@ -91,17 +77,17 @@
         },
         {
           "rank": 2,
-          "horse": "Far Too Fizzy",
-          "jockey": "Laura Pearson",
-          "cd": 1,
-          "days": 16,
-          "odds": "14/1",
+          "horse": "Elvetham",
+          "jockey": "R Havlin",
+          "cd": 2,
+          "days": 19,
+          "odds": "20/1",
           "mark": null,
-          "pos": 0,
-          "res": "NR",
+          "pos": 8,
+          "res": "LOSE",
           "stake": 86.59,
-          "ret": null,
-          "bank": 8659.18
+          "ret": -86.59,
+          "bank": 8572.59
         }
       ]
     },
@@ -116,31 +102,17 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Humble Spark",
-          "jockey": "Lauren Young",
-          "cd": 1,
-          "days": 15,
-          "odds": "5/1",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 86.59,
-          "ret": 432.95,
-          "bank": 9092.13
-        },
-        {
-          "rank": 2,
           "horse": "Elemental Eye",
           "jockey": "A Mullen",
           "cd": 1,
           "days": 18,
-          "odds": "10/1",
+          "odds": "12/1",
           "mark": null,
           "pos": 8,
           "res": "LOSE",
-          "stake": 90.92,
-          "ret": -90.92,
-          "bank": 9001.21
+          "stake": 85.73,
+          "ret": -85.73,
+          "bank": 8486.86
         }
       ]
     },
@@ -159,13 +131,13 @@
           "jockey": "N Callan",
           "cd": 2,
           "days": 19,
-          "odds": "33/1",
+          "odds": "10/1",
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 90.01,
-          "ret": -90.01,
-          "bank": 8911.2
+          "stake": 84.87,
+          "ret": -84.87,
+          "bank": 8401.99
         }
       ]
     },
@@ -184,13 +156,13 @@
           "jockey": "S H James",
           "cd": 2,
           "days": 17,
-          "odds": "16/1",
+          "odds": "7/2",
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 89.11,
-          "ret": -89.11,
-          "bank": 8822.09
+          "stake": 84.02,
+          "ret": -84.02,
+          "bank": 8317.97
         }
       ]
     },
@@ -209,13 +181,13 @@
           "jockey": "Jason Hart",
           "cd": 2,
           "days": 22,
-          "odds": "8/1",
+          "odds": "14/1",
           "mark": null,
           "pos": 5,
           "res": "LOSE",
-          "stake": 88.22,
-          "ret": -88.22,
-          "bank": 8733.87
+          "stake": 83.18,
+          "ret": -83.18,
+          "bank": 8234.79
         }
       ]
     },
@@ -234,13 +206,13 @@
           "jockey": "Shay Farmer",
           "cd": 2,
           "days": 17,
-          "odds": "14/1",
+          "odds": "18/1",
           "mark": null,
           "pos": 4,
           "res": "LOSE",
-          "stake": 87.34,
-          "ret": -87.34,
-          "bank": 8646.53
+          "stake": 82.35,
+          "ret": -82.35,
+          "bank": 8152.44
         }
       ]
     },
@@ -255,17 +227,17 @@
       "sel": [
         {
           "rank": 1,
-          "horse": "Too Much",
-          "jockey": "D Allan",
-          "cd": 1,
-          "days": 15,
-          "odds": "4/1",
+          "horse": "Bright",
+          "jockey": "Finley Marsh",
+          "cd": 2,
+          "days": 22,
+          "odds": "11/2",
           "mark": null,
-          "pos": 8,
+          "pos": 9,
           "res": "LOSE",
-          "stake": 86.47,
-          "ret": -86.47,
-          "bank": 8560.06
+          "stake": 81.52,
+          "ret": -81.52,
+          "bank": 8070.92
         },
         {
           "rank": 2,
@@ -273,27 +245,27 @@
           "jockey": "T Eaves",
           "cd": 1,
           "days": 22,
-          "odds": "8/1",
+          "odds": "6/1",
           "mark": null,
           "pos": 10,
           "res": "LOSE",
-          "stake": 85.6,
-          "ret": -85.6,
-          "bank": 8474.46
+          "stake": 80.71,
+          "ret": -80.71,
+          "bank": 7990.21
         },
         {
           "rank": 3,
-          "horse": "Miss Rainbow",
-          "jockey": "Jason Hart",
+          "horse": "Too Much",
+          "jockey": "D Allan",
           "cd": 1,
-          "days": 26,
-          "odds": "10/1",
+          "days": 15,
+          "odds": "9/1",
           "mark": null,
-          "pos": 6,
+          "pos": 8,
           "res": "LOSE",
-          "stake": 84.74,
-          "ret": -84.74,
-          "bank": 8389.72
+          "stake": 79.9,
+          "ret": -79.9,
+          "bank": 7910.31
         }
       ]
     }
@@ -301,6 +273,6 @@
   "bank": {
     "start": 8924.24,
     "stake": 89.24,
-    "end": 8389.72
+    "end": 7910.31
   }
 }
