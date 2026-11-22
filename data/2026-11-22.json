@@ -1,0 +1,100 @@
+{
+  "date": "2026-11-22",
+  "updated": "2026-11-22T05:00:07+0000",
+  "races": [
+    {
+      "time": "11:25",
+      "meeting": "Lingfield",
+      "name": "All-Weather Championship Is Back 'Hands And Heels' Apprentice Handicap",
+      "class": "5",
+      "distance": "7f 1y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "This Farh",
+          "jockey": "Jude Maher",
+          "cd": 1,
+          "days": 17,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 83.9,
+          "ret": null,
+          "bank": 8389.72
+        },
+        {
+          "rank": 2,
+          "horse": "Mighty Vega",
+          "jockey": "Isobelle Chalmers",
+          "cd": 1,
+          "days": 17,
+          "odds": "33/1",
+          "mark": -2,
+          "pos": 0,
+          "res": null,
+          "stake": 83.9,
+          "ret": null,
+          "bank": 8389.72
+        }
+      ]
+    },
+    {
+      "time": "14:25",
+      "meeting": "Lingfield",
+      "name": "Make The Move To Midnite Handicap",
+      "class": "6",
+      "distance": "5f 6y",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Diamond Dreamer",
+          "jockey": "K Shoemark",
+          "cd": 1,
+          "days": 27,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 83.9,
+          "ret": null,
+          "bank": 8389.72
+        }
+      ]
+    },
+    {
+      "time": "14:55",
+      "meeting": "Lingfield",
+      "name": "Midnite: Built For 2026 Not 2006 Handicap",
+      "class": "6",
+      "distance": "1m 2f 1y",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Muy Muy Loco",
+          "jockey": "L Morris",
+          "cd": 2,
+          "days": 17,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 83.9,
+          "ret": null,
+          "bank": 8389.72
+        }
+      ]
+    }
+  ],
+  "bank": {
+    "start": 8389.72,
+    "stake": 83.9,
+    "end": 8389.72
+  }
+}

@@ -1,306 +1,100 @@
 {
-  "date": "2026-11-21",
-  "updated": "2026-11-21T23:32:19+0000",
+  "date": "2026-11-22",
+  "updated": "2026-11-22T05:00:07+0000",
   "races": [
     {
-      "time": "13:10",
+      "time": "11:25",
       "meeting": "Lingfield",
-      "name": "Midnite: Built For 2026 Not 2006 Handicap",
+      "name": "All-Weather Championship Is Back 'Hands And Heels' Apprentice Handicap",
       "class": "5",
-      "distance": "1m 2f",
+      "distance": "7f 1y",
       "riders": 12,
       "settled": true,
       "sel": [
         {
           "rank": 1,
-          "horse": "Newfangled",
-          "jockey": "Harry Davies",
+          "horse": "This Farh",
+          "jockey": "Jude Maher",
           "cd": 1,
-          "days": 25,
+          "days": 17,
           "odds": "12/1",
           "mark": null,
-          "pos": 10,
-          "res": "LOSE",
-          "stake": 89.24,
-          "ret": -89.24,
-          "bank": 8835.0
-        }
-      ]
-    },
-    {
-      "time": "13:45",
-      "meeting": "Lingfield",
-      "name": "Midnite Built Different Handicap",
-      "class": "4",
-      "distance": "6f 1y",
-      "riders": 12,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Supreme King",
-          "jockey": "Charles Bishop",
-          "cd": 1,
-          "days": 21,
-          "odds": "13/2",
-          "mark": null,
-          "pos": 9,
-          "res": "LOSE",
-          "stake": 88.35,
-          "ret": -88.35,
-          "bank": 8746.65
+          "pos": 0,
+          "res": null,
+          "stake": 83.9,
+          "ret": null,
+          "bank": 8389.72
         },
         {
           "rank": 2,
-          "horse": "Kiniro",
-          "jockey": "Jason Watson",
-          "cd": 2,
-          "days": 18,
-          "odds": "10/1",
-          "mark": null,
-          "pos": 0,
-          "res": "NR",
-          "stake": 87.47,
-          "ret": null,
-          "bank": 8746.65
-        }
-      ]
-    },
-    {
-      "time": "14:20",
-      "meeting": "Lingfield",
-      "name": "Midnite A Next Generation Betting App Handicap",
-      "class": "6",
-      "distance": "6f 1y",
-      "riders": 12,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Phoenix Moon",
-          "jockey": "Rob Hornby",
-          "cd": 4,
+          "horse": "Mighty Vega",
+          "jockey": "Isobelle Chalmers",
+          "cd": 1,
           "days": 17,
-          "odds": "13/2",
-          "mark": null,
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 87.47,
-          "ret": -87.47,
-          "bank": 8659.18
-        },
-        {
-          "rank": 2,
-          "horse": "Far Too Fizzy",
-          "jockey": "Laura Pearson",
-          "cd": 1,
-          "days": 16,
-          "odds": "14/1",
-          "mark": null,
+          "odds": "33/1",
+          "mark": -2,
           "pos": 0,
-          "res": "NR",
-          "stake": 86.59,
+          "res": null,
+          "stake": 83.9,
           "ret": null,
-          "bank": 8659.18
+          "bank": 8389.72
         }
       ]
     },
     {
-      "time": "15:29",
-      "meeting": "Newcastle",
-      "name": "Make The Move To Midnite Handicap (Div 2)",
-      "class": "5",
-      "distance": "1m 4f 98y",
-      "riders": 9,
+      "time": "14:25",
+      "meeting": "Lingfield",
+      "name": "Make The Move To Midnite Handicap",
+      "class": "6",
+      "distance": "5f 6y",
+      "riders": 10,
       "settled": true,
       "sel": [
         {
           "rank": 1,
-          "horse": "Humble Spark",
-          "jockey": "Lauren Young",
+          "horse": "Diamond Dreamer",
+          "jockey": "K Shoemark",
           "cd": 1,
-          "days": 15,
+          "days": 27,
           "odds": "5/1",
           "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 86.59,
-          "ret": 432.95,
-          "bank": 9092.13
-        },
-        {
-          "rank": 2,
-          "horse": "Elemental Eye",
-          "jockey": "A Mullen",
-          "cd": 1,
-          "days": 18,
-          "odds": "10/1",
-          "mark": null,
-          "pos": 8,
-          "res": "LOSE",
-          "stake": 90.92,
-          "ret": -90.92,
-          "bank": 9001.21
+          "pos": 0,
+          "res": null,
+          "stake": 83.9,
+          "ret": null,
+          "bank": 8389.72
         }
       ]
     },
     {
-      "time": "15:40",
+      "time": "14:55",
       "meeting": "Lingfield",
-      "name": "Midnite It's Actually Pretty Good Handicap",
-      "class": "6",
-      "distance": "1m 4f 1y",
-      "riders": 12,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Tortured Soul",
-          "jockey": "N Callan",
-          "cd": 2,
-          "days": 19,
-          "odds": "33/1",
-          "mark": null,
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 90.01,
-          "ret": -90.01,
-          "bank": 8911.2
-        }
-      ]
-    },
-    {
-      "time": "17:30",
-      "meeting": "Newcastle",
       "name": "Midnite: Built For 2026 Not 2006 Handicap",
       "class": "6",
-      "distance": "5f",
+      "distance": "1m 2f 1y",
       "riders": 14,
       "settled": true,
       "sel": [
         {
           "rank": 1,
-          "horse": "Ganesha",
-          "jockey": "S H James",
+          "horse": "Muy Muy Loco",
+          "jockey": "L Morris",
           "cd": 2,
           "days": 17,
           "odds": "16/1",
           "mark": null,
-          "pos": 5,
-          "res": "LOSE",
-          "stake": 89.11,
-          "ret": -89.11,
-          "bank": 8822.09
-        }
-      ]
-    },
-    {
-      "time": "18:00",
-      "meeting": "Newcastle",
-      "name": "AW Trials Day - Lingfield 2nd Jan 2027 Handicap",
-      "class": "6",
-      "distance": "1m 5y",
-      "riders": 14,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Concert Boy",
-          "jockey": "Jason Hart",
-          "cd": 2,
-          "days": 22,
-          "odds": "8/1",
-          "mark": null,
-          "pos": 5,
-          "res": "LOSE",
-          "stake": 88.22,
-          "ret": -88.22,
-          "bank": 8733.87
-        }
-      ]
-    },
-    {
-      "time": "18:30",
-      "meeting": "Newcastle",
-      "name": "All-Weather Championship Season 14 Has Begun Handicap",
-      "class": "6",
-      "distance": "7f 14y",
-      "riders": 14,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Jkr Cobbler",
-          "jockey": "Shay Farmer",
-          "cd": 2,
-          "days": 17,
-          "odds": "14/1",
-          "mark": null,
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 87.34,
-          "ret": -87.34,
-          "bank": 8646.53
-        }
-      ]
-    },
-    {
-      "time": "19:00",
-      "meeting": "Newcastle",
-      "name": "Midnite Built Different Handicap",
-      "class": "6",
-      "distance": "6f",
-      "riders": 14,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Too Much",
-          "jockey": "D Allan",
-          "cd": 1,
-          "days": 15,
-          "odds": "4/1",
-          "mark": null,
-          "pos": 8,
-          "res": "LOSE",
-          "stake": 86.47,
-          "ret": -86.47,
-          "bank": 8560.06
-        },
-        {
-          "rank": 2,
-          "horse": "Wish This",
-          "jockey": "T Eaves",
-          "cd": 1,
-          "days": 22,
-          "odds": "8/1",
-          "mark": null,
-          "pos": 10,
-          "res": "LOSE",
-          "stake": 85.6,
-          "ret": -85.6,
-          "bank": 8474.46
-        },
-        {
-          "rank": 3,
-          "horse": "Miss Rainbow",
-          "jockey": "Jason Hart",
-          "cd": 1,
-          "days": 26,
-          "odds": "10/1",
-          "mark": null,
-          "pos": 6,
-          "res": "LOSE",
-          "stake": 84.74,
-          "ret": -84.74,
+          "pos": 0,
+          "res": null,
+          "stake": 83.9,
+          "ret": null,
           "bank": 8389.72
         }
       ]
     }
   ],
   "bank": {
-    "start": 8924.24,
-    "stake": 89.24,
+    "start": 8389.72,
+    "stake": 83.9,
     "end": 8389.72
   }
 }
