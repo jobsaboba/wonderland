@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated": "2026-11-22T23:32:25+0000",
+  "updated": "2026-11-23T10:32:48+0000",
   "races": [
     {
       "time": "11:25",
@@ -56,13 +56,13 @@
           "jockey": "K Shoemark",
           "cd": 1,
           "days": 27,
-          "odds": "5/1",
+          "odds": "4/1",
           "mark": null,
           "pos": 3,
           "res": "PLACE",
           "stake": 84.34,
-          "ret": 105.43,
-          "bank": 8539.59
+          "ret": 84.34,
+          "bank": 8518.5
         }
       ]
     },
@@ -81,13 +81,13 @@
           "jockey": "L Morris",
           "cd": 2,
           "days": 17,
-          "odds": "16/1",
+          "odds": "11/1",
           "mark": null,
           "pos": 9,
           "res": "LOSE",
-          "stake": 85.4,
-          "ret": -85.4,
-          "bank": 8454.19
+          "stake": 85.19,
+          "ret": -85.19,
+          "bank": 8433.31
         }
       ]
     }
@@ -95,6 +95,6 @@
   "bank": {
     "start": 7744.91,
     "stake": 77.45,
-    "end": 8454.19
+    "end": 8433.31
   }
 }
