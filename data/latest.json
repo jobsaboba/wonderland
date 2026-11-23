@@ -1,100 +1,493 @@
 {
-  "date": "2026-11-22",
-  "updated": "2026-11-22T23:32:25+0000",
+  "date": "2026-11-23",
+  "updated": "2026-11-23T05:00:11+0000",
   "races": [
     {
-      "time": "11:25",
-      "meeting": "Lingfield",
-      "name": "All-Weather Championship Is Back 'Hands And Heels' Apprentice Handicap",
+      "time": "15:30",
+      "meeting": "Newcastle",
+      "name": "Midnite A Next Generation Betting App Apprentice Handicap",
       "class": "5",
-      "distance": "7f 1y",
-      "riders": 12,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Mighty Vega",
-          "jockey": "Isobelle Chalmers",
-          "cd": 1,
-          "days": 17,
-          "odds": "10/1",
-          "mark": null,
-          "pos": 10,
-          "res": "LOSE",
-          "stake": 77.45,
-          "ret": -77.45,
-          "bank": 7667.46
-        },
-        {
-          "rank": 2,
-          "horse": "This Farh",
-          "jockey": "Jude Maher",
-          "cd": 1,
-          "days": 17,
-          "odds": "10/1",
-          "mark": null,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 76.67,
-          "ret": 766.7,
-          "bank": 8434.16
-        }
-      ]
-    },
-    {
-      "time": "14:25",
-      "meeting": "Lingfield",
-      "name": "Make The Move To Midnite Handicap",
-      "class": "6",
-      "distance": "5f 6y",
-      "riders": 10,
-      "settled": true,
-      "sel": [
-        {
-          "rank": 1,
-          "horse": "Diamond Dreamer",
-          "jockey": "K Shoemark",
-          "cd": 1,
-          "days": 27,
-          "odds": "5/1",
-          "mark": null,
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 84.34,
-          "ret": 105.43,
-          "bank": 8539.59
-        }
-      ]
-    },
-    {
-      "time": "14:55",
-      "meeting": "Lingfield",
-      "name": "Midnite: Built For 2026 Not 2006 Handicap",
-      "class": "6",
-      "distance": "1m 2f 1y",
+      "distance": "1m 2f 42y",
       "riders": 14,
       "settled": true,
       "sel": [
         {
           "rank": 1,
-          "horse": "Muy Muy Loco",
-          "jockey": "L Morris",
+          "horse": "Alpine Sierra",
+          "jockey": "Rhys Elliott",
+          "cd": 1,
+          "days": 19,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 84.54,
+          "ret": null,
+          "bank": 8454.19
+        },
+        {
+          "rank": 2,
+          "horse": "Royal Blaze",
+          "jockey": "Alex Jary",
+          "cd": 1,
+          "days": 2,
+          "odds": "25/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 84.54,
+          "ret": null,
+          "bank": 8454.19
+        }
+      ]
+    },
+    {
+      "time": "16:30",
+      "meeting": "Wolverhampton",
+      "name": "Midnight A Next Generation Betting App Handicap",
+      "class": "6",
+      "distance": "1m 1f 104y",
+      "riders": 13,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Imola",
+          "jockey": "C Lee",
           "cd": 2,
+          "days": 21,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 84.54,
+          "ret": null,
+          "bank": 8454.19
+        },
+        {
+          "rank": 2,
+          "horse": "Riyadh Gem",
+          "jockey": "William Cox",
+          "cd": 1,
+          "days": 25,
+          "odds": "25/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 84.54,
+          "ret": null,
+          "bank": 8454.19
+        }
+      ]
+    },
+    {
+      "time": "17:45",
+      "meeting": "Newcastle",
+      "name": "Midnite It's Actually Pretty Good Handicap (Div 1)",
+      "class": "5",
+      "distance": "6f",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "The Green Man",
+          "jockey": "K Stott",
+          "cd": 2,
+          "days": 24,
+          "odds": "7/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 84.54,
+          "ret": null,
+          "bank": 8454.19
+        },
+        {
+          "rank": 2,
+          "horse": "Spun To Gold",
+          "jockey": "Lauren Young",
+          "cd": 2,
+          "days": 2,
+          "odds": "10/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 84.54,
+          "ret": null,
+          "bank": 8454.19
+        }
+      ]
+    },
+    {
+      "time": "18:00",
+      "meeting": "Wolverhampton",
+      "name": "Make The Move To Midnite Handicap",
+      "class": "6",
+      "distance": "5f 21y",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Gustav Graves",
+          "jockey": "Jack Doughty",
+          "cd": 7,
+          "days": 27,
+          "odds": "20/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 84.54,
+          "ret": null,
+          "bank": 8454.19
+        }
+      ]
+    },
+    {
+      "time": "18:15",
+      "meeting": "Newcastle",
+      "name": "Midnite It's Actually Pretty Good Handicap (Div 2)",
+      "class": "5",
+      "distance": "6f",
+      "riders": 9,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Brave Traveller",
+          "jockey": "O McSweeney",
+          "cd": 1,
+          "days": 24,
+          "odds": "7/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 84.54,
+          "ret": null,
+          "bank": 8454.19
+        },
+        {
+          "rank": 2,
+          "horse": "Winter Crown",
+          "jockey": "Joanna Mason",
+          "cd": 1,
+          "days": 17,
+          "odds": "10/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 84.54,
+          "ret": null,
+          "bank": 8454.19
+        },
+        {
+          "rank": 3,
+          "horse": "Raatea",
+          "jockey": "Tom Kiely-Marshall",
+          "cd": 2,
+          "days": 16,
+          "odds": "20/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 84.54,
+          "ret": null,
+          "bank": 8454.19
+        }
+      ]
+    },
+    {
+      "time": "18:45",
+      "meeting": "Newcastle",
+      "name": "Midnite: Built For 2026 Not 2006 Handicap",
+      "class": "6",
+      "distance": "6f",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Teardrops",
+          "jockey": "Darragh O'Sullivan",
+          "cd": 3,
+          "days": 16,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 84.54,
+          "ret": null,
+          "bank": 8454.19
+        }
+      ]
+    },
+    {
+      "time": "19:00",
+      "meeting": "Wolverhampton",
+      "name": "AWC Season 14 Has Begun Handicap (Div 1)",
+      "class": "6",
+      "distance": "7f 36y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Crown The Future",
+          "jockey": "Charlie Tucker",
+          "cd": 1,
+          "days": 16,
+          "odds": "7/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 84.54,
+          "ret": null,
+          "bank": 8454.19
+        },
+        {
+          "rank": 2,
+          "horse": "On Key",
+          "jockey": "K T O'Neill",
+          "cd": 1,
+          "days": 27,
+          "odds": "20/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 84.54,
+          "ret": null,
+          "bank": 8454.19
+        }
+      ]
+    },
+    {
+      "time": "19:15",
+      "meeting": "Newcastle",
+      "name": "Make The Move To Midnite Handicap",
+      "class": "6",
+      "distance": "5f",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Too Much",
+          "jockey": "D Allan",
+          "cd": 1,
+          "days": 2,
+          "odds": "10/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 84.54,
+          "ret": null,
+          "bank": 8454.19
+        },
+        {
+          "rank": 2,
+          "horse": "Justmyluck",
+          "jockey": "William Pyle",
+          "cd": 1,
+          "days": 19,
+          "odds": "10/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 84.54,
+          "ret": null,
+          "bank": 8454.19
+        },
+        {
+          "rank": 3,
+          "horse": "Herakles",
+          "jockey": "Ryan Sexton",
+          "cd": 3,
           "days": 17,
           "odds": "16/1",
           "mark": null,
-          "pos": 9,
-          "res": "LOSE",
-          "stake": 85.4,
-          "ret": -85.4,
+          "pos": 0,
+          "res": null,
+          "stake": 84.54,
+          "ret": null,
+          "bank": 8454.19
+        }
+      ]
+    },
+    {
+      "time": "19:30",
+      "meeting": "Wolverhampton",
+      "name": "AWC Season 14 Has Begun Handicap (Div 2)",
+      "class": "6",
+      "distance": "7f 36y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Jamie Sommers",
+          "jockey": "Hollie Doyle",
+          "cd": 1,
+          "days": 21,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 84.54,
+          "ret": null,
+          "bank": 8454.19
+        },
+        {
+          "rank": 2,
+          "horse": "Monsieur Patat",
+          "jockey": "Finley Marsh",
+          "cd": 1,
+          "days": 19,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 84.54,
+          "ret": null,
+          "bank": 8454.19
+        },
+        {
+          "rank": 3,
+          "horse": "Good Karma",
+          "jockey": "Ethan Tindall",
+          "cd": 2,
+          "days": 16,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 84.54,
+          "ret": null,
+          "bank": 8454.19
+        }
+      ]
+    },
+    {
+      "time": "19:45",
+      "meeting": "Newcastle",
+      "name": "AW Trials Day - Lingfield 2nd Jan 2027 Handicap",
+      "class": "6",
+      "distance": "1m 5y",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Barleybrown",
+          "jockey": "Joanna Mason",
+          "cd": 4,
+          "days": 17,
+          "odds": "9/2",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 84.54,
+          "ret": null,
+          "bank": 8454.19
+        },
+        {
+          "rank": 2,
+          "horse": "Concert Boy",
+          "jockey": "Jason Hart",
+          "cd": 2,
+          "days": 2,
+          "odds": "7/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 84.54,
+          "ret": null,
+          "bank": 8454.19
+        },
+        {
+          "rank": 3,
+          "horse": "Ana Emaraaty",
+          "jockey": "Lauren Young",
+          "cd": 1,
+          "days": 17,
+          "odds": "20/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 84.54,
+          "ret": null,
+          "bank": 8454.19
+        }
+      ]
+    },
+    {
+      "time": "20:00",
+      "meeting": "Wolverhampton",
+      "name": "AWC Trials Day - Lingfield 2nd January 2027 Handicap",
+      "class": "4",
+      "distance": "7f 36y",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Follow Your Heart",
+          "jockey": "L Morris",
+          "cd": 5,
+          "days": 21,
+          "odds": "20/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 84.54,
+          "ret": null,
+          "bank": 8454.19
+        }
+      ]
+    },
+    {
+      "time": "20:30",
+      "meeting": "Wolverhampton",
+      "name": "AWC Season 14 Handicap",
+      "class": "5",
+      "distance": "1m 142y",
+      "riders": 10,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Hitched",
+          "jockey": "L Morris",
+          "cd": 2,
+          "days": 3,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 84.54,
+          "ret": null,
+          "bank": 8454.19
+        },
+        {
+          "rank": 2,
+          "horse": "He's A Gentleman",
+          "jockey": "D Egan",
+          "cd": 1,
+          "days": 21,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 84.54,
+          "ret": null,
           "bank": 8454.19
         }
       ]
     }
   ],
   "bank": {
-    "start": 7744.91,
-    "stake": 77.45,
+    "start": 8454.19,
+    "stake": 84.54,
     "end": 8454.19
   }
 }
