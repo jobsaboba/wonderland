@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated": "2026-11-25T18:03:00+0000",
+  "updated": "2026-11-25T18:33:07+0000",
   "races": [
     {
       "time": "14:01",
@@ -250,11 +250,11 @@
           "days": 2,
           "odds": "4/1",
           "mark": null,
-          "pos": 0,
-          "res": null,
+          "pos": 1,
+          "res": "WIN",
           "stake": 119.47,
-          "ret": null,
-          "bank": 11947.16
+          "ret": 477.88,
+          "bank": 12425.04
         }
       ]
     },
@@ -275,11 +275,11 @@
           "days": 4,
           "odds": "14/1",
           "mark": null,
-          "pos": 0,
-          "res": null,
-          "stake": 119.47,
-          "ret": null,
-          "bank": 11947.16
+          "pos": 1,
+          "res": "WIN",
+          "stake": 124.25,
+          "ret": 1739.5,
+          "bank": 14164.54
         }
       ]
     },
@@ -302,9 +302,9 @@
           "mark": null,
           "pos": 0,
           "res": null,
-          "stake": 119.47,
+          "stake": 141.65,
           "ret": null,
-          "bank": 11947.16
+          "bank": 14164.54
         },
         {
           "rank": 2,
@@ -316,9 +316,9 @@
           "mark": null,
           "pos": 0,
           "res": null,
-          "stake": 119.47,
+          "stake": 141.65,
           "ret": null,
-          "bank": 11947.16
+          "bank": 14164.54
         }
       ]
     },
@@ -341,9 +341,9 @@
           "mark": null,
           "pos": 0,
           "res": null,
-          "stake": 119.47,
+          "stake": 141.65,
           "ret": null,
-          "bank": 11947.16
+          "bank": 14164.54
         }
       ]
     },
@@ -366,9 +366,9 @@
           "mark": null,
           "pos": 0,
           "res": null,
-          "stake": 119.47,
+          "stake": 141.65,
           "ret": null,
-          "bank": 11947.16
+          "bank": 14164.54
         }
       ]
     }
@@ -376,6 +376,6 @@
   "bank": {
     "start": 10757.63,
     "stake": 107.58,
-    "end": 11947.16
+    "end": 14164.54
   }
 }
