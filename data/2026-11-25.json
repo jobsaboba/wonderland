@@ -1,0 +1,381 @@
+{
+  "date": "2026-11-25",
+  "updated": "2026-11-25T05:00:16+0000",
+  "races": [
+    {
+      "time": "14:01",
+      "meeting": "Dundalk",
+      "name": "Christmas Party Nights At Dundalk Stadium Handicap",
+      "class": "",
+      "distance": "5f",
+      "riders": 13,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Collective Power",
+          "jockey": "Patrick McGettigan",
+          "cd": 2,
+          "days": 21,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 107.58,
+          "ret": null,
+          "bank": 10757.63
+        },
+        {
+          "rank": 2,
+          "horse": "The Highway Rat",
+          "jockey": "J M Sheridan",
+          "cd": 4,
+          "days": 24,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 107.58,
+          "ret": null,
+          "bank": 10757.63
+        },
+        {
+          "rank": 3,
+          "horse": "Cuban Grey",
+          "jockey": "Rory Mulligan",
+          "cd": 2,
+          "days": 14,
+          "odds": "20/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 107.58,
+          "ret": null,
+          "bank": 10757.63
+        }
+      ]
+    },
+    {
+      "time": "14:25",
+      "meeting": "Newcastle",
+      "name": "Midnite A Next Generation Betting App Handicap (GBBPlus Race)",
+      "class": "4",
+      "distance": "1m 2f 42y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Per Contra",
+          "jockey": "Sean Kirrane",
+          "cd": 1,
+          "days": 19,
+          "odds": "10/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 107.58,
+          "ret": null,
+          "bank": 10757.63
+        },
+        {
+          "rank": 2,
+          "horse": "Izzari",
+          "jockey": "Cara Tuke",
+          "cd": 1,
+          "days": 21,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 107.58,
+          "ret": null,
+          "bank": 10757.63
+        }
+      ]
+    },
+    {
+      "time": "15:31",
+      "meeting": "Dundalk",
+      "name": "Book Online At DundalkStadium.com Handicap (0-60) (Div 1)",
+      "class": "",
+      "distance": "1m",
+      "riders": 16,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Rampage",
+          "jockey": "Sadhbh Tormey",
+          "cd": 2,
+          "days": 28,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 107.58,
+          "ret": null,
+          "bank": 10757.63
+        }
+      ]
+    },
+    {
+      "time": "16:06",
+      "meeting": "Dundalk",
+      "name": "Book Online At DundalkStadium.com Handicap (0-60) (Div 2)",
+      "class": "",
+      "distance": "1m",
+      "riders": 15,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Comfort Line",
+          "jockey": "Adam Caffrey",
+          "cd": 5,
+          "days": 21,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 107.58,
+          "ret": null,
+          "bank": 10757.63
+        }
+      ]
+    },
+    {
+      "time": "16:25",
+      "meeting": "Newcastle",
+      "name": "Make The Move To Midnite Handicap",
+      "class": "4",
+      "distance": "6f",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Dandy Magic",
+          "jockey": "Lauren Young",
+          "cd": 2,
+          "days": 21,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 107.58,
+          "ret": null,
+          "bank": 10757.63
+        }
+      ]
+    },
+    {
+      "time": "16:40",
+      "meeting": "Dundalk",
+      "name": "Irishinjuredjockeys.com Handicap",
+      "class": "",
+      "distance": "1m",
+      "riders": 15,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Exquisite Acclaim",
+          "jockey": "Adam Caffrey",
+          "cd": 3,
+          "days": 19,
+          "odds": "10/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 107.58,
+          "ret": null,
+          "bank": 10757.63
+        },
+        {
+          "rank": 2,
+          "horse": "Lady In Gold",
+          "jockey": "J M Sheridan",
+          "cd": 1,
+          "days": 26,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 107.58,
+          "ret": null,
+          "bank": 10757.63
+        }
+      ]
+    },
+    {
+      "time": "17:30",
+      "meeting": "Newcastle",
+      "name": "Midnite: Built For 2026 Not 2006 Handicap",
+      "class": "6",
+      "distance": "5f",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "King's Crown",
+          "jockey": "Rhys Elliott",
+          "cd": 3,
+          "days": 19,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 107.58,
+          "ret": null,
+          "bank": 10757.63
+        }
+      ]
+    },
+    {
+      "time": "18:00",
+      "meeting": "Newcastle",
+      "name": "All-Weather Championship Season 14 Has Begun Apprentice Handicap (Div 1)",
+      "class": "6",
+      "distance": "7f 14y",
+      "riders": 13,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Tomorrow Day",
+          "jockey": "Rhys Elliott",
+          "cd": 1,
+          "days": 2,
+          "odds": "4/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 107.58,
+          "ret": null,
+          "bank": 10757.63
+        }
+      ]
+    },
+    {
+      "time": "18:25",
+      "meeting": "Kempton",
+      "name": "Bet 20 Pound Get 20 Pound With Unibet Handicap",
+      "class": "6",
+      "distance": "1m",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Karakula Dancer",
+          "jockey": "Alice Bond",
+          "cd": 1,
+          "days": 4,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 107.58,
+          "ret": null,
+          "bank": 10757.63
+        }
+      ]
+    },
+    {
+      "time": "18:30",
+      "meeting": "Newcastle",
+      "name": "All-Weather Championship Season 14 Has Begun Apprentice Handicap (Div 2)",
+      "class": "6",
+      "distance": "7f 14y",
+      "riders": 13,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Yaahobby",
+          "jockey": "Ethan Tindall",
+          "cd": 2,
+          "days": 8,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 107.58,
+          "ret": null,
+          "bank": 10757.63
+        },
+        {
+          "rank": 2,
+          "horse": "Yaaser",
+          "jockey": "Lauren Young",
+          "cd": 1,
+          "days": 2,
+          "odds": "16/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 107.58,
+          "ret": null,
+          "bank": 10757.63
+        }
+      ]
+    },
+    {
+      "time": "19:30",
+      "meeting": "Kempton",
+      "name": "Unibet London Middle Distance Series (Final) Handicap (GBBPlus Race)",
+      "class": "2",
+      "distance": "1m 2f 219y",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Hamlet's Night",
+          "jockey": "L Morris",
+          "cd": 1,
+          "days": 25,
+          "odds": "12/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 107.58,
+          "ret": null,
+          "bank": 10757.63
+        }
+      ]
+    },
+    {
+      "time": "20:30",
+      "meeting": "Kempton",
+      "name": "Try Unibet's New Smartview Racecards Handicap",
+      "class": "5",
+      "distance": "7f",
+      "riders": 14,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Split Elevens",
+          "jockey": "Billy Loughnane",
+          "cd": 1,
+          "days": 9,
+          "odds": "10/3",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 107.58,
+          "ret": null,
+          "bank": 10757.63
+        }
+      ]
+    }
+  ],
+  "bank": {
+    "start": 10757.63,
+    "stake": 107.58,
+    "end": 10757.63
+  }
+}
