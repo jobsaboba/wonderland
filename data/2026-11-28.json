@@ -1,0 +1,125 @@
+{
+  "date": "2026-11-28",
+  "updated": "2026-11-28T05:00:06+0000",
+  "races": [
+    {
+      "time": "17:30",
+      "meeting": "Southwell",
+      "name": "Midnite A Next Generation Betting App Handicap (Div 1)",
+      "class": "5",
+      "distance": "7f 14y",
+      "riders": 12,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "King Of Ithaca",
+          "jockey": "H Crouch",
+          "cd": 4,
+          "days": 24,
+          "odds": "14/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 180.19,
+          "ret": null,
+          "bank": 18018.87
+        }
+      ]
+    },
+    {
+      "time": "18:00",
+      "meeting": "Southwell",
+      "name": "Midnite A Next Generation Betting App Handicap (Div 2)",
+      "class": "5",
+      "distance": "7f 14y",
+      "riders": 11,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Stenmark",
+          "jockey": "Rhys Clutterbuck",
+          "cd": 1,
+          "days": 6,
+          "odds": "13/2",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 180.19,
+          "ret": null,
+          "bank": 18018.87
+        }
+      ]
+    },
+    {
+      "time": "19:30",
+      "meeting": "Southwell",
+      "name": "Midnite Built Different Handicap",
+      "class": "2",
+      "distance": "4f 214y",
+      "riders": 6,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Ancient State",
+          "jockey": "Shay Farmer",
+          "cd": 1,
+          "days": 21,
+          "odds": "5/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 180.19,
+          "ret": null,
+          "bank": 18018.87
+        }
+      ]
+    },
+    {
+      "time": "20:00",
+      "meeting": "Southwell",
+      "name": "Midnite: Built For 2027 Not 2007 Handicap",
+      "class": "4",
+      "distance": "4f 214y",
+      "riders": 8,
+      "settled": true,
+      "sel": [
+        {
+          "rank": 1,
+          "horse": "Call Margot",
+          "jockey": "Rowan Scott",
+          "cd": 1,
+          "days": 21,
+          "odds": "8/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 180.19,
+          "ret": null,
+          "bank": 18018.87
+        },
+        {
+          "rank": 2,
+          "horse": "Alligator Alley",
+          "jockey": "Joanna Mason",
+          "cd": 3,
+          "days": 12,
+          "odds": "25/1",
+          "mark": null,
+          "pos": 0,
+          "res": null,
+          "stake": 180.19,
+          "ret": null,
+          "bank": 18018.87
+        }
+      ]
+    }
+  ],
+  "bank": {
+    "start": 18018.87,
+    "stake": 180.19,
+    "end": 18018.87
+  }
+}
